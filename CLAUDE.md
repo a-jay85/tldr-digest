@@ -88,9 +88,26 @@ Filter out anything scoring below 20. If more than 25 stories remain, raise the 
 
 ### 5. Build and Send Digest Email
 
-Create the digest as an HTML email and **draft** it to REDACTED_EMAIL via the Gmail connector's `create_draft` tool (the Gmail connector does not support sending directly — drafting is the only option).
+Create the digest as an HTML email. Write the full HTML to a file (`digest.html`), then **send it via the Apps Script endpoint** using curl:
 
-**Note:** The Gmail `create_draft` tool has `to`, `subject`, and `htmlBody` parameters. Pass the full HTML as `htmlBody`.
+```bash
+# Read config for the webapp URL
+WEBAPP_URL=$(python3 -c "import json; print(json.load(open('config.json'))['webapp_url'])")
+
+# Send the digest
+curl -s -L -X POST "$WEBAPP_URL" \
+  -H "Content-Type: application/json" \
+  -d "$(python3 -c "
+import json
+subject = open('digest_subject.txt').read().strip()
+html = open('digest.html').read()
+print(json.dumps({'action': 'sendDigest', 'subject': subject, 'htmlBody': html}))
+")"
+```
+
+Write the subject line to `digest_subject.txt` and the HTML body to `digest.html` before running the curl command. The Apps Script endpoint calls `GmailApp.sendEmail()` to deliver it directly to the inbox.
+
+**Do NOT use the Gmail connector's `create_draft`** — that only creates a draft, it doesn't send.
 
 **Subject:** `📋 TLDR Digest — [Today's Date formatted as "Wednesday, April 30, 2026"]`
 
@@ -225,7 +242,7 @@ The Apps Script writes feedback to a Google Sheet called "TLDR Digest Feedback".
 ## Important Notes
 
 - This routine runs autonomously — no approval prompts. Be conservative with actions.
-- **Always create the draft** via `create_draft`. The Gmail connector only supports drafting, not sending.
+- **Always send** via the Apps Script endpoint (curl POST), not Gmail connector's `create_draft`.
 - If Gmail connector issues occur, log the error clearly so the user can debug from the routine output.
 - HTML must be email-client safe — no JavaScript, no external CSS, inline-safe styles only.
 - Keep the digest concise and scannable. Nobody wants a wall of text at 9am.
