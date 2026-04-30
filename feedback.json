@@ -429,7 +429,150 @@
       "url": "https://asteriskmag.com/issues/14/are-prediction-markets-good-for-anything",
       "title": "Are Prediction Markets Good for Anything?",
       "date": "2026-04-30"
+    },
+    {
+      "url": "https://taoofmac.com/space/blog/2026/04/29/2341",
+      "title": "Lessons on Building Mcp Servers",
+      "date": "2026-04-30"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/8r8rai",
+      "title": "Ai Agents That Builds Themselves",
+      "date": "2026-04-30"
+    },
+    {
+      "url": "https://cursor.com/blog/typescript-sdk",
+      "title": "Build Programmatic Agents With the Cursor Sdk",
+      "date": "2026-04-30"
+    },
+    {
+      "url": "https://maxtaylor.me/articles/i-benchmarked-caveman-against-two-words",
+      "title": "I Benchmarked Caveman Against Two Words",
+      "date": "2026-04-30"
+    },
+    {
+      "url": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5",
+      "title": "Mistral Medium 3.5 Powers Remote Vibe Agents",
+      "date": "2026-04-30"
+    },
+    {
+      "url": "https://arstechnica.com/ai/2026/04/openai-codex-system-prompt-includes-explicit-directive-to-never-talk-about-goblins",
+      "title": "Talk About Goblins\u201d",
+      "date": "2026-04-30"
+    },
+    {
+      "url": "https://epicproduct.engineer/the-last-software-engineer",
+      "title": "The Last Software Engineer",
+      "date": "2026-04-30"
+    },
+    {
+      "url": "https://tomtunguz.com/inference-market-segmentation",
+      "title": "Darwinian Specialization in Ai",
+      "date": "2026-04-30"
+    },
+    {
+      "url": "https://simme.dev/posts/the-end-of-just-ask-sarah",
+      "title": "The End of \"just Ask Sarah\"",
+      "date": "2026-04-30"
+    },
+    {
+      "url": "https://github.com/fission-ai/openspec",
+      "title": "Openspec",
+      "date": "2026-04-30"
+    },
+    {
+      "url": "https://zed.dev/blog/zed-1-0",
+      "title": "Zed 1.0",
+      "date": "2026-04-30"
+    },
+    {
+      "url": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
+      "title": "Ai Evals Are Becoming the New Compute Bottleneck",
+      "date": "2026-04-30"
+    },
+    {
+      "url": "https://github.com/stripe/link-cli",
+      "title": "Link Cli",
+      "date": "2026-04-30"
+    },
+    {
+      "url": "https://saschb2b.com/blog/react-compiler-year-in-review",
+      "title": "What's Next",
+      "date": "2026-04-30"
+    },
+    {
+      "url": "https://dbushell.com/2026/04/29/github-is-sinking",
+      "title": "Github is Sinking",
+      "date": "2026-04-30"
+    },
+    {
+      "url": "https://simonwillison.net/2026/apr/30/zig-anti-ai",
+      "title": "Source Project",
+      "date": "2026-04-30"
+    },
+    {
+      "url": "https://github.com/google-deepmind/proeval",
+      "title": "Deepmind Proeval for Genai Evaluation",
+      "date": "2026-04-30"
+    },
+    {
+      "url": "https://copy.fail",
+      "title": "Copy Fail",
+      "date": "2026-04-30"
+    },
+    {
+      "url": "https://blog.postman.com/how-to-be-successful-interviewing-for-big-tech",
+      "title": "How to Be Successful Interviewing for Big Tech",
+      "date": "2026-04-30"
+    },
+    {
+      "url": "https://testing.googleblog.com/2026/04/one-map-key-one-lookup.html",
+      "title": "One Map Key, One Lookup",
+      "date": "2026-04-30"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.24198",
+      "title": "Reliable Data Analysis Agents",
+      "date": "2026-04-30"
+    },
+    {
+      "url": "https://tomtunguz.com/2026-04-29-the-112-billion-quarter-hyperscalers-bet-the-farm-on-ai",
+      "title": "The $112 Billion Quarter",
+      "date": "2026-04-30"
+    },
+    {
+      "url": "https://pytorch.org/blog/introducing-autosp",
+      "title": "Introducing Autosp",
+      "date": "2026-04-30"
+    },
+    {
+      "url": "https://agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies",
+      "title": "Proxies",
+      "date": "2026-04-30"
+    },
+    {
+      "url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
+      "title": "Granite 4.1 Llms: How They're Built",
+      "date": "2026-04-30"
+    },
+    {
+      "url": "https://tomshardware.com/tech-industry/artificial-intelligence/openai-has-effectively-abandoned-first-party-stargate-data-centers-in-favor-of-more-flexible-deals-company-now-prefers-to-lease-compute-and-says-stargate-is-an-umbrella-term",
+      "title": "Favor of More Flexible Deals",
+      "date": "2026-04-30"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/article/google-to-sell-tpu-chips-to-select-customers-in-latest-shot-at-nvidia-214900221.html",
+      "title": "Nvidia",
+      "date": "2026-04-30"
     }
   ],
-  "feedback": []
+  "feedback": [
+    {
+      "url": "https://augmentcode.com/blog/how-to-write-good-agents-dot-md-files",
+      "title": "A Good Agents.md is a Model Upgrade",
+      "vote": "up",
+      "source": "TLDR AI",
+      "date": "2026-04-30"
+    }
+  ]
 }
