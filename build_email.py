@@ -13,6 +13,9 @@ from datetime import datetime
 from urllib.parse import quote
 
 
+SCORE_COLORS = {"score-high": "#16a34a", "score-med": "#d97706", "score-low": "#a1a1aa"}
+
+
 def score_class(score: int) -> str:
     if score >= 70:
         return "score-high"
@@ -45,7 +48,7 @@ def build_story_html(story: dict, webapp_url: str) -> str:
     return f"""  <div style="padding:16px 24px;border-bottom:1px solid #f0f0f0;">
     <div>
       <a href="{story['url_original']}" style="color:#18181b;font-size:15px;font-weight:600;text-decoration:none;line-height:1.35;">{story['title']}</a>
-      <span style="display:inline-block;font-size:10px;font-weight:700;padding:1px 6px;border-radius:10px;margin-left:6px;color:#fff;background:{{'score-high':'#16a34a','score-med':'#d97706','score-low':'#a1a1aa'}[pill]};">{story['score']}</span>
+      <span style="display:inline-block;font-size:10px;font-weight:700;padding:1px 6px;border-radius:10px;margin-left:6px;color:#fff;background:{SCORE_COLORS[pill]};">{story['score']}</span>
     </div>
     <div style="font-size:13px;color:#52525b;line-height:1.5;margin:6px 0 8px;">{story['description']}</div>
     <div style="font-size:11px;color:#a1a1aa;">

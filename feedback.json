@@ -1,4 +1,32 @@
 {
-  "seen": [],
+  "seen": [
+    {"url": "https://openrouter.ai/announcements/opus-47-tokenizer-analysis", "title": "Opus 4.7's New Tokenizer: What It Actually Costs", "date": "2026-04-29"},
+    {"url": "https://anthropic.com/news/claude-for-creative-work", "title": "Claude Connectors for Creative Tools", "date": "2026-04-29"},
+    {"url": "https://martinfowler.com/articles/structured-prompt-driven", "title": "Structured-Prompt-Driven Development (SPDD)", "date": "2026-04-29"},
+    {"url": "https://dri.es/ai-rewards-strict-apis", "title": "AI Rewards Strict APIs", "date": "2026-04-29"},
+    {"url": "https://softwaredoug.com/blog/2026/04/28/search-apis-replaced-by-agents.html", "title": "Can Agents Replace the Search Stack?", "date": "2026-04-29"},
+    {"url": "https://addyosmani.com/blog/long-running-agents", "title": "Long-Running Agents", "date": "2026-04-29"},
+    {"url": "https://legallayer.substack.com/p/who-owns-the-claude-code-wrote", "title": "Who Owns the Code Claude Wrote?", "date": "2026-04-29"},
+    {"url": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents", "title": "Altman & Garman on Bedrock Managed Agents", "date": "2026-04-29"},
+    {"url": "https://poolside.ai/blog/laguna-a-deeper-dive", "title": "Laguna XS.2 and M.1", "date": "2026-04-29"},
+    {"url": "https://mendral.com/blog/frontier-model-lower-costs", "title": "Frontier Model Lower Costs", "date": "2026-04-29"},
+    {"url": "https://joshwcomeau.com/animation/scroll-driven-animations", "title": "Scroll-Driven Animations", "date": "2026-04-29"},
+    {"url": "https://nesbitt.io/2026/04/28/github-actions-is-the-weakest-link.html", "title": "GitHub Actions Is the Weakest Link", "date": "2026-04-29"},
+    {"url": "https://warp.dev/blog/warp-is-now-open-source", "title": "Warp Is Now Open-Source", "date": "2026-04-29"},
+    {"url": "https://buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop", "title": "How ChatGPT Serves Ads", "date": "2026-04-29"},
+    {"url": "https://engineering.leanix.net/blog/code-mode", "title": "AI Agent Drowning in Tools", "date": "2026-04-29"},
+    {"url": "https://mitchellh.com/writing/ghostty-leaving-github", "title": "Ghostty Is Leaving GitHub", "date": "2026-04-29"},
+    {"url": "https://alphaxiv.org/abs/2604.21215", "title": "The Recurrent Transformer", "date": "2026-04-29"},
+    {"url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence", "title": "NVIDIA Nemotron 3 Nano Omni", "date": "2026-04-29"},
+    {"url": "https://github.com/microsoft/vibevoice", "title": "VibeVoice", "date": "2026-04-29"},
+    {"url": "https://lucumr.pocoo.org/2026/4/28/before-github", "title": "Before GitHub", "date": "2026-04-29"},
+    {"url": "https://links.tldrnewsletter.com/wy7qcz", "title": "Software Is Eating the World", "date": "2026-04-29"},
+    {"url": "https://cnbc.com/2026/04/28/meta-muse-spark-has-promise-wall-street-wants-zuckerberg-ai-strategy.html", "title": "Meta Muse Spark", "date": "2026-04-29"},
+    {"url": "https://github.com/facebookresearch/sapiens2", "title": "Meta Sapiens2", "date": "2026-04-29"},
+    {"url": "https://jack.cab/blog/every-firefox-extension", "title": "Every Firefox Extension", "date": "2026-04-29"},
+    {"url": "https://cnbc.com/2026/04/28/openai-brings-models-to-aws-after-ending-exclusivity-with-microsoft.html", "title": "OpenAI on AWS", "date": "2026-04-29"},
+    {"url": "https://davefriedman.substack.com/p/openais-q4-2026-ipo-might-not-happen", "title": "OpenAI IPO Unlikely", "date": "2026-04-29"},
+    {"url": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal", "title": "Google DoD AI Access", "date": "2026-04-29"}
+  ],
   "feedback": []
 }
