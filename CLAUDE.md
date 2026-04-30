@@ -1,8 +1,6 @@
 # TLDR Daily Digest
 
-You are a personal newsletter curator. Fetch today's TLDR newsletters from Gmail, score stories for relevance, and draft a digest email.
-
-**Critical rule:** Never try to parse email content in your head. Save raw emails to files immediately, then use the Python scripts. This keeps your context small and prevents timeouts.
+Personal newsletter curator. Fetches TLDR newsletters from Gmail, scores stories for relevance, and drafts a digest email.
 
 ## Owner
 
@@ -10,38 +8,25 @@ You are a personal newsletter curator. Fetch today's TLDR newsletters from Gmail
 - **Timezone:** America/Los_Angeles (Pacific)
 - **Sender:** dan@tldrnewsletter.com
 
-## Step 1: Fetch Emails → Save to Files
+## Architecture
 
-```bash
-mkdir -p emails
-```
+`bin/digest-run` orchestrates the entire pipeline. Only story scoring uses an LLM (`claude -p`); all other steps are deterministic Python scripts. This keeps the LLM context small and prevents timeouts.
 
-Search Gmail for today's newsletters:
-```
-from:dan@tldrnewsletter.com newer_than:1d
-```
+**Pipeline:**
+1. `python3 gmail_ops.py fetch` — fetch unread TLDR emails → `emails/`, `thread_ids.json`
+2. `python3 parse_tldr.py emails/ stories.json` — parse stories, dedup
+3. `python3 sync_feedback.py config.json feedback.json` — pull 👍/👎 votes from Google Sheet
+4. `python3 filter_seen.py stories.json feedback.json stories_fresh.json` — remove stories seen in last 7 days
+5. `claude -p` with `bin/digest-prompt` — score `stories_fresh.json` → `scored_stories.json` (LLM step)
+6. `python3 build_email.py scored_stories.json config.json` — generate `digest.html` + `digest_subject.txt`
+7. `python3 gmail_ops.py draft` — create Gmail draft
+8. `python3 gmail_ops.py archive` — archive fetched threads
+9. `python3 update_seen.py scored_stories.json feedback.json` — add digest URLs to seen, prune >14 days
+10. `git commit && git push` — persist `feedback.json`
 
-For each thread returned by `search_threads`, call `get_thread` with `messageFormat: "FULL_CONTENT"`.
+If no fresh stories remain after filtering, steps 5-7 and 9-10 are skipped; threads are still archived.
 
-**Immediately** write each email's plaintext body to a numbered file (`emails/tldr_1.txt`, `emails/tldr_2.txt`, etc.). Do NOT read, summarize, or process the content — just save it and move on.
-
-If fewer than 3 emails are found, log a warning but continue.
-
-## Step 2: Parse (Python — no LLM work)
-
-```bash
-python3 parse_tldr.py emails/ stories.json
-```
-
-This extracts titles, descriptions, URLs, and deduplicates. Read `stories.json` to see the results — it's a small, structured array.
-
-## Step 3: Score Stories
-
-Read `stories.json` and `feedback.json`. For each story, assign a score (0–100) based on the profile below. Write the results to `scored_stories.json` — same array but with `score` (int) and `rationale` (one short sentence) added to each object. Remove stories scoring below 20. If more than 25 remain, remove those below 30.
-
-Also remove any story whose `url_clean` appears in `feedback.json`'s `seen` array from the last 7 days.
-
-### Scoring Profile
+### Scoring Profile (embedded in `bin/digest-prompt`)
 
 **HIGH (70–100):** AI usage tips/workflows/power-user techniques, how AI leaders think about AI (interviews, thought leadership, strategic perspectives), AI and the job market
 
@@ -52,36 +37,6 @@ Also remove any story whose `url_clean` appears in `feedback.json`'s `seen` arra
 **EXCLUDE (<20):** Mobile apps unrelated to dev/AI, crypto/blockchain/Web3, biotech/pharma, sponsored content, pure earnings reports
 
 **Modifiers:** Actionable/practical content: +10 · Matches previous 👍: +10 · Matches previous 👎: −10 · Long reads on LOW topics: −10
-
-## Step 4: Build Email (Python — no LLM work)
-
-```bash
-python3 build_email.py scored_stories.json config.json
-```
-
-This generates `digest.html` and `digest_subject.txt`.
-
-## Step 5: Create Draft
-
-Read `digest_subject.txt` and `digest.html`. Use the Gmail connector's `create_draft` tool:
-- `to`: `["REDACTED_EMAIL"]`
-- `subject`: contents of `digest_subject.txt`
-- `htmlBody`: contents of `digest.html`
-
-## Step 6: Update State
-
-Update `feedback.json`:
-- Add all story URLs from today's digest to the `seen` array with today's date
-- Prune `seen` entries older than 14 days
-- Commit and push the updated `feedback.json`
-
-## Step 7: Log Summary
-
-Output to the console:
-- Which newsletters were found
-- Total stories parsed → after dedup → after scoring
-- How many scored 60+ ("For You") vs 20–59 ("Also Today")
-- Any warnings
 
 ## Feedback
 

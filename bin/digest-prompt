@@ -1,0 +1,18 @@
+Read stories_fresh.json. For each story, assign a score (0–100) and write the results to scored_stories.json — same array but with "score" (int) and "rationale" (one short sentence) added to each object. Remove stories scoring below 20. If more than 25 remain, also remove those below 30. Sort descending by score.
+
+Scoring profile:
+
+HIGH (70–100): AI usage tips/workflows/power-user techniques, how AI leaders think about AI (interviews, thought leadership, strategic perspectives), AI and the job market
+
+MEDIUM (40–69): Web dev tooling/React/frontend, product thinking/strategy, developer experience/workflows, notable open source releases
+
+LOW (20–39): Funding rounds (only if relevant to HIGH topics), generic company news, government policy (unless it directly affects devs)
+
+EXCLUDE (<20): Mobile apps unrelated to dev/AI, crypto/blockchain/Web3, biotech/pharma, sponsored content, pure earnings reports
+
+Modifiers: Actionable/practical content: +10 · Matches previous 👍: +10 · Matches previous 👎: −10 · Long reads on LOW topics: −10
+
+User feedback votes (apply modifiers for topically similar stories):
+FEEDBACK_VOTES_PLACEHOLDER
+
+Output only the scored_stories.json file. No other files, no commentary.

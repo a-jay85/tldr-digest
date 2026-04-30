@@ -1,0 +1,113 @@
+#!/bin/bash
+# TLDR daily digest runner.
+# Called by launchd at 09:00 weekdays. Only the scoring step uses an LLM;
+# everything else is deterministic Python.
+#
+# To test manually: bin/digest-run
+# To force-trigger via launchd: launchctl start com.tldr-digest.daily
+
+set -euo pipefail
+
+export PATH="/usr/local/bin:/opt/homebrew/bin:$HOME/.bun/bin:$HOME/.local/bin:/Applications/cmux.app/Contents/Resources/bin:$PATH"
+
+REPO="REDACTED_PATH"
+LOG_DIR="$HOME/.claude/projects/-Users-ajaynicolas-GitHub-tldr-digest/digest/logs"
+mkdir -p "$LOG_DIR"
+LOG="$LOG_DIR/$(date +%Y-%m-%d).log"
+
+cd "$REPO"
+
+exec >> "$LOG" 2>&1
+
+echo "=== Digest run starting at $(date) ==="
+
+# --- Phase 1: Fetch, parse, sync (no LLM) ---
+
+echo "[1/3] Fetching emails..."
+python3 gmail_ops.py fetch
+
+echo "[1/3] Parsing stories..."
+python3 parse_tldr.py emails/ stories.json
+
+echo "[1/3] Syncing feedback..."
+python3 sync_feedback.py config.json feedback.json || echo "Warning: feedback sync failed, continuing with existing data"
+
+echo "[1/3] Filtering seen stories..."
+python3 filter_seen.py stories.json feedback.json stories_fresh.json
+
+FRESH_COUNT=$(python3 -c "import json; print(len(json.load(open('stories_fresh.json'))))")
+echo "  Fresh stories: $FRESH_COUNT"
+
+if [ "$FRESH_COUNT" -eq 0 ]; then
+    echo "No fresh stories today — skipping scoring and draft."
+    echo "Archiving threads to keep inbox clean..."
+    python3 gmail_ops.py archive
+    echo "=== Digest run complete (no stories) at $(date) ==="
+    exit 0
+fi
+
+# --- Phase 2: Score (LLM) ---
+
+echo "[2/3] Scoring stories with LLM..."
+
+PROMPT=$(python3 -c "
+import json
+from pathlib import Path
+fb = json.load(open('feedback.json')).get('feedback', [])
+if fb:
+    votes = '\n'.join(f\"  {v['vote'].upper()}: {v['title']} ({v['source']})\" for v in fb)
+else:
+    votes = '  (none)'
+template = Path('bin/digest-prompt').read_text()
+print(template.replace('FEEDBACK_VOTES_PLACEHOLDER', votes))
+")
+
+claude -p "$PROMPT" \
+    --allowedTools "Read,Write" \
+    --dangerously-skip-permissions \
+    --model sonnet \
+    --max-turns 10
+
+# Validate scoring output
+python3 -c "
+import json, sys
+try:
+    stories = json.load(open('scored_stories.json'))
+    assert isinstance(stories, list), 'not a list'
+    required = ['title', 'description', 'url_original', 'url_clean', 'read_time', 'source', 'score', 'rationale']
+    for s in stories:
+        missing = [f for f in required if f not in s]
+        assert not missing, f'missing {missing} in: {s.get(\"title\")}'
+        assert isinstance(s['score'], int), f'bad score type in: {s[\"title\"]}'
+    print(f'Scoring validated: {len(stories)} stories')
+except Exception as e:
+    print(f'ERROR: scoring validation failed: {e}', file=sys.stderr)
+    sys.exit(1)
+"
+
+# --- Phase 3: Build, draft, archive, update (no LLM) ---
+
+echo "[3/3] Building email..."
+python3 build_email.py scored_stories.json config.json
+
+echo "[3/3] Creating Gmail draft..."
+python3 gmail_ops.py draft
+
+echo "[3/3] Archiving newsletter threads..."
+python3 gmail_ops.py archive
+
+echo "[3/3] Updating seen URLs..."
+python3 update_seen.py scored_stories.json feedback.json
+
+echo "[3/3] Committing and pushing..."
+git add feedback.json
+git commit -m "Update feedback.json with $(date +%Y-%m-%d) digest seen URLs" || true
+git push || echo "Warning: git push failed"
+
+# --- Summary ---
+
+FOR_YOU=$(python3 -c "import json; s=json.load(open('scored_stories.json')); print(len([x for x in s if x['score']>=60]))")
+ALSO=$(python3 -c "import json; s=json.load(open('scored_stories.json')); print(len([x for x in s if x['score']<60]))")
+echo ""
+echo "Summary: $FRESH_COUNT fresh stories → $((FOR_YOU + ALSO)) in digest ($FOR_YOU For You, $ALSO Also Today)"
+echo "=== Digest run complete at $(date) ==="

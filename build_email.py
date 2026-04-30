@@ -38,11 +38,19 @@ def build_story_html(story: dict, webapp_url: str) -> str:
             f'&score={story["score"]}'
         )
         params_down = params_up.replace("vote=up", "vote=down")
+        btn = (
+            "display:inline-block;padding:4px 10px;border-radius:14px;"
+            "font-size:13px;text-decoration:none;margin-right:6px;"
+        )
         feedback = (
-            f'      <a href="{webapp_url}{params_up}" '
-            f'style="text-decoration:none;font-size:16px;margin:0 2px;">👍</a>\n'
-            f'      <a href="{webapp_url}{params_down}" '
-            f'style="text-decoration:none;font-size:16px;margin:0 2px;">👎</a>'
+            f'    <div style="margin-top:8px;">'
+            f'<a href="{webapp_url}{params_up}" '
+            f'style="{btn}background:#f0fdf4;color:#16a34a;">'
+            f'\U0001f44d More like this</a>'
+            f'<a href="{webapp_url}{params_down}" '
+            f'style="{btn}background:#fef2f2;color:#dc2626;">'
+            f'\U0001f44e Less like this</a>'
+            f'</div>'
         )
 
     return f"""  <div style="padding:16px 24px;border-bottom:1px solid #f0f0f0;">
@@ -54,9 +62,24 @@ def build_story_html(story: dict, webapp_url: str) -> str:
     <div style="font-size:11px;color:#a1a1aa;">
       <span style="background:#f4f4f5;padding:2px 6px;border-radius:3px;margin-right:6px;">{story['source']}</span>
       {read_time} · {story.get('rationale', '')}
-{feedback}
     </div>
+{feedback}
   </div>"""
+
+
+MAX_FOR_YOU = 12
+MAX_ALSO_TODAY = 12
+
+
+def build_compact_html(story: dict) -> str:
+    read_time = f'{story["read_time"]} min' if story["read_time"] > 0 else "repo"
+    return (
+        f'  <div style="padding:6px 24px;border-bottom:1px solid #f0f0f0;">'
+        f'<a href="{story["url_original"]}" style="color:#18181b;font-size:14px;'
+        f'text-decoration:none;">{story["title"]}</a>'
+        f' <span style="font-size:11px;color:#a1a1aa;">— {story["source"]} · {read_time}</span>'
+        f'</div>'
+    )
 
 
 def build_email(stories: list[dict], webapp_url: str) -> tuple[str, str]:
@@ -67,12 +90,15 @@ def build_email(stories: list[dict], webapp_url: str) -> tuple[str, str]:
     also_today = [s for s in stories if 20 <= s["score"] < 60]
     for_you.sort(key=lambda s: s["score"], reverse=True)
     also_today.sort(key=lambda s: s["score"], reverse=True)
+    for_you = for_you[:MAX_FOR_YOU]
+    also_today = also_today[:MAX_ALSO_TODAY]
 
-    sources = sorted(set(s["source"] for s in stories))
-    count = len(stories)
+    all_included = for_you + also_today
+    sources = sorted(set(s["source"] for s in all_included))
+    count = len(all_included)
 
     for_you_html = "\n".join(build_story_html(s, webapp_url) for s in for_you)
-    also_html = "\n".join(build_story_html(s, webapp_url) for s in also_today)
+    also_html = "\n".join(build_compact_html(s) for s in also_today)
 
     footer_feedback = ""
     if webapp_url:
@@ -131,7 +157,9 @@ def main():
     with open("digest.html", "w") as f:
         f.write(html)
 
-    print(f"Built digest: {len(stories)} stories", file=sys.stderr)
+    for_you_n = len([s for s in stories if s["score"] >= 60][:MAX_FOR_YOU])
+    also_n = len([s for s in stories if 20 <= s["score"] < 60][:MAX_ALSO_TODAY])
+    print(f"Built digest: {for_you_n + also_n} stories ({for_you_n} For You, {also_n} Also Today)", file=sys.stderr)
     print(f"  Subject: {subject}", file=sys.stderr)
     print(f"  Written to: digest.html, digest_subject.txt", file=sys.stderr)
 
