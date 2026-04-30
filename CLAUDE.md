@@ -19,37 +19,36 @@ Use the Gmail connector to search for today's TLDR emails:
 from:dan@tldrnewsletter.com newer_than:1d
 ```
 
-Fetch the full content of each matching thread. Identify which newsletters arrived by looking for the header line in the plaintext body (e.g., `TLDR AI 2026-04-29`).
+**Process one email at a time** to avoid overloading context:
+
+1. Call `search_threads` with the query above
+2. For each thread, call `get_thread` with `messageFormat: "FULL_CONTENT"`
+3. Immediately write each email's plaintext body to a separate file: `emails/tldr_1.txt`, `emails/tldr_2.txt`, etc.
+4. Do NOT try to parse stories in your head — use the parser script (step 2)
+
+```bash
+mkdir -p emails
+```
+
+After writing each file, move on to the next thread. Identify which newsletters arrived by looking for the header line in the plaintext body (e.g., `TLDR AI 2026-04-29`).
 
 **If fewer than 3 of the 4 expected newsletters are present**, log a warning in the routine output but proceed with what's available. Not all newsletters send every day (e.g., TLDR Product Management is weekdays only, some skip holidays).
 
 ### 2. Parse Stories
 
-From each email's **plaintext body**, extract individual stories. The format is consistent across all TLDR newsletters:
+**Use the parser script** — do NOT parse stories manually in your head:
 
-**Structure:**
-- A `Links:` section at the bottom maps `[N]` references to URLs
-- Stories appear as text blocks: an ALL-CAPS title ending with `(N MINUTE READ) [N]` or `(GITHUB REPO) [N]`, followed by a description paragraph
-- Section headers (`HEADLINES & LAUNCHES`, `DEEP DIVES & ANALYSIS`, `QUICK LINKS`, etc.) appear between emoji markers (🚀, 🧠, 💻, 🎁, ⚡) — these are NOT stories, skip them
-- Blocks containing `(SPONSOR)` are paid placements — **always skip**
+```bash
+python3 parse_tldr.py emails/ stories.json
+```
 
-**For each story, extract:**
-- **Title** — convert from ALL CAPS to Title Case
-- **Description** — the paragraph immediately following the title block
-- **URL** — look up the `[N]` reference in the Links section; keep the original URL with UTM params for the email link (so TLDR gets attribution), but use a cleaned version (no UTM, no trailing slash, no `www.`, lowercased) for dedup
-- **Read time** — from `N MINUTE READ`, or 0 for `GITHUB REPO`
-- **Source** — which newsletter it came from
+This extracts all stories, converts titles to Title Case, resolves `[N]` URL references, strips sponsors, and deduplicates across newsletters. The output is a JSON array in `stories.json`.
 
-**Always skip:**
-- Anything with `(SPONSOR)` in the title or description
-- TLDR job postings, referral CTAs, footer content ("Love TLDR?", "Want to advertise")
-- "BIG TECH & STARTUPS" company earnings/revenue reports unless AI-related
+Read `stories.json` to see the parsed stories. If the parser misses something or the format has changed, you may supplement with manual extraction, but try the script first.
 
-### 3. Deduplicate
+### 3. Deduplicate Against History
 
-Remove duplicates by comparing cleaned URLs (strip UTM params, trailing slashes, `www.`, lowercase). The same story frequently appears in multiple TLDR newsletters.
-
-Also check `feedback.json` in this repo for URLs from the last 7 days' digests to avoid re-surfacing old stories.
+The parser already deduplicates across today's newsletters by cleaned URL. Additionally, check `feedback.json` in this repo for URLs from the last 7 days' digests to avoid re-surfacing old stories. Remove any matches from the stories list.
 
 ### 4. Score Each Story (0–100)
 
@@ -89,7 +88,9 @@ Filter out anything scoring below 20. If more than 25 stories remain, raise the 
 
 ### 5. Build and Send Digest Email
 
-Create the digest as an HTML email and send it to REDACTED_EMAIL via the Gmail connector.
+Create the digest as an HTML email and **draft** it to REDACTED_EMAIL via the Gmail connector's `create_draft` tool (the Gmail connector does not support sending directly — drafting is the only option).
+
+**Note:** The Gmail `create_draft` tool has `to`, `subject`, and `htmlBody` parameters. Pass the full HTML as `htmlBody`.
 
 **Subject:** `📋 TLDR Digest — [Today's Date formatted as "Wednesday, April 30, 2026"]`
 
@@ -224,7 +225,7 @@ The Apps Script writes feedback to a Google Sheet called "TLDR Digest Feedback".
 ## Important Notes
 
 - This routine runs autonomously — no approval prompts. Be conservative with actions.
-- **Always send** the digest (not draft). The user wants it in their inbox automatically.
+- **Always create the draft** via `create_draft`. The Gmail connector only supports drafting, not sending.
 - If Gmail connector issues occur, log the error clearly so the user can debug from the routine output.
 - HTML must be email-client safe — no JavaScript, no external CSS, inline-safe styles only.
 - Keep the digest concise and scannable. Nobody wants a wall of text at 9am.
