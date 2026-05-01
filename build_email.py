@@ -71,13 +71,33 @@ MAX_FOR_YOU = 12
 MAX_ALSO_TODAY = 12
 
 
-def build_compact_html(story: dict) -> str:
+def build_compact_html(story: dict, webapp_url: str) -> str:
     read_time = f'{story["read_time"]} min' if story["read_time"] > 0 else "repo"
+
+    feedback = ""
+    if webapp_url:
+        params_up = (
+            f'?action=feedback&vote=up'
+            f'&title={quote(story["title"], safe="")}'
+            f'&url={quote(story["url_clean"], safe="")}'
+            f'&source={quote(story["source"], safe="")}'
+            f'&score={story["score"]}'
+        )
+        params_down = params_up.replace("vote=up", "vote=down")
+        feedback = (
+            f'<a href="{webapp_url}{params_up}" style="text-decoration:none;margin-right:2px;">'
+            f'\U0001f44d</a>'
+            f'<a href="{webapp_url}{params_down}" style="text-decoration:none;margin-right:6px;">'
+            f'\U0001f44e</a>'
+        )
+
     return (
-        f'  <div style="padding:6px 24px;border-bottom:1px solid #f0f0f0;">'
+        f'  <div style="padding:8px 24px;border-bottom:1px solid #f0f0f0;">'
+        f'<div>{feedback}'
         f'<a href="{story["url_original"]}" style="color:#18181b;font-size:14px;'
-        f'text-decoration:none;">{story["title"]}</a>'
-        f' <span style="font-size:11px;color:#a1a1aa;">— {story["source"]} · {read_time}</span>'
+        f'text-decoration:none;font-weight:600;">{story["title"]}</a>'
+        f' <span style="font-size:11px;color:#a1a1aa;">— {story["source"]} · {read_time}</span></div>'
+        f'<div style="font-size:12px;color:#71717a;margin:4px 0 0 0;line-height:1.4;">{story["description"]}</div>'
         f'</div>'
     )
 
@@ -98,7 +118,7 @@ def build_email(stories: list[dict], webapp_url: str) -> tuple[str, str]:
     count = len(all_included)
 
     for_you_html = "\n".join(build_story_html(s, webapp_url) for s in for_you)
-    also_html = "\n".join(build_compact_html(s) for s in also_today)
+    also_html = "\n".join(build_compact_html(s, webapp_url) for s in also_today)
 
     footer_feedback = ""
     if webapp_url:
