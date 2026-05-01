@@ -1,0 +1,10 @@
+credentials.json
+token.json
+thread_ids.json
+emails/
+digest.html
+digest_subject.txt
+stories.json
+scored_stories.json
+stories_fresh.json
+.claude/
