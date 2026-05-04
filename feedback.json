@@ -694,6 +694,126 @@
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/announcing-neuron-agentic-development",
       "title": "Kernel Development on Trainium",
       "date": "2026-05-01"
+    },
+    {
+      "url": "https://addyosmani.com/blog/agent-skills",
+      "title": "Agent Skills",
+      "date": "2026-05-04"
+    },
+    {
+      "url": "https://yiblet.com/posts/prompt-engineering-is-permanent",
+      "title": "Prompt Engineering is Permanent",
+      "date": "2026-05-04"
+    },
+    {
+      "url": "https://mendral.com/blog/agent-harness-belongs-outside-sandbox",
+      "title": "The Agent Harness Belongs Outside the Sandbox",
+      "date": "2026-05-04"
+    },
+    {
+      "url": "https://sites.diy/blog/2026-05-01-coding-plan-comparisons",
+      "title": "Coding Plan Comparisons Based on Actual Usage",
+      "date": "2026-05-04"
+    },
+    {
+      "url": "https://strangeloopcanon.com/p/why-smart-planners-lose-to-simple",
+      "title": "Sometimes Smart Planners Lose to Simple Markets",
+      "date": "2026-05-04"
+    },
+    {
+      "url": "https://larsfaye.com/articles/agentic-coding-is-a-trap",
+      "title": "Agentic Coding is a Trap",
+      "date": "2026-05-04"
+    },
+    {
+      "url": "https://github.com/lahfir/agent-desktop",
+      "title": "Agent Desktop",
+      "date": "2026-05-04"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/gahxlw",
+      "title": "How Llm Inference Works",
+      "date": "2026-05-04"
+    },
+    {
+      "url": "https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell",
+      "title": "Rather Not Sell",
+      "date": "2026-05-04"
+    },
+    {
+      "url": "https://jdgr.net/the-hidden-costs-of-great-abstractions",
+      "title": "The 'hidden' Costs of Great Abstractions",
+      "date": "2026-05-04"
+    },
+    {
+      "url": "https://lelanthran.com/chap15/content.html",
+      "title": "Llms Are Not a Higher Level of Abstraction",
+      "date": "2026-05-04"
+    },
+    {
+      "url": "https://acai.sh",
+      "title": "Acai",
+      "date": "2026-05-04"
+    },
+    {
+      "url": "https://github.com/nexu-io/open-design",
+      "title": "Open Design",
+      "date": "2026-05-04"
+    },
+    {
+      "url": "https://github.com/lum1104/understand-anything",
+      "title": "Understand Anything",
+      "date": "2026-05-04"
+    },
+    {
+      "url": "https://daverupert.com/2026/05/small-language-models-in-the-browser",
+      "title": "The Duality of Language Models in the Browser",
+      "date": "2026-05-04"
+    },
+    {
+      "url": "https://aifoc.us/how-might-a-browser-be-developed",
+      "title": "How Might a Browser Be Developed?",
+      "date": "2026-05-04"
+    },
+    {
+      "url": "https://acai.sh/blog/specsmaxxing",
+      "title": "Specsmaxxing",
+      "date": "2026-05-04"
+    },
+    {
+      "url": "https://greaterwrong.com/posts/gckhnqysxj9bbvbwd/how-did-large-language-models-get-that-way-the-role-of",
+      "title": "Transformers and Pretraining in Gpt",
+      "date": "2026-05-04"
+    },
+    {
+      "url": "https://github.com/intel/auto-round",
+      "title": "Autoround",
+      "date": "2026-05-04"
+    },
+    {
+      "url": "https://lesswrong.com/posts/vkturbo4e3ffixmee/you-are-not-immune-to-mode-collapse",
+      "title": "You Are Not Immune to Mode Collapse",
+      "date": "2026-05-04"
+    },
+    {
+      "url": "https://wiki.alcidesfonseca.com/blog/why-tuis-are-back",
+      "title": "Why Tuis Are Back",
+      "date": "2026-05-04"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/usvokt",
+      "title": "Up",
+      "date": "2026-05-04"
+    },
+    {
+      "url": "https://avkcode.github.io/blog/how-vllm-works.html",
+      "title": "Vllm Routing and Kv",
+      "date": "2026-05-04"
+    },
+    {
+      "url": "https://mobeigi.com/blog/security/security-through-obscurity-is-not-bad",
+      "title": "Security Through Obscurity is Not Bad",
+      "date": "2026-05-04"
     }
   ],
   "feedback": [
@@ -703,6 +823,27 @@
       "vote": "up",
       "source": "TLDR AI",
       "date": "2026-04-30"
+    },
+    {
+      "url": "https://juanpabloaj.com/2026/04/30/gemini-free-tier-is-all-you-need",
+      "title": "Gemini Free Tier is All You Need",
+      "vote": "up",
+      "source": "TLDR Dev",
+      "date": "2026-05-01"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/a8p3dj",
+      "title": "Cursor's War Chest, Xai's Redemption",
+      "vote": "down",
+      "source": "TLDR AI",
+      "date": "2026-05-01"
+    },
+    {
+      "url": "https://anthropic.com/engineering/april-23-postmortem",
+      "title": "An Update on Recent Claude Code Quality Reports",
+      "vote": "up",
+      "source": "TLDR AI",
+      "date": "2026-05-01"
     }
   ]
 }
