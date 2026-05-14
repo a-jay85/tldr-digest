@@ -57,7 +57,7 @@ pip install -r requirements.txt
 bin/digest-run
 ```
 
-The runner is designed to be triggered by launchd at 09:00 on weekdays:
+The runner is designed to be triggered by launchd at 07:00 on weekdays:
 
 ```bash
 launchctl start com.tldr-digest.daily
