@@ -1,436 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://augmentcode.com/blog/how-to-write-good-agents-dot-md-files",
-      "title": "A Good Agents.md is a Model Upgrade",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://anthropic.com/engineering/april-23-postmortem",
-      "title": "An Update on Recent Claude Code Quality Reports",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://claude.com/blog/building-agents-that-reach-production-systems-with-mcp",
-      "title": "Building Agents That Reach Production With MCP",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/8c6qeh",
-      "title": "How to Really Stop Agents From Making the Same Mistakes",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://timkellogg.me/blog/2026/04/27/memory-patterns",
-      "title": "Agent Memory Patterns",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://testingcatalog.com/anthropic-launches-memory-in-claude-agents-for-enterprise",
-      "title": "Anthropic Launches Memory in Claude Agents for Enterprise",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://testingcatalog.com/anthropic-tests-new-bugcrawl-tool-for-claude-code-bug-detection",
-      "title": "Anthropic Tests New Bugcrawl Tool",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://blog.pragmaticengineer.com/the-pulse-tokenmaxxing-as-a-weird-new-trend",
-      "title": "'Tokenmaxxing' as a Weird New Trend",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://peterszasz.com/agentic-engineering-management",
-      "title": "Agentic Engineering Management",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://coderpad.io/blog/hiring-developers/in-the-ai-era-shopify-is-investing-in-junior-engineers-not-cutting-them",
-      "title": "In the AI Era, Shopify is Investing in Junior Engineers",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/igkela",
-      "title": "GPT 5.5",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/11fj2w",
-      "title": "An AI Agent Destroyed Production Data",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/w2kapz",
-      "title": "To Train or Not to Train",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/ezrp5k",
-      "title": "What Happens When AI Runs a Store in San Francisco?",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://williamoconnell.me/blog/post/ai-ide",
-      "title": "Your AI Might Be Lying to Your Boss",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://cnbc.com/2026/04/23/meta-will-cut-10percent-of-workforce-as-it-pushes-more-into-ai.html",
-      "title": "Meta Will Cut 10% of Workforce",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://siliconcontinent.com/p/why-desk-jobs-survive-and-amodei",
-      "title": "The Task is Not the Job",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://12gramsofcarbon.com/p/agentics-configuring-agents-is-still",
-      "title": "Agentics: AI Enablement Requires Managed Agent Runtimes",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://eran.sandler.co.il/post/2026-04-27-batch-api-is-terrible-for-one-agent",
-      "title": "Batch API is Terrible for One Agent",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://thezvi.wordpress.com/2026/04/27/gpt-5-5-the-system-card",
-      "title": "GPT 5.5: the System Card",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/0pthjg",
-      "title": "Codex Symphony Agent Orchestration",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-just-overtook-openai-1-155312239.html",
-      "title": "Anthropic Just Overtook OpenAI With $1 Trillion Valuation",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/jzlqwz",
-      "title": "Microsoft Offers Buyouts to Shape Workforce Around AI",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/1pntdk",
-      "title": "Designing for Agents",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://ethanding.substack.com/p/claude-code-is-not-making-your-product",
-      "title": "Claude Code is Not Making Your Product Better",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://ky.fyi/posts/ai-burnout",
-      "title": "Do I Belong in Tech Anymore?",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://contraryresearch.substack.com/p/cursors-60-billion-escape-hatch",
-      "title": "Cursor's $60 Billion Escape Hatch",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://read.engineerscodex.com/p/every-dev-should-know-about-ai-sandboxes",
-      "title": "What Every Dev Should Know About AI Sandboxes",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/9jlt5n",
-      "title": "Introducing Workspace Agents in ChatGPT",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing",
-      "title": "GitHub Copilot is Moving to Usage-based Billing",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/b2awl5",
-      "title": "DeepSeek Unveils Flagship AI Model",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://venturebeat.com/infrastructure/monitoring-llm-behavior-drift-retries-and-refusal-patterns",
-      "title": "Monitoring LLM Behavior",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish",
-      "title": "It's OK to Use Coding Assistance Tools",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem",
-      "title": "An Amateur Solved a 60-Year-Old Math Problem by Asking AI",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.16529",
-      "title": "Scaling Long-Horizon Coding Agents",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://every.to/context-window/you-re-the-bread-in-the-ai-sandwich",
-      "title": "You're the Bread in the AI Sandwich",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://seangoedecke.com/bad-code-at-big-companies",
-      "title": "How Good Engineers Write Bad Code at Big Companies",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/tgeucw",
-      "title": "The Moat or the Commons",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://stripe.dev/blog/selective-test-execution-at-stripe-fast-ci-for-a-50m-line-ruby-monorepo",
-      "title": "Selective Test Execution at Stripe",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://simonwillison.net/2026/apr/22/qwen36-27b",
-      "title": "Qwen3.6-27B",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://xbow.com/blog/mythos-like-hacking-open-to-all",
-      "title": "GPT-5.5: Mythos-Like Hacking",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://arpitbhayani.me/blogs/defensive-databases",
-      "title": "Databases Were Not Designed for This",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://danielmiessler.com/blog/coding-is-a-meta-task",
-      "title": "Coding is a Meta-Task",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://tanay.co.in/blog/todays-harness-is-tomorrows-prompt",
-      "title": "Today's Harness is Tomorrow's Prompt",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://github.com/dirac-run/dirac",
-      "title": "Dirac",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/mhvixa",
-      "title": "OpenAI Privacy Filter Model",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://jakub.kr/writing/details-that-make-interfaces-feel-better",
-      "title": "Details That Make Interfaces Feel Better",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://discord.com/blog/measure-less-to-learn-more-using-fewer-higher-quality-metrics-to-capture-what-matters",
-      "title": "Measure Less to Learn More",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://github.com/infisical/agent-vault",
-      "title": "Agent Vault",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://thenextweb.com/news/deepseek-v4-pro-price-cut-75-percent",
-      "title": "DeepSeek Cuts V4-Pro Prices by 75%",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://architecture-weekly.com/p/vibing-harness-and-ooda-loop",
-      "title": "Vibing, Harness, and OODA Loop",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://piccalil.li/blog/the-end-of-responsive-images",
-      "title": "The End of Responsive Images",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://stackoverflow.blog/2026/04/27/welcome-to-the-find-out-stage-of-ai",
-      "title": "Welcome to the 'Find Out' Stage of AI",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://newsletter.manager.dev/p/the-unwritten-laws-of-software-engineering",
-      "title": "The Unwritten Laws of Software Engineering",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://readwriterachel.com/things-i-learned/2026/04/23/back-to-basics-react-variables.html",
-      "title": "3 Ways to Store Variables in React",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://press.asimov.com/articles/antibiotics-failure",
-      "title": "Antibiotics Are an Economic Failure",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://github.com/warpdotdev/warp",
-      "title": "Warp",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://quantamagazine.org/a-new-type-of-neuroplasticity-rewires-the-brain-after-a-single-experience-20260424",
-      "title": "Experience",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://asteriskmag.com/issues/14/are-prediction-markets-good-for-anything",
-      "title": "Are Prediction Markets Good for Anything?",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://taoofmac.com/space/blog/2026/04/29/2341",
-      "title": "Lessons on Building Mcp Servers",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/8r8rai",
-      "title": "Ai Agents That Builds Themselves",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://cursor.com/blog/typescript-sdk",
-      "title": "Build Programmatic Agents With the Cursor Sdk",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://maxtaylor.me/articles/i-benchmarked-caveman-against-two-words",
-      "title": "I Benchmarked Caveman Against Two Words",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5",
-      "title": "Mistral Medium 3.5 Powers Remote Vibe Agents",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://arstechnica.com/ai/2026/04/openai-codex-system-prompt-includes-explicit-directive-to-never-talk-about-goblins",
-      "title": "Talk About Goblins\u201d",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://epicproduct.engineer/the-last-software-engineer",
-      "title": "The Last Software Engineer",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://tomtunguz.com/inference-market-segmentation",
-      "title": "Darwinian Specialization in Ai",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://simme.dev/posts/the-end-of-just-ask-sarah",
-      "title": "The End of \"just Ask Sarah\"",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://github.com/fission-ai/openspec",
-      "title": "Openspec",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://zed.dev/blog/zed-1-0",
-      "title": "Zed 1.0",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
-      "title": "Ai Evals Are Becoming the New Compute Bottleneck",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://github.com/stripe/link-cli",
-      "title": "Link Cli",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://saschb2b.com/blog/react-compiler-year-in-review",
-      "title": "What's Next",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://dbushell.com/2026/04/29/github-is-sinking",
-      "title": "Github is Sinking",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://simonwillison.net/2026/apr/30/zig-anti-ai",
-      "title": "Source Project",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://github.com/google-deepmind/proeval",
-      "title": "Deepmind Proeval for Genai Evaluation",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://copy.fail",
-      "title": "Copy Fail",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://blog.postman.com/how-to-be-successful-interviewing-for-big-tech",
-      "title": "How to Be Successful Interviewing for Big Tech",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://testing.googleblog.com/2026/04/one-map-key-one-lookup.html",
-      "title": "One Map Key, One Lookup",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.24198",
-      "title": "Reliable Data Analysis Agents",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://tomtunguz.com/2026-04-29-the-112-billion-quarter-hyperscalers-bet-the-farm-on-ai",
-      "title": "The $112 Billion Quarter",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://pytorch.org/blog/introducing-autosp",
-      "title": "Introducing Autosp",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies",
-      "title": "Proxies",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
-      "title": "Granite 4.1 Llms: How They're Built",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://tomshardware.com/tech-industry/artificial-intelligence/openai-has-effectively-abandoned-first-party-stargate-data-centers-in-favor-of-more-flexible-deals-company-now-prefers-to-lease-compute-and-says-stargate-is-an-umbrella-term",
-      "title": "Favor of More Flexible Deals",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://finance.yahoo.com/markets/stocks/article/google-to-sell-tpu-chips-to-select-customers-in-latest-shot-at-nvidia-214900221.html",
-      "title": "Nvidia",
-      "date": "2026-04-30"
-    },
-    {
       "url": "https://cursor.com/blog/continually-improving-agent-harness",
       "title": "Continually Improving Our Agent Harness",
       "date": "2026-05-01"
@@ -1449,6 +1019,111 @@
       "url": "https://links.tldrnewsletter.com/pqgk27",
       "title": "Google Plans to Announce a New Gemini Model",
       "date": "2026-05-14"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/mf7czo",
+      "title": "The Ultimate Guide to /goal",
+      "date": "2026-05-15"
+    },
+    {
+      "url": "https://github.com/raindrop-ai/workshop",
+      "title": "Raindrop Workshop",
+      "date": "2026-05-15"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/lcw1mt",
+      "title": "Introducing Grok Build",
+      "date": "2026-05-15"
+    },
+    {
+      "url": "https://elenaverna.com/p/ic-work-is-the-new-career-flex",
+      "title": "Ic Work is the New Career Flex",
+      "date": "2026-05-15"
+    },
+    {
+      "url": "https://anthropic.com/research/2028-ai-leadership",
+      "title": "2028: Two Scenarios for Global Ai Leadership",
+      "date": "2026-05-15"
+    },
+    {
+      "url": "https://cursor.com/blog/cloud-agent-development-environments",
+      "title": "Cloud Agent Development Environments",
+      "date": "2026-05-15"
+    },
+    {
+      "url": "https://developers.googleblog.com/announcing-genkit-middleware-intercept-extend-and-harden-your-agentic-apps",
+      "title": "Genkit Middleware",
+      "date": "2026-05-15"
+    },
+    {
+      "url": "https://articles.zimetic.com/beyond-the-coding-assistant-a-series-on-ai-assisted-software-engineering",
+      "title": "Engineering",
+      "date": "2026-05-15"
+    },
+    {
+      "url": "https://thesaascfo.com/how-to-calculate-the-inference-efficiency-ratio",
+      "title": "How to Calculate the Inference Efficiency Ratio",
+      "date": "2026-05-15"
+    },
+    {
+      "url": "https://productpower.substack.com/p/openai-symphony-from-prompts-to-plays",
+      "title": "Openai Symphony - From Prompts to Plays",
+      "date": "2026-05-15"
+    },
+    {
+      "url": "https://hawksley.org/2026/05/06/adopting-herb-at-github.html",
+      "title": "Adopting Herb at Github",
+      "date": "2026-05-15"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/wudpnb",
+      "title": "Building, and Whatnot",
+      "date": "2026-05-15"
+    },
+    {
+      "url": "https://github.com/nkzw-tech/fate",
+      "title": "fate",
+      "date": "2026-05-15"
+    },
+    {
+      "url": "https://frontierai.substack.com/p/product-market-fit-is-a-trap",
+      "title": "Product-market Fit is a Trap",
+      "date": "2026-05-15"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/hbjb4l",
+      "title": "Work With Codex From Anywhere",
+      "date": "2026-05-15"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/szxd1c",
+      "title": "Work With Codex From Anywhere",
+      "date": "2026-05-15"
+    },
+    {
+      "url": "https://mayankagrawalphd.substack.com/p/omaha-as-judgment-day-for-agi",
+      "title": "Omaha as Judgment Day for Agi",
+      "date": "2026-05-15"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/wjwvd4",
+      "title": "Programming Languages Used to Be Lock in",
+      "date": "2026-05-15"
+    },
+    {
+      "url": "https://interestingengineering.com/ai-robotics/figure-helix02-humanoid-robots-8-hour-shifts",
+      "title": "Intervention",
+      "date": "2026-05-15"
+    },
+    {
+      "url": "https://cnbc.com/2026/05/13/google-deepmind-alumni-startup-partners-nvidia-superintelligence.html",
+      "title": "'frontier' of Ai",
+      "date": "2026-05-15"
+    },
+    {
+      "url": "https://animationmagazine.net/2026/05/netflix-staffing-for-inkubator-ai-powered-experimental-animation-studio",
+      "title": "Studio",
+      "date": "2026-05-15"
     }
   ],
   "feedback": [
