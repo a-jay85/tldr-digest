@@ -1,136 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://cursor.com/blog/continually-improving-agent-harness",
-      "title": "Continually Improving Our Agent Harness",
-      "date": "2026-05-01"
-    },
-    {
-      "url": "https://karpathy.bearblog.dev/sequoia-ascent-2026",
-      "title": "Sequoia Ascent 2026 Summary",
-      "date": "2026-05-01"
-    },
-    {
-      "url": "https://tamccann.com/stop-talking-about-ai-adoption-or-transformation-start-running-these-five-motions",
-      "title": "Five Motions",
-      "date": "2026-05-01"
-    },
-    {
-      "url": "https://refactoring.fm/p/the-compounding-software-factory",
-      "title": "The Compounding Software Factory",
-      "date": "2026-05-01"
-    },
-    {
-      "url": "https://juanpabloaj.com/2026/04/30/gemini-free-tier-is-all-you-need",
-      "title": "Gemini Free Tier is All You Need",
-      "date": "2026-05-01"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/a8p3dj",
-      "title": "Cursor's War Chest, Xai's Redemption",
-      "date": "2026-05-01"
-    },
-    {
-      "url": "https://infoworld.com/article/4164602/a-new-challenge-for-software-product-managers.html",
-      "title": "A New Challenge for Software Product Managers",
-      "date": "2026-05-01"
-    },
-    {
-      "url": "https://theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously",
-      "title": "I Can Never Talk to an Ai Anonymously Again",
-      "date": "2026-05-01"
-    },
-    {
-      "url": "https://daniel.haxx.se/blog/2026/04/30/approaching-zero-bugs",
-      "title": "Approaching Zero Bugs?",
-      "date": "2026-05-01"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/lkmaeh",
-      "title": "Ai is Not a Product \u2014 It's an Environment",
-      "date": "2026-05-01"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/j3ujrs",
-      "title": "Tracing the Goblin Quirk in Gpt Models",
-      "date": "2026-05-01"
-    },
-    {
-      "url": "https://dekodiert.de/en/articles/das-falsche-black-box-problem",
-      "title": "The Wrong Black Box Problem",
-      "date": "2026-05-01"
-    },
-    {
-      "url": "https://productpower.substack.com/p/distribution-is-the-final-moat",
-      "title": "Distribution is the Final Moat",
-      "date": "2026-05-01"
-    },
-    {
-      "url": "https://claude.com/blog/claude-security-public-beta",
-      "title": "Claude Security is Now in Public Beta",
-      "date": "2026-05-01"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/1tei7s",
-      "title": "Perplexity Expands Enterprise Ai Workflows",
-      "date": "2026-05-01"
-    },
-    {
-      "url": "https://corrode.dev/blog/bugs-rust-wont-catch",
-      "title": "Bugs Rust Won't Catch",
-      "date": "2026-05-01"
-    },
-    {
-      "url": "https://productparty.us/p/your-strategy-isnt-dying-in-the-roadmap",
-      "title": "Form",
-      "date": "2026-05-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.26752",
-      "title": "Glm-5v-turbo",
-      "date": "2026-05-01"
-    },
-    {
-      "url": "https://threadreaderapp.com/thread/2049887685083566359.html",
-      "title": "Silico",
-      "date": "2026-05-01"
-    },
-    {
-      "url": "https://iankduncan.com/engineering/2026-02-06-bash-is-not-enough",
-      "title": "Orchestrator",
-      "date": "2026-05-01"
-    },
-    {
-      "url": "https://matduggan.com/if-i-could-make-my-own-github",
-      "title": "If I Could Make My Own Github",
-      "date": "2026-05-01"
-    },
-    {
-      "url": "https://github.com/rocky-data/rocky",
-      "title": "Rocky",
-      "date": "2026-05-01"
-    },
-    {
-      "url": "https://elenaverna.com/p/whos-got-time-for-product-marketing",
-      "title": "Who's Got Time for Product Marketing?",
-      "date": "2026-05-01"
-    },
-    {
-      "url": "https://threadreaderapp.com/thread/2049987001655714250.html",
-      "title": "Xai Has Launched Grok 4.3",
-      "date": "2026-05-01"
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks",
-      "title": "Anthropic Nears $900b Valuation Round",
-      "date": "2026-05-01"
-    },
-    {
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/announcing-neuron-agentic-development",
-      "title": "Kernel Development on Trainium",
-      "date": "2026-05-01"
-    },
-    {
       "url": "https://addyosmani.com/blog/agent-skills",
       "title": "Agent Skills",
       "date": "2026-05-04"
@@ -1124,6 +994,116 @@
       "url": "https://animationmagazine.net/2026/05/netflix-staffing-for-inkubator-ai-powered-experimental-animation-studio",
       "title": "Studio",
       "date": "2026-05-15"
+    },
+    {
+      "url": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
+      "title": "Start",
+      "date": "2026-05-18"
+    },
+    {
+      "url": "https://seangoedecke.com/how-i-use-llms-in-2026",
+      "title": "How I Use Llms as a Staff Engineer in 2026",
+      "date": "2026-05-18"
+    },
+    {
+      "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush",
+      "title": "The Haves and Have Nots of the Ai Gold Rush",
+      "date": "2026-05-18"
+    },
+    {
+      "url": "https://williamangel.net/blog/2026/05/17/offline-llm-energy-use.html",
+      "title": "Apple Silicon Costs More Than Openrouter",
+      "date": "2026-05-18"
+    },
+    {
+      "url": "https://astralcodexten.com/p/the-sigmoids-wont-save-you",
+      "title": "The Sigmoids Won't Save You",
+      "date": "2026-05-18"
+    },
+    {
+      "url": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai",
+      "title": "At Ai",
+      "date": "2026-05-18"
+    },
+    {
+      "url": "https://github.com/chopratejas/headroom",
+      "title": "Headroom",
+      "date": "2026-05-18"
+    },
+    {
+      "url": "https://github.com/minishlab/semble",
+      "title": "Semble",
+      "date": "2026-05-18"
+    },
+    {
+      "url": "https://github.com/vercel-labs/zero",
+      "title": "Zero",
+      "date": "2026-05-18"
+    },
+    {
+      "url": "https://testingcatalog.com/openai-will-let-codex-control-other-desktop-devices-via-computer-use",
+      "title": "Use",
+      "date": "2026-05-18"
+    },
+    {
+      "url": "https://log.beshr.com/domain-knowledge-is-the-leverage",
+      "title": "Domain Knowledge is the Leverage",
+      "date": "2026-05-18"
+    },
+    {
+      "url": "https://github.com/gi-dellav/zerostack",
+      "title": "Zerostack",
+      "date": "2026-05-18"
+    },
+    {
+      "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
+      "title": "The Ctf Scene is Dead",
+      "date": "2026-05-18"
+    },
+    {
+      "url": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
+      "title": "Ai is Technology, Not a Product",
+      "date": "2026-05-18"
+    },
+    {
+      "url": "https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text",
+      "title": "Native All the Way, Until You Need Text",
+      "date": "2026-05-18"
+    },
+    {
+      "url": "https://billjings.com/posts/title/git-is-not-fine",
+      "title": "Git is Not Fine",
+      "date": "2026-05-18"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/fhl21g",
+      "title": "Ai Economics Part 2",
+      "date": "2026-05-18"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/kwdgq7",
+      "title": "Hardware-agnostic",
+      "date": "2026-05-18"
+    },
+    {
+      "url": "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+      "title": "Compressed Attention",
+      "date": "2026-05-18"
+    },
+    {
+      "url": "https://nousresearch.com/lighthouse-attention",
+      "title": "Lighthouse Attention",
+      "date": "2026-05-18"
+    },
+    {
+      "url": "https://9to5google.com/2026/05/17/gemini-app-thinking-level",
+      "title": "Integrations",
+      "date": "2026-05-18"
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2055380239711457578.html",
+      "title": "Ai Psychosis",
+      "date": "2026-05-18"
     }
   ],
   "feedback": [
