@@ -1,126 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://addyosmani.com/blog/agent-skills",
-      "title": "Agent Skills",
-      "date": "2026-05-04"
-    },
-    {
-      "url": "https://yiblet.com/posts/prompt-engineering-is-permanent",
-      "title": "Prompt Engineering is Permanent",
-      "date": "2026-05-04"
-    },
-    {
-      "url": "https://mendral.com/blog/agent-harness-belongs-outside-sandbox",
-      "title": "The Agent Harness Belongs Outside the Sandbox",
-      "date": "2026-05-04"
-    },
-    {
-      "url": "https://sites.diy/blog/2026-05-01-coding-plan-comparisons",
-      "title": "Coding Plan Comparisons Based on Actual Usage",
-      "date": "2026-05-04"
-    },
-    {
-      "url": "https://strangeloopcanon.com/p/why-smart-planners-lose-to-simple",
-      "title": "Sometimes Smart Planners Lose to Simple Markets",
-      "date": "2026-05-04"
-    },
-    {
-      "url": "https://larsfaye.com/articles/agentic-coding-is-a-trap",
-      "title": "Agentic Coding is a Trap",
-      "date": "2026-05-04"
-    },
-    {
-      "url": "https://github.com/lahfir/agent-desktop",
-      "title": "Agent Desktop",
-      "date": "2026-05-04"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/gahxlw",
-      "title": "How Llm Inference Works",
-      "date": "2026-05-04"
-    },
-    {
-      "url": "https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell",
-      "title": "Rather Not Sell",
-      "date": "2026-05-04"
-    },
-    {
-      "url": "https://jdgr.net/the-hidden-costs-of-great-abstractions",
-      "title": "The 'hidden' Costs of Great Abstractions",
-      "date": "2026-05-04"
-    },
-    {
-      "url": "https://lelanthran.com/chap15/content.html",
-      "title": "Llms Are Not a Higher Level of Abstraction",
-      "date": "2026-05-04"
-    },
-    {
-      "url": "https://acai.sh",
-      "title": "Acai",
-      "date": "2026-05-04"
-    },
-    {
-      "url": "https://github.com/nexu-io/open-design",
-      "title": "Open Design",
-      "date": "2026-05-04"
-    },
-    {
-      "url": "https://github.com/lum1104/understand-anything",
-      "title": "Understand Anything",
-      "date": "2026-05-04"
-    },
-    {
-      "url": "https://daverupert.com/2026/05/small-language-models-in-the-browser",
-      "title": "The Duality of Language Models in the Browser",
-      "date": "2026-05-04"
-    },
-    {
-      "url": "https://aifoc.us/how-might-a-browser-be-developed",
-      "title": "How Might a Browser Be Developed?",
-      "date": "2026-05-04"
-    },
-    {
-      "url": "https://acai.sh/blog/specsmaxxing",
-      "title": "Specsmaxxing",
-      "date": "2026-05-04"
-    },
-    {
-      "url": "https://greaterwrong.com/posts/gckhnqysxj9bbvbwd/how-did-large-language-models-get-that-way-the-role-of",
-      "title": "Transformers and Pretraining in Gpt",
-      "date": "2026-05-04"
-    },
-    {
-      "url": "https://github.com/intel/auto-round",
-      "title": "Autoround",
-      "date": "2026-05-04"
-    },
-    {
-      "url": "https://lesswrong.com/posts/vkturbo4e3ffixmee/you-are-not-immune-to-mode-collapse",
-      "title": "You Are Not Immune to Mode Collapse",
-      "date": "2026-05-04"
-    },
-    {
-      "url": "https://wiki.alcidesfonseca.com/blog/why-tuis-are-back",
-      "title": "Why Tuis Are Back",
-      "date": "2026-05-04"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/usvokt",
-      "title": "Up",
-      "date": "2026-05-04"
-    },
-    {
-      "url": "https://avkcode.github.io/blog/how-vllm-works.html",
-      "title": "Vllm Routing and Kv",
-      "date": "2026-05-04"
-    },
-    {
-      "url": "https://mobeigi.com/blog/security/security-through-obscurity-is-not-bad",
-      "title": "Security Through Obscurity is Not Bad",
-      "date": "2026-05-04"
-    },
-    {
       "url": "https://links.tldrnewsletter.com/quoyvm",
       "title": "Model-harness-fit",
       "date": "2026-05-05"
@@ -1104,6 +984,121 @@
       "url": "https://threadreaderapp.com/thread/2055380239711457578.html",
       "title": "Ai Psychosis",
       "date": "2026-05-18"
+    },
+    {
+      "url": "https://cameronrwolfe.substack.com/p/agent-evals",
+      "title": "Agent Evaluation: a Detailed Guide",
+      "date": "2026-05-19"
+    },
+    {
+      "url": "https://gist.github.com/kanmadigital/2369c4f5ea410cb8f6a1647b40c0e2a1",
+      "title": "Llm Wiki V2",
+      "date": "2026-05-19"
+    },
+    {
+      "url": "https://simonwillison.net/2026/may/19/5-minute-llms",
+      "title": "The Last Six Months in Llms in Five Minutes",
+      "date": "2026-05-19"
+    },
+    {
+      "url": "https://cursor.com/blog/composer-2-5",
+      "title": "Cursor Released Composer 2.5",
+      "date": "2026-05-19"
+    },
+    {
+      "url": "https://webframp.com/posts/the-workflow-collision",
+      "title": "The Workflow Collision",
+      "date": "2026-05-19"
+    },
+    {
+      "url": "https://dm13450.github.io/2026/05/18/the-joys-of-free-cloudflare.html",
+      "title": "The Joys of Free Cloudflare",
+      "date": "2026-05-19"
+    },
+    {
+      "url": "https://blog.cloudflare.com/cyber-frontier-models",
+      "title": "Project Glasswing: What Mythos Showed Us",
+      "date": "2026-05-19"
+    },
+    {
+      "url": "https://productify.substack.com/p/ex-stripe-cto-is-running-a-free-pm",
+      "title": "For Your Team",
+      "date": "2026-05-19"
+    },
+    {
+      "url": "https://archestra.ai/blog/only-responsible-ai",
+      "title": "Let's Talk About Ai Slop",
+      "date": "2026-05-19"
+    },
+    {
+      "url": "https://itamargilad.com/ai-pm-future",
+      "title": "3 Ai Pm Archetypes + 1",
+      "date": "2026-05-19"
+    },
+    {
+      "url": "https://lalitm.com/post/dont-answer-the-first-question",
+      "title": "Don't Answer the First Question",
+      "date": "2026-05-19"
+    },
+    {
+      "url": "https://metedata.substack.com/p/012-your-ai-frustration-is-my-opportunity",
+      "title": "Your Ai Frustration is My Opportunity",
+      "date": "2026-05-19"
+    },
+    {
+      "url": "https://departmentofproduct.substack.com/p/notions-new-workers-can-build-stripe",
+      "title": "Backlash Brewing?",
+      "date": "2026-05-19"
+    },
+    {
+      "url": "https://slack.engineering/from-ssh-to-rest-a-security-driven-modernization-of-slacks-emr-data-pipelines",
+      "title": "Pipelines",
+      "date": "2026-05-19"
+    },
+    {
+      "url": "https://saastr.com/when-growth-slows-is-it-sales-fault-or-the-products-fault-the-answer-has-changed",
+      "title": "Answer Has Changed",
+      "date": "2026-05-19"
+    },
+    {
+      "url": "https://github.com/sapientinc/hrm-text",
+      "title": "Hrm-text",
+      "date": "2026-05-19"
+    },
+    {
+      "url": "https://manus.im/blog/manus-schedules",
+      "title": "Introducing Scheduled Tasks 2.0",
+      "date": "2026-05-19"
+    },
+    {
+      "url": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-spring-ai.pdf",
+      "title": "Ai Eats the World",
+      "date": "2026-05-19"
+    },
+    {
+      "url": "https://anthropic.com/news/anthropic-acquires-stainless",
+      "title": "Anthropic Acquires Sdk Startup Stainless",
+      "date": "2026-05-19"
+    },
+    {
+      "url": "https://cms.greatquestion.co/blog/user-interviews-guide",
+      "title": "User Interviews: the Complete Guide for 2026",
+      "date": "2026-05-19"
+    },
+    {
+      "url": "https://github.com/zakirullin/files.md",
+      "title": "Files.md",
+      "date": "2026-05-19"
+    },
+    {
+      "url": "https://shreyasdoshi.substack.com/p/get-to-the-core-of-the-thing",
+      "title": "Get to the Core of the Thing",
+      "date": "2026-05-19"
+    },
+    {
+      "url": "https://entrepreneur.com/starting-a-business/how-i-competed-against-google-with-one-strategy-and-won/503164",
+      "title": "\u2014 and Win",
+      "date": "2026-05-19"
     }
   ],
   "feedback": [
@@ -1155,6 +1150,55 @@
       "vote": "up",
       "source": "TLDR",
       "date": "2026-05-14"
+    },
+    {
+      "url": "https://seangoedecke.com/how-i-use-llms-in-2026",
+      "title": "How I Use Llms as a Staff Engineer in 2026",
+      "vote": "up",
+      "source": "TLDR",
+      "date": "2026-05-18"
+    },
+    {
+      "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush",
+      "title": "The Haves and Have Nots of the Ai Gold Rush",
+      "vote": "down",
+      "source": "TLDR AI",
+      "date": "2026-05-18"
+    },
+    {
+      "url": "https://github.com/vercel-labs/zero",
+      "title": "Zero",
+      "vote": "down",
+      "source": "TLDR",
+      "date": "2026-05-18"
+    },
+    {
+      "url": "https://github.com/minishlab/semble",
+      "title": "Semble",
+      "vote": "down",
+      "source": "TLDR Dev",
+      "date": "2026-05-18"
+    },
+    {
+      "url": "https://github.com/chopratejas/headroom",
+      "title": "Headroom",
+      "vote": "down",
+      "source": "TLDR AI",
+      "date": "2026-05-18"
+    },
+    {
+      "url": "https://github.com/gi-dellav/zerostack",
+      "title": "Zerostack",
+      "vote": "down",
+      "source": "TLDR Dev",
+      "date": "2026-05-18"
+    },
+    {
+      "url": "https://nousresearch.com/lighthouse-attention",
+      "title": "Lighthouse Attention",
+      "vote": "down",
+      "source": "TLDR AI",
+      "date": "2026-05-18"
     }
   ]
 }
