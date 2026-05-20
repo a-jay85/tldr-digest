@@ -1,146 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://links.tldrnewsletter.com/quoyvm",
-      "title": "Model-harness-fit",
-      "date": "2026-05-05"
-    },
-    {
-      "url": "https://basti.io/blog/agentic_work_mental_model",
-      "title": "Mental Model for Agentic Work",
-      "date": "2026-05-05"
-    },
-    {
-      "url": "https://sierra.ai/blog/the-ai-native-interview",
-      "title": "The Ai-native Interview",
-      "date": "2026-05-05"
-    },
-    {
-      "url": "https://jeffgothelf.com/blog/three-habits-that-beat-ai-tool-fluency",
-      "title": "Three Habits That Beat Ai Tool Fluency",
-      "date": "2026-05-05"
-    },
-    {
-      "url": "https://openrouter.ai/announcements/gpt55-cost-analysis",
-      "title": "Gpt-5.5 Price Increase: What it Actually Costs",
-      "date": "2026-05-05"
-    },
-    {
-      "url": "https://github.com/withastro/flue",
-      "title": "Flue",
-      "date": "2026-05-05"
-    },
-    {
-      "url": "https://jack-clark.net/2026/05/04/import-ai-455-automating-ai-research",
-      "title": "Automating Ai Research",
-      "date": "2026-05-05"
-    },
-    {
-      "url": "https://every.to/guides/ai-product-management-guide",
-      "title": "A Guide to Agent-native Product Management",
-      "date": "2026-05-05"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/toher8",
-      "title": "Gemini Api",
-      "date": "2026-05-05"
-    },
-    {
-      "url": "https://github.com/ruvnet/ruflo",
-      "title": "Ruflo",
-      "date": "2026-05-05"
-    },
-    {
-      "url": "https://vercel.com/blog/introducing-deepsec-find-and-fix-vulnerabilities-in-your-code-base",
-      "title": "Inside Vercel's Security Tool Deepsec",
-      "date": "2026-05-05"
-    },
-    {
-      "url": "https://github.com/mnfst/manifest",
-      "title": "Manifest",
-      "date": "2026-05-05"
-    },
-    {
-      "url": "https://encore.dev/blog/tracing-guide",
-      "title": "What is Distributed Tracing? a Practical Guide",
-      "date": "2026-05-05"
-    },
-    {
-      "url": "https://saastr.com/why-does-no-one-in-ai-have-support",
-      "title": "Why Does No One in Ai Have Support?",
-      "date": "2026-05-05"
-    },
-    {
-      "url": "https://antmurphy.me/newsletter/remove-dont-add",
-      "title": "Remove. Don't Add",
-      "date": "2026-05-05"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/kosiny",
-      "title": "Inside Openai's Low-latency Voice Infrastructure",
-      "date": "2026-05-05"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/3eak78",
-      "title": "Consumer Ai's Arpu Problem",
-      "date": "2026-05-05"
-    },
-    {
-      "url": "https://cacm.acm.org/news/the-road-to-a-billion-token-context",
-      "title": "The Road to a Billion-token Context",
-      "date": "2026-05-05"
-    },
-    {
-      "url": "https://wwj.dev/posts/i-am-worried-about-bun",
-      "title": "I Am Worried About Bun",
-      "date": "2026-05-05"
-    },
-    {
-      "url": "https://easylang.online/blog/branchless",
-      "title": "Branch\u2011avoidant Programming",
-      "date": "2026-05-05"
-    },
-    {
-      "url": "https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story",
-      "title": "Story",
-      "date": "2026-05-05"
-    },
-    {
-      "url": "https://github.com/facebookresearch/tuna-2",
-      "title": "Tuna-2",
-      "date": "2026-05-05"
-    },
-    {
-      "url": "https://b-list.org/weblog/2026/apr/09/llms",
-      "title": "Let's Talk About Llms",
-      "date": "2026-05-05"
-    },
-    {
-      "url": "https://forrester.com/blogs/atlassian-and-servicenow-the-dominant-ai-enabled-it-management-platforms-lean-into-context-graphs",
-      "title": "Platforms Lean Into Context Graphs",
-      "date": "2026-05-05"
-    },
-    {
-      "url": "https://kellblog.com/the-re-emergence-of-product-line-marketing",
-      "title": "The Re-emergence of Product Line Marketing",
-      "date": "2026-05-05"
-    },
-    {
-      "url": "https://threadreaderapp.com/thread/2051344780328858040.html",
-      "title": "The Hidden Work Behind the Ai Agent Boom",
-      "date": "2026-05-05"
-    },
-    {
-      "url": "https://sites.google.com/view/llmwritingdistortion/home",
-      "title": "How Llms Distort Our Written Language",
-      "date": "2026-05-05"
-    },
-    {
-      "url": "https://anthropic.com/news/enterprise-ai-services-company",
-      "title": "Hellman & Friedman, and Goldman Sachs",
-      "date": "2026-05-05"
-    },
-    {
       "url": "https://dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html",
       "title": "10 Lessons for Agentic Coding",
       "date": "2026-05-13"
@@ -1099,6 +959,111 @@
       "url": "https://entrepreneur.com/starting-a-business/how-i-competed-against-google-with-one-strategy-and-won/503164",
       "title": "\u2014 and Win",
       "date": "2026-05-19"
+    },
+    {
+      "url": "https://martinfowler.com/articles/sensors-for-coding-agents.html",
+      "title": "Maintainability Sensors for Coding Agents",
+      "date": "2026-05-20"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/xjad0w",
+      "title": "Karpathy Joins Anthropic",
+      "date": "2026-05-20"
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2056753169888334312.html",
+      "title": "Andrej Karpathy Joins Anthropic",
+      "date": "2026-05-20"
+    },
+    {
+      "url": "https://twitchard.github.io/posts/2026-05-18-softwares-centaur-era.html",
+      "title": "Software's Centaur Era",
+      "date": "2026-05-20"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5",
+      "title": "Gemini 3.5 Flash",
+      "date": "2026-05-20"
+    },
+    {
+      "url": "https://engineering.prezi.com/the-cheap-good-and-fast-paradox-returns-2c7f0d8672e4",
+      "title": "The Cheap, Good, and Fast Paradox Returns",
+      "date": "2026-05-20"
+    },
+    {
+      "url": "https://blog.google/products-and-platforms/products/search/search-io-2026",
+      "title": "A New Era for Ai Search",
+      "date": "2026-05-20"
+    },
+    {
+      "url": "https://aifoc.us/model-half-life",
+      "title": "Model Half-life",
+      "date": "2026-05-20"
+    },
+    {
+      "url": "https://9to5google.com/2026/05/19/google-io-2026-news",
+      "title": "& More",
+      "date": "2026-05-20"
+    },
+    {
+      "url": "https://simonwillison.net/2026/may/19/gemini-35-flash",
+      "title": "Everything",
+      "date": "2026-05-20"
+    },
+    {
+      "url": "https://nesbitt.io/2026/05/19/dumb-ways-for-an-open-source-project-to-die.html",
+      "title": "Dumb Ways for an Open Source Project to Die",
+      "date": "2026-05-20"
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2056778123329274279.html",
+      "title": "Cerebras is Now Running Kimi K2.6",
+      "date": "2026-05-20"
+    },
+    {
+      "url": "https://anishathalye.com/inverting-photodna",
+      "title": "Inverting Photodna",
+      "date": "2026-05-20"
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2056884788179726685.html",
+      "title": "Repositories",
+      "date": "2026-05-20"
+    },
+    {
+      "url": "https://github.com/wiltodelta/remove-ai-watermarks",
+      "title": "Remove Ai Watermarks",
+      "date": "2026-05-20"
+    },
+    {
+      "url": "https://github.com/nvlabs/longlive",
+      "title": "Real-time Long Video Generation",
+      "date": "2026-05-20"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/wjhdfz",
+      "title": "Ecosystem",
+      "date": "2026-05-20"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/5ofnla",
+      "title": "Ecosystem",
+      "date": "2026-05-20"
+    },
+    {
+      "url": "https://cnbc.com/2026/05/19/openai-announces-new-guaranteed-capacity-offering-for-customers-to-secure-compute.html",
+      "title": "Secure Compute",
+      "date": "2026-05-20"
+    },
+    {
+      "url": "https://huggingface.co/blog/ettin-reranker",
+      "title": "Introducing the Ettin Reranker Family",
+      "date": "2026-05-20"
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2056752047031279726.html",
+      "title": "Index",
+      "date": "2026-05-20"
     }
   ],
   "feedback": [
@@ -1199,6 +1164,41 @@
       "vote": "down",
       "source": "TLDR AI",
       "date": "2026-05-18"
+    },
+    {
+      "url": "https://elenaverna.com/p/ic-work-is-the-new-career-flex",
+      "title": "Ic Work is the New Career Flex",
+      "vote": "up",
+      "source": "TLDR Dev",
+      "date": "2026-05-19"
+    },
+    {
+      "url": "https://articles.zimetic.com/beyond-the-coding-assistant-a-series-on-ai-assisted-software-engineering",
+      "title": "Engineering",
+      "vote": "up",
+      "source": "TLDR Product",
+      "date": "2026-05-19"
+    },
+    {
+      "url": "https://cameronrwolfe.substack.com/p/agent-evals",
+      "title": "Agent Evaluation: a Detailed Guide",
+      "vote": "down",
+      "source": "TLDR AI",
+      "date": "2026-05-19"
+    },
+    {
+      "url": "https://webframp.com/posts/the-workflow-collision",
+      "title": "The Workflow Collision",
+      "vote": "up",
+      "source": "TLDR",
+      "date": "2026-05-19"
+    },
+    {
+      "url": "https://dm13450.github.io/2026/05/18/the-joys-of-free-cloudflare.html",
+      "title": "The Joys of Free Cloudflare",
+      "vote": "up",
+      "source": "TLDR Dev",
+      "date": "2026-05-19"
     }
   ]
 }
