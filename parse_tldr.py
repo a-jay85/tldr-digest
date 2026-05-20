@@ -12,6 +12,7 @@ import json
 import re
 import sys
 import os
+from difflib import SequenceMatcher
 from urllib.parse import urlparse, parse_qs, urlencode, urlunparse
 
 
@@ -182,6 +183,44 @@ def parse_stories(text: str, source: str, links: dict[str, str]) -> list[dict]:
     return stories
 
 
+AGGREGATOR_DOMAINS = {
+    "threadreaderapp.com", "archive.ph", "archive.org", "web.archive.org",
+    "nitter.net", "12ft.io",
+}
+
+
+def is_aggregator(url: str) -> bool:
+    host = urlparse(url).hostname or ""
+    if host.startswith("www."):
+        host = host[4:]
+    return host in AGGREGATOR_DOMAINS
+
+
+def dedup_by_title(stories: list[dict], threshold: float = 0.7) -> list[dict]:
+    """Merge stories with near-identical titles, preferring non-aggregator URLs."""
+    merged_flags = [False] * len(stories)
+    result = []
+
+    for i, a in enumerate(stories):
+        if merged_flags[i]:
+            continue
+        best = a
+        for j in range(i + 1, len(stories)):
+            if merged_flags[j]:
+                continue
+            b = stories[j]
+            ratio = SequenceMatcher(None, a["title"].lower(), b["title"].lower()).ratio()
+            if ratio >= threshold:
+                merged_flags[j] = True
+                if is_aggregator(best["url_clean"]) and not is_aggregator(b["url_clean"]):
+                    best = b
+        result.append(best)
+
+    if len(stories) != len(result):
+        print(f"  Title dedup: {len(stories)} → {len(result)}", file=sys.stderr)
+    return result
+
+
 def main():
     if len(sys.argv) != 3:
         print(f"Usage: {sys.argv[0]} <input_dir> <output_file>", file=sys.stderr)
@@ -210,6 +249,8 @@ def main():
         if s["url_clean"] not in seen_urls:
             seen_urls.add(s["url_clean"])
             deduped.append(s)
+
+    deduped = dedup_by_title(deduped)
 
     print(f"  Total: {len(all_stories)} → {len(deduped)} after dedup", file=sys.stderr)
 
