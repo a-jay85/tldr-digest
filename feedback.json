@@ -1064,6 +1064,116 @@
       "url": "https://threadreaderapp.com/thread/2056752047031279726.html",
       "title": "Index",
       "date": "2026-05-20"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/tkqm7h",
+      "title": "Making Our Monorepo Ergonomic for Agents",
+      "date": "2026-05-21"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/gb5zoo",
+      "title": "On Building Agents From First Principles",
+      "date": "2026-05-21"
+    },
+    {
+      "url": "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html",
+      "title": "Learnings From 100k Lines of Rust With Ai",
+      "date": "2026-05-21"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/csnxnn",
+      "title": "Gemini 3.5 Flash Developer Guide",
+      "date": "2026-05-21"
+    },
+    {
+      "url": "https://cekrem.github.io/posts/the-tacit-dimension",
+      "title": "Know",
+      "date": "2026-05-21"
+    },
+    {
+      "url": "https://arcplane.ai/journal/software-is-not-solved",
+      "title": "Coding is Solved? Software is Not",
+      "date": "2026-05-21"
+    },
+    {
+      "url": "https://lachlan.nz/blog/the-react2shell-story",
+      "title": "The React2shell Story",
+      "date": "2026-05-21"
+    },
+    {
+      "url": "https://read.engineerscodex.com/p/how-to-not-write-garbage-code-by",
+      "title": "How to Write \"garbage Code\" (by Linus Torvalds)",
+      "date": "2026-05-21"
+    },
+    {
+      "url": "https://github.com/shenli/distributed-system-testing",
+      "title": "Distributed Systems Testing Skills",
+      "date": "2026-05-21"
+    },
+    {
+      "url": "https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents",
+      "title": "Structural Backpressure Beats Smarter Agents",
+      "date": "2026-05-21"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/ki0bx1",
+      "title": "Ai Solves a Longstanding Geometry Conjecture",
+      "date": "2026-05-21"
+    },
+    {
+      "url": "https://kottke.org/26/05/what-if-lock-in-doesnt-matter-so-much-anymore",
+      "title": "What If Lock-in Doesn't Matter So Much Anymore?",
+      "date": "2026-05-21"
+    },
+    {
+      "url": "https://qwen.ai/blog?id=qwen3.7",
+      "title": "Qwen3.7: the Agent Frontier",
+      "date": "2026-05-21"
+    },
+    {
+      "url": "https://searchengineland.com/google-llms-txt-chrome-lighthouse-478246",
+      "title": "Google Adds Llms.txt Check to Chrome Lighthouse",
+      "date": "2026-05-21"
+    },
+    {
+      "url": "https://tomtunguz.com/ai-model-inflation",
+      "title": "The Unsustainable Subsidy",
+      "date": "2026-05-21"
+    },
+    {
+      "url": "https://stability.ai/news-updates/meet-stable-audio-3-the-model-family-built-for-artistic-experimentation-with-open-weight-models",
+      "title": "Stable Audio 3.0",
+      "date": "2026-05-21"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/xn03xh",
+      "title": "Geometry",
+      "date": "2026-05-21"
+    },
+    {
+      "url": "https://github.com/bytedance/lance",
+      "title": "Lance Unified Multimodal Model",
+      "date": "2026-05-21"
+    },
+    {
+      "url": "https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web",
+      "title": "On Google Declaring War on the Web",
+      "date": "2026-05-21"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.19407",
+      "title": "A Bitter Lesson for Data Filtering",
+      "date": "2026-05-21"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/ausjut",
+      "title": "'nothing to Do With Robotics'",
+      "date": "2026-05-21"
+    },
+    {
+      "url": "https://github.com/facebookresearch/wavflow",
+      "title": "Wavflow Generates Audio Directly in Waveform Space",
+      "date": "2026-05-21"
     }
   ],
   "feedback": [
@@ -1199,6 +1309,13 @@
       "vote": "up",
       "source": "TLDR Dev",
       "date": "2026-05-19"
+    },
+    {
+      "url": "https://productify.substack.com/p/ex-stripe-cto-is-running-a-free-pm",
+      "title": "For Your Team",
+      "vote": "down",
+      "source": "TLDR Product",
+      "date": "2026-05-20"
     }
   ]
 }
