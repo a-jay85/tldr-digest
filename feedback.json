@@ -1294,6 +1294,111 @@
       "url": "https://zeroshot.bearblog.dev/google-is-shattering-under-its-own-weight-the-ibm-ification-of-google",
       "title": "Google?)",
       "date": "2026-05-22"
+    },
+    {
+      "url": "https://ben-evans.com/benedictevans/2026/5/24/ai-job-exposure",
+      "title": "Predicting Ai Job Exposure",
+      "date": "2026-05-25"
+    },
+    {
+      "url": "https://joshwcomeau.com/email/wham-launch-005-elephant-2-p",
+      "title": "The Elephant in the Room",
+      "date": "2026-05-25"
+    },
+    {
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html",
+      "title": "The Eternal Sloptember",
+      "date": "2026-05-25"
+    },
+    {
+      "url": "https://olano.dev/blog/dangerously-skip",
+      "title": "--dangerously-skip-reading-code",
+      "date": "2026-05-25"
+    },
+    {
+      "url": "https://github.com/denoland/clawpatrol",
+      "title": "Claw Patrol",
+      "date": "2026-05-25"
+    },
+    {
+      "url": "https://sh-reya.com/blog/ai-qual-analysis",
+      "title": "Exploring Agent-assisted Qualitative Analysis",
+      "date": "2026-05-25"
+    },
+    {
+      "url": "https://anthropic.com/research/glasswing-initial-update",
+      "title": "Project Glasswing: an Initial Update",
+      "date": "2026-05-25"
+    },
+    {
+      "url": "https://developers.openai.com/cookbook/examples/partners/macro_evals_for_agentic_systems/macro_evals_for_agentic_systems",
+      "title": "Evaluating Multi-agent Systems at Scale",
+      "date": "2026-05-25"
+    },
+    {
+      "url": "https://cloudedjudgement.substack.com/p/clouded-judgement-52226-the-neocloud",
+      "title": "The Neocloud Boom",
+      "date": "2026-05-25"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/m5pm5a",
+      "title": "Bumblebee Goes Open Source",
+      "date": "2026-05-25"
+    },
+    {
+      "url": "https://theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
+      "title": "Microsoft Starts Canceling Claude Code Licenses",
+      "date": "2026-05-25"
+    },
+    {
+      "url": "https://github.com/google/ax",
+      "title": "Ax",
+      "date": "2026-05-25"
+    },
+    {
+      "url": "https://red.anthropic.com/2026/exploit-evals",
+      "title": "Measuring Llms' Ability to Develop Exploits",
+      "date": "2026-05-25"
+    },
+    {
+      "url": "https://contraryresearch.substack.com/p/anthropics-march-to-profitability",
+      "title": "Anthropic's March to Profitability",
+      "date": "2026-05-25"
+    },
+    {
+      "url": "https://benmyers.dev/blog/on-the-dl",
+      "title": "On the Dl",
+      "date": "2026-05-25"
+    },
+    {
+      "url": "https://deno.com/blog/v2.8",
+      "title": "Deno 2.8",
+      "date": "2026-05-25"
+    },
+    {
+      "url": "https://susam.net/do-not-roll-your-own.html",
+      "title": "Don't Roll Your Own ...",
+      "date": "2026-05-25"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/cfyfyv",
+      "title": "Gemini 3.5 Flash (low)",
+      "date": "2026-05-25"
+    },
+    {
+      "url": "https://thenextweb.com/news/deepseek-v4-pro-75-percent-price-cut-permanent",
+      "title": "Escalated",
+      "date": "2026-05-25"
+    },
+    {
+      "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
+      "title": "Ai Chip Component Costs: Memory at 63%",
+      "date": "2026-05-25"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/cg5s2p",
+      "title": "Order",
+      "date": "2026-05-25"
     }
   ],
   "feedback": [
@@ -1436,6 +1541,55 @@
       "vote": "down",
       "source": "TLDR Product",
       "date": "2026-05-20"
+    },
+    {
+      "url": "https://elenaverna.com/p/youll-lose-your-job-in-2027",
+      "title": "You'll Lose Your Job in 2027",
+      "vote": "up",
+      "source": "TLDR Product",
+      "date": "2026-05-22"
+    },
+    {
+      "url": "https://inferterra.com/the-new-workspace-a-first-principles-exploration-of-dictation-agents-and-humans",
+      "title": "It's Time to Walk",
+      "vote": "up",
+      "source": "TLDR",
+      "date": "2026-05-24"
+    },
+    {
+      "url": "https://every.to/p/after-automation",
+      "title": "After Automation",
+      "vote": "up",
+      "source": "TLDR",
+      "date": "2026-05-24"
+    },
+    {
+      "url": "https://blog.mozilla.ai/the-interface-is-no-longer-the-product",
+      "title": "The Interface is No Longer the Product",
+      "vote": "up",
+      "source": "TLDR Product",
+      "date": "2026-05-24"
+    },
+    {
+      "url": "https://blog.ravi-mehta.com/p/the-best-prototypes-get-thrown-away",
+      "title": "The Best Prototypes Get Thrown Away",
+      "vote": "up",
+      "source": "TLDR Product",
+      "date": "2026-05-24"
+    },
+    {
+      "url": "https://writing.nikunjk.com/p/the-coddling-of-the-tech-mind",
+      "title": "The Coddling of the Tech Mind",
+      "vote": "up",
+      "source": "TLDR",
+      "date": "2026-05-24"
+    },
+    {
+      "url": "https://cutlefish.substack.com/p/tbm-423-why-defining-teams-is-so",
+      "title": "Why Defining Teams is So Hard",
+      "vote": "up",
+      "source": "TLDR Product",
+      "date": "2026-05-24"
     }
   ]
 }
