@@ -16,20 +16,22 @@ If no fresh stories remain after filtering, scoring and drafting are skipped; th
 
 ## Scoring
 
-Stories are scored 0-100 based on a profile embedded in `bin/digest-prompt`:
+Stories are scored 0–100 based on a profile embedded in `bin/digest-prompt`:
 
 | Range | Topics |
 |-------|--------|
-| **70-100** | AI workflows/tips, AI leadership perspectives, AI and jobs |
-| **40-69** | Web dev/React/frontend, product strategy, developer experience, open source |
-| **20-39** | Funding rounds (if AI-adjacent), generic company news |
+| **70–100** | AI workflows/tips, AI leadership perspectives, AI and jobs |
+| **40–69** | Web dev/React/frontend, product strategy, developer experience, open source |
+| **20–39** | Funding rounds (if AI-adjacent), generic company news |
 | **<20** | Crypto, biotech, sponsored content, pure earnings (excluded) |
 
-Scores are modified by user feedback: stories matching previous thumbs-up get +10, thumbs-down get -10.
+Scores are modified by user feedback: stories matching previous thumbs-up get +10, thumbs-down get −10.
 
 ## Feedback loop
 
-Each digest email includes thumbs-up/thumbs-down links per story. Votes are recorded in a Google Sheet via Apps Script (`feedback_webapp.gs`) and synced into `feedback.json` to influence future scoring.
+Each digest email includes thumbs-up/thumbs-down links per story. Votes are recorded in a Google Sheet via Apps Script (`apps-script/feedback_webapp.gs`) and synced into `feedback.json` to influence future scoring.
+
+Feedback links route through a GitHub Pages redirect (`docs/index.html`) to avoid Gmail mobile's URL rewriting of `script.google.com` links. A shared token (set in both `config.local.json` and Apps Script properties) protects the endpoint.
 
 ## Setup
 
@@ -38,6 +40,7 @@ Each digest email includes thumbs-up/thumbs-down links per story. Votes are reco
 - Python 3
 - [Claude CLI](https://docs.anthropic.com/en/docs/claude-code) (`claude -p` for scoring)
 - Gmail API credentials (`credentials.json`)
+- [clasp](https://github.com/google/clasp) (for deploying Apps Script)
 
 ### Install
 
@@ -49,7 +52,16 @@ pip install -r requirements.txt
 
 1. Place Gmail OAuth `credentials.json` in the repo root (see [Gmail API quickstart](https://developers.google.com/gmail/api/quickstart/python))
 2. Run `python3 gmail_ops.py fetch` once to complete OAuth and generate `token.json`
-3. Edit `config.json` with your email and webapp URL
+3. Copy `config.local.example.json` to `config.local.json` and fill in your values:
+   - `apps_script_url` — your Apps Script deployment URL
+   - `apps_script_token` — shared secret for authenticating requests
+   - `email` — your Gmail address (used for drafts)
+4. Set the same values as **Script Properties** in the Apps Script editor (Project Settings → Script Properties):
+   - `SHEET_ID` — your Google Sheet ID
+   - `TOKEN` — same token as above
+   - `EMAIL` — your Gmail address
+5. Deploy the Apps Script: `clasp push`, then Deploy → Manage deployments → New version
+6. Enable GitHub Pages (Settings → Pages → Deploy from branch `main`, folder `/docs`)
 
 ### Run
 
@@ -57,7 +69,7 @@ pip install -r requirements.txt
 bin/digest-run
 ```
 
-The runner is designed to be triggered by launchd at 07:00 on weekdays:
+The runner is designed to be triggered by launchd on weekdays:
 
 ```bash
 launchctl start com.tldr-digest.daily
@@ -67,19 +79,25 @@ launchctl start com.tldr-digest.daily
 
 ```
 bin/
-  digest-run          # Main pipeline orchestrator (bash)
-  digest-prompt       # LLM prompt template for scoring
+  digest-run            # Main pipeline orchestrator (bash)
+  digest-prompt         # LLM prompt template for scoring
 
-gmail_ops.py          # Fetch, draft, and archive Gmail operations
-parse_tldr.py         # Parse TLDR newsletter HTML into stories
-filter_seen.py        # Remove recently seen stories
-build_email.py        # Generate digest HTML email
-update_seen.py        # Track which URLs have been sent
-sync_feedback.py      # Pull votes from Google Sheet
+gmail_ops.py            # Fetch, draft, and archive Gmail operations
+parse_tldr.py           # Parse TLDR newsletter plaintext into stories
+filter_seen.py          # Remove recently seen stories
+build_email.py          # Generate digest HTML email
+update_seen.py          # Track which URLs have been sent
+sync_feedback.py        # Pull votes from Google Sheet
+config_util.py          # Shared config loader (merges config.local.json)
 
-feedback_webapp.gs    # Apps Script: receives vote clicks
-auto_send_digest.gs   # Apps Script: auto-send the draft
+apps-script/
+  feedback_webapp.gs    # Apps Script: receives vote clicks, exports data
+  auto_send_digest.gs   # Apps Script: auto-send the draft
 
-config.json           # Runtime config (email, webapp URL)
-feedback.json         # Persistent feedback + seen URL state
+docs/
+  index.html            # GitHub Pages redirect for feedback links
+
+config.json             # Public config (GitHub Pages URL)
+config.local.json       # Private config (API URLs, token, email) — gitignored
+feedback.json           # Persistent feedback + seen URL state
 ```
