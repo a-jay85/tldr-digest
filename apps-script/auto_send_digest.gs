@@ -2,7 +2,7 @@
 // Add this to the same Apps Script project as your feedback endpoint.
 //
 // Run installDigestTrigger() once from the editor to set up the daily trigger.
-// It will run sendPendingDigest() every day at ~11:30 AM Pacific.
+// It will run sendPendingDigest() every day at ~7:30 AM Pacific.
 
 var SUBJECT_MATCH = "TLDR Digest";
 var MAX_DRAFT_AGE_HOURS = 18;
@@ -42,9 +42,9 @@ function installDigestTrigger() {
   ScriptApp.newTrigger("sendPendingDigest")
     .timeBased()
     .everyDays(1)
-    .atHour(11)
+    .atHour(7)
     .nearMinute(30)
     .create();
 
-  Logger.log("Installed daily trigger for sendPendingDigest at ~11:30 AM project time.");
+  Logger.log("Installed daily trigger for sendPendingDigest at ~7:30 AM project time.");
 }
