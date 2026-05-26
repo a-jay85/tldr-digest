@@ -1399,6 +1399,126 @@
       "url": "https://links.tldrnewsletter.com/cg5s2p",
       "title": "Order",
       "date": "2026-05-25"
+    },
+    {
+      "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly",
+      "title": "Using Ai to Write Better Code More Slowly",
+      "date": "2026-05-26"
+    },
+    {
+      "url": "https://jeffgothelf.com/blog/karpathy-said-vibe-coding-is-obsolete-what-he-described-instead-is-product-management",
+      "title": "Karpathy Said Vibe Coding is Obsolete",
+      "date": "2026-05-26"
+    },
+    {
+      "url": "https://thenextweb.com/news/microsoft-claude-code-retreat-ai-cost",
+      "title": "Ai",
+      "date": "2026-05-26"
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2058914803360600238.html",
+      "title": "From Saas Tools to Ai Workspaces",
+      "date": "2026-05-26"
+    },
+    {
+      "url": "https://thezvi.wordpress.com/2026/05/22/gemini-3-5-flash-looks-good-for-how-fast-it-is",
+      "title": "Gemini 3.5 Flash Looks Good for How Fast it is",
+      "date": "2026-05-26"
+    },
+    {
+      "url": "https://github.com/anomalyco/models.dev",
+      "title": "Models.dev",
+      "date": "2026-05-26"
+    },
+    {
+      "url": "https://github.com/kubernetes-sigs/agent-sandbox",
+      "title": "Agent Sandbox",
+      "date": "2026-05-26"
+    },
+    {
+      "url": "https://benn.substack.com/p/wac",
+      "title": "Wac",
+      "date": "2026-05-26"
+    },
+    {
+      "url": "https://saastr.com/top-10-learnings-from-building-our-own-ai-vp-of-customer-success-qbee",
+      "title": "\u201cqbee\u201d",
+      "date": "2026-05-26"
+    },
+    {
+      "url": "https://the-decoder.com/google-deepminds-alphaproof-nexus-solves-decades-old-math-problems-for-a-few-hundred-dollars",
+      "title": "For a Few Hundred Dollars",
+      "date": "2026-05-26"
+    },
+    {
+      "url": "https://androidessence.com/leave-me-behind",
+      "title": "Leave Me Behind",
+      "date": "2026-05-26"
+    },
+    {
+      "url": "https://nodejs.org/en/blog/migrations/axios-to-fetch",
+      "title": "Axios to Whatwg Fetch",
+      "date": "2026-05-26"
+    },
+    {
+      "url": "https://darthealth.com/blog/jen-can-never-leave",
+      "title": "Jen Can Never Leave",
+      "date": "2026-05-26"
+    },
+    {
+      "url": "https://github.com/franciscop/brownies",
+      "title": "Brownies",
+      "date": "2026-05-26"
+    },
+    {
+      "url": "https://unix.foo/posts/nobody-cracks-open-a-programming-book",
+      "title": "Nobody Cracks Open a Programming Book Anymore",
+      "date": "2026-05-26"
+    },
+    {
+      "url": "https://categoryvc.com/writing/where-the-ai-hardware-market-is",
+      "title": "On Ai Hardware",
+      "date": "2026-05-26"
+    },
+    {
+      "url": "https://strangeloopcanon.com/p/introducing-benchbench",
+      "title": "Introducing Benchbench",
+      "date": "2026-05-26"
+    },
+    {
+      "url": "https://paperswithcode.co/methods/on-policy-distillation",
+      "title": "On-policy Distillation",
+      "date": "2026-05-26"
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2058194939264307638.html",
+      "title": "Gpt-5.6 Leaks: Coming in June",
+      "date": "2026-05-26"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/9vbj0g",
+      "title": "Deepseek's 10 Trillion Usd Grand Strategy",
+      "date": "2026-05-26"
+    },
+    {
+      "url": "https://blog.apiad.net/p/ai-is-doing-something-weird-to-science",
+      "title": "Ai is Doing Something Weird to Science",
+      "date": "2026-05-26"
+    },
+    {
+      "url": "https://brandonrozek.com/blog/discrimination-testing",
+      "title": "A Quick Look Into Discrimination Testing",
+      "date": "2026-05-26"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/a7mhty",
+      "title": "How Ai Will Save Prediction Markets",
+      "date": "2026-05-26"
+    },
+    {
+      "url": "https://jola.dev/posts/the-social-contract-of-writing",
+      "title": "The Social Contract of Writing",
+      "date": "2026-05-26"
     }
   ],
   "feedback": [
@@ -1590,6 +1710,20 @@
       "vote": "up",
       "source": "TLDR Product",
       "date": "2026-05-24"
+    },
+    {
+      "url": "https://ben-evans.com/benedictevans/2026/5/24/ai-job-exposure",
+      "title": "Predicting Ai Job Exposure",
+      "vote": "up",
+      "source": "TLDR",
+      "date": "2026-05-26"
+    },
+    {
+      "url": "https://olano.dev/blog/dangerously-skip",
+      "title": "--dangerously-skip-reading-code",
+      "vote": "up",
+      "source": "TLDR Dev",
+      "date": "2026-05-26"
     }
   ]
 }
