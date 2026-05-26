@@ -4,7 +4,7 @@ Personal newsletter curator. Fetches TLDR newsletters from Gmail, scores stories
 
 ## Owner
 
-- **Email:** REDACTED_EMAIL
+- **Email:** configured in `config.local.json`
 - **Timezone:** America/Los_Angeles (Pacific)
 - **Sender:** dan@tldrnewsletter.com
 

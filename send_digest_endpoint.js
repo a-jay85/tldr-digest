@@ -23,7 +23,7 @@ function doPost(e) {
 }
 
 function sendDigestEmail(payload) {
-  var recipient = "REDACTED_EMAIL";
+  var recipient = PropertiesService.getScriptProperties().getProperty("EMAIL");
   var subject = payload.subject || "TLDR Digest";
   var htmlBody = payload.htmlBody || "<p>No content</p>";
 

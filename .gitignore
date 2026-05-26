@@ -7,4 +7,7 @@ digest_subject.txt
 stories.json
 scored_stories.json
 stories_fresh.json
+config.local.json
+.clasp.json
+__pycache__/
 .claude/

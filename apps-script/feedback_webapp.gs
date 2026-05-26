@@ -5,14 +5,23 @@
 //   ?action=feedback&vote=up|down&title=...&url=...&source=...&score=...
 //   ?action=export  (returns all feedback as JSON for sync_feedback.py)
 //
-// Setup: create a Google Sheet, paste its ID below, and ensure the first
-// sheet is named "Feedback". The script auto-creates the header row.
+// Setup: set Script Properties (SHEET_ID, TOKEN, EMAIL) via
+// Project Settings → Script Properties. The script auto-creates the header row.
 
-var SHEET_ID = "REDACTED_SHEET_ID";
 var SHEET_NAME = "Feedback Log";
 
+function getSheetId() {
+  return PropertiesService.getScriptProperties().getProperty("SHEET_ID");
+}
+
+function validateToken(params) {
+  var expected = PropertiesService.getScriptProperties().getProperty("TOKEN");
+  if (!expected) return true;
+  return params.token === expected;
+}
+
 function getOrCreateSheet() {
-  var ss = SpreadsheetApp.openById(SHEET_ID);
+  var ss = SpreadsheetApp.openById(getSheetId());
   var sheet = ss.getSheetByName(SHEET_NAME);
   if (!sheet) {
     sheet = ss.insertSheet(SHEET_NAME);
@@ -24,6 +33,10 @@ function getOrCreateSheet() {
 }
 
 function doGet(e) {
+  if (!validateToken(e.parameter)) {
+    return HtmlService.createHtmlOutput("<p>Unauthorized.</p>");
+  }
+
   var action = (e.parameter.action || "").toLowerCase();
 
   if (action === "feedback") {

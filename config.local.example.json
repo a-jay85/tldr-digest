@@ -1,0 +1,5 @@
+{
+  "apps_script_url": "https://script.google.com/macros/s/YOUR_SCRIPT_ID/exec",
+  "apps_script_token": "YOUR_SECRET_TOKEN",
+  "email": "your-email@gmail.com"
+}

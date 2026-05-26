@@ -12,10 +12,14 @@ import json
 import sys
 import urllib.request
 from datetime import datetime
+from urllib.parse import quote
+
+from config_util import load_config
 
 
-def fetch_feedback(webapp_url: str) -> list[dict]:
-    url = f"{webapp_url}?action=export"
+def fetch_feedback(webapp_url: str, token: str = "") -> list[dict]:
+    token_param = f'&token={quote(token, safe="")}' if token else ''
+    url = f"{webapp_url}?action=export{token_param}"
     req = urllib.request.Request(url, headers={"User-Agent": "sync_feedback/1.0"})
     with urllib.request.urlopen(req, timeout=15) as resp:
         content_type = resp.headers.get("Content-Type", "")
@@ -34,20 +38,19 @@ def main():
               file=sys.stderr)
         sys.exit(1)
 
-    with open(sys.argv[1]) as f:
-        config = json.load(f)
-
-    webapp_url = config.get("webapp_url", "")
+    config = load_config(sys.argv[1])
+    webapp_url = config.get("apps_script_url", "")
     if not webapp_url:
-        print("No webapp_url in config.json — nothing to sync.", file=sys.stderr)
+        print("No apps_script_url in config — set it in config.local.json.", file=sys.stderr)
         sys.exit(0)
+    token = config.get("apps_script_token", "")
 
     with open(sys.argv[2]) as f:
         local = json.load(f)
 
     existing = {(e["url"], e["vote"]) for e in local.get("feedback", [])}
 
-    rows = fetch_feedback(webapp_url)
+    rows = fetch_feedback(webapp_url, token)
     added = 0
     for row in rows:
         url = row.get("URL", "")

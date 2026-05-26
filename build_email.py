@@ -12,6 +12,8 @@ import sys
 from datetime import datetime
 from urllib.parse import quote
 
+from config_util import load_config
+
 
 SCORE_COLORS = {"score-high": "#16a34a", "score-med": "#d97706", "score-low": "#a1a1aa"}
 
@@ -24,14 +26,16 @@ def score_class(score: int) -> str:
     return "score-low"
 
 
-def build_story_html(story: dict, webapp_url: str) -> str:
+def build_story_html(story: dict, webapp_url: str, token: str = "") -> str:
     pill = score_class(story["score"])
     read_time = f'{story["read_time"]} min read' if story["read_time"] > 0 else "GitHub repo"
 
     feedback = ""
     if webapp_url:
+        token_param = f'&token={quote(token, safe="")}' if token else ''
         params_up = (
             f'?action=feedback&vote=up'
+            f'{token_param}'
             f'&title={quote(story["title"], safe="")}'
             f'&url={quote(story["url_clean"], safe="")}'
             f'&source={quote(story["source"], safe="")}'
@@ -71,13 +75,15 @@ MAX_FOR_YOU = 12
 MAX_ALSO_TODAY = 12
 
 
-def build_compact_html(story: dict, webapp_url: str) -> str:
+def build_compact_html(story: dict, webapp_url: str, token: str = "") -> str:
     read_time = f'{story["read_time"]} min' if story["read_time"] > 0 else "repo"
 
     feedback = ""
     if webapp_url:
+        token_param = f'&token={quote(token, safe="")}' if token else ''
         params_up = (
             f'?action=feedback&vote=up'
+            f'{token_param}'
             f'&title={quote(story["title"], safe="")}'
             f'&url={quote(story["url_clean"], safe="")}'
             f'&source={quote(story["source"], safe="")}'
@@ -102,7 +108,7 @@ def build_compact_html(story: dict, webapp_url: str) -> str:
     )
 
 
-def build_email(stories: list[dict], webapp_url: str) -> tuple[str, str]:
+def build_email(stories: list[dict], webapp_url: str, token: str = "") -> tuple[str, str]:
     today = datetime.now().strftime("%A, %B %-d, %Y")
     subject = f"\U0001f4cb TLDR Digest — {today}"
 
@@ -117,13 +123,14 @@ def build_email(stories: list[dict], webapp_url: str) -> tuple[str, str]:
     sources = sorted(set(s["source"] for s in all_included))
     count = len(all_included)
 
-    for_you_html = "\n".join(build_story_html(s, webapp_url) for s in for_you)
-    also_html = "\n".join(build_compact_html(s, webapp_url) for s in also_today)
+    for_you_html = "\n".join(build_story_html(s, webapp_url, token) for s in for_you)
+    also_html = "\n".join(build_compact_html(s, webapp_url, token) for s in also_today)
 
     footer_feedback = ""
     if webapp_url:
+        token_param = f'&token={quote(token, safe="")}' if token else ''
         footer_feedback = (
-            f'<br><a href="{webapp_url}?action=stats" '
+            f'<br><a href="{webapp_url}?action=stats{token_param}" '
             f'style="color:#71717a;">View feedback stats</a>'
         )
 
@@ -165,12 +172,11 @@ def main():
     with open(sys.argv[1]) as f:
         stories = json.load(f)
 
-    with open(sys.argv[2]) as f:
-        config = json.load(f)
-
+    config = load_config(sys.argv[2])
     webapp_url = config.get("webapp_url", "")
+    token = config.get("apps_script_token", "")
 
-    subject, html = build_email(stories, webapp_url)
+    subject, html = build_email(stories, webapp_url, token)
 
     with open("digest_subject.txt", "w") as f:
         f.write(subject)

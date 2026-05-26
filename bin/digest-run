@@ -10,7 +10,7 @@ set -euo pipefail
 
 export PATH="/usr/local/bin:/opt/homebrew/bin:$HOME/.bun/bin:$HOME/.local/bin:/Applications/cmux.app/Contents/Resources/bin:$PATH"
 
-REPO="REDACTED_PATH"
+REPO="$(cd "$(dirname "$0")/.." && pwd)"
 LOG_DIR="$HOME/.claude/projects/-Users-ajaynicolas-GitHub-tldr-digest/digest/logs"
 mkdir -p "$LOG_DIR"
 LOG="$LOG_DIR/$(date +%Y-%m-%d).log"

@@ -20,6 +20,8 @@ from google.oauth2.credentials import Credentials
 from google_auth_oauthlib.flow import InstalledAppFlow
 from googleapiclient.discovery import build
 
+from config_util import load_config
+
 SCOPES = ["https://www.googleapis.com/auth/gmail.modify"]
 PROJECT_DIR = Path(__file__).resolve().parent
 CREDENTIALS_FILE = PROJECT_DIR / "credentials.json"
@@ -118,6 +120,7 @@ def cmd_fetch():
 
 def cmd_draft():
     service = get_service()
+    config = load_config(PROJECT_DIR / "config.json")
     subject_file = PROJECT_DIR / "digest_subject.txt"
     html_file = PROJECT_DIR / "digest.html"
 
@@ -131,7 +134,10 @@ def cmd_draft():
     from email.mime.text import MIMEText
 
     msg = MIMEText(html_body, "html")
-    msg["to"] = "REDACTED_EMAIL"
+    msg["to"] = config.get("email", "")
+    if not msg["to"]:
+        print("No 'email' in config — set it in config.local.json", file=sys.stderr)
+        sys.exit(1)
     msg["subject"] = subject
     raw = base64.urlsafe_b64encode(msg.as_bytes()).decode()
 
