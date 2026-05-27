@@ -1,6 +1,6 @@
 #!/bin/bash
 # TLDR daily digest runner.
-# Called by launchd at 09:00 weekdays. Only the scoring step uses an LLM;
+# Called by launchd at 07:00 weekdays. Only the scoring step uses an LLM;
 # everything else is deterministic Python.
 #
 # To test manually: bin/digest-run
