@@ -1,511 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html",
-      "title": "10 Lessons for Agentic Coding",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://eugeneyan.com//writing/working-with-ai",
-      "title": "How to Work and Compound With Ai",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://developers.openai.com/cookbook/examples/codex/build_iterative_repair_loops_with_codex",
-      "title": "Building Self-repairing Agent Loops",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://skiplabs.io/blog/codegen_as_compiler",
-      "title": "Treat Agent Output Like Compiler Output",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://interconnects.ai/p/notes-from-inside-chinas-ai-labs",
-      "title": "Notes From Inside China's Ai Labs",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://martinfowler.com/articles/what-is-code.html",
-      "title": "What is Code?",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://dev.to/pat9000/your-ai-agent-will-eventually-delete-prod-3k4a",
-      "title": "Your Ai Agent Will Eventually Delete Prod",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did",
-      "title": "Ai Didn't Delete Your Database, You Did",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://1984.substack.com/p/long-ai-short-agi",
-      "title": "Long Ai Short Agi",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://bsuh.bearblog.dev/agents-need-control-flow",
-      "title": "Agents Need Control Flow, Not More Prompts",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://claude.com/blog/new-in-claude-managed-agents",
-      "title": "Claude Adds Self-improving Agents",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://thetypicalset.com/blog/thoughts-on-coding-agents",
-      "title": "The Bottleneck Was Never the Code",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/bzqw0n",
-      "title": "Fast Mode for Claude Opus 4.7",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://addyosmani.com/blog/cognitive-surrender",
-      "title": "Cognitive Surrender",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://engineering.atspotify.com/2026/5/spotify-ads-api-claude-plugins",
-      "title": "Claude Code Plugins",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://sriramkrishnan.substack.com/p/ai-economics",
-      "title": "Ai Economics",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://voidzero.dev/posts/announcing-rolldown-1-0",
-      "title": "Announcing Rolldown 1.0",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://crawshaw.io/blog/agent-principal-agent",
-      "title": "The Agent Principal-agent Problem",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://oreilly.com/radar/the-organization-is-the-bottleneck",
-      "title": "The Organization is the Bottleneck",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://every.to/context-window/openai-flips-the-script",
-      "title": "Openai Flips the Script",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://memory.cobanov.dev",
-      "title": "How Ai Agent Memory Works",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag",
-      "title": "Rag",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://github.com/rohitg00/agentmemory",
-      "title": "Agentmemory",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools",
-      "title": "Tools",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://anthropic.com/research/natural-language-autoencoders",
-      "title": "Natural Language Autoencoders",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://onlycfo.io/p/is-my-team-ai-pilled",
-      "title": "Is My Team Ai-pilled?",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://github.com/vercel-labs/open-agents",
-      "title": "Open Agents",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://modal.com/blog/truly-serverless-gpus",
-      "title": "How to Achieve Truly Serverless Gpus",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://teslarati.com/spacexai-signs-agreement-anthropic-massive-ai-supercomputer-access",
-      "title": "Access",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://adaptivesoftware.substack.com/p/the-wrapper-and-the-code",
-      "title": "The Wrapper and the Code",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/gbgx3e",
-      "title": "Gpt-5.5 Instant",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://thenewstack.io/subquadratic-12-million-context-window",
-      "title": "12-million-token Window",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/o8dqts",
-      "title": "Openai Released Realtime Audio Models",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://deepmind.google/blog/alphaevolve-impact",
-      "title": "Across Fields",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://stacksweep.substack.com/p/how-google-made-their-gemma-llm-3x",
-      "title": "How Google Made Their Gemma Llm 3x Faster",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://github.com/strukto-ai/mirage",
-      "title": "Mirage",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://backgroundnoise.blog/p/moats-memory-vs-customization",
-      "title": "Moats: Memory Vs. Customization",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://github.com/statewright/statewright",
-      "title": "Statewright",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace",
-      "title": "Appearing Productive in the Workplace",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://github.com/cactus-compute/needle",
-      "title": "Cactus Needle",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://softwaredoug.com/blog/2026/05/11/the-new-agentic-search-models.html",
-      "title": "Agentic Search Models",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://wil.to/posts/googles-prompt-api",
-      "title": "Google's Prompt Api",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4",
-      "title": "Drafters",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://testing.googleblog.com/2026/05/construct-with-collaborators-call-with.html",
-      "title": "Construct With Collaborators, Call With Work",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/2wi4ts",
-      "title": "Perplexity Brings Personal Computer to Mac",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities",
-      "title": "Ai Slop is Killing Online Communities",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://programbench.com",
-      "title": "Programbench",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/uxkrwx",
-      "title": "What Parameter Golf Taught Us",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://github.com/anthropics/claude-for-legal",
-      "title": "Claude for Legal",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://mattstromawn.com/writing/design-from-the-inside",
-      "title": "Design From the Inside",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://simonwillison.net/2026/may/4/redis-array",
-      "title": "To Redis.",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://jax-ml.github.io/scaling-book",
-      "title": "How to Scale Your Model",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/ovfv9r",
-      "title": "Monitoring Reliably at Scale",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://github.com/cloudflare/agentic-inbox",
-      "title": "Agentic Inbox",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://thatprivacyguy.com/blog/chrome-silent-nano-install",
-      "title": "Without Consent",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://github.com/antirez/ds4",
-      "title": "Ds4.c",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://moq.dev/blog/webrtc-is-the-problem",
-      "title": "Openai's Webrtc Problem",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://hidde.blog/web-ai-breakout",
-      "title": "Open Web vs Ai: What Can W3c Do?",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://thenextweb.com/news/google-blackstone-kkr-omnibus-ai-licensing-private-equity",
-      "title": "Agreement. That May Be the Smarter Play",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://weightythoughts.com/p/world-models-can-change-everything",
-      "title": "World Models Can Change Everything",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://lucavall.in/blog/platform-engineering-end-to-end",
-      "title": "Platform Engineering End-to-end",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://blog.val.town/better-auth",
-      "title": "From Supabase to Clerk to Better Auth",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://probablydance.com/2026/02/10/how-programmers-spend-their-time",
-      "title": "How Programmers Spend Their Time",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha",
-      "title": "Recaptcha",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android",
-      "title": "Gemini Intelligence Comes to Android",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://databricks.com/blog/10-trillion-samples-day-scaling-beyond-traditional-monitoring-infra-databricks",
-      "title": "Infra at Databricks",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://anthropic.com/news/finance-agents",
-      "title": "Agents for Financial Services",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://venturebeat.com/technology/miami-startup-subquadratic-claims-1-000x-ai-efficiency-gain-with-subq-model-researchers-demand-independent-proof",
-      "title": "Model; Researchers Demand Independent Proof",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://blog.cloudflare.com/quic-death-spiral-fix",
-      "title": "Bug",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://discord.com/blog/how-discord-automates-scylladb-clusters-at-scale",
-      "title": "How Discord Automates Scylladb Clusters at Scale",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://matklad.github.io/2026/05/12/software-architecture.html",
-      "title": "Learning Software Architecture",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://arstechnica.com/gadgets/2026/05/google-says-android-is-getting-a-big-ai-overhaul-in-2026",
-      "title": "Android is Getting a Big Ai Overhaul in 2026",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://smashingmagazine.com/2026/05/architecture-local-first-web-development",
-      "title": "The Architecture of Local-first Web Development",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://elenaverna.com/p/the-biggest-takeaway-from-my-stripe",
-      "title": "The Biggest Takeaway From My Stripe Sessions Talk",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://thefinancialengineer.substack.com/p/the-april-every-ai-plan-broke",
-      "title": "The April Every Ai Plan Broke",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://ishadeed.com/article/range-syntax",
-      "title": "Media Queries Range Syntax",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://github.com/insforge/insforge",
-      "title": "Insforge",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://alphaxiv.org/blog/reinforcement-learning-for-rlms",
-      "title": "Reinforcing Recursive Language Models",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://arxiviq.substack.com/p/compute-optimal-tokenization",
-      "title": "Compute Optimal Tokenization",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models",
-      "title": "Apple Explores Multi-model Ai in Ios 27",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state",
-      "title": "Async Rust Never Left the Mvp State",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://macrumors.com/2026/05/05/openai-fast-tracking-ai-phone-2027",
-      "title": "Openai Fast-tracking Ai Phone for 2027 Launch",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://til.andrew-quinn.me/posts/replacing-a-3-gb-sqlite-database-with-a-7-mb-fst-finite-state-trandsucer-binary",
-      "title": "Transducer) Binary",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://seancai.com/philosophy/good_qc_rl_data",
-      "title": "Good Qc for Rl Data",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://blogs.nvidia.com/blog/spectrum-x-ethernet-mrc",
-      "title": "The Standard for Gigascale Ai, Now With Mrc",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://lightseek.org/blog/lightseek-tokenspeed.html",
-      "title": "Workloads",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://drtompollak.substack.com/p/all-the-demons-hiding-in-your-ais",
-      "title": "All the Demons Hiding in Your Ais\u2026 Ranked!",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://harvey.ai/blog/introducing-harveys-legal-agent-benchmark",
-      "title": "Introducing Harvey's Legal Agent Benchmark",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://dpereira.substack.com/p/7-reasons-why-product-is-damn-hard",
-      "title": "7 Reasons Why Product is Damn Hard in Europe",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.10730",
-      "title": "Qwen-image-2.0 Technical Report",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://venturebeat.com/technology/perceptron-mk1-shocks-with-highly-performant-video-analysis-ai-model-80-90-cheaper-than-anthropic-openai-and-google",
-      "title": "80-90% Cheaper Than Anthropic, Openai & Google",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://macrumors.com/2026/05/06/google-search-ai-mode-expert-advice",
-      "title": "Media",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://sqlite.org/mostdeployed.html",
-      "title": "Most Widely Deployed and Used Database Engine",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://sherwood.news/markets/alphabet-gains-on-report-that-anthropics-committed-to-spending-200-billion-on-cloud-services-over-the-next-five-years",
-      "title": "Billion on Cloud Services Over the Next 5 Years",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/8xbwsr",
-      "title": "Building a Leaner and Faster Coinbase",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://susam.net/inverse-laws-of-robotics.html",
-      "title": "Three Inverse Laws of Ai and Robotics",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://charlesleifer.com/blog/redis-and-the-cost-of-ambition",
-      "title": "Redis and the Cost of Ambition",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/egnssn",
-      "title": "27",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://elliotcsmith.com/dont-sell-the-build-effort",
-      "title": "Don't Sell the Build Effort",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://yuanchuan.dev/multi-stroke-text-effect-in-css",
-      "title": "Multi-stroke Text Effect in Css",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://arstechnica.com/gadgets/2026/05/googles-android-powered-laptops-are-called-googlebooks-and-theyre-coming-this-year",
-      "title": "Coming This Year",
-      "date": "2026-05-13"
-    },
-    {
       "url": "https://epochai.substack.com/p/the-economics-of-superstar-ai-researchers",
       "title": "The Economics of Superstar Ai Researchers",
       "date": "2026-05-14"
@@ -1604,6 +1099,106 @@
       "url": "https://microsoft.ai/news/mai-image-2-5-launches-at-no-3-on-arena-ai",
       "title": "Mai-image-2.5 Launches at No. 3 on Arena",
       "date": "2026-05-27"
+    },
+    {
+      "url": "https://arps18.github.io/posts/claude-code-mastery",
+      "title": "Beyond the Prompt: Claude Code",
+      "date": "2026-05-28"
+    },
+    {
+      "url": "https://spin.atomicobject.com/using-agents-growth",
+      "title": "How I Use Agents Without Stopping My Own Growth",
+      "date": "2026-05-28"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/mwo2ci",
+      "title": "Building Self-improving Tax Agents With Codex",
+      "date": "2026-05-28"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/hgn6fj",
+      "title": "Avoiding Death on the Yellow Brick Road",
+      "date": "2026-05-28"
+    },
+    {
+      "url": "https://shvetsm.github.io/posts/the-best-engineers-write-less-code",
+      "title": "The Best Engineers Write Less Code",
+      "date": "2026-05-28"
+    },
+    {
+      "url": "https://developers.openai.com/api/docs/guides/secure-mcp-tunnels",
+      "title": "Secure Mcp Tunnel",
+      "date": "2026-05-28"
+    },
+    {
+      "url": "https://performance.dev/how-is-linear-so-fast-a-technical-breakdown",
+      "title": "How's Linear So Fast? a Technical Breakdown",
+      "date": "2026-05-28"
+    },
+    {
+      "url": "https://posthog.com/blog/training-ai-models",
+      "title": "Training Our Own Ai Models",
+      "date": "2026-05-28"
+    },
+    {
+      "url": "https://github.com/0-ai-ug/cate",
+      "title": "Cate",
+      "date": "2026-05-28"
+    },
+    {
+      "url": "https://ochagavia.nl/blog/fully-in-browser-container-builds",
+      "title": "Fully In-browser Container Builds",
+      "date": "2026-05-28"
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2059675872408260816.html",
+      "title": "Liteparse V2.0",
+      "date": "2026-05-28"
+    },
+    {
+      "url": "https://daniel.haxx.se/blog/2026/05/26/the-pressure",
+      "title": "The Pressure",
+      "date": "2026-05-28"
+    },
+    {
+      "url": "https://dubroy.com/blog/fast-is-better-than-slow",
+      "title": "Fast is Better Than Slow",
+      "date": "2026-05-28"
+    },
+    {
+      "url": "https://elevenlabs.io/blog/introducing-music-v2",
+      "title": "Elevenlabs Music Generation Model",
+      "date": "2026-05-28"
+    },
+    {
+      "url": "https://expo.dev/blog/expo-ui-stable-sdk-56",
+      "title": "Import",
+      "date": "2026-05-28"
+    },
+    {
+      "url": "https://databricks.com/blog/reliable-llm-inference-scale",
+      "title": "Reliable Llm Inference at Scale",
+      "date": "2026-05-28"
+    },
+    {
+      "url": "https://sverre.me/blog/rust-on-kindle",
+      "title": "Rust (and Slint) on a Jailbroken Kindle",
+      "date": "2026-05-28"
+    },
+    {
+      "url": "https://stratechery.com/2026/the-spacex-ipo-and-data-centers-in-space",
+      "title": "The Spacex Ipo and Data Centers in Space",
+      "date": "2026-05-28"
+    },
+    {
+      "url": "https://om.co/2026/05/26/the-copy-and-the-guru",
+      "title": "The Copy and the Guru",
+      "date": "2026-05-28"
+    },
+    {
+      "url": "https://cognition.ai/blog/series-d",
+      "title": "More Devins in More Places",
+      "date": "2026-05-28"
     }
   ],
   "feedback": [
@@ -1837,6 +1432,20 @@
       "vote": "up",
       "source": "TLDR Dev",
       "date": "2026-05-26"
+    },
+    {
+      "url": "https://lennysnewsletter.com/p/how-i-ai-how-the-engineer-behind",
+      "title": "How Claude Cowork's Lead Engineer Uses Ai",
+      "vote": "up",
+      "source": "TLDR AI",
+      "date": "2026-05-27"
+    },
+    {
+      "url": "https://jry.io/writing/use-boring-languages-with-llms",
+      "title": "Use Boring Languages With Llms",
+      "vote": "up",
+      "source": "TLDR Dev",
+      "date": "2026-05-27"
     }
   ]
 }
