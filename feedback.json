@@ -1,131 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://epochai.substack.com/p/the-economics-of-superstar-ai-researchers",
-      "title": "The Economics of Superstar Ai Researchers",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://github.com/codebuffai/codebuff",
-      "title": "Codebuff",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://sockpuppet.org/blog/2026/05/12/emacsification",
-      "title": "The Emacsification of Software",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://github.com/millionco/react-doctor",
-      "title": "React Doctor",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/9dlcy9",
-      "title": "How Openai Built the Codex Windows Sandbox",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://wasp.sh/blog/2026/05/13/new-language-for-web-dev-was-a-mistake",
-      "title": "Development Was a Mistake",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/wk36lx",
-      "title": "Is Software Losing Its Head?",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/wt6iuu",
-      "title": "Krishna Rao Podcast Appearance",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/2f6ej8",
-      "title": "Cybersecurity Benchmark",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/kp8dre",
-      "title": "Security Architecture Behind Perplexity Computer",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://vercel.com/blog/ai-gateway-production-index",
-      "title": "Ai Gateway Production Trends",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://pytorch.org/blog/pytorch-2-12-release-blog",
-      "title": "Pytorch 2.12 Release Highlights",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://laurent.le-brun.eu/blog/a-history-of-ides-at-google",
-      "title": "A History of Ides at Google",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://threadreaderapp.com/thread/2054625030970220834.html",
-      "title": "The Notion Developer Platform",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://denodell.com/blog/browsers-treat-big-sites-differently",
-      "title": "Browsers Treat Big Sites Differently",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://techcrunch.com/2026/05/13/adaption-aims-big-with-autoscientist-an-ai-tool-that-helps-models-train-themselves",
-      "title": "Train Themselves",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://jorijn.com/en/blog/leaving-github-for-forgejo",
-      "title": "Why I'm Leaving Github for Forgejo",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://anthropic.com/news/claude-for-small-business",
-      "title": "Claude for Small Business",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://questdb.com/blog/window-join-parallel-vectorized",
-      "title": "How We Made Window Join Parallel and Vectorized",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://om.co/2026/05/13/ai-is-the-new-netflix",
-      "title": "Ai is the New Netflix",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://blog.kilo.ai/p/we-tested-deepseek-v4-pro-and-flash",
-      "title": "K2.6",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/zalq7l",
-      "title": "Anthropic Wants Small Businesses to Use Claude",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://cnbc.com/2026/05/13/amazon-ditches-rufus-ai-chatbot-in-favor-of-alexa-shopping-agent.html",
-      "title": "Strategy Pivot",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://econlab.substack.com/p/anthropic-beats-openai",
-      "title": "Anthropic Beats Openai on Business Adoption",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/pqgk27",
-      "title": "Google Plans to Announce a New Gemini Model",
-      "date": "2026-05-14"
-    },
-    {
       "url": "https://links.tldrnewsletter.com/mf7czo",
       "title": "The Ultimate Guide to /goal",
       "date": "2026-05-15"
@@ -1199,6 +1074,116 @@
       "url": "https://cognition.ai/blog/series-d",
       "title": "More Devins in More Places",
       "date": "2026-05-28"
+    },
+    {
+      "url": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code",
+      "title": "Introducing Dynamic Workflows",
+      "date": "2026-05-29"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/ptlqbv",
+      "title": "The Orchestration Tax",
+      "date": "2026-05-29"
+    },
+    {
+      "url": "https://anthropic.com/news/claude-opus-4-8",
+      "title": "Opus 4.8",
+      "date": "2026-05-29"
+    },
+    {
+      "url": "https://dropbox.tech/culture/beyond-code-generation-rethinking-engineering-productivity-in-the-age-of-ai-agents",
+      "title": "Age of Ai Agents",
+      "date": "2026-05-29"
+    },
+    {
+      "url": "https://builder.io/blog/developers-drowning-in-ai-prs",
+      "title": "I Didn't Become a Developer to Review Ai Slop",
+      "date": "2026-05-29"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/ieef0u",
+      "title": "Ai Apps Aren't Dead, but Thin Wrappers Are",
+      "date": "2026-05-29"
+    },
+    {
+      "url": "https://plc.vc/cdx",
+      "title": "We're in the Over-engineering Game Now",
+      "date": "2026-05-29"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/1qlks9",
+      "title": "Data Isn't Scarce. Your Imagination is",
+      "date": "2026-05-29"
+    },
+    {
+      "url": "https://hackernoon.com/why-ai-products-lose-users-after-the-first-try-and-how-to-design-for-adoption",
+      "title": "Adoption",
+      "date": "2026-05-29"
+    },
+    {
+      "url": "https://cursor.com/insights",
+      "title": "The Cursor Developer Habits Report",
+      "date": "2026-05-29"
+    },
+    {
+      "url": "https://shvbsle.in/various-llm-smells",
+      "title": "Various Llm Smells",
+      "date": "2026-05-29"
+    },
+    {
+      "url": "https://github.com/kaelio/ktx",
+      "title": "Ktx",
+      "date": "2026-05-29"
+    },
+    {
+      "url": "https://spin.atomicobject.com/internal-web-app",
+      "title": "I Almost Built Another Internal Web App",
+      "date": "2026-05-29"
+    },
+    {
+      "url": "https://akselmo.dev/posts/stop-advertising-in-your-commits",
+      "title": "Stop Advertising in Your Commits!",
+      "date": "2026-05-29"
+    },
+    {
+      "url": "https://dpereira.substack.com/p/past-present-and-future-of-pms-with",
+      "title": "Past, Present, and Future of Pms",
+      "date": "2026-05-29"
+    },
+    {
+      "url": "https://nesbitt.io/2026/05/28/package-managers-that-package-package-managers.html",
+      "title": "Package Managers That Package Package Managers",
+      "date": "2026-05-29"
+    },
+    {
+      "url": "https://lesswrong.com/posts/rjccrxyesjkmmdpwg/how-far-behind-are-open-models",
+      "title": "How Far Behind Are Open Models?",
+      "date": "2026-05-29"
+    },
+    {
+      "url": "https://thedesignersfieldguide.substack.com/p/how-user-segmentation-rather-than",
+      "title": "Buy-in",
+      "date": "2026-05-29"
+    },
+    {
+      "url": "https://arstechnica.com/ai/2026/05/apple-reportedly-trying-to-distill-googles-multi-trillion-parameter-gemini-ai-to-run-on-iphone",
+      "title": "Siri",
+      "date": "2026-05-29"
+    },
+    {
+      "url": "https://venturebeat.com/technology/minimax-teases-upcoming-m3-model-with-new-sparse-attention-mechanism-and-15-6x-response-speed-boost",
+      "title": "And 15.6x Long-context Response Speed Boost",
+      "date": "2026-05-29"
+    },
+    {
+      "url": "https://anthropic.com/news/series-h",
+      "title": "Anthropic Raised $65b in Series H Funding",
+      "date": "2026-05-29"
+    },
+    {
+      "url": "https://slack.engineering/slack-ai-the-path-to-multi-cloud",
+      "title": "Slack Ai: the Path to Multi-cloud",
+      "date": "2026-05-29"
     }
   ],
   "feedback": [
