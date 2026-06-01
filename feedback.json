@@ -1,111 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://links.tldrnewsletter.com/mf7czo",
-      "title": "The Ultimate Guide to /goal",
-      "date": "2026-05-15"
-    },
-    {
-      "url": "https://github.com/raindrop-ai/workshop",
-      "title": "Raindrop Workshop",
-      "date": "2026-05-15"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/lcw1mt",
-      "title": "Introducing Grok Build",
-      "date": "2026-05-15"
-    },
-    {
-      "url": "https://elenaverna.com/p/ic-work-is-the-new-career-flex",
-      "title": "Ic Work is the New Career Flex",
-      "date": "2026-05-15"
-    },
-    {
-      "url": "https://anthropic.com/research/2028-ai-leadership",
-      "title": "2028: Two Scenarios for Global Ai Leadership",
-      "date": "2026-05-15"
-    },
-    {
-      "url": "https://cursor.com/blog/cloud-agent-development-environments",
-      "title": "Cloud Agent Development Environments",
-      "date": "2026-05-15"
-    },
-    {
-      "url": "https://developers.googleblog.com/announcing-genkit-middleware-intercept-extend-and-harden-your-agentic-apps",
-      "title": "Genkit Middleware",
-      "date": "2026-05-15"
-    },
-    {
-      "url": "https://articles.zimetic.com/beyond-the-coding-assistant-a-series-on-ai-assisted-software-engineering",
-      "title": "Engineering",
-      "date": "2026-05-15"
-    },
-    {
-      "url": "https://thesaascfo.com/how-to-calculate-the-inference-efficiency-ratio",
-      "title": "How to Calculate the Inference Efficiency Ratio",
-      "date": "2026-05-15"
-    },
-    {
-      "url": "https://productpower.substack.com/p/openai-symphony-from-prompts-to-plays",
-      "title": "Openai Symphony - From Prompts to Plays",
-      "date": "2026-05-15"
-    },
-    {
-      "url": "https://hawksley.org/2026/05/06/adopting-herb-at-github.html",
-      "title": "Adopting Herb at Github",
-      "date": "2026-05-15"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/wudpnb",
-      "title": "Building, and Whatnot",
-      "date": "2026-05-15"
-    },
-    {
-      "url": "https://github.com/nkzw-tech/fate",
-      "title": "fate",
-      "date": "2026-05-15"
-    },
-    {
-      "url": "https://frontierai.substack.com/p/product-market-fit-is-a-trap",
-      "title": "Product-market Fit is a Trap",
-      "date": "2026-05-15"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/hbjb4l",
-      "title": "Work With Codex From Anywhere",
-      "date": "2026-05-15"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/szxd1c",
-      "title": "Work With Codex From Anywhere",
-      "date": "2026-05-15"
-    },
-    {
-      "url": "https://mayankagrawalphd.substack.com/p/omaha-as-judgment-day-for-agi",
-      "title": "Omaha as Judgment Day for Agi",
-      "date": "2026-05-15"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/wjwvd4",
-      "title": "Programming Languages Used to Be Lock in",
-      "date": "2026-05-15"
-    },
-    {
-      "url": "https://interestingengineering.com/ai-robotics/figure-helix02-humanoid-robots-8-hour-shifts",
-      "title": "Intervention",
-      "date": "2026-05-15"
-    },
-    {
-      "url": "https://cnbc.com/2026/05/13/google-deepmind-alumni-startup-partners-nvidia-superintelligence.html",
-      "title": "'frontier' of Ai",
-      "date": "2026-05-15"
-    },
-    {
-      "url": "https://animationmagazine.net/2026/05/netflix-staffing-for-inkubator-ai-powered-experimental-animation-studio",
-      "title": "Studio",
-      "date": "2026-05-15"
-    },
-    {
       "url": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
       "title": "Start",
       "date": "2026-05-18"
@@ -1184,6 +1079,131 @@
       "url": "https://slack.engineering/slack-ai-the-path-to-multi-cloud",
       "title": "Slack Ai: the Path to Multi-cloud",
       "date": "2026-05-29"
+    },
+    {
+      "url": "https://henrikwarne.com/2026/05/31/with-claude-less-coding-more-testing",
+      "title": "With Claude: Less Coding, More Testing",
+      "date": "2026-06-01"
+    },
+    {
+      "url": "https://lucasfcosta.com/blog/backpressure-is-all-you-need",
+      "title": "Backpressure is All You Need",
+      "date": "2026-06-01"
+    },
+    {
+      "url": "https://thenextweb.com/news/ai-replacing-summer-internships-college-students",
+      "title": "Built Careers is Breaking",
+      "date": "2026-06-01"
+    },
+    {
+      "url": "https://brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat",
+      "title": "Domain Expertise Has Always Been the Real Moat",
+      "date": "2026-06-01"
+    },
+    {
+      "url": "https://seangoedecke.com/build-agents-not-pipelines",
+      "title": "Build Agents, Not Pipelines",
+      "date": "2026-06-01"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/6tpncs",
+      "title": "Verifying Agentic Development at Scale",
+      "date": "2026-06-01"
+    },
+    {
+      "url": "https://thezvi.wordpress.com/2026/05/29/claude-opus-4-8-the-system-card",
+      "title": "Claude Opus 4.8: the System Card",
+      "date": "2026-06-01"
+    },
+    {
+      "url": "https://github.com/michaelliv/pi-dynamic-workflows",
+      "title": "Pi-dynamic-workflows",
+      "date": "2026-06-01"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/utlytb",
+      "title": "The Last Technical Interview",
+      "date": "2026-06-01"
+    },
+    {
+      "url": "https://kristoff.it/blog/fix-your-asserts",
+      "title": "You Must Fix Your Asserts",
+      "date": "2026-06-01"
+    },
+    {
+      "url": "https://blog.matt-rickard.com/p/where-should-agent-generated-code",
+      "title": "Where Should Agent-generated Code Live?",
+      "date": "2026-06-01"
+    },
+    {
+      "url": "https://qgallouedec-tito.hf.space",
+      "title": "Agentic Rl: Token-in, Token-out Done Right",
+      "date": "2026-06-01"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/f37cx8",
+      "title": "Grok Build 0.1 on Api",
+      "date": "2026-06-01"
+    },
+    {
+      "url": "https://blogs.newardassociates.com/blog/2026/titit-llms-and-internet.html",
+      "title": "Things I Think I Think... the New Internet Era",
+      "date": "2026-06-01"
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2061266317815296322.html",
+      "title": "Minimax M3",
+      "date": "2026-06-01"
+    },
+    {
+      "url": "https://shreyasdoshi.substack.com/p/on-mid-career-satisfaction",
+      "title": "On Mid-career Satisfaction",
+      "date": "2026-06-01"
+    },
+    {
+      "url": "https://pierre.computer/writing/on-rendering-diffs",
+      "title": "On Rendering Diffs",
+      "date": "2026-06-01"
+    },
+    {
+      "url": "https://mail.cyberneticforests.com/its-not-just-data-its-post-training",
+      "title": "It's Not Just X. It's Y",
+      "date": "2026-06-01"
+    },
+    {
+      "url": "https://prismml.com/news/bonsai-image-4b",
+      "title": "Local Devices",
+      "date": "2026-06-01"
+    },
+    {
+      "url": "https://github.com/affaan-m/ecc",
+      "title": "Ecc",
+      "date": "2026-06-01"
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2061117302528188712.html",
+      "title": "Openai Robotics is Hiring",
+      "date": "2026-06-01"
+    },
+    {
+      "url": "https://github.com/pewdiepie-archdaemon/odysseus",
+      "title": "Odysseus",
+      "date": "2026-06-01"
+    },
+    {
+      "url": "https://arstechnica.com/ai/2026/05/robot-training-startup-will-send-humans-wearing-cameras-to-clean-your-home",
+      "title": "Training",
+      "date": "2026-06-01"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/eflks0",
+      "title": "Humanoid Hands Are Physical Ai's Anti-hype Test",
+      "date": "2026-06-01"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/aqqs8a",
+      "title": "Evaluations",
+      "date": "2026-06-01"
     }
   ],
   "feedback": [
@@ -1431,6 +1451,48 @@
       "vote": "up",
       "source": "TLDR Dev",
       "date": "2026-05-27"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/ptlqbv",
+      "title": "The Orchestration Tax",
+      "vote": "up",
+      "source": "TLDR",
+      "date": "2026-06-01"
+    },
+    {
+      "url": "https://dropbox.tech/culture/beyond-code-generation-rethinking-engineering-productivity-in-the-age-of-ai-agents",
+      "title": "Age of Ai Agents",
+      "vote": "up",
+      "source": "TLDR Dev",
+      "date": "2026-06-01"
+    },
+    {
+      "url": "https://builder.io/blog/developers-drowning-in-ai-prs",
+      "title": "I Didn't Become a Developer to Review Ai Slop",
+      "vote": "up",
+      "source": "TLDR Dev",
+      "date": "2026-06-01"
+    },
+    {
+      "url": "https://plc.vc/cdx",
+      "title": "We're in the Over-engineering Game Now",
+      "vote": "up",
+      "source": "TLDR",
+      "date": "2026-06-01"
+    },
+    {
+      "url": "https://shvbsle.in/various-llm-smells",
+      "title": "Various Llm Smells",
+      "vote": "up",
+      "source": "TLDR Dev",
+      "date": "2026-06-01"
+    },
+    {
+      "url": "https://spin.atomicobject.com/internal-web-app",
+      "title": "I Almost Built Another Internal Web App",
+      "vote": "up",
+      "source": "TLDR Dev",
+      "date": "2026-06-01"
     }
   ]
 }
