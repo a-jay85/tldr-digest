@@ -1,116 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
-      "title": "Start",
-      "date": "2026-05-18"
-    },
-    {
-      "url": "https://seangoedecke.com/how-i-use-llms-in-2026",
-      "title": "How I Use Llms as a Staff Engineer in 2026",
-      "date": "2026-05-18"
-    },
-    {
-      "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush",
-      "title": "The Haves and Have Nots of the Ai Gold Rush",
-      "date": "2026-05-18"
-    },
-    {
-      "url": "https://williamangel.net/blog/2026/05/17/offline-llm-energy-use.html",
-      "title": "Apple Silicon Costs More Than Openrouter",
-      "date": "2026-05-18"
-    },
-    {
-      "url": "https://astralcodexten.com/p/the-sigmoids-wont-save-you",
-      "title": "The Sigmoids Won't Save You",
-      "date": "2026-05-18"
-    },
-    {
-      "url": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai",
-      "title": "At Ai",
-      "date": "2026-05-18"
-    },
-    {
-      "url": "https://github.com/chopratejas/headroom",
-      "title": "Headroom",
-      "date": "2026-05-18"
-    },
-    {
-      "url": "https://github.com/minishlab/semble",
-      "title": "Semble",
-      "date": "2026-05-18"
-    },
-    {
-      "url": "https://github.com/vercel-labs/zero",
-      "title": "Zero",
-      "date": "2026-05-18"
-    },
-    {
-      "url": "https://testingcatalog.com/openai-will-let-codex-control-other-desktop-devices-via-computer-use",
-      "title": "Use",
-      "date": "2026-05-18"
-    },
-    {
-      "url": "https://log.beshr.com/domain-knowledge-is-the-leverage",
-      "title": "Domain Knowledge is the Leverage",
-      "date": "2026-05-18"
-    },
-    {
-      "url": "https://github.com/gi-dellav/zerostack",
-      "title": "Zerostack",
-      "date": "2026-05-18"
-    },
-    {
-      "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
-      "title": "The Ctf Scene is Dead",
-      "date": "2026-05-18"
-    },
-    {
-      "url": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
-      "title": "Ai is Technology, Not a Product",
-      "date": "2026-05-18"
-    },
-    {
-      "url": "https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text",
-      "title": "Native All the Way, Until You Need Text",
-      "date": "2026-05-18"
-    },
-    {
-      "url": "https://billjings.com/posts/title/git-is-not-fine",
-      "title": "Git is Not Fine",
-      "date": "2026-05-18"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/fhl21g",
-      "title": "Ai Economics Part 2",
-      "date": "2026-05-18"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/kwdgq7",
-      "title": "Hardware-agnostic",
-      "date": "2026-05-18"
-    },
-    {
-      "url": "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
-      "title": "Compressed Attention",
-      "date": "2026-05-18"
-    },
-    {
-      "url": "https://nousresearch.com/lighthouse-attention",
-      "title": "Lighthouse Attention",
-      "date": "2026-05-18"
-    },
-    {
-      "url": "https://9to5google.com/2026/05/17/gemini-app-thinking-level",
-      "title": "Integrations",
-      "date": "2026-05-18"
-    },
-    {
-      "url": "https://threadreaderapp.com/thread/2055380239711457578.html",
-      "title": "Ai Psychosis",
-      "date": "2026-05-18"
-    },
-    {
       "url": "https://cameronrwolfe.substack.com/p/agent-evals",
       "title": "Agent Evaluation: a Detailed Guide",
       "date": "2026-05-19"
@@ -1204,6 +1094,151 @@
       "url": "https://links.tldrnewsletter.com/aqqs8a",
       "title": "Evaluations",
       "date": "2026-06-01"
+    },
+    {
+      "url": "https://spin.atomicobject.com/code-cheap-whats-left",
+      "title": "When Code Becomes Cheap, What's Left?",
+      "date": "2026-06-02"
+    },
+    {
+      "url": "https://windowsontheory.org/2026/05/30/ai-is-a-meteor-dont-be-a-dinosaur",
+      "title": "Ai is a Meteor. Don't Be a Dinosaur",
+      "date": "2026-06-02"
+    },
+    {
+      "url": "https://poyo.co/note/20260525t094605",
+      "title": "Two Llm Ui Patterns That Aren't Chat",
+      "date": "2026-06-02"
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2061513383287882111.html",
+      "title": "Opus 4.8 Just Broke Arc-agi-3",
+      "date": "2026-06-02"
+    },
+    {
+      "url": "https://mironov.com/code",
+      "title": "Code Isn't Product",
+      "date": "2026-06-02"
+    },
+    {
+      "url": "https://productpower.substack.com/p/the-ai-sdk-landscape-for-product",
+      "title": "The Ai Sdk Landscape for Product Builders",
+      "date": "2026-06-02"
+    },
+    {
+      "url": "https://thezvi.wordpress.com/2026/06/01/opus-4-8-part-2-model-welfare",
+      "title": "Opus 4.8 Part 2: Model Welfare",
+      "date": "2026-06-02"
+    },
+    {
+      "url": "https://developers.openai.com/cookbook/examples/partners/aws/openai_models_with_amazon_bedrock",
+      "title": "Running Openai Models on Amazon Bedrock",
+      "date": "2026-06-02"
+    },
+    {
+      "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
+      "title": "The Speed of Prototyping in the Age of Ai",
+      "date": "2026-06-02"
+    },
+    {
+      "url": "https://research.perplexity.ai/articles/rethinking-search-as-code-generation",
+      "title": "Rethinking Search as Code Generation",
+      "date": "2026-06-02"
+    },
+    {
+      "url": "https://github.com/mattpocock/sandcastle",
+      "title": "Sandcastle",
+      "date": "2026-06-02"
+    },
+    {
+      "url": "https://bitsxpages.com/p/the-mathematics-of-multi-tenancy",
+      "title": "The Mathematics of Multi-tenancy",
+      "date": "2026-06-02"
+    },
+    {
+      "url": "https://jjmojojjmojo.github.io/why-am-i-interested-in-your-company.html",
+      "title": "Why Am I Interested in Your Company?",
+      "date": "2026-06-02"
+    },
+    {
+      "url": "https://cnbc.com/2026/06/01/microsoft-and-google-take-on-anthropic-and-openai-in-ai-coding-models.html",
+      "title": "Critical' They Compete for Growth",
+      "date": "2026-06-02"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/yszjqn",
+      "title": "Openai and Codex Reach Aws",
+      "date": "2026-06-02"
+    },
+    {
+      "url": "https://nvidianews.nvidia.com/news/nvidia-launches-cosmos-3-the-open-frontier-foundation-model-for-physical-ai",
+      "title": "Physical Ai",
+      "date": "2026-06-02"
+    },
+    {
+      "url": "https://ben.gesoff.uk/posts/reviewing-large-changes-with-jj",
+      "title": "Reviewing Large Changes With Jujutsu",
+      "date": "2026-06-02"
+    },
+    {
+      "url": "https://entropicthoughts.com/lean-not-backpressure",
+      "title": "Lean, Not Backpressure",
+      "date": "2026-06-02"
+    },
+    {
+      "url": "https://lcamtuf.substack.com/p/weekend-trivia-your-process-memory",
+      "title": "Weekend Trivia: Your Process' Memory is a File",
+      "date": "2026-06-02"
+    },
+    {
+      "url": "https://radekmie.dev/blog/on-scenarios-that-will-not-happen",
+      "title": "On Scenarios That Will Not Happen",
+      "date": "2026-06-02"
+    },
+    {
+      "url": "https://davesresearch.com/self-fulfilling-projects",
+      "title": "Self-fulfilling Projects",
+      "date": "2026-06-02"
+    },
+    {
+      "url": "https://qwen.ai/blog?id=qwen3.7-plus",
+      "title": "Qwen3.7-plus: Multimodal Agent Intelligence",
+      "date": "2026-06-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.31268",
+      "title": "Jetbrains's Mellum 2",
+      "date": "2026-06-02"
+    },
+    {
+      "url": "https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity",
+      "title": "Activity",
+      "date": "2026-06-02"
+    },
+    {
+      "url": "https://cutlefish.substack.com/p/tbm-424-why-we-help-and-how-to-stay",
+      "title": "Why We Help (and How to Stay Helpful)",
+      "date": "2026-06-02"
+    },
+    {
+      "url": "https://github.com/reconurge/flowsint",
+      "title": "Flowsint",
+      "date": "2026-06-02"
+    },
+    {
+      "url": "https://codemanship.wordpress.com/2026/05/31/feedback-with-a-face",
+      "title": "Feedback With a Face",
+      "date": "2026-06-02"
+    },
+    {
+      "url": "https://arstechnica.com/ai/2026/06/intel-our-upcoming-ai-chip-will-be-cheaper-run-cooler-than-nvidia-amd-options",
+      "title": "Amd Options",
+      "date": "2026-06-02"
+    },
+    {
+      "url": "https://cursor.com/blog/teams-pricing-june-2026",
+      "title": "Cursor Expands Teams Usage Limits",
+      "date": "2026-06-02"
     }
   ],
   "feedback": [
@@ -1493,6 +1528,62 @@
       "vote": "up",
       "source": "TLDR Dev",
       "date": "2026-06-01"
+    },
+    {
+      "url": "https://henrikwarne.com/2026/05/31/with-claude-less-coding-more-testing",
+      "title": "With Claude: Less Coding, More Testing",
+      "vote": "up",
+      "source": "TLDR Dev",
+      "date": "2026-06-01"
+    },
+    {
+      "url": "https://lucasfcosta.com/blog/backpressure-is-all-you-need",
+      "title": "Backpressure is All You Need",
+      "vote": "up",
+      "source": "TLDR Dev",
+      "date": "2026-06-01"
+    },
+    {
+      "url": "https://thenextweb.com/news/ai-replacing-summer-internships-college-students",
+      "title": "Built Careers is Breaking",
+      "vote": "up",
+      "source": "TLDR",
+      "date": "2026-06-01"
+    },
+    {
+      "url": "https://brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat",
+      "title": "Domain Expertise Has Always Been the Real Moat",
+      "vote": "up",
+      "source": "TLDR Dev",
+      "date": "2026-06-02"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/6tpncs",
+      "title": "Verifying Agentic Development at Scale",
+      "vote": "up",
+      "source": "TLDR AI",
+      "date": "2026-06-02"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/utlytb",
+      "title": "The Last Technical Interview",
+      "vote": "up",
+      "source": "TLDR",
+      "date": "2026-06-02"
+    },
+    {
+      "url": "https://shreyasdoshi.substack.com/p/on-mid-career-satisfaction",
+      "title": "On Mid-career Satisfaction",
+      "vote": "up",
+      "source": "TLDR",
+      "date": "2026-06-02"
+    },
+    {
+      "url": "https://mail.cyberneticforests.com/its-not-just-data-its-post-training",
+      "title": "It's Not Just X. It's Y",
+      "vote": "up",
+      "source": "TLDR Dev",
+      "date": "2026-06-02"
     }
   ]
 }
