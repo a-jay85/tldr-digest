@@ -1,121 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://cameronrwolfe.substack.com/p/agent-evals",
-      "title": "Agent Evaluation: a Detailed Guide",
-      "date": "2026-05-19"
-    },
-    {
-      "url": "https://gist.github.com/kanmadigital/2369c4f5ea410cb8f6a1647b40c0e2a1",
-      "title": "Llm Wiki V2",
-      "date": "2026-05-19"
-    },
-    {
-      "url": "https://simonwillison.net/2026/may/19/5-minute-llms",
-      "title": "The Last Six Months in Llms in Five Minutes",
-      "date": "2026-05-19"
-    },
-    {
-      "url": "https://cursor.com/blog/composer-2-5",
-      "title": "Cursor Released Composer 2.5",
-      "date": "2026-05-19"
-    },
-    {
-      "url": "https://webframp.com/posts/the-workflow-collision",
-      "title": "The Workflow Collision",
-      "date": "2026-05-19"
-    },
-    {
-      "url": "https://dm13450.github.io/2026/05/18/the-joys-of-free-cloudflare.html",
-      "title": "The Joys of Free Cloudflare",
-      "date": "2026-05-19"
-    },
-    {
-      "url": "https://blog.cloudflare.com/cyber-frontier-models",
-      "title": "Project Glasswing: What Mythos Showed Us",
-      "date": "2026-05-19"
-    },
-    {
-      "url": "https://productify.substack.com/p/ex-stripe-cto-is-running-a-free-pm",
-      "title": "For Your Team",
-      "date": "2026-05-19"
-    },
-    {
-      "url": "https://archestra.ai/blog/only-responsible-ai",
-      "title": "Let's Talk About Ai Slop",
-      "date": "2026-05-19"
-    },
-    {
-      "url": "https://itamargilad.com/ai-pm-future",
-      "title": "3 Ai Pm Archetypes + 1",
-      "date": "2026-05-19"
-    },
-    {
-      "url": "https://lalitm.com/post/dont-answer-the-first-question",
-      "title": "Don't Answer the First Question",
-      "date": "2026-05-19"
-    },
-    {
-      "url": "https://metedata.substack.com/p/012-your-ai-frustration-is-my-opportunity",
-      "title": "Your Ai Frustration is My Opportunity",
-      "date": "2026-05-19"
-    },
-    {
-      "url": "https://departmentofproduct.substack.com/p/notions-new-workers-can-build-stripe",
-      "title": "Backlash Brewing?",
-      "date": "2026-05-19"
-    },
-    {
-      "url": "https://slack.engineering/from-ssh-to-rest-a-security-driven-modernization-of-slacks-emr-data-pipelines",
-      "title": "Pipelines",
-      "date": "2026-05-19"
-    },
-    {
-      "url": "https://saastr.com/when-growth-slows-is-it-sales-fault-or-the-products-fault-the-answer-has-changed",
-      "title": "Answer Has Changed",
-      "date": "2026-05-19"
-    },
-    {
-      "url": "https://github.com/sapientinc/hrm-text",
-      "title": "Hrm-text",
-      "date": "2026-05-19"
-    },
-    {
-      "url": "https://manus.im/blog/manus-schedules",
-      "title": "Introducing Scheduled Tasks 2.0",
-      "date": "2026-05-19"
-    },
-    {
-      "url": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-spring-ai.pdf",
-      "title": "Ai Eats the World",
-      "date": "2026-05-19"
-    },
-    {
-      "url": "https://anthropic.com/news/anthropic-acquires-stainless",
-      "title": "Anthropic Acquires Sdk Startup Stainless",
-      "date": "2026-05-19"
-    },
-    {
-      "url": "https://cms.greatquestion.co/blog/user-interviews-guide",
-      "title": "User Interviews: the Complete Guide for 2026",
-      "date": "2026-05-19"
-    },
-    {
-      "url": "https://github.com/zakirullin/files.md",
-      "title": "Files.md",
-      "date": "2026-05-19"
-    },
-    {
-      "url": "https://shreyasdoshi.substack.com/p/get-to-the-core-of-the-thing",
-      "title": "Get to the Core of the Thing",
-      "date": "2026-05-19"
-    },
-    {
-      "url": "https://entrepreneur.com/starting-a-business/how-i-competed-against-google-with-one-strategy-and-won/503164",
-      "title": "\u2014 and Win",
-      "date": "2026-05-19"
-    },
-    {
       "url": "https://martinfowler.com/articles/sensors-for-coding-agents.html",
       "title": "Maintainability Sensors for Coding Agents",
       "date": "2026-05-20"
@@ -1239,6 +1124,116 @@
       "url": "https://cursor.com/blog/teams-pricing-june-2026",
       "title": "Cursor Expands Teams Usage Limits",
       "date": "2026-06-02"
+    },
+    {
+      "url": "https://posthog.com/blog/karpathy-autoresearch-query-engine-bug",
+      "title": "Engine (and Improved Performance by 11%)",
+      "date": "2026-06-03"
+    },
+    {
+      "url": "https://latent.space/p/github",
+      "title": "Github's Plan for Agents",
+      "date": "2026-06-03"
+    },
+    {
+      "url": "https://saturnci.com/my-agent-skill-for-test-driven-development.html",
+      "title": "My Agent Skill for Test-driven Development",
+      "date": "2026-06-03"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/lgyibw",
+      "title": "Memory is Purpose",
+      "date": "2026-06-03"
+    },
+    {
+      "url": "https://rdel.substack.com/p/rdel-146-which-popular-beliefs-about",
+      "title": "Research?",
+      "date": "2026-06-03"
+    },
+    {
+      "url": "https://infoworld.com/article/4178964/ais-brave-new-world-of-technical-debt.html",
+      "title": "Ai's Brave New World of Technical Debt",
+      "date": "2026-06-03"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/nyf8bt",
+      "title": "Codex New Capabilities",
+      "date": "2026-06-03"
+    },
+    {
+      "url": "https://vercel.com/blog/protecting-against-token-theft",
+      "title": "Preventing Ai Inference Theft at Scale",
+      "date": "2026-06-03"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/rqjdvj",
+      "title": "State of Memory in Agent Harness",
+      "date": "2026-06-03"
+    },
+    {
+      "url": "https://blog.ammaraskar.com/github-token-stealing",
+      "title": "1-click Github Token Stealing via a Vscode Bug",
+      "date": "2026-06-03"
+    },
+    {
+      "url": "https://kapa.ai/blog/how-we-index-images-for-rag",
+      "title": "How We Index Images for Rag",
+      "date": "2026-06-03"
+    },
+    {
+      "url": "https://stratechery.com/2026/the-google-capital-company",
+      "title": "The Google Capital Company",
+      "date": "2026-06-03"
+    },
+    {
+      "url": "https://a16z.com/the-next-frontier-of-visual-ai-is-code",
+      "title": "The Next Frontier of Visual Ai is Code",
+      "date": "2026-06-03"
+    },
+    {
+      "url": "https://microsoft.ai/news/introducingmai-code-1-flash",
+      "title": "Introducing Mai-code-1-flash",
+      "date": "2026-06-03"
+    },
+    {
+      "url": "https://jay.ai/blog/llms-are-not-a-black-box",
+      "title": "Llms Are Not the Black Box You Were Promised",
+      "date": "2026-06-03"
+    },
+    {
+      "url": "https://github.com/getpaseo/paseo",
+      "title": "Paseo",
+      "date": "2026-06-03"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/iq3sop",
+      "title": "Inside Microsoft's Project Solara",
+      "date": "2026-06-03"
+    },
+    {
+      "url": "https://registerspill.thorstenball.com/p/building-software-is-learning",
+      "title": "Building Software is Learning",
+      "date": "2026-06-03"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/qy82az",
+      "title": "The Data Center Moves to Your Machine",
+      "date": "2026-06-03"
+    },
+    {
+      "url": "https://cnbc.com/2026/06/02/microsoft-unveils-new-ai-models-lessen-reliance-on-openai-lower-costs.html",
+      "title": "Lower Costs for Developers",
+      "date": "2026-06-03"
+    },
+    {
+      "url": "https://tidyfirst.substack.com/p/trust-factory",
+      "title": "Trust Factory",
+      "date": "2026-06-03"
+    },
+    {
+      "url": "https://david.alvarezrosa.com/posts/deriving-type-erasure",
+      "title": "Deriving Type Erasure",
+      "date": "2026-06-03"
     }
   ],
   "feedback": [
@@ -1584,6 +1579,27 @@
       "vote": "up",
       "source": "TLDR Dev",
       "date": "2026-06-02"
+    },
+    {
+      "url": "https://spin.atomicobject.com/code-cheap-whats-left",
+      "title": "When Code Becomes Cheap, What's Left?",
+      "vote": "up",
+      "source": "TLDR Dev",
+      "date": "2026-06-03"
+    },
+    {
+      "url": "https://jjmojojjmojo.github.io/why-am-i-interested-in-your-company.html",
+      "title": "Why Am I Interested in Your Company?",
+      "vote": "up",
+      "source": "TLDR Dev",
+      "date": "2026-06-03"
+    },
+    {
+      "url": "https://entropicthoughts.com/lean-not-backpressure",
+      "title": "Lean, Not Backpressure",
+      "vote": "up",
+      "source": "TLDR",
+      "date": "2026-06-03"
     }
   ]
 }
