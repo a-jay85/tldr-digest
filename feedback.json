@@ -1,111 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://martinfowler.com/articles/sensors-for-coding-agents.html",
-      "title": "Maintainability Sensors for Coding Agents",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/xjad0w",
-      "title": "Karpathy Joins Anthropic",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://threadreaderapp.com/thread/2056753169888334312.html",
-      "title": "Andrej Karpathy Joins Anthropic",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://twitchard.github.io/posts/2026-05-18-softwares-centaur-era.html",
-      "title": "Software's Centaur Era",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5",
-      "title": "Gemini 3.5 Flash",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://engineering.prezi.com/the-cheap-good-and-fast-paradox-returns-2c7f0d8672e4",
-      "title": "The Cheap, Good, and Fast Paradox Returns",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://blog.google/products-and-platforms/products/search/search-io-2026",
-      "title": "A New Era for Ai Search",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://aifoc.us/model-half-life",
-      "title": "Model Half-life",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://9to5google.com/2026/05/19/google-io-2026-news",
-      "title": "& More",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://simonwillison.net/2026/may/19/gemini-35-flash",
-      "title": "Everything",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://nesbitt.io/2026/05/19/dumb-ways-for-an-open-source-project-to-die.html",
-      "title": "Dumb Ways for an Open Source Project to Die",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://threadreaderapp.com/thread/2056778123329274279.html",
-      "title": "Cerebras is Now Running Kimi K2.6",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://anishathalye.com/inverting-photodna",
-      "title": "Inverting Photodna",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://threadreaderapp.com/thread/2056884788179726685.html",
-      "title": "Repositories",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://github.com/wiltodelta/remove-ai-watermarks",
-      "title": "Remove Ai Watermarks",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://github.com/nvlabs/longlive",
-      "title": "Real-time Long Video Generation",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/wjhdfz",
-      "title": "Ecosystem",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/5ofnla",
-      "title": "Ecosystem",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://cnbc.com/2026/05/19/openai-announces-new-guaranteed-capacity-offering-for-customers-to-secure-compute.html",
-      "title": "Secure Compute",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://huggingface.co/blog/ettin-reranker",
-      "title": "Introducing the Ettin Reranker Family",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://threadreaderapp.com/thread/2056752047031279726.html",
-      "title": "Index",
-      "date": "2026-05-20"
-    },
-    {
       "url": "https://links.tldrnewsletter.com/tkqm7h",
       "title": "Making Our Monorepo Ergonomic for Agents",
       "date": "2026-05-21"
@@ -1234,6 +1129,126 @@
       "url": "https://david.alvarezrosa.com/posts/deriving-type-erasure",
       "title": "Deriving Type Erasure",
       "date": "2026-06-03"
+    },
+    {
+      "url": "https://claude.com/blog/running-an-ai-native-engineering-org",
+      "title": "Running an Ai-native Engineering Org",
+      "date": "2026-06-04"
+    },
+    {
+      "url": "https://cpojer.net/posts/modern-engineering-values",
+      "title": "Modern Engineering Values",
+      "date": "2026-06-04"
+    },
+    {
+      "url": "https://drfeifei.substack.com/p/a-functional-taxonomy-of-world-models",
+      "title": "A Functional Taxonomy of World Models",
+      "date": "2026-06-04"
+    },
+    {
+      "url": "https://arstechnica.com/ai/2026/06/inside-metas-attempts-to-play-catch-up-with-ai",
+      "title": "Inside Meta's Attempts to Play Catch-up With Ai",
+      "date": "2026-06-04"
+    },
+    {
+      "url": "https://tomtunguz.com/tokens-per-result",
+      "title": "Intelligence Per Dollar",
+      "date": "2026-06-04"
+    },
+    {
+      "url": "https://sixcolors.com/post/2026/06/road-to-wwdc-2026-whats-a-developer",
+      "title": "Road to Wwdc 2026: What's a Developer?",
+      "date": "2026-06-04"
+    },
+    {
+      "url": "https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop",
+      "title": "16gb of Ram",
+      "date": "2026-06-04"
+    },
+    {
+      "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app",
+      "title": "It",
+      "date": "2026-06-04"
+    },
+    {
+      "url": "https://lovable.dev/fr/blog/building-apps-using-tanstack-start",
+      "title": "Building Apps Using Tanstack Start",
+      "date": "2026-06-04"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/3rt9et",
+      "title": "Announcing Angular V22",
+      "date": "2026-06-04"
+    },
+    {
+      "url": "https://github.com/tastyeffectco/sandboxes",
+      "title": "Sandboxed",
+      "date": "2026-06-04"
+    },
+    {
+      "url": "https://fzakaria.com/2026/06/01/every-byte-matters",
+      "title": "Every Byte Matters",
+      "date": "2026-06-04"
+    },
+    {
+      "url": "https://bankinfosecurity.com/blogs/ai-agents-are-new-insiders-p-4127",
+      "title": "Ai Agents Are the New Insiders",
+      "date": "2026-06-04"
+    },
+    {
+      "url": "https://github.com/zaydmulani09/mnemo",
+      "title": "Mnemo",
+      "date": "2026-06-04"
+    },
+    {
+      "url": "https://github.com/ideogram-oss/ideogram4",
+      "title": "Ideogram 4",
+      "date": "2026-06-04"
+    },
+    {
+      "url": "https://osnews.com/story/145206/microsoft-brings-coreutils-to-windows",
+      "title": "Microsoft Brings Coreutils to Windows",
+      "date": "2026-06-04"
+    },
+    {
+      "url": "https://maxleiter.com/blog/weights",
+      "title": "They're Made Out of Weights",
+      "date": "2026-06-04"
+    },
+    {
+      "url": "https://docs.python.org/3.15/whatsnew/3.15.html",
+      "title": "What's New in Python 3.15",
+      "date": "2026-06-04"
+    },
+    {
+      "url": "https://github.com/duanebester/gooey",
+      "title": "Gooey",
+      "date": "2026-06-04"
+    },
+    {
+      "url": "https://louwrentius.com/dns-is-for-people-not-for-it-infrastructure.html",
+      "title": "Dns is for People - Not for it Infrastructure",
+      "date": "2026-06-04"
+    },
+    {
+      "url": "https://cnbc.com/2026/06/03/ai-agents-morgan-stanley-wealth-management-funnel.html",
+      "title": "Funnel to Ai Agents",
+      "date": "2026-06-04"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.03979",
+      "title": "Sleep for Continual Learning",
+      "date": "2026-06-04"
+    },
+    {
+      "url": "https://osnews.com/story/145194/google-offers-opt-out-of-ai-search-results-for-websites-promises-it-wont-affect-regular-search-rankings",
+      "title": "Promises it Won't Affect Regular Search Rankings",
+      "date": "2026-06-04"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/rutu5x",
+      "title": "Spacex Sets Price for the World's Largest Ipo",
+      "date": "2026-06-04"
     }
   ],
   "feedback": [
@@ -1597,6 +1612,20 @@
     {
       "url": "https://entropicthoughts.com/lean-not-backpressure",
       "title": "Lean, Not Backpressure",
+      "vote": "up",
+      "source": "TLDR",
+      "date": "2026-06-03"
+    },
+    {
+      "url": "https://rdel.substack.com/p/rdel-146-which-popular-beliefs-about",
+      "title": "Research?",
+      "vote": "up",
+      "source": "TLDR Dev",
+      "date": "2026-06-03"
+    },
+    {
+      "url": "https://registerspill.thorstenball.com/p/building-software-is-learning",
+      "title": "Building Software is Learning",
       "vote": "up",
       "source": "TLDR",
       "date": "2026-06-03"
