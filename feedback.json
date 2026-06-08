@@ -1,126 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://cursor.com/blog/cloud-agent-lessons",
-      "title": "Lessons Learned From Building Cloud Agents",
-      "date": "2026-05-22"
-    },
-    {
-      "url": "https://elenaverna.com/p/youll-lose-your-job-in-2027",
-      "title": "You'll Lose Your Job in 2027",
-      "date": "2026-05-22"
-    },
-    {
-      "url": "https://2026.stateofai.dev/en-us",
-      "title": "State of Ai 2026",
-      "date": "2026-05-22"
-    },
-    {
-      "url": "https://inferterra.com/the-new-workspace-a-first-principles-exploration-of-dictation-agents-and-humans",
-      "title": "It's Time to Walk",
-      "date": "2026-05-22"
-    },
-    {
-      "url": "https://threadreaderapp.com/thread/2057522382315929802.html",
-      "title": "Today Clickup Reduced Headcount by 22%",
-      "date": "2026-05-22"
-    },
-    {
-      "url": "https://every.to/p/after-automation",
-      "title": "After Automation",
-      "date": "2026-05-22"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/ymqq2q",
-      "title": "How Google Plans to Win the Ai War",
-      "date": "2026-05-22"
-    },
-    {
-      "url": "https://epochai.substack.com/p/frontier-labs-dont-use-most-ai-compute",
-      "title": "Frontier Labs Don't Use Most Ai Compute (yet)",
-      "date": "2026-05-22"
-    },
-    {
-      "url": "https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it",
-      "title": "Was My $48k Gpu Server Worth It?",
-      "date": "2026-05-22"
-    },
-    {
-      "url": "https://developer.chrome.com/blog/chrome-at-io26",
-      "title": "New Capabilities, Tools, and Features in Chrome",
-      "date": "2026-05-22"
-    },
-    {
-      "url": "https://blog.mozilla.ai/the-interface-is-no-longer-the-product",
-      "title": "The Interface is No Longer the Product",
-      "date": "2026-05-22"
-    },
-    {
-      "url": "https://blog.ravi-mehta.com/p/the-best-prototypes-get-thrown-away",
-      "title": "The Best Prototypes Get Thrown Away",
-      "date": "2026-05-22"
-    },
-    {
-      "url": "https://siliconangle.com/2026/05/20/managing-digital-worker-lifecycle-enterprise-ibmthink",
-      "title": "Lot Like Managing People",
-      "date": "2026-05-22"
-    },
-    {
-      "url": "https://developer.chrome.com/blog/extensions-io-2026?hl=en",
-      "title": "What's New in Web Extensions: I/o 2026 Recap",
-      "date": "2026-05-22"
-    },
-    {
-      "url": "https://dpereira.substack.com/p/which-lies-are-you-telling-yourself",
-      "title": "Which Lies Are You Telling Yourself?",
-      "date": "2026-05-22"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/mibf5s",
-      "title": "Use",
-      "date": "2026-05-22"
-    },
-    {
-      "url": "https://writing.nikunjk.com/p/the-coddling-of-the-tech-mind",
-      "title": "The Coddling of the Tech Mind",
-      "date": "2026-05-22"
-    },
-    {
-      "url": "https://0xsid.com/blog/antigravity-bait-n-switch",
-      "title": "Google's Antigravity Bait and Switch",
-      "date": "2026-05-22"
-    },
-    {
-      "url": "https://cutlefish.substack.com/p/tbm-423-why-defining-teams-is-so",
-      "title": "Why Defining Teams is So Hard",
-      "date": "2026-05-22"
-    },
-    {
-      "url": "https://aakashg.com/what-is-icp-in-marketing",
-      "title": "What is Icp in Marketing? a Pm's Guide to Growth",
-      "date": "2026-05-22"
-    },
-    {
-      "url": "https://boagworld.com/emails/retention",
-      "title": "Why Ux Should Own Retention",
-      "date": "2026-05-22"
-    },
-    {
-      "url": "https://dev.jimgrey.net/2026/05/20/your-defect-backlog-is-a-retention-report",
-      "title": "Your Defect Backlog is a Retention Report",
-      "date": "2026-05-22"
-    },
-    {
-      "url": "https://expressjs.com/en/blog/2026-05-18-a-new-look-for-express",
-      "title": "A New Look for Express",
-      "date": "2026-05-22"
-    },
-    {
-      "url": "https://zeroshot.bearblog.dev/google-is-shattering-under-its-own-weight-the-ibm-ification-of-google",
-      "title": "Google?)",
-      "date": "2026-05-22"
-    },
-    {
       "url": "https://ben-evans.com/benedictevans/2026/5/24/ai-job-exposure",
       "title": "Predicting Ai Job Exposure",
       "date": "2026-05-25"
@@ -1269,6 +1149,116 @@
       "url": "https://blog.geekuni.com/2026/06/why-learn-pandas.html",
       "title": "Why Learn Pandas?",
       "date": "2026-06-05"
+    },
+    {
+      "url": "https://alexself.dev/blog/automated-doubt",
+      "title": "My Automated Doubt Development Process",
+      "date": "2026-06-08"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/m92ydf",
+      "title": "Some Notes on Getting Into Frontier Ai Labs",
+      "date": "2026-06-08"
+    },
+    {
+      "url": "https://platforms.substack.com/p/the-jevons-misunderstanding",
+      "title": "The Jevons Misunderstanding",
+      "date": "2026-06-08"
+    },
+    {
+      "url": "https://dwarkesh.com/p/alex-imas-phil-trammell",
+      "title": "What Remains Scarce After Agi?",
+      "date": "2026-06-08"
+    },
+    {
+      "url": "https://addyosmani.com/blog/intent-debt",
+      "title": "The Intent Debt",
+      "date": "2026-06-08"
+    },
+    {
+      "url": "https://ea.rna.nl/2026/06/07/anthropic-openai-may-be-spending-more-than-1000-for-every-100-you-pay-them",
+      "title": "Pay Them",
+      "date": "2026-06-08"
+    },
+    {
+      "url": "https://langchain.com/blog/give-your-ai-agent-its-own-computer",
+      "title": "Give Your Agent Its Own Computer",
+      "date": "2026-06-08"
+    },
+    {
+      "url": "https://lesswrong.com/posts/kzxptmbudsylrppss/why-software-automation-is-hard",
+      "title": "Why Software Automation is Hard",
+      "date": "2026-06-08"
+    },
+    {
+      "url": "https://cursor.com/blog/design-mode",
+      "title": "Cursor's Updated Design Mode",
+      "date": "2026-06-08"
+    },
+    {
+      "url": "https://react.doctor/blog/the-problem-with-useeffect",
+      "title": "The Problem With Useeffect",
+      "date": "2026-06-08"
+    },
+    {
+      "url": "https://arnorhs.dev/posts/2026-06-04/maybe-later-was-a-feature",
+      "title": "\"maybe Later\" Was a Feature",
+      "date": "2026-06-08"
+    },
+    {
+      "url": "https://antirez.com/news/168",
+      "title": "A New Era for Software Testing",
+      "date": "2026-06-08"
+    },
+    {
+      "url": "https://alexispurslane.github.io/rsync-analysis",
+      "title": "Did Claude Increase Bugs in Rsync?",
+      "date": "2026-06-08"
+    },
+    {
+      "url": "https://spyglass.org/chatgpt-is-dead-long-live-chatgpt",
+      "title": "Chat is Dead",
+      "date": "2026-06-08"
+    },
+    {
+      "url": "https://github.com/microsoft/pg_durable",
+      "title": "Pg_durable",
+      "date": "2026-06-08"
+    },
+    {
+      "url": "https://github.com/ataraxy-labs/sem",
+      "title": "Sem",
+      "date": "2026-06-08"
+    },
+    {
+      "url": "https://0xkato.xyz/how-llms-actually-work",
+      "title": "How Llms Actually Work",
+      "date": "2026-06-08"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4",
+      "title": "Laptop Efficiency",
+      "date": "2026-06-08"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/klivjh",
+      "title": "Openai Adds Lockdown Mode",
+      "date": "2026-06-08"
+    },
+    {
+      "url": "https://jonoalderson.com/conjecture/weirdly-human",
+      "title": "The Future of the Web is Weirdly Human",
+      "date": "2026-06-08"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/aws/try-the-new-console-experience-in-amazon-bedrock-optimized-for-anthropic-and-openai-compatible-apis",
+      "title": "Anthropic- and Openai-compatible Apis",
+      "date": "2026-06-08"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/mdv5jj",
+      "title": "Seriously",
+      "date": "2026-06-08"
     }
   ],
   "feedback": [
@@ -1649,6 +1639,20 @@
       "vote": "up",
       "source": "TLDR",
       "date": "2026-06-03"
+    },
+    {
+      "url": "https://htmx.org/essays/code-is-cheap",
+      "title": "Code is Cheap(er)",
+      "vote": "up",
+      "source": "TLDR",
+      "date": "2026-06-05"
+    },
+    {
+      "url": "https://claude.com/blog/running-an-ai-native-engineering-org",
+      "title": "Running an Ai-native Engineering Org",
+      "vote": "up",
+      "source": "TLDR AI",
+      "date": "2026-06-06"
     }
   ]
 }
