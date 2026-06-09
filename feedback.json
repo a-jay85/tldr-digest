@@ -1,111 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://ben-evans.com/benedictevans/2026/5/24/ai-job-exposure",
-      "title": "Predicting Ai Job Exposure",
-      "date": "2026-05-25"
-    },
-    {
-      "url": "https://joshwcomeau.com/email/wham-launch-005-elephant-2-p",
-      "title": "The Elephant in the Room",
-      "date": "2026-05-25"
-    },
-    {
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html",
-      "title": "The Eternal Sloptember",
-      "date": "2026-05-25"
-    },
-    {
-      "url": "https://olano.dev/blog/dangerously-skip",
-      "title": "--dangerously-skip-reading-code",
-      "date": "2026-05-25"
-    },
-    {
-      "url": "https://github.com/denoland/clawpatrol",
-      "title": "Claw Patrol",
-      "date": "2026-05-25"
-    },
-    {
-      "url": "https://sh-reya.com/blog/ai-qual-analysis",
-      "title": "Exploring Agent-assisted Qualitative Analysis",
-      "date": "2026-05-25"
-    },
-    {
-      "url": "https://anthropic.com/research/glasswing-initial-update",
-      "title": "Project Glasswing: an Initial Update",
-      "date": "2026-05-25"
-    },
-    {
-      "url": "https://developers.openai.com/cookbook/examples/partners/macro_evals_for_agentic_systems/macro_evals_for_agentic_systems",
-      "title": "Evaluating Multi-agent Systems at Scale",
-      "date": "2026-05-25"
-    },
-    {
-      "url": "https://cloudedjudgement.substack.com/p/clouded-judgement-52226-the-neocloud",
-      "title": "The Neocloud Boom",
-      "date": "2026-05-25"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/m5pm5a",
-      "title": "Bumblebee Goes Open Source",
-      "date": "2026-05-25"
-    },
-    {
-      "url": "https://theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
-      "title": "Microsoft Starts Canceling Claude Code Licenses",
-      "date": "2026-05-25"
-    },
-    {
-      "url": "https://github.com/google/ax",
-      "title": "Ax",
-      "date": "2026-05-25"
-    },
-    {
-      "url": "https://red.anthropic.com/2026/exploit-evals",
-      "title": "Measuring Llms' Ability to Develop Exploits",
-      "date": "2026-05-25"
-    },
-    {
-      "url": "https://contraryresearch.substack.com/p/anthropics-march-to-profitability",
-      "title": "Anthropic's March to Profitability",
-      "date": "2026-05-25"
-    },
-    {
-      "url": "https://benmyers.dev/blog/on-the-dl",
-      "title": "On the Dl",
-      "date": "2026-05-25"
-    },
-    {
-      "url": "https://deno.com/blog/v2.8",
-      "title": "Deno 2.8",
-      "date": "2026-05-25"
-    },
-    {
-      "url": "https://susam.net/do-not-roll-your-own.html",
-      "title": "Don't Roll Your Own ...",
-      "date": "2026-05-25"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/cfyfyv",
-      "title": "Gemini 3.5 Flash (low)",
-      "date": "2026-05-25"
-    },
-    {
-      "url": "https://thenextweb.com/news/deepseek-v4-pro-75-percent-price-cut-permanent",
-      "title": "Escalated",
-      "date": "2026-05-25"
-    },
-    {
-      "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
-      "title": "Ai Chip Component Costs: Memory at 63%",
-      "date": "2026-05-25"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/cg5s2p",
-      "title": "Order",
-      "date": "2026-05-25"
-    },
-    {
       "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly",
       "title": "Using Ai to Write Better Code More Slowly",
       "date": "2026-05-26"
@@ -1259,6 +1154,121 @@
       "url": "https://links.tldrnewsletter.com/mdv5jj",
       "title": "Seriously",
       "date": "2026-06-08"
+    },
+    {
+      "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index",
+      "title": "I Design With Claude More Than Figma Now",
+      "date": "2026-06-09"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/hw6fq7",
+      "title": "Loop Engineering",
+      "date": "2026-06-09"
+    },
+    {
+      "url": "https://k-dense.ai/blog/the-model-is-no-longer-the-bottleneck",
+      "title": "The Model is No Longer the Bottleneck",
+      "date": "2026-06-09"
+    },
+    {
+      "url": "https://web.archive.org/web/20260607163135/https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do",
+      "title": "To Do",
+      "date": "2026-06-09"
+    },
+    {
+      "url": "https://developers.openai.com/cookbook/examples/partners/schemaflow_design_guide/schemaflow_cookbook",
+      "title": "Openai's Database Change Analysis",
+      "date": "2026-06-09"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/srcark",
+      "title": "Built to Benefit Everyone: Our Plan",
+      "date": "2026-06-09"
+    },
+    {
+      "url": "https://benn.substack.com/p/get-out-of-the-token-path",
+      "title": "Your Agent Will Be Your Undoing",
+      "date": "2026-06-09"
+    },
+    {
+      "url": "https://research.perplexity.ai/articles/how-ai-agents-reshape-knowledge-work",
+      "title": "How Ai Agents Reshape Knowledge Work",
+      "date": "2026-06-09"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/zxe5qz",
+      "title": "Your Agent Harness Should Repair Itself",
+      "date": "2026-06-09"
+    },
+    {
+      "url": "https://mijndertstuij.nl/posts/life-is-too-short-for-a-slow-terminal",
+      "title": "Life is Too Short for a Slow Terminal",
+      "date": "2026-06-09"
+    },
+    {
+      "url": "https://seangoedecke.com/working-with-product-managers",
+      "title": "Working With Product Managers",
+      "date": "2026-06-09"
+    },
+    {
+      "url": "https://newsletter.getdx.com/p/the-current-impact-of-ai-on-engineering",
+      "title": "Ai's Measured Impact on Engineering Velocity",
+      "date": "2026-06-09"
+    },
+    {
+      "url": "https://seangoedecke.com/doing-nothing-at-work",
+      "title": "Doing Nothing at Work",
+      "date": "2026-06-09"
+    },
+    {
+      "url": "https://paul.kinlan.me/where-my-head-is-at-with-llms-and-the-web",
+      "title": "Where My Head is at With Llms and the Web",
+      "date": "2026-06-09"
+    },
+    {
+      "url": "https://cutlefish.substack.com/p/tbm-425-ai-and-agency",
+      "title": "Ai and Agency",
+      "date": "2026-06-09"
+    },
+    {
+      "url": "https://github.com/devenjarvis/lathe",
+      "title": "Lathe",
+      "date": "2026-06-09"
+    },
+    {
+      "url": "https://cognition.ai/blog/frontier-code",
+      "title": "Introducing Frontiercode",
+      "date": "2026-06-09"
+    },
+    {
+      "url": "https://algorithmichiring.github.io",
+      "title": "Algorithmic Monocultures in Hiring",
+      "date": "2026-06-09"
+    },
+    {
+      "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
+      "title": "Deepseek V4 Pro Beats Gpt-5.5 Pro on Precision",
+      "date": "2026-06-09"
+    },
+    {
+      "url": "https://sherwood.news/tech/chatgpt-failed-to-kill-google-search",
+      "title": "Chatgpt Failed to Kill Google Search",
+      "date": "2026-06-09"
+    },
+    {
+      "url": "https://aakashg.com/what-is-product-positioning",
+      "title": "What is Product Positioning: Master it in 2026",
+      "date": "2026-06-09"
+    },
+    {
+      "url": "https://spin.atomicobject.com/in-person-backlog-management-tools",
+      "title": "The Value of In-person Backlog Management Tools",
+      "date": "2026-06-09"
+    },
+    {
+      "url": "https://romanpichler.com/podcast/emotional-intelligence-in-product-management",
+      "title": "Advantage Ai Can't Replicate",
+      "date": "2026-06-09"
     }
   ],
   "feedback": [
