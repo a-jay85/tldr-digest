@@ -1,126 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly",
-      "title": "Using Ai to Write Better Code More Slowly",
-      "date": "2026-05-26"
-    },
-    {
-      "url": "https://jeffgothelf.com/blog/karpathy-said-vibe-coding-is-obsolete-what-he-described-instead-is-product-management",
-      "title": "Karpathy Said Vibe Coding is Obsolete",
-      "date": "2026-05-26"
-    },
-    {
-      "url": "https://thenextweb.com/news/microsoft-claude-code-retreat-ai-cost",
-      "title": "Ai",
-      "date": "2026-05-26"
-    },
-    {
-      "url": "https://threadreaderapp.com/thread/2058914803360600238.html",
-      "title": "From Saas Tools to Ai Workspaces",
-      "date": "2026-05-26"
-    },
-    {
-      "url": "https://thezvi.wordpress.com/2026/05/22/gemini-3-5-flash-looks-good-for-how-fast-it-is",
-      "title": "Gemini 3.5 Flash Looks Good for How Fast it is",
-      "date": "2026-05-26"
-    },
-    {
-      "url": "https://github.com/anomalyco/models.dev",
-      "title": "Models.dev",
-      "date": "2026-05-26"
-    },
-    {
-      "url": "https://github.com/kubernetes-sigs/agent-sandbox",
-      "title": "Agent Sandbox",
-      "date": "2026-05-26"
-    },
-    {
-      "url": "https://benn.substack.com/p/wac",
-      "title": "Wac",
-      "date": "2026-05-26"
-    },
-    {
-      "url": "https://saastr.com/top-10-learnings-from-building-our-own-ai-vp-of-customer-success-qbee",
-      "title": "\u201cqbee\u201d",
-      "date": "2026-05-26"
-    },
-    {
-      "url": "https://the-decoder.com/google-deepminds-alphaproof-nexus-solves-decades-old-math-problems-for-a-few-hundred-dollars",
-      "title": "For a Few Hundred Dollars",
-      "date": "2026-05-26"
-    },
-    {
-      "url": "https://androidessence.com/leave-me-behind",
-      "title": "Leave Me Behind",
-      "date": "2026-05-26"
-    },
-    {
-      "url": "https://nodejs.org/en/blog/migrations/axios-to-fetch",
-      "title": "Axios to Whatwg Fetch",
-      "date": "2026-05-26"
-    },
-    {
-      "url": "https://darthealth.com/blog/jen-can-never-leave",
-      "title": "Jen Can Never Leave",
-      "date": "2026-05-26"
-    },
-    {
-      "url": "https://github.com/franciscop/brownies",
-      "title": "Brownies",
-      "date": "2026-05-26"
-    },
-    {
-      "url": "https://unix.foo/posts/nobody-cracks-open-a-programming-book",
-      "title": "Nobody Cracks Open a Programming Book Anymore",
-      "date": "2026-05-26"
-    },
-    {
-      "url": "https://categoryvc.com/writing/where-the-ai-hardware-market-is",
-      "title": "On Ai Hardware",
-      "date": "2026-05-26"
-    },
-    {
-      "url": "https://strangeloopcanon.com/p/introducing-benchbench",
-      "title": "Introducing Benchbench",
-      "date": "2026-05-26"
-    },
-    {
-      "url": "https://paperswithcode.co/methods/on-policy-distillation",
-      "title": "On-policy Distillation",
-      "date": "2026-05-26"
-    },
-    {
-      "url": "https://threadreaderapp.com/thread/2058194939264307638.html",
-      "title": "Gpt-5.6 Leaks: Coming in June",
-      "date": "2026-05-26"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/9vbj0g",
-      "title": "Deepseek's 10 Trillion Usd Grand Strategy",
-      "date": "2026-05-26"
-    },
-    {
-      "url": "https://blog.apiad.net/p/ai-is-doing-something-weird-to-science",
-      "title": "Ai is Doing Something Weird to Science",
-      "date": "2026-05-26"
-    },
-    {
-      "url": "https://brandonrozek.com/blog/discrimination-testing",
-      "title": "A Quick Look Into Discrimination Testing",
-      "date": "2026-05-26"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/a7mhty",
-      "title": "How Ai Will Save Prediction Markets",
-      "date": "2026-05-26"
-    },
-    {
-      "url": "https://jola.dev/posts/the-social-contract-of-writing",
-      "title": "The Social Contract of Writing",
-      "date": "2026-05-26"
-    },
-    {
       "url": "https://lennysnewsletter.com/p/how-i-ai-how-the-engineer-behind",
       "title": "How Claude Cowork's Lead Engineer Uses Ai",
       "date": "2026-05-27"
@@ -1269,6 +1149,121 @@
       "url": "https://romanpichler.com/podcast/emotional-intelligence-in-product-management",
       "title": "Advantage Ai Can't Replicate",
       "date": "2026-06-09"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/vtu51f",
+      "title": "Self-evolving Autoresearch Workflow Loops",
+      "date": "2026-06-10"
+    },
+    {
+      "url": "https://simonwillison.net/2026/jun/9/claude-fable-5",
+      "title": "Initial Impressions of Claude Fable 5",
+      "date": "2026-06-10"
+    },
+    {
+      "url": "https://oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+      "title": "What it Feels Like to Work With Mythos",
+      "date": "2026-06-10"
+    },
+    {
+      "url": "https://yoonholee.com/blog/2026/we-should-take-text-optimization-more-seriously",
+      "title": "Text as a Serious Optimization Layer",
+      "date": "2026-06-10"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/kuaacu",
+      "title": "Ai is Eating the Ai Engineering Loop",
+      "date": "2026-06-10"
+    },
+    {
+      "url": "https://builder.io/blog/agent-experience",
+      "title": "Agent Experience is the New Developer Experience",
+      "date": "2026-06-10"
+    },
+    {
+      "url": "https://anthropic.com/news/claude-fable-5-mythos-5",
+      "title": "Claude Fable 5 Launch",
+      "date": "2026-06-10"
+    },
+    {
+      "url": "https://codingwithjesse.com/blog/rockstar-developers",
+      "title": "Cleaning up After Ai Rockstar Developers",
+      "date": "2026-06-10"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/ysxglu",
+      "title": "Implications of Large-scale Test-time Compute",
+      "date": "2026-06-10"
+    },
+    {
+      "url": "https://github.com/apple/container",
+      "title": "Container",
+      "date": "2026-06-10"
+    },
+    {
+      "url": "https://github.com/luongnv89/asm",
+      "title": "Asm",
+      "date": "2026-06-10"
+    },
+    {
+      "url": "https://github.com/wonderwhy-er/desktopcommandermcp",
+      "title": "Desktop Commander Mcp",
+      "date": "2026-06-10"
+    },
+    {
+      "url": "https://interconnects.ai/p/claude-fable-5-and-new-ai-safety",
+      "title": "Claude Fable 5 and New Ai Safety Fables",
+      "date": "2026-06-10"
+    },
+    {
+      "url": "https://thezvi.substack.com/p/three-labs-with-a-plan-and-a-memorandum",
+      "title": "Three Labs With a Plan and a Memorandum",
+      "date": "2026-06-10"
+    },
+    {
+      "url": "https://julienreszka.com/blog/the-better-the-autopilot-the-worse-the-pilot",
+      "title": "The Better the Autopilot, the Worse the Pilot",
+      "date": "2026-06-10"
+    },
+    {
+      "url": "https://andersmurphy.com/2026/06/07/sqlite-improving-performance-with-pre-sort.html",
+      "title": "Sqlite Improving Performance With Pre-sort",
+      "date": "2026-06-10"
+    },
+    {
+      "url": "https://spyglass.org/siri-ai",
+      "title": "Apple Wins Consumer Ai by Default",
+      "date": "2026-06-10"
+    },
+    {
+      "url": "https://writethatblog.substack.com/p/report-llms-tech-blogs",
+      "title": "Why Developers Use Llms to Write Blog Posts",
+      "date": "2026-06-10"
+    },
+    {
+      "url": "https://cohere.com/blog/north-mini-code",
+      "title": "Cohere Launched an Agentic Coding Model",
+      "date": "2026-06-10"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/jo8gqw",
+      "title": "Dominate Spend",
+      "date": "2026-06-10"
+    },
+    {
+      "url": "https://stratechery.com/2026/the-iphones-last-stand",
+      "title": "The Iphone's Last Stand",
+      "date": "2026-06-10"
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers",
+      "title": "Apple Bets Cheaper Ai Will Woo Small Developers",
+      "date": "2026-06-10"
+    },
+    {
+      "url": "https://wheresyoured.at/ai-is-slowing-down",
+      "title": "Ai is Slowing Down",
+      "date": "2026-06-10"
     }
   ],
   "feedback": [
