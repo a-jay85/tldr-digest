@@ -1,106 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://arps18.github.io/posts/claude-code-mastery",
-      "title": "Beyond the Prompt: Claude Code",
-      "date": "2026-05-28"
-    },
-    {
-      "url": "https://spin.atomicobject.com/using-agents-growth",
-      "title": "How I Use Agents Without Stopping My Own Growth",
-      "date": "2026-05-28"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/mwo2ci",
-      "title": "Building Self-improving Tax Agents With Codex",
-      "date": "2026-05-28"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/hgn6fj",
-      "title": "Avoiding Death on the Yellow Brick Road",
-      "date": "2026-05-28"
-    },
-    {
-      "url": "https://shvetsm.github.io/posts/the-best-engineers-write-less-code",
-      "title": "The Best Engineers Write Less Code",
-      "date": "2026-05-28"
-    },
-    {
-      "url": "https://developers.openai.com/api/docs/guides/secure-mcp-tunnels",
-      "title": "Secure Mcp Tunnel",
-      "date": "2026-05-28"
-    },
-    {
-      "url": "https://performance.dev/how-is-linear-so-fast-a-technical-breakdown",
-      "title": "How's Linear So Fast? a Technical Breakdown",
-      "date": "2026-05-28"
-    },
-    {
-      "url": "https://posthog.com/blog/training-ai-models",
-      "title": "Training Our Own Ai Models",
-      "date": "2026-05-28"
-    },
-    {
-      "url": "https://github.com/0-ai-ug/cate",
-      "title": "Cate",
-      "date": "2026-05-28"
-    },
-    {
-      "url": "https://ochagavia.nl/blog/fully-in-browser-container-builds",
-      "title": "Fully In-browser Container Builds",
-      "date": "2026-05-28"
-    },
-    {
-      "url": "https://threadreaderapp.com/thread/2059675872408260816.html",
-      "title": "Liteparse V2.0",
-      "date": "2026-05-28"
-    },
-    {
-      "url": "https://daniel.haxx.se/blog/2026/05/26/the-pressure",
-      "title": "The Pressure",
-      "date": "2026-05-28"
-    },
-    {
-      "url": "https://dubroy.com/blog/fast-is-better-than-slow",
-      "title": "Fast is Better Than Slow",
-      "date": "2026-05-28"
-    },
-    {
-      "url": "https://elevenlabs.io/blog/introducing-music-v2",
-      "title": "Elevenlabs Music Generation Model",
-      "date": "2026-05-28"
-    },
-    {
-      "url": "https://expo.dev/blog/expo-ui-stable-sdk-56",
-      "title": "Import",
-      "date": "2026-05-28"
-    },
-    {
-      "url": "https://databricks.com/blog/reliable-llm-inference-scale",
-      "title": "Reliable Llm Inference at Scale",
-      "date": "2026-05-28"
-    },
-    {
-      "url": "https://sverre.me/blog/rust-on-kindle",
-      "title": "Rust (and Slint) on a Jailbroken Kindle",
-      "date": "2026-05-28"
-    },
-    {
-      "url": "https://stratechery.com/2026/the-spacex-ipo-and-data-centers-in-space",
-      "title": "The Spacex Ipo and Data Centers in Space",
-      "date": "2026-05-28"
-    },
-    {
-      "url": "https://om.co/2026/05/26/the-copy-and-the-guru",
-      "title": "The Copy and the Guru",
-      "date": "2026-05-28"
-    },
-    {
-      "url": "https://cognition.ai/blog/series-d",
-      "title": "More Devins in More Places",
-      "date": "2026-05-28"
-    },
-    {
       "url": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code",
       "title": "Introducing Dynamic Workflows",
       "date": "2026-05-29"
@@ -1299,6 +1199,141 @@
       "url": "https://links.tldrnewsletter.com/sewtee",
       "title": "Codex for Black Hole Simulations",
       "date": "2026-06-11"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/pmphv4",
+      "title": "Building a Good Vertical Agent",
+      "date": "2026-06-12"
+    },
+    {
+      "url": "https://oreilly.com/radar/the-pms-playbook-for-shipping-ai-features-that-actually-work-in-production",
+      "title": "Production",
+      "date": "2026-06-12"
+    },
+    {
+      "url": "https://astralcodexten.com/p/my-ai-opinions",
+      "title": "My Ai Opinions",
+      "date": "2026-06-12"
+    },
+    {
+      "url": "https://blog.ravi-mehta.com/p/prioritization-vs-curation",
+      "title": "Ai Doesn't Make Your Job Easier",
+      "date": "2026-06-12"
+    },
+    {
+      "url": "https://smashingmagazine.com/2026/06/how-make-design-system-ai-ready",
+      "title": "How to Make Your Design System Ai-ready",
+      "date": "2026-06-12"
+    },
+    {
+      "url": "https://venturebeat.com/technology/xiaomis-new-open-source-agentic-ai-coding-harness-mimo-code-beats-claude-code-at-ultra-long-200-step-tasks",
+      "title": "Claude Code at Ultra-long, 200+ Step Tasks",
+      "date": "2026-06-12"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/7zrhza",
+      "title": "Can Compute Commoditize If It's Not Fungible?",
+      "date": "2026-06-12"
+    },
+    {
+      "url": "https://jjenzz.com/best-loading-states-are-no-loading-states",
+      "title": "The Best Loading States Are Not Loading States",
+      "date": "2026-06-12"
+    },
+    {
+      "url": "https://callstack.com/blog/on-device-ai-after-wwdc-2026-whats-new",
+      "title": "On-device Ai After Wwdc 2026: What's New?",
+      "date": "2026-06-12"
+    },
+    {
+      "url": "https://news.theuncommonexecutive.com/p/how-to-get-the-most-out-of-your-super",
+      "title": "How Meta Sets up Super Ic Teams",
+      "date": "2026-06-12"
+    },
+    {
+      "url": "https://zed.dev/blog/introducing-deltadb",
+      "title": "Software is Made in Between Commits",
+      "date": "2026-06-12"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/ctrfpd",
+      "title": "Openai Acquired Ona for Long-running Agents",
+      "date": "2026-06-12"
+    },
+    {
+      "url": "https://aprildunford.substack.com/p/in-the-age-of-ai-you-need-a-point",
+      "title": "In the Age of Ai, You Need a Point of View",
+      "date": "2026-06-12"
+    },
+    {
+      "url": "https://recursive.com/articles/first-steps-toward-automated-ai-research",
+      "title": "First Steps Toward Automated Ai Research",
+      "date": "2026-06-12"
+    },
+    {
+      "url": "https://brew.sh/2026/06/11/homebrew-6.0.0",
+      "title": "Homebrew 6.0.0",
+      "date": "2026-06-12"
+    },
+    {
+      "url": "https://kasperjunge.com/blog/should-pms-code-with-agents",
+      "title": "The Point",
+      "date": "2026-06-12"
+    },
+    {
+      "url": "https://ledger.somantix.ai/posts/open-ai-lays-groundwork-for-on-prem-product",
+      "title": "Openai Lays Groundwork for On-prem Product",
+      "date": "2026-06-12"
+    },
+    {
+      "url": "https://github.com/nvidia/skillspector",
+      "title": "Skillspector",
+      "date": "2026-06-12"
+    },
+    {
+      "url": "https://dpereira.substack.com/p/are-you-asking-the-real-questions",
+      "title": "Are You Asking the Real Questions?",
+      "date": "2026-06-12"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/uduq8w",
+      "title": "Finding Optimal Tokenizers",
+      "date": "2026-06-12"
+    },
+    {
+      "url": "https://goodfire.ai/research/predictive-data-debugging",
+      "title": "Before You Train",
+      "date": "2026-06-12"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/5hp3rk",
+      "title": "Making a Vintage Llm From Scratch",
+      "date": "2026-06-12"
+    },
+    {
+      "url": "https://mrbruh.com/amd2",
+      "title": "The Rce That Amd Wouldn't Fix",
+      "date": "2026-06-12"
+    },
+    {
+      "url": "https://github.com/ademking/md-this-page",
+      "title": "Md This Page",
+      "date": "2026-06-12"
+    },
+    {
+      "url": "https://productpower.substack.com/p/llm-evaluation-and-benchmarking",
+      "title": "Llm Evaluation & Benchmarking",
+      "date": "2026-06-12"
+    },
+    {
+      "url": "https://newsletter.weskao.com/p/fundamentals-how-to-share-your-point",
+      "title": "How to Share Your Point of View",
+      "date": "2026-06-12"
+    },
+    {
+      "url": "https://huggingface.co/blog/torch-mlp-fusion",
+      "title": "Optimizing Pytorch With Fused Mlps",
+      "date": "2026-06-12"
     }
   ],
   "feedback": [
