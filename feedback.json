@@ -1,131 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://henrikwarne.com/2026/05/31/with-claude-less-coding-more-testing",
-      "title": "With Claude: Less Coding, More Testing",
-      "date": "2026-06-01"
-    },
-    {
-      "url": "https://lucasfcosta.com/blog/backpressure-is-all-you-need",
-      "title": "Backpressure is All You Need",
-      "date": "2026-06-01"
-    },
-    {
-      "url": "https://thenextweb.com/news/ai-replacing-summer-internships-college-students",
-      "title": "Built Careers is Breaking",
-      "date": "2026-06-01"
-    },
-    {
-      "url": "https://brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat",
-      "title": "Domain Expertise Has Always Been the Real Moat",
-      "date": "2026-06-01"
-    },
-    {
-      "url": "https://seangoedecke.com/build-agents-not-pipelines",
-      "title": "Build Agents, Not Pipelines",
-      "date": "2026-06-01"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/6tpncs",
-      "title": "Verifying Agentic Development at Scale",
-      "date": "2026-06-01"
-    },
-    {
-      "url": "https://thezvi.wordpress.com/2026/05/29/claude-opus-4-8-the-system-card",
-      "title": "Claude Opus 4.8: the System Card",
-      "date": "2026-06-01"
-    },
-    {
-      "url": "https://github.com/michaelliv/pi-dynamic-workflows",
-      "title": "Pi-dynamic-workflows",
-      "date": "2026-06-01"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/utlytb",
-      "title": "The Last Technical Interview",
-      "date": "2026-06-01"
-    },
-    {
-      "url": "https://kristoff.it/blog/fix-your-asserts",
-      "title": "You Must Fix Your Asserts",
-      "date": "2026-06-01"
-    },
-    {
-      "url": "https://blog.matt-rickard.com/p/where-should-agent-generated-code",
-      "title": "Where Should Agent-generated Code Live?",
-      "date": "2026-06-01"
-    },
-    {
-      "url": "https://qgallouedec-tito.hf.space",
-      "title": "Agentic Rl: Token-in, Token-out Done Right",
-      "date": "2026-06-01"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/f37cx8",
-      "title": "Grok Build 0.1 on Api",
-      "date": "2026-06-01"
-    },
-    {
-      "url": "https://blogs.newardassociates.com/blog/2026/titit-llms-and-internet.html",
-      "title": "Things I Think I Think... the New Internet Era",
-      "date": "2026-06-01"
-    },
-    {
-      "url": "https://threadreaderapp.com/thread/2061266317815296322.html",
-      "title": "Minimax M3",
-      "date": "2026-06-01"
-    },
-    {
-      "url": "https://shreyasdoshi.substack.com/p/on-mid-career-satisfaction",
-      "title": "On Mid-career Satisfaction",
-      "date": "2026-06-01"
-    },
-    {
-      "url": "https://pierre.computer/writing/on-rendering-diffs",
-      "title": "On Rendering Diffs",
-      "date": "2026-06-01"
-    },
-    {
-      "url": "https://mail.cyberneticforests.com/its-not-just-data-its-post-training",
-      "title": "It's Not Just X. It's Y",
-      "date": "2026-06-01"
-    },
-    {
-      "url": "https://prismml.com/news/bonsai-image-4b",
-      "title": "Local Devices",
-      "date": "2026-06-01"
-    },
-    {
-      "url": "https://github.com/affaan-m/ecc",
-      "title": "Ecc",
-      "date": "2026-06-01"
-    },
-    {
-      "url": "https://threadreaderapp.com/thread/2061117302528188712.html",
-      "title": "Openai Robotics is Hiring",
-      "date": "2026-06-01"
-    },
-    {
-      "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-      "title": "Odysseus",
-      "date": "2026-06-01"
-    },
-    {
-      "url": "https://arstechnica.com/ai/2026/05/robot-training-startup-will-send-humans-wearing-cameras-to-clean-your-home",
-      "title": "Training",
-      "date": "2026-06-01"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/eflks0",
-      "title": "Humanoid Hands Are Physical Ai's Anti-hype Test",
-      "date": "2026-06-01"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/aqqs8a",
-      "title": "Evaluations",
-      "date": "2026-06-01"
-    },
-    {
       "url": "https://spin.atomicobject.com/code-cheap-whats-left",
       "title": "When Code Becomes Cheap, What's Left?",
       "date": "2026-06-02"
@@ -1339,6 +1214,171 @@
       "url": "https://paulgraham.com/earn.html",
       "title": "How to Earn a Billion Dollars",
       "date": "2026-06-15"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/fcerrs",
+      "title": "Agentic Code Review",
+      "date": "2026-06-16"
+    },
+    {
+      "url": "https://stratechery.com/2026/anthropics-safety-superpower",
+      "title": "Anthropic's Safety Superpower",
+      "date": "2026-06-16"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/vgh7ax",
+      "title": "The Window Has Closed",
+      "date": "2026-06-16"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/9z45vj",
+      "title": "Should You Post-train Your Own Model?",
+      "date": "2026-06-16"
+    },
+    {
+      "url": "https://thezvi.substack.com/p/the-once-and-future-fable-2",
+      "title": "The Once and Future Fable #2",
+      "date": "2026-06-16"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/tbx9kb",
+      "title": "Owning Vs. Renting Intelligence",
+      "date": "2026-06-16"
+    },
+    {
+      "url": "https://charity.wtf/2026/06/15/ai-demands-more-engineering-discipline-not-less-xpost",
+      "title": "Ai Demands More Engineering Discipline. Not Less",
+      "date": "2026-06-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.12683",
+      "title": "Google Deepmind Explores the Path to Asi",
+      "date": "2026-06-16"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/re3ybg",
+      "title": "Mastering Codex (mobile) for Engineering",
+      "date": "2026-06-16"
+    },
+    {
+      "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now",
+      "title": "Running Local Models is Good Now",
+      "date": "2026-06-16"
+    },
+    {
+      "url": "https://builder.io/blog/how-to-make-ai-agents-follow-your-design-system",
+      "title": "How to Make Ai Agents Follow Your Design System",
+      "date": "2026-06-16"
+    },
+    {
+      "url": "https://dropbox.tech/security/dropbox-mcp-dash-design-code-security",
+      "title": "Gap",
+      "date": "2026-06-16"
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models",
+      "title": "Apple Foundation Models",
+      "date": "2026-06-16"
+    },
+    {
+      "url": "https://minid.net/2026/6/15/the-web-is-going-to-dissapear",
+      "title": "The Web We Know is Going to Disappear",
+      "date": "2026-06-16"
+    },
+    {
+      "url": "https://overcomingbias.com/p/the-promise-of-polymath-llms",
+      "title": "The Promise of Polymath Llms",
+      "date": "2026-06-16"
+    },
+    {
+      "url": "https://webkit.org/blog/18117/the-golden-rule-of-customizable-select",
+      "title": "The Golden Rule of Customizable Select",
+      "date": "2026-06-16"
+    },
+    {
+      "url": "https://tonsky.me/blog/every-frame-perfect",
+      "title": "Every Frame Perfect",
+      "date": "2026-06-16"
+    },
+    {
+      "url": "https://mattsayar.com/yes-we-still-need-engineers",
+      "title": "Yes, We Still Need Engineers",
+      "date": "2026-06-16"
+    },
+    {
+      "url": "https://jeffgothelf.com/blog/training-your-pms-on-ai-tools-is-the-easy-part",
+      "title": "Training Your Pms on Ai Tools is the Easy Part",
+      "date": "2026-06-16"
+    },
+    {
+      "url": "https://blog.bytebytego.com/p/a-guide-to-ai-inference-engineering",
+      "title": "A Guide to Ai Inference Engineering",
+      "date": "2026-06-16"
+    },
+    {
+      "url": "https://roszigit.com/en/blog/timescaledb-compression-hypercore",
+      "title": "98% Ratio in Postgresql",
+      "date": "2026-06-16"
+    },
+    {
+      "url": "https://lmsys.org/blog/2026-06-15-next-generation-speculative-decoding-dflash-v2",
+      "title": "Dflash and Spec V2 Decoding",
+      "date": "2026-06-16"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/aws/aws-waf-adds-ai-traffic-monetization-capability-to-help-content-owners-charge-ai-bots-for-content-access",
+      "title": "Owners Charge Ai Bots for Content Access",
+      "date": "2026-06-16"
+    },
+    {
+      "url": "https://randsinrepose.com/archives/heres-the-rub-we-dont-believe-you",
+      "title": "Here's the Rub: We Don't Believe You",
+      "date": "2026-06-16"
+    },
+    {
+      "url": "https://github.com/meshery/meshery",
+      "title": "Meshery",
+      "date": "2026-06-16"
+    },
+    {
+      "url": "https://roman.pt/posts/linkedin-backdoor",
+      "title": "A Backdoor in a Linkedin Job Offer",
+      "date": "2026-06-16"
+    },
+    {
+      "url": "https://notnotp.com/notes/what-job-interviews-taught-me-about-kubernetes",
+      "title": "What Job Interviews Taught Me About Kubernetes",
+      "date": "2026-06-16"
+    },
+    {
+      "url": "https://lesswrong.com/posts/cisy9stmofywbotsy/the-hidden-structures-of-problems",
+      "title": "The Hidden Structures of Problems",
+      "date": "2026-06-16"
+    },
+    {
+      "url": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning",
+      "title": "Zen and the Art of Machine Learning Research",
+      "date": "2026-06-16"
+    },
+    {
+      "url": "https://theregister.com/ai-and-ml/2026/06/16/a-modest-proposal-reformat-everything-to-make-documents-more-palatable-to-ai/5255938",
+      "title": "Palatable to Ai",
+      "date": "2026-06-16"
+    },
+    {
+      "url": "https://github.blog/ai-and-ml/llms/accelerating-researchers-and-developers-building-multilingual-ai-with-a-new-open-dataset",
+      "title": "A New Open Dataset",
+      "date": "2026-06-16"
+    },
+    {
+      "url": "https://sakana.ai/marlin-release",
+      "title": "Sakana Marlin",
+      "date": "2026-06-16"
+    },
+    {
+      "url": "https://seangoedecke.com/ai-gpus-live-longer-than-three-years",
+      "title": "Ai Gpus Probably Live Longer Than Three Years",
+      "date": "2026-06-16"
     }
   ],
   "feedback": [
@@ -1740,6 +1780,48 @@
       "vote": "up",
       "source": "TLDR",
       "date": "2026-06-10"
+    },
+    {
+      "url": "https://simonwillison.net/2026/jun/11/fable-is-relentlessly-proactive",
+      "title": "Claude Fable is Relentlessly Proactive",
+      "vote": "up",
+      "source": "TLDR Dev",
+      "date": "2026-06-15"
+    },
+    {
+      "url": "https://yusufaytas.com/vibe-coder-vs-software-engineer",
+      "title": "Vibe Coder vs Software Engineer",
+      "vote": "up",
+      "source": "TLDR Dev",
+      "date": "2026-06-15"
+    },
+    {
+      "url": "https://blog.janestreet.com/formal-methods-at-jane-street-index",
+      "title": "Formal Methods and the Future of Programming",
+      "vote": "down",
+      "source": "TLDR Dev",
+      "date": "2026-06-15"
+    },
+    {
+      "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction",
+      "title": "Data, and What it Might Mean for the Future",
+      "vote": "up",
+      "source": "TLDR",
+      "date": "2026-06-15"
+    },
+    {
+      "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
+      "title": "No, Everyone is Not Using Ai for Everything",
+      "vote": "up",
+      "source": "TLDR Dev",
+      "date": "2026-06-15"
+    },
+    {
+      "url": "https://davidpoll.com/2026/06/software-is-not-a-single-player-game",
+      "title": "Software is Not a Single-player Game",
+      "vote": "up",
+      "source": "TLDR",
+      "date": "2026-06-15"
     }
   ]
 }
