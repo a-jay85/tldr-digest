@@ -62,11 +62,27 @@ template = Path('bin/digest-prompt').read_text()
 print(template.replace('FEEDBACK_VOTES_PLACEHOLDER', votes))
 ")
 
-claude -p "$PROMPT" \
+# Wall-clock guard: an API/network stall on the scoring call can hang with no
+# output indefinitely (it wedged ~3h on 2026-06-16). `timeout`/`gtimeout` aren't
+# installed here, so use perl's alarm — the timer survives exec and SIGALRM's
+# default disposition terminates claude. Abort the whole run on timeout rather
+# than silently producing no draft.
+SCORE_RC=0
+perl -e 'alarm shift; exec @ARGV' 900 \
+    claude -p "$PROMPT" \
     --allowedTools "Read,Write" \
     --dangerously-skip-permissions \
     --model sonnet \
-    --max-turns 10
+    --max-turns 10 || SCORE_RC=$?
+
+if [ "$SCORE_RC" -ne 0 ]; then
+    if [ "$SCORE_RC" -eq 142 ]; then
+        echo "ERROR: scoring timed out after 15m — aborting run, no draft created." >&2
+    else
+        echo "ERROR: scoring failed (exit $SCORE_RC) — aborting run." >&2
+    fi
+    exit "$SCORE_RC"
+fi
 
 # Validate scoring output
 python3 -c "
