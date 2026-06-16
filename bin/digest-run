@@ -62,30 +62,32 @@ template = Path('bin/digest-prompt').read_text()
 print(template.replace('FEEDBACK_VOTES_PLACEHOLDER', votes))
 ")
 
-# Wall-clock guard: an API/network stall on the scoring call can hang with no
-# output indefinitely (it wedged ~3h on 2026-06-16). `timeout`/`gtimeout` aren't
+# One scoring attempt: run the LLM under a wall-clock guard, then validate its
+# output. An API/network stall on the scoring call can hang with no output
+# indefinitely (it wedged ~3h on 2026-06-16). `timeout`/`gtimeout` aren't
 # installed here, so use perl's alarm — the timer survives exec and SIGALRM's
-# default disposition terminates claude. Abort the whole run on timeout rather
-# than silently producing no draft.
-SCORE_RC=0
-perl -e 'alarm shift; exec @ARGV' 900 \
-    claude -p "$PROMPT" \
-    --allowedTools "Read,Write" \
-    --dangerously-skip-permissions \
-    --model sonnet \
-    --max-turns 10 || SCORE_RC=$?
+# default disposition terminates claude. Returns non-zero on timeout, claude
+# failure, or invalid output so the caller can retry.
+score_once() {
+    local rc=0
+    perl -e 'alarm shift; exec @ARGV' 900 \
+        claude -p "$PROMPT" \
+        --allowedTools "Read,Write" \
+        --dangerously-skip-permissions \
+        --model sonnet \
+        --max-turns 10 || rc=$?
 
-if [ "$SCORE_RC" -ne 0 ]; then
-    if [ "$SCORE_RC" -eq 142 ]; then
-        echo "ERROR: scoring timed out after 15m — aborting run, no draft created." >&2
-    else
-        echo "ERROR: scoring failed (exit $SCORE_RC) — aborting run." >&2
+    if [ "$rc" -ne 0 ]; then
+        if [ "$rc" -eq 142 ]; then
+            echo "  scoring timed out after 15m" >&2
+        else
+            echo "  scoring failed (claude exit $rc)" >&2
+        fi
+        return 1
     fi
-    exit "$SCORE_RC"
-fi
 
-# Validate scoring output
-python3 -c "
+    # Validate scoring output
+    python3 -c "
 import json, sys
 try:
     stories = json.load(open('scored_stories.json'))
@@ -100,6 +102,28 @@ except Exception as e:
     print(f'ERROR: scoring validation failed: {e}', file=sys.stderr)
     sys.exit(1)
 "
+}
+
+# Retry the scoring step: transient API stalls/timeouts are the main failure
+# mode here, so a couple of retries usually recover without manual intervention.
+MAX_ATTEMPTS=3
+SCORED_OK=0
+for attempt in $(seq 1 "$MAX_ATTEMPTS"); do
+    echo "  Scoring attempt $attempt/$MAX_ATTEMPTS..."
+    if score_once; then
+        SCORED_OK=1
+        break
+    fi
+    if [ "$attempt" -lt "$MAX_ATTEMPTS" ]; then
+        echo "  Retrying in 30s..."
+        sleep 30
+    fi
+done
+
+if [ "$SCORED_OK" -ne 1 ]; then
+    echo "ERROR: scoring failed after $MAX_ATTEMPTS attempts — aborting run, no draft created." >&2
+    exit 1
+fi
 
 # --- Phase 3: Build, draft, archive, update (no LLM) ---
 
