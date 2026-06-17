@@ -1,151 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://spin.atomicobject.com/code-cheap-whats-left",
-      "title": "When Code Becomes Cheap, What's Left?",
-      "date": "2026-06-02"
-    },
-    {
-      "url": "https://windowsontheory.org/2026/05/30/ai-is-a-meteor-dont-be-a-dinosaur",
-      "title": "Ai is a Meteor. Don't Be a Dinosaur",
-      "date": "2026-06-02"
-    },
-    {
-      "url": "https://poyo.co/note/20260525t094605",
-      "title": "Two Llm Ui Patterns That Aren't Chat",
-      "date": "2026-06-02"
-    },
-    {
-      "url": "https://threadreaderapp.com/thread/2061513383287882111.html",
-      "title": "Opus 4.8 Just Broke Arc-agi-3",
-      "date": "2026-06-02"
-    },
-    {
-      "url": "https://mironov.com/code",
-      "title": "Code Isn't Product",
-      "date": "2026-06-02"
-    },
-    {
-      "url": "https://productpower.substack.com/p/the-ai-sdk-landscape-for-product",
-      "title": "The Ai Sdk Landscape for Product Builders",
-      "date": "2026-06-02"
-    },
-    {
-      "url": "https://thezvi.wordpress.com/2026/06/01/opus-4-8-part-2-model-welfare",
-      "title": "Opus 4.8 Part 2: Model Welfare",
-      "date": "2026-06-02"
-    },
-    {
-      "url": "https://developers.openai.com/cookbook/examples/partners/aws/openai_models_with_amazon_bedrock",
-      "title": "Running Openai Models on Amazon Bedrock",
-      "date": "2026-06-02"
-    },
-    {
-      "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
-      "title": "The Speed of Prototyping in the Age of Ai",
-      "date": "2026-06-02"
-    },
-    {
-      "url": "https://research.perplexity.ai/articles/rethinking-search-as-code-generation",
-      "title": "Rethinking Search as Code Generation",
-      "date": "2026-06-02"
-    },
-    {
-      "url": "https://github.com/mattpocock/sandcastle",
-      "title": "Sandcastle",
-      "date": "2026-06-02"
-    },
-    {
-      "url": "https://bitsxpages.com/p/the-mathematics-of-multi-tenancy",
-      "title": "The Mathematics of Multi-tenancy",
-      "date": "2026-06-02"
-    },
-    {
-      "url": "https://jjmojojjmojo.github.io/why-am-i-interested-in-your-company.html",
-      "title": "Why Am I Interested in Your Company?",
-      "date": "2026-06-02"
-    },
-    {
-      "url": "https://cnbc.com/2026/06/01/microsoft-and-google-take-on-anthropic-and-openai-in-ai-coding-models.html",
-      "title": "Critical' They Compete for Growth",
-      "date": "2026-06-02"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/yszjqn",
-      "title": "Openai and Codex Reach Aws",
-      "date": "2026-06-02"
-    },
-    {
-      "url": "https://nvidianews.nvidia.com/news/nvidia-launches-cosmos-3-the-open-frontier-foundation-model-for-physical-ai",
-      "title": "Physical Ai",
-      "date": "2026-06-02"
-    },
-    {
-      "url": "https://ben.gesoff.uk/posts/reviewing-large-changes-with-jj",
-      "title": "Reviewing Large Changes With Jujutsu",
-      "date": "2026-06-02"
-    },
-    {
-      "url": "https://entropicthoughts.com/lean-not-backpressure",
-      "title": "Lean, Not Backpressure",
-      "date": "2026-06-02"
-    },
-    {
-      "url": "https://lcamtuf.substack.com/p/weekend-trivia-your-process-memory",
-      "title": "Weekend Trivia: Your Process' Memory is a File",
-      "date": "2026-06-02"
-    },
-    {
-      "url": "https://radekmie.dev/blog/on-scenarios-that-will-not-happen",
-      "title": "On Scenarios That Will Not Happen",
-      "date": "2026-06-02"
-    },
-    {
-      "url": "https://davesresearch.com/self-fulfilling-projects",
-      "title": "Self-fulfilling Projects",
-      "date": "2026-06-02"
-    },
-    {
-      "url": "https://qwen.ai/blog?id=qwen3.7-plus",
-      "title": "Qwen3.7-plus: Multimodal Agent Intelligence",
-      "date": "2026-06-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.31268",
-      "title": "Jetbrains's Mellum 2",
-      "date": "2026-06-02"
-    },
-    {
-      "url": "https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity",
-      "title": "Activity",
-      "date": "2026-06-02"
-    },
-    {
-      "url": "https://cutlefish.substack.com/p/tbm-424-why-we-help-and-how-to-stay",
-      "title": "Why We Help (and How to Stay Helpful)",
-      "date": "2026-06-02"
-    },
-    {
-      "url": "https://github.com/reconurge/flowsint",
-      "title": "Flowsint",
-      "date": "2026-06-02"
-    },
-    {
-      "url": "https://codemanship.wordpress.com/2026/05/31/feedback-with-a-face",
-      "title": "Feedback With a Face",
-      "date": "2026-06-02"
-    },
-    {
-      "url": "https://arstechnica.com/ai/2026/06/intel-our-upcoming-ai-chip-will-be-cheaper-run-cooler-than-nvidia-amd-options",
-      "title": "Amd Options",
-      "date": "2026-06-02"
-    },
-    {
-      "url": "https://cursor.com/blog/teams-pricing-june-2026",
-      "title": "Cursor Expands Teams Usage Limits",
-      "date": "2026-06-02"
-    },
-    {
       "url": "https://posthog.com/blog/karpathy-autoresearch-query-engine-bug",
       "title": "Engine (and Improved Performance by 11%)",
       "date": "2026-06-03"
@@ -1379,6 +1234,116 @@
       "url": "https://seangoedecke.com/ai-gpus-live-longer-than-three-years",
       "title": "Ai Gpus Probably Live Longer Than Three Years",
       "date": "2026-06-16"
+    },
+    {
+      "url": "https://sunilpai.dev/posts/never-waste-a-token",
+      "title": "Never Waste a Token",
+      "date": "2026-06-17"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/fwgglq",
+      "title": "Cursor Origin",
+      "date": "2026-06-17"
+    },
+    {
+      "url": "https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452",
+      "title": "Stop Using Jwts",
+      "date": "2026-06-17"
+    },
+    {
+      "url": "https://dri.es/ai-and-the-great-cms-unbundling",
+      "title": "Ai and the Great Cms Unbundling",
+      "date": "2026-06-17"
+    },
+    {
+      "url": "https://crunchydata.com/blog/british-columbia-and-time-zone-changes",
+      "title": "British Columbia, Time Zones, and Postgres",
+      "date": "2026-06-17"
+    },
+    {
+      "url": "https://android-developers.googleblog.com/2026/06/android-17.html",
+      "title": "Android 17 Expands Ai Agent Integration",
+      "date": "2026-06-17"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/fmoz6v",
+      "title": "Access",
+      "date": "2026-06-17"
+    },
+    {
+      "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl",
+      "title": "/dev/tcp",
+      "date": "2026-06-17"
+    },
+    {
+      "url": "https://z.ai/blog/glm-5.2",
+      "title": "Glm-5.2",
+      "date": "2026-06-17"
+    },
+    {
+      "url": "https://github.com/ottermind/nubase",
+      "title": "Nubase",
+      "date": "2026-06-17"
+    },
+    {
+      "url": "https://github.com/believer-oss/claireon",
+      "title": "Claireon",
+      "date": "2026-06-17"
+    },
+    {
+      "url": "https://github.com/likec4/likec4",
+      "title": "Likec4",
+      "date": "2026-06-17"
+    },
+    {
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-blocks-preview",
+      "title": "Application Backends on Aws (preview)",
+      "date": "2026-06-17"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/co61uw",
+      "title": "Simulating Model Deployments Before Release",
+      "date": "2026-06-17"
+    },
+    {
+      "url": "https://venturebeat.com/technology/why-weibos-tiny-vibethinker-3b-has-the-ai-world-arguing-over-benchmarks-again",
+      "title": "Benchmarks Again",
+      "date": "2026-06-17"
+    },
+    {
+      "url": "https://vexlio.com/blog/svgs-and-pdfs-can-both-be-interactive",
+      "title": "Svgs and Pdfs Can Both Be Interactive",
+      "date": "2026-06-17"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/aws/amazon-s3-annotations-attach-rich-queryable-context-directly-to-your-objects",
+      "title": "Your Objects",
+      "date": "2026-06-17"
+    },
+    {
+      "url": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time",
+      "title": "Humiliating Iis Servers for Fun and Jail Time",
+      "date": "2026-06-17"
+    },
+    {
+      "url": "https://transformernews.ai/p/mythos-fable-anthropic-safery-cybersecurity",
+      "title": "Reckless",
+      "date": "2026-06-17"
+    },
+    {
+      "url": "https://blogs.nvidia.com/blog/blackwell-mlperf-training-6-0",
+      "title": "6.0",
+      "date": "2026-06-17"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/kkplip",
+      "title": "Fundraise",
+      "date": "2026-06-17"
+    },
+    {
+      "url": "https://osnews.com/story/145322/apple-adds-keylogger-to-ios-app-store-for-targeted-advertising-tied-to-your-account-and-unencrypted",
+      "title": "To Your Account and Unencrypted",
+      "date": "2026-06-17"
     }
   ],
   "feedback": [
