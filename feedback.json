@@ -1,116 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://posthog.com/blog/karpathy-autoresearch-query-engine-bug",
-      "title": "Engine (and Improved Performance by 11%)",
-      "date": "2026-06-03"
-    },
-    {
-      "url": "https://latent.space/p/github",
-      "title": "Github's Plan for Agents",
-      "date": "2026-06-03"
-    },
-    {
-      "url": "https://saturnci.com/my-agent-skill-for-test-driven-development.html",
-      "title": "My Agent Skill for Test-driven Development",
-      "date": "2026-06-03"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/lgyibw",
-      "title": "Memory is Purpose",
-      "date": "2026-06-03"
-    },
-    {
-      "url": "https://rdel.substack.com/p/rdel-146-which-popular-beliefs-about",
-      "title": "Research?",
-      "date": "2026-06-03"
-    },
-    {
-      "url": "https://infoworld.com/article/4178964/ais-brave-new-world-of-technical-debt.html",
-      "title": "Ai's Brave New World of Technical Debt",
-      "date": "2026-06-03"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/nyf8bt",
-      "title": "Codex New Capabilities",
-      "date": "2026-06-03"
-    },
-    {
-      "url": "https://vercel.com/blog/protecting-against-token-theft",
-      "title": "Preventing Ai Inference Theft at Scale",
-      "date": "2026-06-03"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/rqjdvj",
-      "title": "State of Memory in Agent Harness",
-      "date": "2026-06-03"
-    },
-    {
-      "url": "https://blog.ammaraskar.com/github-token-stealing",
-      "title": "1-click Github Token Stealing via a Vscode Bug",
-      "date": "2026-06-03"
-    },
-    {
-      "url": "https://kapa.ai/blog/how-we-index-images-for-rag",
-      "title": "How We Index Images for Rag",
-      "date": "2026-06-03"
-    },
-    {
-      "url": "https://stratechery.com/2026/the-google-capital-company",
-      "title": "The Google Capital Company",
-      "date": "2026-06-03"
-    },
-    {
-      "url": "https://a16z.com/the-next-frontier-of-visual-ai-is-code",
-      "title": "The Next Frontier of Visual Ai is Code",
-      "date": "2026-06-03"
-    },
-    {
-      "url": "https://microsoft.ai/news/introducingmai-code-1-flash",
-      "title": "Introducing Mai-code-1-flash",
-      "date": "2026-06-03"
-    },
-    {
-      "url": "https://jay.ai/blog/llms-are-not-a-black-box",
-      "title": "Llms Are Not the Black Box You Were Promised",
-      "date": "2026-06-03"
-    },
-    {
-      "url": "https://github.com/getpaseo/paseo",
-      "title": "Paseo",
-      "date": "2026-06-03"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/iq3sop",
-      "title": "Inside Microsoft's Project Solara",
-      "date": "2026-06-03"
-    },
-    {
-      "url": "https://registerspill.thorstenball.com/p/building-software-is-learning",
-      "title": "Building Software is Learning",
-      "date": "2026-06-03"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/qy82az",
-      "title": "The Data Center Moves to Your Machine",
-      "date": "2026-06-03"
-    },
-    {
-      "url": "https://cnbc.com/2026/06/02/microsoft-unveils-new-ai-models-lessen-reliance-on-openai-lower-costs.html",
-      "title": "Lower Costs for Developers",
-      "date": "2026-06-03"
-    },
-    {
-      "url": "https://tidyfirst.substack.com/p/trust-factory",
-      "title": "Trust Factory",
-      "date": "2026-06-03"
-    },
-    {
-      "url": "https://david.alvarezrosa.com/posts/deriving-type-erasure",
-      "title": "Deriving Type Erasure",
-      "date": "2026-06-03"
-    },
-    {
       "url": "https://claude.com/blog/running-an-ai-native-engineering-org",
       "title": "Running an Ai-native Engineering Org",
       "date": "2026-06-04"
@@ -1344,6 +1234,96 @@
       "url": "https://osnews.com/story/145322/apple-adds-keylogger-to-ios-app-store-for-targeted-advertising-tied-to-your-account-and-unencrypted",
       "title": "To Your Account and Unencrypted",
       "date": "2026-06-17"
+    },
+    {
+      "url": "https://terriblesoftware.org/2026/06/17/you-got-faster-your-company-didnt",
+      "title": "You Got Faster. Your Company Didn't",
+      "date": "2026-06-18"
+    },
+    {
+      "url": "https://greptile.com/blog/trex-code-execution",
+      "title": "Review",
+      "date": "2026-06-18"
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2066946225837109735.html",
+      "title": "Cursor's New Model",
+      "date": "2026-06-18"
+    },
+    {
+      "url": "https://vercel.com/blog/introducing-eve",
+      "title": "Production Infrastructure for Ai Agents",
+      "date": "2026-06-18"
+    },
+    {
+      "url": "https://newsletter.posthog.com/p/why-were-bullish-on-loops",
+      "title": "Why We're Bullish on Loops",
+      "date": "2026-06-18"
+    },
+    {
+      "url": "https://exa.ai/blog/exa-agent",
+      "title": "Exa Agent",
+      "date": "2026-06-18"
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2067400851438932297.html",
+      "title": "Noam Shazeer is Joining Openai",
+      "date": "2026-06-18"
+    },
+    {
+      "url": "https://vercel.com/blog/introducing-vercel-connect",
+      "title": "Vercel Connect",
+      "date": "2026-06-18"
+    },
+    {
+      "url": "https://replit.com/blog/replit-claude",
+      "title": "Replit is Now Available in Claude",
+      "date": "2026-06-18"
+    },
+    {
+      "url": "https://nathan.rs/posts/gzip-lm",
+      "title": "Can Gzip Be a Language Model?",
+      "date": "2026-06-18"
+    },
+    {
+      "url": "https://makingsoftware.com/chapters/image-compression",
+      "title": "Image Compression",
+      "date": "2026-06-18"
+    },
+    {
+      "url": "https://github.com/privatenumber/mac-ocr",
+      "title": "Mac-ocr",
+      "date": "2026-06-18"
+    },
+    {
+      "url": "https://github.com/epicgames/lore",
+      "title": "Lore",
+      "date": "2026-06-18"
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2066913356548542827.html",
+      "title": "Mistral Has a New Model Coming This Summer",
+      "date": "2026-06-18"
+    },
+    {
+      "url": "https://parksb.github.io/en/article/32.html",
+      "title": "But Yak Shaving is Fun",
+      "date": "2026-06-18"
+    },
+    {
+      "url": "https://thesignalist.io/s/the-dialogue-dividend",
+      "title": "The Dialogue Dividend",
+      "date": "2026-06-18"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/ao14hw",
+      "title": "Apple to Raise Prices Due to Memory Chip Crunch",
+      "date": "2026-06-18"
+    },
+    {
+      "url": "https://futurism.com/artificial-intelligence/mark-zuckerberg-employees-fun-hackathon-layoffs",
+      "title": "Brutal Layoffs Culled Their Colleagues",
+      "date": "2026-06-18"
     }
   ],
   "feedback": [
