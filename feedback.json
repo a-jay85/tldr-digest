@@ -1,126 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://claude.com/blog/running-an-ai-native-engineering-org",
-      "title": "Running an Ai-native Engineering Org",
-      "date": "2026-06-04"
-    },
-    {
-      "url": "https://cpojer.net/posts/modern-engineering-values",
-      "title": "Modern Engineering Values",
-      "date": "2026-06-04"
-    },
-    {
-      "url": "https://drfeifei.substack.com/p/a-functional-taxonomy-of-world-models",
-      "title": "A Functional Taxonomy of World Models",
-      "date": "2026-06-04"
-    },
-    {
-      "url": "https://arstechnica.com/ai/2026/06/inside-metas-attempts-to-play-catch-up-with-ai",
-      "title": "Inside Meta's Attempts to Play Catch-up With Ai",
-      "date": "2026-06-04"
-    },
-    {
-      "url": "https://tomtunguz.com/tokens-per-result",
-      "title": "Intelligence Per Dollar",
-      "date": "2026-06-04"
-    },
-    {
-      "url": "https://sixcolors.com/post/2026/06/road-to-wwdc-2026-whats-a-developer",
-      "title": "Road to Wwdc 2026: What's a Developer?",
-      "date": "2026-06-04"
-    },
-    {
-      "url": "https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop",
-      "title": "16gb of Ram",
-      "date": "2026-06-04"
-    },
-    {
-      "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app",
-      "title": "It",
-      "date": "2026-06-04"
-    },
-    {
-      "url": "https://lovable.dev/fr/blog/building-apps-using-tanstack-start",
-      "title": "Building Apps Using Tanstack Start",
-      "date": "2026-06-04"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/3rt9et",
-      "title": "Announcing Angular V22",
-      "date": "2026-06-04"
-    },
-    {
-      "url": "https://github.com/tastyeffectco/sandboxes",
-      "title": "Sandboxed",
-      "date": "2026-06-04"
-    },
-    {
-      "url": "https://fzakaria.com/2026/06/01/every-byte-matters",
-      "title": "Every Byte Matters",
-      "date": "2026-06-04"
-    },
-    {
-      "url": "https://bankinfosecurity.com/blogs/ai-agents-are-new-insiders-p-4127",
-      "title": "Ai Agents Are the New Insiders",
-      "date": "2026-06-04"
-    },
-    {
-      "url": "https://github.com/zaydmulani09/mnemo",
-      "title": "Mnemo",
-      "date": "2026-06-04"
-    },
-    {
-      "url": "https://github.com/ideogram-oss/ideogram4",
-      "title": "Ideogram 4",
-      "date": "2026-06-04"
-    },
-    {
-      "url": "https://osnews.com/story/145206/microsoft-brings-coreutils-to-windows",
-      "title": "Microsoft Brings Coreutils to Windows",
-      "date": "2026-06-04"
-    },
-    {
-      "url": "https://maxleiter.com/blog/weights",
-      "title": "They're Made Out of Weights",
-      "date": "2026-06-04"
-    },
-    {
-      "url": "https://docs.python.org/3.15/whatsnew/3.15.html",
-      "title": "What's New in Python 3.15",
-      "date": "2026-06-04"
-    },
-    {
-      "url": "https://github.com/duanebester/gooey",
-      "title": "Gooey",
-      "date": "2026-06-04"
-    },
-    {
-      "url": "https://louwrentius.com/dns-is-for-people-not-for-it-infrastructure.html",
-      "title": "Dns is for People - Not for it Infrastructure",
-      "date": "2026-06-04"
-    },
-    {
-      "url": "https://cnbc.com/2026/06/03/ai-agents-morgan-stanley-wealth-management-funnel.html",
-      "title": "Funnel to Ai Agents",
-      "date": "2026-06-04"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.03979",
-      "title": "Sleep for Continual Learning",
-      "date": "2026-06-04"
-    },
-    {
-      "url": "https://osnews.com/story/145194/google-offers-opt-out-of-ai-search-results-for-websites-promises-it-wont-affect-regular-search-rankings",
-      "title": "Promises it Won't Affect Regular Search Rankings",
-      "date": "2026-06-04"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/rutu5x",
-      "title": "Spacex Sets Price for the World's Largest Ipo",
-      "date": "2026-06-04"
-    },
-    {
       "url": "https://ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future",
       "title": "Ai, Ashby Engineering, and the Future",
       "date": "2026-06-05"
@@ -1324,6 +1204,126 @@
       "url": "https://futurism.com/artificial-intelligence/mark-zuckerberg-employees-fun-hackathon-layoffs",
       "title": "Brutal Layoffs Culled Their Colleagues",
       "date": "2026-06-18"
+    },
+    {
+      "url": "https://jennywanger.com/articles/i-built-an-ai-that-critiques-me-after-every-call",
+      "title": "I Built an Ai That Critiques Me After Every Call",
+      "date": "2026-06-19"
+    },
+    {
+      "url": "https://claude.com/blog/artifacts-in-claude-code",
+      "title": "Claude Code Now Supports Artifacts",
+      "date": "2026-06-19"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/8ngzvj",
+      "title": "The Agent Loop Architecture",
+      "date": "2026-06-19"
+    },
+    {
+      "url": "https://perplexity.ai/hub/blog/self-improving-memory-for-agents",
+      "title": "Self-improving Memory for Agents",
+      "date": "2026-06-19"
+    },
+    {
+      "url": "https://theatlantic.com/technology/2026/06/ai-agents-jobs-exhaustion/687596?gift=dcljqo7rarwhqqw8ryo_1ee0rpgqnprphmfblf5etmw",
+      "title": "America is Headed Toward the Infinite Workweek",
+      "date": "2026-06-19"
+    },
+    {
+      "url": "https://stackoverflow.blog/2026/06/18/the-new-bottleneck",
+      "title": "The New Bottleneck",
+      "date": "2026-06-19"
+    },
+    {
+      "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents",
+      "title": "Securing the Future of Ai Agents",
+      "date": "2026-06-19"
+    },
+    {
+      "url": "https://alignment.openai.com/beneficial-rl",
+      "title": "Models",
+      "date": "2026-06-19"
+    },
+    {
+      "url": "https://elenaverna.com/p/the-mom-and-pop-saas-era-has-arrived",
+      "title": "The Mom-and-pop Saas Era Has Arrived",
+      "date": "2026-06-19"
+    },
+    {
+      "url": "https://benn.substack.com/p/what-will-startups-do-in-2030",
+      "title": "What Will Startups Do in 2030?",
+      "date": "2026-06-19"
+    },
+    {
+      "url": "https://github.com/withastro/flue",
+      "title": "Flue",
+      "date": "2026-06-19"
+    },
+    {
+      "url": "https://oreilly.com/radar/kubernetes-in-the-age-of-ai",
+      "title": "Kubernetes in the Age of Ai",
+      "date": "2026-06-19"
+    },
+    {
+      "url": "https://github.com/builderio/agent-native",
+      "title": "Agent-native",
+      "date": "2026-06-19"
+    },
+    {
+      "url": "https://jakeworth.com/tils/the-outbox-pattern",
+      "title": "The Outbox Pattern",
+      "date": "2026-06-19"
+    },
+    {
+      "url": "https://elastic.co/search-labs/blog/agent-memory-elasticsearch",
+      "title": "0.89 Recall and Zero Tenant Leaks",
+      "date": "2026-06-19"
+    },
+    {
+      "url": "https://cnbc.com/2026/06/18/yann-lecun-elon-musk-xai-failure-ai-labs-bubble-risk.html",
+      "title": "A 'big Bubble Explosion'",
+      "date": "2026-06-19"
+    },
+    {
+      "url": "https://testingcatalog.com/mistral-ai-to-get-code-and-apps-features-on-vibe",
+      "title": "Mistral Ai to Get Code and Apps Features on Vibe",
+      "date": "2026-06-19"
+    },
+    {
+      "url": "https://retention.blog/p/chat-based-onboarding",
+      "title": "Chat-based Onboarding",
+      "date": "2026-06-19"
+    },
+    {
+      "url": "https://dpereira.substack.com/p/what-nobody-says-about-being-a-product",
+      "title": "What Nobody Says About Being a Product Lead",
+      "date": "2026-06-19"
+    },
+    {
+      "url": "https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary",
+      "title": "I Hate Compilers",
+      "date": "2026-06-19"
+    },
+    {
+      "url": "https://nesbitt.io/2026/06/18/open-source-vs-the-invisible-hand.html",
+      "title": "Open Source vs the Invisible Hand",
+      "date": "2026-06-19"
+    },
+    {
+      "url": "https://revenuecat.com/blog/growth/monthly-subscriptions-when-to-offer",
+      "title": "Monthly Plans Might Be Your Best Option",
+      "date": "2026-06-19"
+    },
+    {
+      "url": "https://cutlefish.substack.com/p/tbm-426-the-trouble-with-mirrors",
+      "title": "The Trouble With Mirrors",
+      "date": "2026-06-19"
+    },
+    {
+      "url": "https://a16z.news/p/new-media-one-year-in",
+      "title": "New Media, One Year in",
+      "date": "2026-06-19"
     }
   ],
   "feedback": [
