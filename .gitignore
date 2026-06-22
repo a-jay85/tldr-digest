@@ -6,6 +6,7 @@ digest.html
 digest_subject.txt
 stories.json
 scored_stories.json
+scores.json
 stories_fresh.json
 config.local.json
 .clasp.json

@@ -70,6 +70,10 @@ print(template.replace('FEEDBACK_VOTES_PLACEHOLDER', votes))
 # failure, or invalid output so the caller can retry.
 score_once() {
     local rc=0
+    # Drop any stale output from a previous attempt/day so validation can't
+    # silently pass on it if the LLM writes nothing this time.
+    rm -f scores.json
+
     perl -e 'alarm shift; exec @ARGV' 900 \
         claude -p "$PROMPT" \
         --allowedTools "Read,Write" \
@@ -86,18 +90,28 @@ score_once() {
         return 1
     fi
 
-    # Validate scoring output
+    # Validate the LLM's scores file, then deterministically merge the scores
+    # back onto the full story records (joining on url_clean) to rebuild
+    # scored_stories.json. The LLM only emits {url_clean, score, rationale},
+    # keeping its streamed output small to reduce exposure to mid-response
+    # connection drops; the heavy fields (description, urls) never round-trip.
     python3 -c "
 import json, sys
 try:
-    stories = json.load(open('scored_stories.json'))
-    assert isinstance(stories, list), 'not a list'
-    required = ['title', 'description', 'url_original', 'url_clean', 'read_time', 'source', 'score', 'rationale']
-    for s in stories:
-        missing = [f for f in required if f not in s]
-        assert not missing, f'missing {missing} in: {s.get(\"title\")}'
-        assert isinstance(s['score'], int), f'bad score type in: {s[\"title\"]}'
-    print(f'Scoring validated: {len(stories)} stories')
+    scores = json.load(open('scores.json'))
+    assert isinstance(scores, list), 'scores.json is not a list'
+    fresh = {s['url_clean']: s for s in json.load(open('stories_fresh.json'))}
+    merged = []
+    for r in scores:
+        for f in ('url_clean', 'score', 'rationale'):
+            assert f in r, f'missing {f} in score entry: {r}'
+        assert isinstance(r['score'], int), f'bad score type: {r}'
+        story = fresh.get(r['url_clean'])
+        assert story is not None, f'url_clean not in stories_fresh: {r[\"url_clean\"]}'
+        merged.append({**story, 'score': r['score'], 'rationale': r['rationale']})
+    merged.sort(key=lambda s: s['score'], reverse=True)
+    json.dump(merged, open('scored_stories.json', 'w'), indent=2, ensure_ascii=False)
+    print(f'Scoring validated: {len(merged)} stories')
 except Exception as e:
     print(f'ERROR: scoring validation failed: {e}', file=sys.stderr)
     sys.exit(1)

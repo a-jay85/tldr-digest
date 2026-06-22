@@ -1,4 +1,4 @@
-Read stories_fresh.json. For each story, assign a score (0–100) and write the results to scored_stories.json — same array but with "score" (int) and "rationale" (one short sentence) added to each object. Remove stories scoring below 20. If more than 25 remain, also remove those below 30. Sort descending by score.
+Read stories_fresh.json. For each story, assign a score (0–100). Remove stories scoring below 20. If more than 25 remain, also remove those below 30. Write the kept stories to scores.json as a JSON array of objects with exactly three keys: "url_clean" (copied verbatim from the story), "score" (int), and "rationale" (one short sentence). Do not copy any other fields — the full story records are merged back in afterward by joining on url_clean.
 
 Scoring profile:
 
@@ -15,4 +15,4 @@ Modifiers: Actionable/practical content: +10 · Matches previous 👍: +10 · Ma
 User feedback votes (apply modifiers for topically similar stories):
 FEEDBACK_VOTES_PLACEHOLDER
 
-Output only the scored_stories.json file. No other files, no commentary.
+Output only the scores.json file. No other files, no commentary.
