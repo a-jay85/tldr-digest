@@ -1,136 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future",
-      "title": "Ai, Ashby Engineering, and the Future",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://venturebeat.com/technology/anthropic-says-80-of-its-new-production-code-is-now-authored-by-claude-how-your-enterprise-can-keep-up",
-      "title": "Claude \u2014 How Your Enterprise Can Catch up",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://htmx.org/essays/code-is-cheap",
-      "title": "Code is Cheap(er)",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://anthropic.com/institute/recursive-self-improvement",
-      "title": "When Ai Builds Itself",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://github.com/anthropics/defending-code-reference-harness",
-      "title": "Defending Code Reference Harness",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://github.com/alibaba/open-code-review",
-      "title": "Open Code Review",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://blog.alexewerlof.com/p/local-llms-for-agentic-coding",
-      "title": "Using Local Llms for Agentic Coding",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://stratechery.com/2026/an-interview-with-microsoft-ceo-satya-nadella-about-finding-core-competencies",
-      "title": "Competencies",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://github.com/ulyssestenn/omt",
-      "title": "Ollama Model Tester",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/3qmh3j",
-      "title": "'self-improvement' Risk",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://threadreaderapp.com/thread/2062625945715200287.html",
-      "title": "The Pm is the New Shipping Layer",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://moderndata101.substack.com/p/the-retrieval-layer",
-      "title": "Product Decision",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare",
-      "title": "Voidzero is Joining Cloudflare",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://silicon-frontier.com/research/silicon-control",
-      "title": "Silicon Control",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://tomshardware.com/tech-industry/artificial-intelligence/bots-have-now-passed-human-traffic-online-cloudflare-boss-laments-says-agentic-traffic-wasnt-expected-to-eclipse-real-people-until-next-year",
-      "title": "Bots Have Now Passed Human Traffic Online",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://frontierai.substack.com/p/ai-is-not-a-line-item",
-      "title": "Ai is Not a Line Item",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://testing.googleblog.com/2026/06/choosing-values-for-robust-tests.html",
-      "title": "Choosing Values for Robust Tests",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/pyndct",
-      "title": "Chatgpt Dreaming V3",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://thesaascfo.com/how-to-build-outcome-based-pricing",
-      "title": "How to Build an Outcome-based Pricing Plan",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://truehenrique.com/en/2021/10/27/single-responsibility-the-distorted-principle",
-      "title": "Single Responsibility, the Distorted Principle",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://expo.dev/blog/talking-to-jsi-in-swift",
-      "title": "Talking to Jsi in Swift: What Changed in Sdk 56",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/lo9aru",
-      "title": "Scale",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://buchodi.com/meta-glasses-facial-recognition",
-      "title": "Face-recognition Pipeline on a Stock Account",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
-      "title": "Nemotron 3.5 Content Safety",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://generalistai.com/blog/accelerating-the-next-phase-of-physical-ai",
-      "title": "Accelerating the Next Phase of Physical Ai",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://blog.geekuni.com/2026/06/why-learn-pandas.html",
-      "title": "Why Learn Pandas?",
-      "date": "2026-06-05"
-    },
-    {
       "url": "https://alexself.dev/blog/automated-doubt",
       "title": "My Automated Doubt Development Process",
       "date": "2026-06-08"
@@ -1324,6 +1194,126 @@
       "url": "https://a16z.news/p/new-media-one-year-in",
       "title": "New Media, One Year in",
       "date": "2026-06-19"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/ovgknl",
+      "title": "From Prompting Agents to Loop Engineering",
+      "date": "2026-06-22"
+    },
+    {
+      "url": "https://octet-stream.net/b/scb/2026-06-22-when-its-the-maintainer-whos-ai-pilled.html",
+      "title": "When It's the Maintainer Who's Ai-pilled",
+      "date": "2026-06-22"
+    },
+    {
+      "url": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works",
+      "title": "When I Reject Ai Code Even If it Works",
+      "date": "2026-06-22"
+    },
+    {
+      "url": "https://alisawuffles.github.io/blog/job-search",
+      "title": "Notes on the Industry Job Search",
+      "date": "2026-06-22"
+    },
+    {
+      "url": "https://github.com/raiyanyahya/recall",
+      "title": "Recall",
+      "date": "2026-06-22"
+    },
+    {
+      "url": "https://blog.cloudflare.com/temporary-accounts",
+      "title": "Temporary Cloudflare Accounts for Ai Agents",
+      "date": "2026-06-22"
+    },
+    {
+      "url": "https://steve-yegge.medium.com/the-flat-curve-society-36c8b01eb33b",
+      "title": "The Flat Curve Society",
+      "date": "2026-06-22"
+    },
+    {
+      "url": "https://brandur.org/minimum-viable-unit",
+      "title": "The Minimum Viable Unit of Saleable Software",
+      "date": "2026-06-22"
+    },
+    {
+      "url": "https://developer.chrome.com/docs/lighthouse/agentic-browsing/scoring",
+      "title": "Lighthouse Agentic Browsing Scoring",
+      "date": "2026-06-22"
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2068862070062485867.html",
+      "title": "Sakana Fugu",
+      "date": "2026-06-22"
+    },
+    {
+      "url": "https://morphllm.com/blog/codegen-inference-research",
+      "title": "Optimizing Models to Be Fast at Codegen",
+      "date": "2026-06-22"
+    },
+    {
+      "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites",
+      "title": "Json-ld Explained for Personal Websites",
+      "date": "2026-06-22"
+    },
+    {
+      "url": "https://fosterelli.co/developers-dont-understand-cors",
+      "title": "Developers Don't Understand Cors",
+      "date": "2026-06-22"
+    },
+    {
+      "url": "https://newsletter.kentbeck.com/p/hey-n00b-we-didnt-hire-you-to-complete",
+      "title": "Hey, N00b, We Didn't Hire You to Complete Tasks",
+      "date": "2026-06-22"
+    },
+    {
+      "url": "https://decrypt.co/371722/inception-labs-mercury-2-ai-beats-googles-diffusiongemma",
+      "title": "Game",
+      "date": "2026-06-22"
+    },
+    {
+      "url": "https://seangoedecke.com/big-tech-needs-big-egos",
+      "title": "Big Tech Engineers Need Big Egos",
+      "date": "2026-06-22"
+    },
+    {
+      "url": "https://timwehrle.de/blog/i-stored-a-website-in-a-favicon",
+      "title": "I Stored a Website in a Favicon",
+      "date": "2026-06-22"
+    },
+    {
+      "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+      "title": "Building Reliable Agentic Ai Systems",
+      "date": "2026-06-22"
+    },
+    {
+      "url": "https://ianbarber.blog/2026/06/19/llms-are-complicated-now",
+      "title": "Llms Are Complicated Now",
+      "date": "2026-06-22"
+    },
+    {
+      "url": "https://clickhouse.com/blog/open-source-10",
+      "title": "Ten Years of Clickhouse in Open Source",
+      "date": "2026-06-22"
+    },
+    {
+      "url": "https://mooreds.com/wordpress/archives/3518",
+      "title": "Ask for No, Don't Ask for Yes",
+      "date": "2026-06-22"
+    },
+    {
+      "url": "https://thenextweb.com/news/trump-anthropic-not-national-security-threat-axios-interview",
+      "title": "After G7 Meeting With Ceo",
+      "date": "2026-06-22"
+    },
+    {
+      "url": "https://lesswrong.com/posts/zoyxpdamgft43wc24/how-transparent-is-diffusiongemma-and-why-it-matters",
+      "title": "Auditing Diffusiongemma Transparency",
+      "date": "2026-06-22"
+    },
+    {
+      "url": "https://research.nvidia.com/labs/gear/enpire",
+      "title": "Nvidia's Autonomous Robotics Research",
+      "date": "2026-06-22"
     }
   ],
   "feedback": [
