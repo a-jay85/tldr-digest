@@ -1,121 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index",
-      "title": "I Design With Claude More Than Figma Now",
-      "date": "2026-06-09"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/hw6fq7",
-      "title": "Loop Engineering",
-      "date": "2026-06-09"
-    },
-    {
-      "url": "https://k-dense.ai/blog/the-model-is-no-longer-the-bottleneck",
-      "title": "The Model is No Longer the Bottleneck",
-      "date": "2026-06-09"
-    },
-    {
-      "url": "https://web.archive.org/web/20260607163135/https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do",
-      "title": "To Do",
-      "date": "2026-06-09"
-    },
-    {
-      "url": "https://developers.openai.com/cookbook/examples/partners/schemaflow_design_guide/schemaflow_cookbook",
-      "title": "Openai's Database Change Analysis",
-      "date": "2026-06-09"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/srcark",
-      "title": "Built to Benefit Everyone: Our Plan",
-      "date": "2026-06-09"
-    },
-    {
-      "url": "https://benn.substack.com/p/get-out-of-the-token-path",
-      "title": "Your Agent Will Be Your Undoing",
-      "date": "2026-06-09"
-    },
-    {
-      "url": "https://research.perplexity.ai/articles/how-ai-agents-reshape-knowledge-work",
-      "title": "How Ai Agents Reshape Knowledge Work",
-      "date": "2026-06-09"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/zxe5qz",
-      "title": "Your Agent Harness Should Repair Itself",
-      "date": "2026-06-09"
-    },
-    {
-      "url": "https://mijndertstuij.nl/posts/life-is-too-short-for-a-slow-terminal",
-      "title": "Life is Too Short for a Slow Terminal",
-      "date": "2026-06-09"
-    },
-    {
-      "url": "https://seangoedecke.com/working-with-product-managers",
-      "title": "Working With Product Managers",
-      "date": "2026-06-09"
-    },
-    {
-      "url": "https://newsletter.getdx.com/p/the-current-impact-of-ai-on-engineering",
-      "title": "Ai's Measured Impact on Engineering Velocity",
-      "date": "2026-06-09"
-    },
-    {
-      "url": "https://seangoedecke.com/doing-nothing-at-work",
-      "title": "Doing Nothing at Work",
-      "date": "2026-06-09"
-    },
-    {
-      "url": "https://paul.kinlan.me/where-my-head-is-at-with-llms-and-the-web",
-      "title": "Where My Head is at With Llms and the Web",
-      "date": "2026-06-09"
-    },
-    {
-      "url": "https://cutlefish.substack.com/p/tbm-425-ai-and-agency",
-      "title": "Ai and Agency",
-      "date": "2026-06-09"
-    },
-    {
-      "url": "https://github.com/devenjarvis/lathe",
-      "title": "Lathe",
-      "date": "2026-06-09"
-    },
-    {
-      "url": "https://cognition.ai/blog/frontier-code",
-      "title": "Introducing Frontiercode",
-      "date": "2026-06-09"
-    },
-    {
-      "url": "https://algorithmichiring.github.io",
-      "title": "Algorithmic Monocultures in Hiring",
-      "date": "2026-06-09"
-    },
-    {
-      "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
-      "title": "Deepseek V4 Pro Beats Gpt-5.5 Pro on Precision",
-      "date": "2026-06-09"
-    },
-    {
-      "url": "https://sherwood.news/tech/chatgpt-failed-to-kill-google-search",
-      "title": "Chatgpt Failed to Kill Google Search",
-      "date": "2026-06-09"
-    },
-    {
-      "url": "https://aakashg.com/what-is-product-positioning",
-      "title": "What is Product Positioning: Master it in 2026",
-      "date": "2026-06-09"
-    },
-    {
-      "url": "https://spin.atomicobject.com/in-person-backlog-management-tools",
-      "title": "The Value of In-person Backlog Management Tools",
-      "date": "2026-06-09"
-    },
-    {
-      "url": "https://romanpichler.com/podcast/emotional-intelligence-in-product-management",
-      "title": "Advantage Ai Can't Replicate",
-      "date": "2026-06-09"
-    },
-    {
       "url": "https://links.tldrnewsletter.com/vtu51f",
       "title": "Self-evolving Autoresearch Workflow Loops",
       "date": "2026-06-10"
@@ -1319,6 +1204,131 @@
       "url": "https://worksinprogress.co/issue/why-american-data-centers-cant-plug-in",
       "title": "Why American Data Centers Can't Plug in",
       "date": "2026-06-23"
+    },
+    {
+      "url": "https://blog.bytebytego.com/p/an-ex-meta-l8s-agentic-engineering",
+      "title": "An Ex-meta L8's Agentic Engineering Setup",
+      "date": "2026-06-24"
+    },
+    {
+      "url": "https://anthropic.com/news/introducing-claude-tag",
+      "title": "Claude Tag",
+      "date": "2026-06-24"
+    },
+    {
+      "url": "https://builder.io/blog/building-in-the-age-of-collaborative-coding",
+      "title": "Building in the Age of Collaborative Coding",
+      "date": "2026-06-24"
+    },
+    {
+      "url": "https://dbreunig.com/2026/06/22/the-problem-is-prompt-debt.html",
+      "title": "The Problem is Prompt Debt",
+      "date": "2026-06-24"
+    },
+    {
+      "url": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop",
+      "title": "The Coming Loop",
+      "date": "2026-06-24"
+    },
+    {
+      "url": "https://thoughtfullab.com/the-state-of-ai-post-training-agents.html",
+      "title": "The State of Ai Post-training Agents",
+      "date": "2026-06-24"
+    },
+    {
+      "url": "https://github.com/modem-dev/hunk",
+      "title": "Hunk",
+      "date": "2026-06-24"
+    },
+    {
+      "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
+      "title": "Lightweight Harness",
+      "date": "2026-06-24"
+    },
+    {
+      "url": "https://mistral.ai/news/ocr-4",
+      "title": "Mistral Ocr 4: Sota Ocr for Document Intelligence",
+      "date": "2026-06-24"
+    },
+    {
+      "url": "https://latent.space/p/gray-swan",
+      "title": "Insights on Indirect Prompt Injection",
+      "date": "2026-06-24"
+    },
+    {
+      "url": "https://unsloth.ai/docs/models/glm-5.2",
+      "title": "Glm-5.2 - How to Run Locally",
+      "date": "2026-06-24"
+    },
+    {
+      "url": "https://role-confusion.github.io",
+      "title": "Prompt Injection as Role Confusion",
+      "date": "2026-06-24"
+    },
+    {
+      "url": "https://words.filippo.io/vuln-reports",
+      "title": "Vulnerability Reports Are Not Special Anymore",
+      "date": "2026-06-24"
+    },
+    {
+      "url": "https://akselmo.dev/posts/please-keep-code-descriptions-simple",
+      "title": "Please Keep Code Descriptions Simple",
+      "date": "2026-06-24"
+    },
+    {
+      "url": "https://momentic.ai/blog/a-new-era-of-software-quality",
+      "title": "A New Era of Software Quality Starts Today",
+      "date": "2026-06-24"
+    },
+    {
+      "url": "https://swelljoe.com/post/will-it-mythos",
+      "title": "Will it Mythos?",
+      "date": "2026-06-24"
+    },
+    {
+      "url": "https://cnet.com/tech/services-and-software/bytedance-introduces-new-seedance-2-5-video-model",
+      "title": "Prompt",
+      "date": "2026-06-24"
+    },
+    {
+      "url": "https://github.com/fluree/db",
+      "title": "Fluree Db",
+      "date": "2026-06-24"
+    },
+    {
+      "url": "https://text-incubation.com/startup-ennui-and-the-forgetten-art-of-risk-taking",
+      "title": "Dead Players",
+      "date": "2026-06-24"
+    },
+    {
+      "url": "https://github.com/graphsignal/graphsignal-profiler",
+      "title": "Graphsignal",
+      "date": "2026-06-24"
+    },
+    {
+      "url": "https://github.com/baidu/unlimited-ocr",
+      "title": "Unlimited Ocr Works",
+      "date": "2026-06-24"
+    },
+    {
+      "url": "https://sofiakodar.github.io/posts/becomingmanager",
+      "title": "The Truth About Being a Manager",
+      "date": "2026-06-24"
+    },
+    {
+      "url": "https://krea.ai/blog/krea-2-technical-report",
+      "title": "Krea 2 Technical Report",
+      "date": "2026-06-24"
+    },
+    {
+      "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
+      "title": "The Low-tech Ai of Elden Ring",
+      "date": "2026-06-24"
+    },
+    {
+      "url": "https://jakub.kr/writing/less-is-more",
+      "title": "Less is More, More or Less",
+      "date": "2026-06-24"
     }
   ],
   "feedback": [
