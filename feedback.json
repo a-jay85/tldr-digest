@@ -1,121 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://links.tldrnewsletter.com/vtu51f",
-      "title": "Self-evolving Autoresearch Workflow Loops",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://simonwillison.net/2026/jun/9/claude-fable-5",
-      "title": "Initial Impressions of Claude Fable 5",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
-      "title": "What it Feels Like to Work With Mythos",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://yoonholee.com/blog/2026/we-should-take-text-optimization-more-seriously",
-      "title": "Text as a Serious Optimization Layer",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/kuaacu",
-      "title": "Ai is Eating the Ai Engineering Loop",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://builder.io/blog/agent-experience",
-      "title": "Agent Experience is the New Developer Experience",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://anthropic.com/news/claude-fable-5-mythos-5",
-      "title": "Claude Fable 5 Launch",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://codingwithjesse.com/blog/rockstar-developers",
-      "title": "Cleaning up After Ai Rockstar Developers",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/ysxglu",
-      "title": "Implications of Large-scale Test-time Compute",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://github.com/apple/container",
-      "title": "Container",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://github.com/luongnv89/asm",
-      "title": "Asm",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://github.com/wonderwhy-er/desktopcommandermcp",
-      "title": "Desktop Commander Mcp",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://interconnects.ai/p/claude-fable-5-and-new-ai-safety",
-      "title": "Claude Fable 5 and New Ai Safety Fables",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://thezvi.substack.com/p/three-labs-with-a-plan-and-a-memorandum",
-      "title": "Three Labs With a Plan and a Memorandum",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://julienreszka.com/blog/the-better-the-autopilot-the-worse-the-pilot",
-      "title": "The Better the Autopilot, the Worse the Pilot",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://andersmurphy.com/2026/06/07/sqlite-improving-performance-with-pre-sort.html",
-      "title": "Sqlite Improving Performance With Pre-sort",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://spyglass.org/siri-ai",
-      "title": "Apple Wins Consumer Ai by Default",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://writethatblog.substack.com/p/report-llms-tech-blogs",
-      "title": "Why Developers Use Llms to Write Blog Posts",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://cohere.com/blog/north-mini-code",
-      "title": "Cohere Launched an Agentic Coding Model",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/jo8gqw",
-      "title": "Dominate Spend",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://stratechery.com/2026/the-iphones-last-stand",
-      "title": "The Iphone's Last Stand",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers",
-      "title": "Apple Bets Cheaper Ai Will Woo Small Developers",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://wheresyoured.at/ai-is-slowing-down",
-      "title": "Ai is Slowing Down",
-      "date": "2026-06-10"
-    },
-    {
       "url": "https://links.tldrnewsletter.com/lktvys",
       "title": "Moats Need Models",
       "date": "2026-06-11"
@@ -1329,6 +1214,106 @@
       "url": "https://jakub.kr/writing/less-is-more",
       "title": "Less is More, More or Less",
       "date": "2026-06-24"
+    },
+    {
+      "url": "https://rico.codes/loops-not-prompts",
+      "title": "Writing Loops, Not Prompts, Explained",
+      "date": "2026-06-25"
+    },
+    {
+      "url": "https://structural.chat/articles/programming-in-markdown",
+      "title": "Stop Programming in Markdown",
+      "date": "2026-06-25"
+    },
+    {
+      "url": "https://platformer.news/matt-garman-aws-ceo-interview-ai-jobs",
+      "title": "Employees",
+      "date": "2026-06-25"
+    },
+    {
+      "url": "https://robenglander.com/writing/the-case-for-language-native-software",
+      "title": "The Case for Language-native Software",
+      "date": "2026-06-25"
+    },
+    {
+      "url": "https://interconnects.ai/p/glm-52-is-the-step-change-for-open",
+      "title": "Glm-5.2 is the Step Change for Open Agents",
+      "date": "2026-06-25"
+    },
+    {
+      "url": "https://skovhus.dev/blog/moving-linear-from-styled-components-to-stylex",
+      "title": "Moving Linear From Styled\u2011components to Stylex",
+      "date": "2026-06-25"
+    },
+    {
+      "url": "https://lesswrong.com/posts/d8xdgzceye639qqev/a-mechanistic-explanation-of-prompt-injection-and-why-you",
+      "title": "Study Roles)",
+      "date": "2026-06-25"
+    },
+    {
+      "url": "https://archive.is/t1fjg",
+      "title": "Why Big Ai Labs Are Hiring So Many Philosophers",
+      "date": "2026-06-25"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash",
+      "title": "Introducing Computer Use on Gemini 3.5 Flash",
+      "date": "2026-06-25"
+    },
+    {
+      "url": "https://questdb.com/blog/lies-damn-lies-and-database-benchmarks",
+      "title": "Lies, Damn Lies, and Database Benchmarks",
+      "date": "2026-06-25"
+    },
+    {
+      "url": "https://github.com/nubjs/nub",
+      "title": "Nub",
+      "date": "2026-06-25"
+    },
+    {
+      "url": "https://datatracker.ietf.org/doc/rfc10008",
+      "title": "The Http Query Method",
+      "date": "2026-06-25"
+    },
+    {
+      "url": "https://github.com/notasithlord/peerd",
+      "title": "Peerd",
+      "date": "2026-06-25"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.24597",
+      "title": "Qwen-agentworld",
+      "date": "2026-06-25"
+    },
+    {
+      "url": "https://perplexity.ai/hub/blog/introducing-computer-for-counsel",
+      "title": "Perplexity Computer for Counsel",
+      "date": "2026-06-25"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/5cnkgv",
+      "title": "Jalape\u00f1o: Openai's New Chip",
+      "date": "2026-06-25"
+    },
+    {
+      "url": "https://educatedguesswork.org/posts/notes-amazon-perplexity",
+      "title": "Notes on Amazon V. Perplexity",
+      "date": "2026-06-25"
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals",
+      "title": "Gemini Researchers Join Anthropic",
+      "date": "2026-06-25"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/mikj9l",
+      "title": "Own Ai",
+      "date": "2026-06-25"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/bn2kzt",
+      "title": "Useful",
+      "date": "2026-06-25"
     }
   ],
   "feedback": [
