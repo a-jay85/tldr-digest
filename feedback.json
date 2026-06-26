@@ -1,126 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://links.tldrnewsletter.com/lktvys",
-      "title": "Moats Need Models",
-      "date": "2026-06-11"
-    },
-    {
-      "url": "https://claude.com/blog/building-with-claude-managed-agents",
-      "title": "Agents",
-      "date": "2026-06-11"
-    },
-    {
-      "url": "https://saranormous.substack.com/p/the-untrainable",
-      "title": "The Untrainable",
-      "date": "2026-06-11"
-    },
-    {
-      "url": "https://darioamodei.com/post/policy-on-the-ai-exponential",
-      "title": "Policy on the Ai Exponential",
-      "date": "2026-06-11"
-    },
-    {
-      "url": "https://blog.j11y.io/2026-06-10_hidden-state-probes",
-      "title": "Don't Let the Llm Speak, Just Probe it",
-      "date": "2026-06-11"
-    },
-    {
-      "url": "https://asteriskmag.substack.com/p/how-long-until-ai-doesnt-need-humans",
-      "title": "How Long Until Ai Doesn't Need Humans?",
-      "date": "2026-06-11"
-    },
-    {
-      "url": "https://a16z.news/p/everything-is-recorded-now",
-      "title": "Everything is Recorded Now",
-      "date": "2026-06-11"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/ihuguo",
-      "title": "Fable-5 System Prompt Leak",
-      "date": "2026-06-11"
-    },
-    {
-      "url": "https://stackoverflow.blog/2026/06/10/announcing-stack-overflow-for-agents",
-      "title": "Announcing Stack Overflow for Agents",
-      "date": "2026-06-11"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/legual",
-      "title": "Anthropic",
-      "date": "2026-06-11"
-    },
-    {
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation",
-      "title": "Diffusiongemma: 4x Faster Text Generation",
-      "date": "2026-06-11"
-    },
-    {
-      "url": "https://newsletter.manager.dev/p/the-unwritten-laws-of-software-engineering",
-      "title": "The Unwritten Laws of Software Engineering",
-      "date": "2026-06-11"
-    },
-    {
-      "url": "https://github.com/apache/burr",
-      "title": "Apache Burr",
-      "date": "2026-06-11"
-    },
-    {
-      "url": "https://plain.jxd.dev/blog/realtime",
-      "title": "Instant by Default, Multiplayer by Design",
-      "date": "2026-06-11"
-    },
-    {
-      "url": "https://cursor.com/blog/bugbot-updates-june-2026",
-      "title": "Faster Code Review With Cursor's Bugbot",
-      "date": "2026-06-11"
-    },
-    {
-      "url": "https://github.com/helixdb/helix-db/tree/main",
-      "title": "Helix Db",
-      "date": "2026-06-11"
-    },
-    {
-      "url": "https://securosis.com/blog/aws-destroyed-the-value-proposition-for-bedrock",
-      "title": "Aws Destroyed the Value Proposition for Bedrock",
-      "date": "2026-06-11"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/nmryoh",
-      "title": "Ai Creativity and Discovery",
-      "date": "2026-06-11"
-    },
-    {
-      "url": "https://red.anthropic.com/2026/n-days",
-      "title": "Measuring Llms' Impact on N-day Exploits",
-      "date": "2026-06-11"
-    },
-    {
-      "url": "https://forestwalk.ai/blog/surprise-blacksmith-costs",
-      "title": "Surprise! Pay $1,000",
-      "date": "2026-06-11"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/xhtbui",
-      "title": "How to Be Good at Research",
-      "date": "2026-06-11"
-    },
-    {
-      "url": "https://p2claw.com/blog/2026-06-09-the-ipad-was-on-tailscale",
-      "title": "The Ipad Was on Tailscale",
-      "date": "2026-06-11"
-    },
-    {
-      "url": "https://neowin.net/news/google-chrome-is-killing-all-ublock-origin-bypasses-microsoft-edge-opera-to-follow",
-      "title": "Opera to Follow",
-      "date": "2026-06-11"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/sewtee",
-      "title": "Codex for Black Hole Simulations",
-      "date": "2026-06-11"
-    },
-    {
       "url": "https://links.tldrnewsletter.com/pmphv4",
       "title": "Building a Good Vertical Agent",
       "date": "2026-06-12"
@@ -1314,6 +1194,101 @@
       "url": "https://links.tldrnewsletter.com/bn2kzt",
       "title": "Useful",
       "date": "2026-06-25"
+    },
+    {
+      "url": "https://blog.grandimam.com/posts/repricing-of-software-engineering-labor",
+      "title": "Repricing of Software Engineering Labor",
+      "date": "2026-06-26"
+    },
+    {
+      "url": "https://exponentialview.co/p/the-state-of-the-ai-economy",
+      "title": "\ud83d\udd2e the State of the Ai Economy",
+      "date": "2026-06-26"
+    },
+    {
+      "url": "https://danielmiessler.com/blog/ai-native-divide",
+      "title": "The Coming Divide: Ai-native or Left Behind",
+      "date": "2026-06-26"
+    },
+    {
+      "url": "https://borretti.me/article/no-one-escapes-the-permanent-underclass",
+      "title": "No-one Escapes the Permanent Underclass",
+      "date": "2026-06-26"
+    },
+    {
+      "url": "https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models",
+      "title": "The Unbearable Cheapness of Open Weight Models",
+      "date": "2026-06-26"
+    },
+    {
+      "url": "https://tanayj.com/p/build-the-agent-or-power-the-agent",
+      "title": "Build the Agent or Power the Agent?",
+      "date": "2026-06-26"
+    },
+    {
+      "url": "https://huggingface.co/blog/vllm-jobs",
+      "title": "Run a Vllm Server on Hf Jobs in One Command",
+      "date": "2026-06-26"
+    },
+    {
+      "url": "https://productpower.substack.com/p/product-manager-is-the-old-title",
+      "title": "Product Manager is the Old Title",
+      "date": "2026-06-26"
+    },
+    {
+      "url": "https://itamargilad.com/how-dev-productivity",
+      "title": "How to Measure Development Productivity?",
+      "date": "2026-06-26"
+    },
+    {
+      "url": "https://dpereira.substack.com/p/is-ai-fooling-you",
+      "title": "Is Ai Fooling You?",
+      "date": "2026-06-26"
+    },
+    {
+      "url": "https://dev.karltryggvason.com/you-cant-unit-test-for-taste",
+      "title": "You Can't Unit Test for Taste",
+      "date": "2026-06-26"
+    },
+    {
+      "url": "https://tierfs.com/blog/every-team-builds-the-same-cache.html",
+      "title": "Every Team is Building the Same Cache",
+      "date": "2026-06-26"
+    },
+    {
+      "url": "https://inner-game-bq3fs.sprites.app",
+      "title": "The New Inner Game",
+      "date": "2026-06-26"
+    },
+    {
+      "url": "https://lilianweng.github.io/posts/2026-06-24-scaling-laws",
+      "title": "Scaling Laws, Carefully",
+      "date": "2026-06-26"
+    },
+    {
+      "url": "https://cursor.com/blog/reward-hacking-coding-benchmarks",
+      "title": "Measuring Exploits in Llm Agents With Tool Use",
+      "date": "2026-06-26"
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2070181051801235463.html",
+      "title": "We Removed an Lm's Ability to Speak German",
+      "date": "2026-06-26"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.25996",
+      "title": "Agents That Build Better Training Data",
+      "date": "2026-06-26"
+    },
+    {
+      "url": "https://github.com/every-app/open-seo",
+      "title": "Open Seo",
+      "date": "2026-06-26"
+    },
+    {
+      "url": "https://kolistat.com/blog/the-stats-duck-v0-6-0",
+      "title": "The-stats-duck V0.6.0",
+      "date": "2026-06-26"
     }
   ],
   "feedback": [
