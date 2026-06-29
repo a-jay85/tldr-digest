@@ -1,141 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://links.tldrnewsletter.com/pmphv4",
-      "title": "Building a Good Vertical Agent",
-      "date": "2026-06-12"
-    },
-    {
-      "url": "https://oreilly.com/radar/the-pms-playbook-for-shipping-ai-features-that-actually-work-in-production",
-      "title": "Production",
-      "date": "2026-06-12"
-    },
-    {
-      "url": "https://astralcodexten.com/p/my-ai-opinions",
-      "title": "My Ai Opinions",
-      "date": "2026-06-12"
-    },
-    {
-      "url": "https://blog.ravi-mehta.com/p/prioritization-vs-curation",
-      "title": "Ai Doesn't Make Your Job Easier",
-      "date": "2026-06-12"
-    },
-    {
-      "url": "https://smashingmagazine.com/2026/06/how-make-design-system-ai-ready",
-      "title": "How to Make Your Design System Ai-ready",
-      "date": "2026-06-12"
-    },
-    {
-      "url": "https://venturebeat.com/technology/xiaomis-new-open-source-agentic-ai-coding-harness-mimo-code-beats-claude-code-at-ultra-long-200-step-tasks",
-      "title": "Claude Code at Ultra-long, 200+ Step Tasks",
-      "date": "2026-06-12"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/7zrhza",
-      "title": "Can Compute Commoditize If It's Not Fungible?",
-      "date": "2026-06-12"
-    },
-    {
-      "url": "https://jjenzz.com/best-loading-states-are-no-loading-states",
-      "title": "The Best Loading States Are Not Loading States",
-      "date": "2026-06-12"
-    },
-    {
-      "url": "https://callstack.com/blog/on-device-ai-after-wwdc-2026-whats-new",
-      "title": "On-device Ai After Wwdc 2026: What's New?",
-      "date": "2026-06-12"
-    },
-    {
-      "url": "https://news.theuncommonexecutive.com/p/how-to-get-the-most-out-of-your-super",
-      "title": "How Meta Sets up Super Ic Teams",
-      "date": "2026-06-12"
-    },
-    {
-      "url": "https://zed.dev/blog/introducing-deltadb",
-      "title": "Software is Made in Between Commits",
-      "date": "2026-06-12"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/ctrfpd",
-      "title": "Openai Acquired Ona for Long-running Agents",
-      "date": "2026-06-12"
-    },
-    {
-      "url": "https://aprildunford.substack.com/p/in-the-age-of-ai-you-need-a-point",
-      "title": "In the Age of Ai, You Need a Point of View",
-      "date": "2026-06-12"
-    },
-    {
-      "url": "https://recursive.com/articles/first-steps-toward-automated-ai-research",
-      "title": "First Steps Toward Automated Ai Research",
-      "date": "2026-06-12"
-    },
-    {
-      "url": "https://brew.sh/2026/06/11/homebrew-6.0.0",
-      "title": "Homebrew 6.0.0",
-      "date": "2026-06-12"
-    },
-    {
-      "url": "https://kasperjunge.com/blog/should-pms-code-with-agents",
-      "title": "The Point",
-      "date": "2026-06-12"
-    },
-    {
-      "url": "https://ledger.somantix.ai/posts/open-ai-lays-groundwork-for-on-prem-product",
-      "title": "Openai Lays Groundwork for On-prem Product",
-      "date": "2026-06-12"
-    },
-    {
-      "url": "https://github.com/nvidia/skillspector",
-      "title": "Skillspector",
-      "date": "2026-06-12"
-    },
-    {
-      "url": "https://dpereira.substack.com/p/are-you-asking-the-real-questions",
-      "title": "Are You Asking the Real Questions?",
-      "date": "2026-06-12"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/uduq8w",
-      "title": "Finding Optimal Tokenizers",
-      "date": "2026-06-12"
-    },
-    {
-      "url": "https://goodfire.ai/research/predictive-data-debugging",
-      "title": "Before You Train",
-      "date": "2026-06-12"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/5hp3rk",
-      "title": "Making a Vintage Llm From Scratch",
-      "date": "2026-06-12"
-    },
-    {
-      "url": "https://mrbruh.com/amd2",
-      "title": "The Rce That Amd Wouldn't Fix",
-      "date": "2026-06-12"
-    },
-    {
-      "url": "https://github.com/ademking/md-this-page",
-      "title": "Md This Page",
-      "date": "2026-06-12"
-    },
-    {
-      "url": "https://productpower.substack.com/p/llm-evaluation-and-benchmarking",
-      "title": "Llm Evaluation & Benchmarking",
-      "date": "2026-06-12"
-    },
-    {
-      "url": "https://newsletter.weskao.com/p/fundamentals-how-to-share-your-point",
-      "title": "How to Share Your Point of View",
-      "date": "2026-06-12"
-    },
-    {
-      "url": "https://huggingface.co/blog/torch-mlp-fusion",
-      "title": "Optimizing Pytorch With Fused Mlps",
-      "date": "2026-06-12"
-    },
-    {
       "url": "https://simonwillison.net/2026/jun/11/fable-is-relentlessly-proactive",
       "title": "Claude Fable is Relentlessly Proactive",
       "date": "2026-06-15"
@@ -1289,6 +1154,91 @@
       "url": "https://kolistat.com/blog/the-stats-duck-v0-6-0",
       "title": "The-stats-duck V0.6.0",
       "date": "2026-06-26"
+    },
+    {
+      "url": "https://venturebeat.com/ai/claude-code-turned-every-engineer-into-three-now-companies-need-more-product-thinkers",
+      "title": "Product Thinkers",
+      "date": "2026-06-29"
+    },
+    {
+      "url": "https://github.com/humanlayer/12-factor-agents",
+      "title": "12 Factor Agents",
+      "date": "2026-06-29"
+    },
+    {
+      "url": "https://anthropic.com/research/economic-index-june-2026-report",
+      "title": "Anthropic Economic Index June 2026 Report",
+      "date": "2026-06-29"
+    },
+    {
+      "url": "https://magazine.sebastianraschka.com/p/using-local-coding-agents",
+      "title": "Using Local Coding Agents",
+      "date": "2026-06-29"
+    },
+    {
+      "url": "https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai",
+      "title": "Software Engineering in the Age of Ai",
+      "date": "2026-06-29"
+    },
+    {
+      "url": "https://terezatizkova.com/writing/software-abundance",
+      "title": "Software is Becoming Marketing",
+      "date": "2026-06-29"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/aklx60",
+      "title": "Off",
+      "date": "2026-06-29"
+    },
+    {
+      "url": "https://dwarkesh.com/p/the-next-paradigm",
+      "title": "The Next Paradigm",
+      "date": "2026-06-29"
+    },
+    {
+      "url": "https://chatgptpro.substack.com/p/tyler-cowen",
+      "title": "An \u201cinfovore\u201d Shares His Chats",
+      "date": "2026-06-29"
+    },
+    {
+      "url": "https://swizec.com/blog/code-is-the-easy-part-or-how-we-refactored-half-the-business-to-fix-a-janky-script",
+      "title": "A Janky Script",
+      "date": "2026-06-29"
+    },
+    {
+      "url": "https://jayfreestone.com/writing/you-might-not-need-a-service-worker",
+      "title": "You Might Not Need\u2026 a Service Worker",
+      "date": "2026-06-29"
+    },
+    {
+      "url": "https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing",
+      "title": "Tokenmaxxing is Dead, Long Live Tokenmaxxing",
+      "date": "2026-06-29"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/lqdvjf",
+      "title": "Defining Taste",
+      "date": "2026-06-29"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.26907",
+      "title": "Qwen Image Agent",
+      "date": "2026-06-29"
+    },
+    {
+      "url": "https://w.pitula.me/fintech-engineering-handbook",
+      "title": "Fintech Engineering Handbook",
+      "date": "2026-06-29"
+    },
+    {
+      "url": "https://research.google/blog/accelerating-gemini-nano-models-on-pixel-with-frozen-multi-token-prediction",
+      "title": "Prediction",
+      "date": "2026-06-29"
+    },
+    {
+      "url": "https://alganet.github.io/blog/2026-06-28-12-posix-is-not-a-shell.html",
+      "title": "Posix is Not a Shell",
+      "date": "2026-06-29"
     }
   ],
   "feedback": [
@@ -1732,6 +1682,13 @@
       "vote": "up",
       "source": "TLDR",
       "date": "2026-06-15"
+    },
+    {
+      "url": "https://borretti.me/article/no-one-escapes-the-permanent-underclass",
+      "title": "No-one Escapes the Permanent Underclass",
+      "vote": "up",
+      "source": "TLDR",
+      "date": "2026-06-26"
     }
   ]
 }
