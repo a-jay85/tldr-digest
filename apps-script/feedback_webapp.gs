@@ -82,7 +82,25 @@ function sendDigestEmail(payload) {
   var subject = payload.subject || "TLDR Digest";
   var htmlBody = payload.htmlBody || "<p>No content</p>";
 
-  GmailApp.sendEmail(recipient, subject, "", { htmlBody: htmlBody });
+  // GmailApp.sendEmail corrupts supplementary-plane characters (emoji > U+FFFF)
+  // in both subject and body. Build the raw MIME ourselves with explicit UTF-8
+  // encoding — subject as an RFC 2047 base64 encoded-word, body as base64 with
+  // charset=UTF-8 — and send via the Gmail advanced service, which preserves
+  // the bytes exactly.
+  var encodedSubject = "=?UTF-8?B?"
+    + Utilities.base64Encode(subject, Utilities.Charset.UTF_8) + "?=";
+  var message =
+    "To: " + recipient + "\r\n"
+    + "Subject: " + encodedSubject + "\r\n"
+    + "MIME-Version: 1.0\r\n"
+    + "Content-Type: text/html; charset=UTF-8\r\n"
+    + "Content-Transfer-Encoding: base64\r\n"
+    + "\r\n"
+    + Utilities.base64Encode(htmlBody, Utilities.Charset.UTF_8);
+  var raw = Utilities.base64EncodeWebSafe(message, Utilities.Charset.UTF_8)
+    .replace(/=+$/, "");
+
+  Gmail.Users.Messages.send({ raw: raw }, "me");
 
   return jsonOut({ status: "ok", message: "Digest sent to " + recipient });
 }
