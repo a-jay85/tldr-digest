@@ -19,12 +19,20 @@ Personal newsletter curator. Fetches TLDR newsletters from Gmail, scores stories
 4. `python3 filter_seen.py stories.json feedback.json stories_fresh.json` — remove stories seen in last 7 days
 5. `claude -p` with `bin/digest-prompt` — score `stories_fresh.json` → `scored_stories.json` (LLM step)
 6. `python3 build_email.py scored_stories.json config.json` — generate `digest.html` + `digest_subject.txt`
-7. `python3 gmail_ops.py draft` — create Gmail draft
+7. `python3 send_digest.py config.json` — POST `digest.html`/`digest_subject.txt` to the Apps Script `sendDigest` endpoint, which emails the digest via GmailApp
 8. `python3 gmail_ops.py archive` — archive fetched threads
 9. `python3 update_seen.py scored_stories.json feedback.json` — add digest URLs to seen, prune >14 days
 10. `git commit && git push` — persist `feedback.json`
 
 If no fresh stories remain after filtering, steps 5-7 and 9-10 are skipped; threads are still archived.
+
+### Usage-limit retry
+
+If the LLM scoring step hits a Claude usage/session limit, `digest-run` parses the reset time from the error and schedules a one-shot launchd job (`com.tldr-digest.retry`, `DIGEST_RETRY=1`) to re-run the whole (idempotent) pipeline once the limit clears. The retry run self-removes its launchd job on exit; a `DIGEST_RETRY` guard prevents reschedule loops.
+
+### Apps Script deploy
+
+The web app lives in `apps-script/` and is managed with `clasp`. After editing any `.gs`, run `bin/deploy-appsscript` to push the source and redeploy the live `/exec` deployment in place (deployment id is derived from `apps_script_url`, so the redeploy target always matches what `send_digest.py` POSTs to). No manual editing in the Apps Script IDE.
 
 ### Scoring Profile (embedded in `bin/digest-prompt`)
 
@@ -40,7 +48,7 @@ If no fresh stories remain after filtering, steps 5-7 and 9-10 are skipped; thre
 
 ## Feedback
 
-The `config.json` has a `webapp_url` for feedback links (👍/👎) in the email. The `build_email.py` script handles generating these links. Feedback is written to a Google Sheet by the Apps Script and can be synced into `feedback.json` periodically.
+The `config.json` has a `webapp_url` (the GitHub Pages redirect) for feedback links (👍/👎) in the email; `build_email.py` generates these GET links. `apps_script_url` is the script's `/exec` deployment, used by `sync_feedback.py` (export votes) and `send_digest.py` (POST the digest to send). Feedback is written to a Google Sheet by the Apps Script and can be synced into `feedback.json` periodically.
 
 ### feedback.json Schema
 

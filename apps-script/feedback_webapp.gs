@@ -52,6 +52,46 @@ function doGet(e) {
   return HtmlService.createHtmlOutput("<p>Unknown action.</p>");
 }
 
+// POST endpoint. The digest runner POSTs JSON to send the day's digest:
+//   { action: "sendDigest", token: "...", subject: "...", htmlBody: "..." }
+// Token is carried in the body (not the query string) so it stays out of URL
+// logs; it's validated against the same TOKEN script property as doGet.
+function doPost(e) {
+  try {
+    var payload = JSON.parse(e.postData.contents);
+
+    if (!validateToken(payload)) {
+      return jsonOut({ status: "error", message: "Unauthorized" });
+    }
+
+    if (payload.action === "sendDigest") {
+      return sendDigestEmail(payload);
+    }
+
+    return jsonOut({ status: "error", message: "Unknown action" });
+  } catch (err) {
+    return jsonOut({ status: "error", message: err.toString() });
+  }
+}
+
+function sendDigestEmail(payload) {
+  var recipient = PropertiesService.getScriptProperties().getProperty("EMAIL");
+  if (!recipient) {
+    return jsonOut({ status: "error", message: "EMAIL script property not set" });
+  }
+  var subject = payload.subject || "TLDR Digest";
+  var htmlBody = payload.htmlBody || "<p>No content</p>";
+
+  GmailApp.sendEmail(recipient, subject, "", { htmlBody: htmlBody });
+
+  return jsonOut({ status: "ok", message: "Digest sent to " + recipient });
+}
+
+function jsonOut(obj) {
+  return ContentService.createTextOutput(JSON.stringify(obj))
+    .setMimeType(ContentService.MimeType.JSON);
+}
+
 function handleFeedback(params) {
   var vote = params.vote || "";
   var title = params.title || "";

@@ -21,6 +21,113 @@ exec >> "$LOG" 2>&1
 
 echo "=== Digest run starting at $(date) ==="
 
+# Captured output of the most recent scoring attempt, scanned for usage-limit
+# messages. Lives under the log dir so it's easy to inspect after a failure.
+SCORE_OUT="$LOG_DIR/last_score_output.txt"
+
+# One-shot launchd job used to re-run the digest once a usage limit resets.
+RETRY_LABEL="com.tldr-digest.retry"
+RETRY_PLIST="$HOME/Library/LaunchAgents/$RETRY_LABEL.plist"
+
+# When this invocation *is* the scheduled retry, tear the one-shot job down on
+# exit so it doesn't linger and fire again tomorrow at the same time. rm the
+# plist first (so it can't reload), then bootout the in-memory job (this may
+# SIGTERM us, but we're already exiting and the rm has landed).
+if [ -n "${DIGEST_RETRY:-}" ]; then
+    echo "(scheduled retry run — DIGEST_RETRY=1)"
+    cleanup_retry_job() {
+        rm -f "$RETRY_PLIST"
+        launchctl bootout "gui/$(id -u)/$RETRY_LABEL" 2>/dev/null || true
+    }
+    trap cleanup_retry_job EXIT
+fi
+
+# Parse a usage-limit reset time out of the scoring output and schedule a
+# one-shot launchd job to re-run the whole pipeline once the limit clears.
+# launchd fires at the next occurrence of the given Hour:Minute (handling a
+# reset that lands tomorrow) and runs on wake if the machine slept past it.
+schedule_retry() {
+    if [ -n "${DIGEST_RETRY:-}" ]; then
+        echo "  already a retry run — not rescheduling; next daily run will retry" >&2
+        return 1
+    fi
+
+    # Returns "<hour> <minute> <note>" in machine-local time, or non-zero on
+    # an unparseable message (in which case we don't schedule).
+    local parsed
+    parsed=$(python3 - "$SCORE_OUT" <<'PY'
+import re, sys, datetime
+from zoneinfo import ZoneInfo
+
+text = open(sys.argv[1], encoding="utf-8", errors="replace").read()
+m = re.search(r'resets\s+(\d{1,2})(?::(\d{2}))?\s*(am|pm)(?:\s*\(([^)]+)\))?', text, re.I)
+if not m:
+    sys.exit(1)
+
+hh = int(m.group(1)); mm = int(m.group(2) or 0); ap = m.group(3).lower(); tzname = m.group(4)
+if ap == "pm" and hh != 12: hh += 12
+if ap == "am" and hh == 12: hh = 0
+
+try:
+    tz = ZoneInfo(tzname) if tzname else datetime.datetime.now().astimezone().tzinfo
+except Exception:
+    tz = datetime.datetime.now().astimezone().tzinfo
+
+now = datetime.datetime.now(tz)
+target = now.replace(hour=hh, minute=mm, second=0, microsecond=0)
+if target <= now:
+    target += datetime.timedelta(days=1)
+target += datetime.timedelta(minutes=2)  # small buffer past the reset
+local = target.astimezone()
+print(f"{local.hour} {local.minute} {local.strftime('%Y-%m-%d %H:%M %Z')}")
+PY
+) || { echo "  could not parse a reset time from scoring output — not scheduling a retry" >&2; return 1; }
+
+    local hour minute note
+    hour=$(echo "$parsed" | cut -d' ' -f1)
+    minute=$(echo "$parsed" | cut -d' ' -f2)
+    note=$(echo "$parsed" | cut -d' ' -f3-)
+
+    cat > "$RETRY_PLIST" <<PLIST
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Label</key>
+	<string>$RETRY_LABEL</string>
+	<key>Program</key>
+	<string>$REPO/bin/digest-run</string>
+	<key>EnvironmentVariables</key>
+	<dict>
+		<key>DIGEST_RETRY</key>
+		<string>1</string>
+	</dict>
+	<key>StartCalendarInterval</key>
+	<dict>
+		<key>Hour</key>
+		<integer>$hour</integer>
+		<key>Minute</key>
+		<integer>$minute</integer>
+	</dict>
+	<key>WorkingDirectory</key>
+	<string>$REPO</string>
+	<key>StandardOutPath</key>
+	<string>$LOG_DIR/launchd-stdout.log</string>
+	<key>StandardErrorPath</key>
+	<string>$LOG_DIR/launchd-stderr.log</string>
+</dict>
+</plist>
+PLIST
+
+    launchctl bootout "gui/$(id -u)/$RETRY_LABEL" 2>/dev/null || true
+    if launchctl bootstrap "gui/$(id -u)" "$RETRY_PLIST"; then
+        echo "  scheduled a one-shot retry for $note (launchd: $RETRY_LABEL)"
+        return 0
+    fi
+    echo "  failed to load retry job via launchctl" >&2
+    return 1
+}
+
 # --- Phase 1: Fetch, parse, sync (no LLM) ---
 
 echo "[1/3] Fetching emails..."
@@ -74,12 +181,23 @@ score_once() {
     # silently pass on it if the LLM writes nothing this time.
     rm -f scores.json
 
+    # Capture claude's output so it can be scanned for a usage-limit message,
+    # then mirror it to the log to preserve the previous live-logging behavior.
     perl -e 'alarm shift; exec @ARGV' 900 \
         claude -p "$PROMPT" \
         --allowedTools "Read,Write" \
         --dangerously-skip-permissions \
         --model sonnet \
-        --max-turns 10 || rc=$?
+        --max-turns 10 > "$SCORE_OUT" 2>&1 || rc=$?
+    cat "$SCORE_OUT"
+
+    # A usage/session limit won't clear within the retry loop's window, so don't
+    # waste attempts on it — signal the caller (rc 2) to schedule a re-run at the
+    # reset time instead.
+    if grep -qiE "(session|usage) limit.*reset" "$SCORE_OUT"; then
+        echo "  usage limit reached during scoring" >&2
+        return 2
+    fi
 
     if [ "$rc" -ne 0 ]; then
         if [ "$rc" -eq 142 ]; then
@@ -124,9 +242,17 @@ MAX_ATTEMPTS=3
 SCORED_OK=0
 for attempt in $(seq 1 "$MAX_ATTEMPTS"); do
     echo "  Scoring attempt $attempt/$MAX_ATTEMPTS..."
-    if score_once; then
-        SCORED_OK=1
-        break
+    score_once && { SCORED_OK=1; break; }
+    rc=$?
+    if [ "$rc" -eq 2 ]; then
+        # Usage limit — schedule a re-run at the reset time and stop here. The
+        # rescheduled run will redo the whole (idempotent) pipeline.
+        if schedule_retry; then
+            echo "=== Digest run deferred until usage limit resets at $(date) ==="
+            exit 0
+        fi
+        echo "ERROR: usage limit hit and could not schedule a retry — aborting." >&2
+        exit 1
     fi
     if [ "$attempt" -lt "$MAX_ATTEMPTS" ]; then
         echo "  Retrying in 30s..."
@@ -144,8 +270,8 @@ fi
 echo "[3/3] Building email..."
 python3 build_email.py scored_stories.json config.json
 
-echo "[3/3] Creating Gmail draft..."
-python3 gmail_ops.py draft
+echo "[3/3] Sending digest via Apps Script..."
+python3 send_digest.py config.json
 
 echo "[3/3] Archiving newsletter threads..."
 python3 gmail_ops.py archive

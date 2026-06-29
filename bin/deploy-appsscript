@@ -1,0 +1,38 @@
+#!/bin/bash
+# Push the Apps Script source (apps-script/) to Google and redeploy the live
+# /exec web app — no manual copy/paste in the Apps Script editor.
+#
+# The deployment that gets updated is derived from `apps_script_url` in the
+# config, so the redeploy target always matches what send_digest.py POSTs to.
+# `clasp deploy -i <id>` snapshots a new version and repoints that same
+# deployment, so the /exec URL (and feedback links) stay unchanged.
+#
+# Prereqs: clasp installed + logged in (~/.clasprc.json), .clasp.json present.
+# Usage: bin/deploy-appsscript
+
+set -euo pipefail
+
+export PATH="/usr/local/bin:/opt/homebrew/bin:$HOME/.bun/bin:$HOME/.local/bin:$PATH"
+
+REPO="$(cd "$(dirname "$0")/.." && pwd)"
+cd "$REPO"
+
+# Pull the deployment id out of apps_script_url (…/macros/s/<DEPLOYMENT_ID>/exec).
+DEPLOY_ID=$(python3 -c "
+import re, sys
+from config_util import load_config
+url = load_config('config.json').get('apps_script_url', '')
+m = re.search(r'/macros/s/([^/]+)/exec', url)
+if not m:
+    print('Could not parse a deployment id from apps_script_url', file=sys.stderr)
+    sys.exit(1)
+print(m.group(1))
+")
+
+echo "Pushing source to Apps Script project..."
+clasp push -f
+
+echo "Redeploying deployment $DEPLOY_ID ..."
+clasp deploy -i "$DEPLOY_ID" -d "digest deploy $(date +%Y-%m-%d\ %H:%M)"
+
+echo "Done. Verify with: python3 send_digest.py config.json  (this sends a real email)"
