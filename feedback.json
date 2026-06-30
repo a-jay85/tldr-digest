@@ -1,121 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://simonwillison.net/2026/jun/11/fable-is-relentlessly-proactive",
-      "title": "Claude Fable is Relentlessly Proactive",
-      "date": "2026-06-15"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/ynzszp",
-      "title": "The Log is the Agent",
-      "date": "2026-06-15"
-    },
-    {
-      "url": "https://injuly.in/blog/napkin-inference-cost/index.html",
-      "title": "Inference Cost at Scale With Napkin Math",
-      "date": "2026-06-15"
-    },
-    {
-      "url": "https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows",
-      "title": "Don't Trust Large Context Windows",
-      "date": "2026-06-15"
-    },
-    {
-      "url": "https://andrewtrask.substack.com/p/breaking-todays-frontier-ai-companies",
-      "title": "Frontier Again",
-      "date": "2026-06-15"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/h1ydvi",
-      "title": "A Frontier Without an Ecosystem is Not Stable",
-      "date": "2026-06-15"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/svvmqj",
-      "title": "The Physics of a Fable",
-      "date": "2026-06-15"
-    },
-    {
-      "url": "https://calv.info/the-oracle-and-the-firm",
-      "title": "The Oracle and the Firm",
-      "date": "2026-06-15"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/9vbj0g",
-      "title": "Deepseek's $10 Trillion Long-term Strategy",
-      "date": "2026-06-15"
-    },
-    {
-      "url": "https://yusufaytas.com/vibe-coder-vs-software-engineer",
-      "title": "Vibe Coder vs Software Engineer",
-      "date": "2026-06-15"
-    },
-    {
-      "url": "https://spectrum.ieee.org/computer-science-degree-isnt-dead",
-      "title": "The Computer Science Degree Isn't Dead",
-      "date": "2026-06-15"
-    },
-    {
-      "url": "https://blog.janestreet.com/formal-methods-at-jane-street-index",
-      "title": "Formal Methods and the Future of Programming",
-      "date": "2026-06-15"
-    },
-    {
-      "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction",
-      "title": "Data, and What it Might Mean for the Future",
-      "date": "2026-06-15"
-    },
-    {
-      "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
-      "title": "No, Everyone is Not Using Ai for Everything",
-      "date": "2026-06-15"
-    },
-    {
-      "url": "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive",
-      "title": "Directive",
-      "date": "2026-06-15"
-    },
-    {
-      "url": "https://davidpoll.com/2026/06/software-is-not-a-single-player-game",
-      "title": "Software is Not a Single-player Game",
-      "date": "2026-06-15"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/7rhdzu",
-      "title": "Models",
-      "date": "2026-06-15"
-    },
-    {
-      "url": "https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing",
-      "title": "Introducing the Open Knowledge Format",
-      "date": "2026-06-15"
-    },
-    {
-      "url": "https://github.com/dietrichgebert/ponytail",
-      "title": "Ponytail",
-      "date": "2026-06-15"
-    },
-    {
-      "url": "https://threadreaderapp.com/thread/2065704919299235870.html",
-      "title": "Glm-5.2",
-      "date": "2026-06-15"
-    },
-    {
-      "url": "https://github.com/airbnb/visx",
-      "title": "Visx",
-      "date": "2026-06-15"
-    },
-    {
-      "url": "https://github.com/argyleink/prop-for-that",
-      "title": "Prop-for-that",
-      "date": "2026-06-15"
-    },
-    {
-      "url": "https://paulgraham.com/earn.html",
-      "title": "How to Earn a Billion Dollars",
-      "date": "2026-06-15"
-    },
-    {
       "url": "https://links.tldrnewsletter.com/fcerrs",
       "title": "Agentic Code Review",
       "date": "2026-06-16"
@@ -1239,6 +1124,116 @@
       "url": "https://alganet.github.io/blog/2026-06-28-12-posix-is-not-a-shell.html",
       "title": "Posix is Not a Shell",
       "date": "2026-06-29"
+    },
+    {
+      "url": "https://comet.com/site/blog/claude-code-context-bloat",
+      "title": "Cost",
+      "date": "2026-06-30"
+    },
+    {
+      "url": "https://venturebeat.com/infrastructure/claude-code-turned-every-engineer-into-three-now-companies-need-more-product-thinkers",
+      "title": "Product Thinkers",
+      "date": "2026-06-30"
+    },
+    {
+      "url": "https://htmx.org/essays/working-with-ai",
+      "title": "Working With Ai: a Concrete Example",
+      "date": "2026-06-30"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/c2xi1u",
+      "title": "The Economy of Tokens",
+      "date": "2026-06-30"
+    },
+    {
+      "url": "https://tanayj.com/p/rl-beyond-the-verifiable",
+      "title": "Rl Beyond the Verifiable",
+      "date": "2026-06-30"
+    },
+    {
+      "url": "https://jeffgothelf.com/blog/how-to-write-okrs-for-an-ai-product",
+      "title": "How to Write Okrs for an Ai Product",
+      "date": "2026-06-30"
+    },
+    {
+      "url": "https://hamel.dev/blog/posts/eval-smell",
+      "title": "\u201cit's Hard to Eval\u201d is a Product Smell",
+      "date": "2026-06-30"
+    },
+    {
+      "url": "https://cutlefish.substack.com/p/tbm-427-the-bottleneck-strike-again",
+      "title": "The Bottleneck Strike Again!",
+      "date": "2026-06-30"
+    },
+    {
+      "url": "https://cognition.com/blog/devin-fusion",
+      "title": "Devin Fusion",
+      "date": "2026-06-30"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/c4tkr9",
+      "title": "Defining Taste",
+      "date": "2026-06-30"
+    },
+    {
+      "url": "https://evnm.substack.com/p/generative-ui-doesnt-make-sense-for",
+      "title": "Generative Ui Doesn't Make Sense for Startups",
+      "date": "2026-06-30"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/cvv9ff",
+      "title": "The New Product Roles",
+      "date": "2026-06-30"
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/deepseek-open-sources-dspark-a-new-framework-to-speed-up-llm-inference-by-up-to-85",
+      "title": "Inference by up to 85%",
+      "date": "2026-06-30"
+    },
+    {
+      "url": "https://lambrospetrou.com/articles/fokosdb",
+      "title": "Cloudflare Durable Objects",
+      "date": "2026-06-30"
+    },
+    {
+      "url": "https://github.com/facebook/astryx",
+      "title": "Astryx",
+      "date": "2026-06-30"
+    },
+    {
+      "url": "https://nextplayso.substack.com/p/on-building-your-personal-brand",
+      "title": "On Building Your Personal Brand",
+      "date": "2026-06-30"
+    },
+    {
+      "url": "https://cursor.com/blog/ios-mobile-app",
+      "title": "Build From Anywhere With Cursor for Ios",
+      "date": "2026-06-30"
+    },
+    {
+      "url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel",
+      "title": "What Happens When You Run a Cuda Kernel",
+      "date": "2026-06-30"
+    },
+    {
+      "url": "https://github.com/craft-ai-agents/craft-agents-oss",
+      "title": "Craft Agents Oss",
+      "date": "2026-06-30"
+    },
+    {
+      "url": "https://pivotal.substack.com/p/on-data-quality-1-basics",
+      "title": "On Data Quality - the Fundamentals",
+      "date": "2026-06-30"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.15846",
+      "title": "Across Version Upgrades",
+      "date": "2026-06-30"
+    },
+    {
+      "url": "https://theverge.com/ai-artificial-intelligence/959269/heres-a-photo-of-openais-codex-hardware",
+      "title": "Openai's Codex Hardware",
+      "date": "2026-06-30"
     }
   ],
   "feedback": [
