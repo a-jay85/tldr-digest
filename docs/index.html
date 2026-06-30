@@ -4,12 +4,52 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>TLDR Digest</title>
+</head>
+<body style="margin:0;padding:40px 20px;display:flex;justify-content:center;align-items:flex-start;min-height:100vh;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;background:#f4f4f5;color:#52525b;box-sizing:border-box;">
+<div id="card">Loading&hellip;</div>
 <script>
 var target = "https://script.google.com/macros/s/AKfycbwCxXBLNpC1PVNry4BEd8AU7L8M_JFbBPj1XrHp45IekzDR2DGb4POm-9vB7yIo-vcVFg/exec";
-window.location.replace(target + window.location.search);
+var params = new URLSearchParams(window.location.search);
+var action = (params.get("action") || "").toLowerCase();
+
+if (action === "feedback") {
+  // Record the vote with a fire-and-forget beacon. The Apps Script doGet
+  // appends the row server-side regardless of how/whether the client reads the
+  // response, so we never have to render Google's HtmlService page — which the
+  // Gmail mobile in-app browser blocks with a sign-in/error interstitial.
+  var img = new Image();
+  img.src = target + window.location.search;
+
+  var vote = params.get("vote") === "down" ? "down" : "up";
+  var title = params.get("title") || "";
+  var up = vote === "up";
+  var emoji = up ? "👍" : "👎";
+  var label = up ? "More like this" : "Less like this";
+  var color = up ? "#16a34a" : "#dc2626";
+  var bg = up ? "#f0fdf4" : "#fef2f2";
+
+  function esc(s) {
+    return s.replace(/[&<>"]/g, function (c) {
+      return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c];
+    });
+  }
+
+  document.getElementById("card").outerHTML =
+    '<div style="max-width:400px;width:100%;background:#fff;border-radius:12px;'
+    + 'padding:32px 24px;box-shadow:0 1px 3px rgba(0,0,0,0.1);text-align:center;">'
+    + '<div style="font-size:48px;margin-bottom:12px;">' + emoji + '</div>'
+    + '<div style="display:inline-block;padding:4px 12px;border-radius:14px;'
+    + 'font-size:14px;font-weight:600;background:' + bg + ';color:' + color + ';">'
+    + label + '</div>'
+    + '<p style="margin:16px 0 4px;font-size:15px;font-weight:600;color:#18181b;">'
+    + esc(title) + '</p>'
+    + '<p style="font-size:13px;color:#71717a;margin:0;">Noted! This will shape future digests.</p>'
+    + '</div>';
+} else {
+  // stats / export / anything else: defer to the Apps Script page directly.
+  window.location.replace(target + window.location.search);
+}
 </script>
-</head>
-<body style="margin:0;display:flex;justify-content:center;align-items:center;height:100vh;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;background:#f4f4f5;color:#52525b;">
-<p>Redirecting&hellip;</p>
+<noscript><p>Please enable JavaScript to record your feedback.</p></noscript>
 </body>
 </html>
