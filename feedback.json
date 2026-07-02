@@ -1,116 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://sunilpai.dev/posts/never-waste-a-token",
-      "title": "Never Waste a Token",
-      "date": "2026-06-17"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/fwgglq",
-      "title": "Cursor Origin",
-      "date": "2026-06-17"
-    },
-    {
-      "url": "https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452",
-      "title": "Stop Using Jwts",
-      "date": "2026-06-17"
-    },
-    {
-      "url": "https://dri.es/ai-and-the-great-cms-unbundling",
-      "title": "Ai and the Great Cms Unbundling",
-      "date": "2026-06-17"
-    },
-    {
-      "url": "https://crunchydata.com/blog/british-columbia-and-time-zone-changes",
-      "title": "British Columbia, Time Zones, and Postgres",
-      "date": "2026-06-17"
-    },
-    {
-      "url": "https://android-developers.googleblog.com/2026/06/android-17.html",
-      "title": "Android 17 Expands Ai Agent Integration",
-      "date": "2026-06-17"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/fmoz6v",
-      "title": "Access",
-      "date": "2026-06-17"
-    },
-    {
-      "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl",
-      "title": "/dev/tcp",
-      "date": "2026-06-17"
-    },
-    {
-      "url": "https://z.ai/blog/glm-5.2",
-      "title": "Glm-5.2",
-      "date": "2026-06-17"
-    },
-    {
-      "url": "https://github.com/ottermind/nubase",
-      "title": "Nubase",
-      "date": "2026-06-17"
-    },
-    {
-      "url": "https://github.com/believer-oss/claireon",
-      "title": "Claireon",
-      "date": "2026-06-17"
-    },
-    {
-      "url": "https://github.com/likec4/likec4",
-      "title": "Likec4",
-      "date": "2026-06-17"
-    },
-    {
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-blocks-preview",
-      "title": "Application Backends on Aws (preview)",
-      "date": "2026-06-17"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/co61uw",
-      "title": "Simulating Model Deployments Before Release",
-      "date": "2026-06-17"
-    },
-    {
-      "url": "https://venturebeat.com/technology/why-weibos-tiny-vibethinker-3b-has-the-ai-world-arguing-over-benchmarks-again",
-      "title": "Benchmarks Again",
-      "date": "2026-06-17"
-    },
-    {
-      "url": "https://vexlio.com/blog/svgs-and-pdfs-can-both-be-interactive",
-      "title": "Svgs and Pdfs Can Both Be Interactive",
-      "date": "2026-06-17"
-    },
-    {
-      "url": "https://aws.amazon.com/blogs/aws/amazon-s3-annotations-attach-rich-queryable-context-directly-to-your-objects",
-      "title": "Your Objects",
-      "date": "2026-06-17"
-    },
-    {
-      "url": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time",
-      "title": "Humiliating Iis Servers for Fun and Jail Time",
-      "date": "2026-06-17"
-    },
-    {
-      "url": "https://transformernews.ai/p/mythos-fable-anthropic-safery-cybersecurity",
-      "title": "Reckless",
-      "date": "2026-06-17"
-    },
-    {
-      "url": "https://blogs.nvidia.com/blog/blackwell-mlperf-training-6-0",
-      "title": "6.0",
-      "date": "2026-06-17"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/kkplip",
-      "title": "Fundraise",
-      "date": "2026-06-17"
-    },
-    {
-      "url": "https://osnews.com/story/145322/apple-adds-keylogger-to-ios-app-store-for-targeted-advertising-tied-to-your-account-and-unencrypted",
-      "title": "To Your Account and Unencrypted",
-      "date": "2026-06-17"
-    },
-    {
       "url": "https://terriblesoftware.org/2026/06/17/you-got-faster-your-company-didnt",
       "title": "You Got Faster. Your Company Didn't",
       "date": "2026-06-18"
@@ -1179,6 +1069,106 @@
       "url": "https://cnbc.com/2026/06/30/aws-amazon-ai-forward-deployed-engineers.html",
       "title": "Customers, Joining Growing Wave",
       "date": "2026-07-01"
+    },
+    {
+      "url": "https://ramp.com/data/ai-jobs-impact",
+      "title": "Workforce Adjustment",
+      "date": "2026-07-02"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/5daura",
+      "title": "Product Shape is the Moat",
+      "date": "2026-07-02"
+    },
+    {
+      "url": "https://sajalsharma.com/posts/sandboxing-an-ai-agent",
+      "title": "Sandboxing an Ai Agent",
+      "date": "2026-07-02"
+    },
+    {
+      "url": "https://tomtunguz.com/ai-execution-routing",
+      "title": "Most Ai Work Can Wait",
+      "date": "2026-07-02"
+    },
+    {
+      "url": "https://github.com/langchain-ai/openwiki",
+      "title": "Openwiki",
+      "date": "2026-07-02"
+    },
+    {
+      "url": "https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale",
+      "title": "Meta's Ai Storage Blueprint at Scale",
+      "date": "2026-07-02"
+    },
+    {
+      "url": "https://buttondown.com/blog/google-reader",
+      "title": "Google Reader Was Building the Wrong Future",
+      "date": "2026-07-02"
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/develop/webapps/build",
+      "title": "Meta Build for Wearables",
+      "date": "2026-07-02"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/bih4i1",
+      "title": "Zcode",
+      "date": "2026-07-02"
+    },
+    {
+      "url": "https://anthropic.com/news/redeploying-fable-5",
+      "title": "Redeploying Fable 5",
+      "date": "2026-07-02"
+    },
+    {
+      "url": "https://olliewilliams.xyz/blog/dark-mode",
+      "title": "Dark Mode With Web Standards",
+      "date": "2026-07-02"
+    },
+    {
+      "url": "https://developer.chrome.com/blog/usermedia-html-element",
+      "title": "Introducing the 'usermedia' Html Element",
+      "date": "2026-07-02"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/ljduju",
+      "title": "Portal: Portable Task Adapters for Llms",
+      "date": "2026-07-02"
+    },
+    {
+      "url": "https://manualmeida.dev/articles/gin-simple-over-easy",
+      "title": "Building Gin: Simple Over Easy",
+      "date": "2026-07-02"
+    },
+    {
+      "url": "https://databricks.com/blog/how-we-keep-gpus-reliable-across-databricks-ai",
+      "title": "How We Keep Gpus Reliable Across Databricks Ai",
+      "date": "2026-07-02"
+    },
+    {
+      "url": "https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026",
+      "title": "2026",
+      "date": "2026-07-02"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/fijbmd",
+      "title": "Just Begun",
+      "date": "2026-07-02"
+    },
+    {
+      "url": "https://cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback.html",
+      "title": "Pressure",
+      "date": "2026-07-02"
+    },
+    {
+      "url": "https://nextplatform.com/cloud/2026/07/01/of-course-meta-platforms-is-going-to-be-a-cloud/5265392",
+      "title": "Of Course Meta Platforms is Going to Be a Cloud",
+      "date": "2026-07-02"
+    },
+    {
+      "url": "https://itcanthink.substack.com/p/rise-of-the-cheap-robots",
+      "title": "Rise of the Cheap Robots",
+      "date": "2026-07-02"
     }
   ],
   "feedback": [
