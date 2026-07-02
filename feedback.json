@@ -1636,6 +1636,20 @@
       "vote": "up",
       "source": "TLDR Product",
       "date": "2026-06-30"
+    },
+    {
+      "url": "https://oneusefulthing.org/p/the-twilight-of-the-chatbots",
+      "title": "The Twilight of the Chatbots",
+      "vote": "up",
+      "source": "TLDR",
+      "date": "2026-07-01"
+    },
+    {
+      "url": "https://linkedin.com/blog/engineering/ai/qa-agent-reimagining-software-quality-with-ai-driven-autonomous-testing",
+      "title": "Autonomous Testing",
+      "vote": "up",
+      "source": "TLDR Dev",
+      "date": "2026-07-01"
     }
   ]
 }
