@@ -1,96 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://terriblesoftware.org/2026/06/17/you-got-faster-your-company-didnt",
-      "title": "You Got Faster. Your Company Didn't",
-      "date": "2026-06-18"
-    },
-    {
-      "url": "https://greptile.com/blog/trex-code-execution",
-      "title": "Review",
-      "date": "2026-06-18"
-    },
-    {
-      "url": "https://threadreaderapp.com/thread/2066946225837109735.html",
-      "title": "Cursor's New Model",
-      "date": "2026-06-18"
-    },
-    {
-      "url": "https://vercel.com/blog/introducing-eve",
-      "title": "Production Infrastructure for Ai Agents",
-      "date": "2026-06-18"
-    },
-    {
-      "url": "https://newsletter.posthog.com/p/why-were-bullish-on-loops",
-      "title": "Why We're Bullish on Loops",
-      "date": "2026-06-18"
-    },
-    {
-      "url": "https://exa.ai/blog/exa-agent",
-      "title": "Exa Agent",
-      "date": "2026-06-18"
-    },
-    {
-      "url": "https://threadreaderapp.com/thread/2067400851438932297.html",
-      "title": "Noam Shazeer is Joining Openai",
-      "date": "2026-06-18"
-    },
-    {
-      "url": "https://vercel.com/blog/introducing-vercel-connect",
-      "title": "Vercel Connect",
-      "date": "2026-06-18"
-    },
-    {
-      "url": "https://replit.com/blog/replit-claude",
-      "title": "Replit is Now Available in Claude",
-      "date": "2026-06-18"
-    },
-    {
-      "url": "https://nathan.rs/posts/gzip-lm",
-      "title": "Can Gzip Be a Language Model?",
-      "date": "2026-06-18"
-    },
-    {
-      "url": "https://makingsoftware.com/chapters/image-compression",
-      "title": "Image Compression",
-      "date": "2026-06-18"
-    },
-    {
-      "url": "https://github.com/privatenumber/mac-ocr",
-      "title": "Mac-ocr",
-      "date": "2026-06-18"
-    },
-    {
-      "url": "https://github.com/epicgames/lore",
-      "title": "Lore",
-      "date": "2026-06-18"
-    },
-    {
-      "url": "https://threadreaderapp.com/thread/2066913356548542827.html",
-      "title": "Mistral Has a New Model Coming This Summer",
-      "date": "2026-06-18"
-    },
-    {
-      "url": "https://parksb.github.io/en/article/32.html",
-      "title": "But Yak Shaving is Fun",
-      "date": "2026-06-18"
-    },
-    {
-      "url": "https://thesignalist.io/s/the-dialogue-dividend",
-      "title": "The Dialogue Dividend",
-      "date": "2026-06-18"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/ao14hw",
-      "title": "Apple to Raise Prices Due to Memory Chip Crunch",
-      "date": "2026-06-18"
-    },
-    {
-      "url": "https://futurism.com/artificial-intelligence/mark-zuckerberg-employees-fun-hackathon-layoffs",
-      "title": "Brutal Layoffs Culled Their Colleagues",
-      "date": "2026-06-18"
-    },
-    {
       "url": "https://jennywanger.com/articles/i-built-an-ai-that-critiques-me-after-every-call",
       "title": "I Built an Ai That Critiques Me After Every Call",
       "date": "2026-06-19"
@@ -1169,6 +1079,131 @@
       "url": "https://itcanthink.substack.com/p/rise-of-the-cheap-robots",
       "title": "Rise of the Cheap Robots",
       "date": "2026-07-02"
+    },
+    {
+      "url": "https://geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck.html",
+      "title": "Understanding is the New Bottleneck",
+      "date": "2026-07-03"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/i0xkf0",
+      "title": "Career Advice in the Age of Ai",
+      "date": "2026-07-03"
+    },
+    {
+      "url": "https://lmsys.org/blog/2026-07-02-agent-assisted-sglang-development",
+      "title": "Agent-assisted Sglang Development",
+      "date": "2026-07-03"
+    },
+    {
+      "url": "https://cra.mr/building-an-intern",
+      "title": "Building an Intern",
+      "date": "2026-07-03"
+    },
+    {
+      "url": "https://blog.pragmaticengineer.com/the-pulse-a-new-trend-smart-model-routing",
+      "title": "A New Trend, Smart Model Routing",
+      "date": "2026-07-03"
+    },
+    {
+      "url": "https://github.com/diegosouzapw/omniroute",
+      "title": "Omniroute",
+      "date": "2026-07-03"
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped",
+      "title": "Quickly as He'd Hoped",
+      "date": "2026-07-03"
+    },
+    {
+      "url": "https://amycmitchell.substack.com/p/product-manager-workflows-execution",
+      "title": "Execution Problems Are Often Workflow Problems",
+      "date": "2026-07-03"
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2072368168182432109.html",
+      "title": "Introducing Devin Security Swarm",
+      "date": "2026-07-03"
+    },
+    {
+      "url": "https://svpg.com/great-products-bad-companies",
+      "title": "Great Products, Bad Companies",
+      "date": "2026-07-03"
+    },
+    {
+      "url": "https://poolside.ai/blog/introducing-laguna-xs-2-1",
+      "title": "Introducing Laguna Xs 2.1",
+      "date": "2026-07-03"
+    },
+    {
+      "url": "https://apple.github.io/foundationdb/flow.html",
+      "title": "Flow",
+      "date": "2026-07-03"
+    },
+    {
+      "url": "https://anthropic.com/news/fable-safeguards-jailbreak-framework",
+      "title": "Framework",
+      "date": "2026-07-03"
+    },
+    {
+      "url": "https://github.com/valmishq/valmis",
+      "title": "Valmis",
+      "date": "2026-07-03"
+    },
+    {
+      "url": "https://elenaverna.com/p/please-stop-the-ai-confidence-theater",
+      "title": "Please Stop the Ai Confidence Theater",
+      "date": "2026-07-03"
+    },
+    {
+      "url": "https://machinelearning.apple.com/research/residual-context-diffusion",
+      "title": "Residual Context Diffusion Language Models",
+      "date": "2026-07-03"
+    },
+    {
+      "url": "https://nbcnews.com/tech/tech-news/cloudflare-sets-ai-crawler-deadline-separate-search-blocked-rcna352446",
+      "title": "Ai Training",
+      "date": "2026-07-03"
+    },
+    {
+      "url": "https://letsdatascience.com/news/metas-watermelon-matches-gpt-55-benchmarks-76a9460e",
+      "title": "Meta's Watermelon Matches Gpt-5.5 Benchmarks",
+      "date": "2026-07-03"
+    },
+    {
+      "url": "https://cursor.com/evals",
+      "title": "Cursorbench 3.1",
+      "date": "2026-07-03"
+    },
+    {
+      "url": "https://spyglass.org/meta-cloud",
+      "title": "Meta's Inevitable Cloud",
+      "date": "2026-07-03"
+    },
+    {
+      "url": "https://geekwire.com/2026/microsoft-announces-2-5b-frontier-company-to-embed-ai-engineers-inside-customers",
+      "title": "Inside Customers",
+      "date": "2026-07-03"
+    },
+    {
+      "url": "https://lesswrong.com/posts/xhrmcafxqfn3e6nd8/when-should-you-know-the-point",
+      "title": "When Should You Know the Point?",
+      "date": "2026-07-03"
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung",
+      "title": "Anthropic Exploring a Samsung Chip Partnership",
+      "date": "2026-07-03"
+    },
+    {
+      "url": "https://technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines",
+      "title": "Teaching Ai to Run With the Turbines",
+      "date": "2026-07-03"
+    },
+    {
+      "url": "https://gilkalai.wordpress.com/2026/07/02/the-ramanujan-challenge-for-ai",
+      "title": "The Ramanujan Challenge for Ai",
+      "date": "2026-07-03"
     }
   ],
   "feedback": [
