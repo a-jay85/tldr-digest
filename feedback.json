@@ -1,126 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://jennywanger.com/articles/i-built-an-ai-that-critiques-me-after-every-call",
-      "title": "I Built an Ai That Critiques Me After Every Call",
-      "date": "2026-06-19"
-    },
-    {
-      "url": "https://claude.com/blog/artifacts-in-claude-code",
-      "title": "Claude Code Now Supports Artifacts",
-      "date": "2026-06-19"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/8ngzvj",
-      "title": "The Agent Loop Architecture",
-      "date": "2026-06-19"
-    },
-    {
-      "url": "https://perplexity.ai/hub/blog/self-improving-memory-for-agents",
-      "title": "Self-improving Memory for Agents",
-      "date": "2026-06-19"
-    },
-    {
-      "url": "https://theatlantic.com/technology/2026/06/ai-agents-jobs-exhaustion/687596?gift=dcljqo7rarwhqqw8ryo_1ee0rpgqnprphmfblf5etmw",
-      "title": "America is Headed Toward the Infinite Workweek",
-      "date": "2026-06-19"
-    },
-    {
-      "url": "https://stackoverflow.blog/2026/06/18/the-new-bottleneck",
-      "title": "The New Bottleneck",
-      "date": "2026-06-19"
-    },
-    {
-      "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents",
-      "title": "Securing the Future of Ai Agents",
-      "date": "2026-06-19"
-    },
-    {
-      "url": "https://alignment.openai.com/beneficial-rl",
-      "title": "Models",
-      "date": "2026-06-19"
-    },
-    {
-      "url": "https://elenaverna.com/p/the-mom-and-pop-saas-era-has-arrived",
-      "title": "The Mom-and-pop Saas Era Has Arrived",
-      "date": "2026-06-19"
-    },
-    {
-      "url": "https://benn.substack.com/p/what-will-startups-do-in-2030",
-      "title": "What Will Startups Do in 2030?",
-      "date": "2026-06-19"
-    },
-    {
-      "url": "https://github.com/withastro/flue",
-      "title": "Flue",
-      "date": "2026-06-19"
-    },
-    {
-      "url": "https://oreilly.com/radar/kubernetes-in-the-age-of-ai",
-      "title": "Kubernetes in the Age of Ai",
-      "date": "2026-06-19"
-    },
-    {
-      "url": "https://github.com/builderio/agent-native",
-      "title": "Agent-native",
-      "date": "2026-06-19"
-    },
-    {
-      "url": "https://jakeworth.com/tils/the-outbox-pattern",
-      "title": "The Outbox Pattern",
-      "date": "2026-06-19"
-    },
-    {
-      "url": "https://elastic.co/search-labs/blog/agent-memory-elasticsearch",
-      "title": "0.89 Recall and Zero Tenant Leaks",
-      "date": "2026-06-19"
-    },
-    {
-      "url": "https://cnbc.com/2026/06/18/yann-lecun-elon-musk-xai-failure-ai-labs-bubble-risk.html",
-      "title": "A 'big Bubble Explosion'",
-      "date": "2026-06-19"
-    },
-    {
-      "url": "https://testingcatalog.com/mistral-ai-to-get-code-and-apps-features-on-vibe",
-      "title": "Mistral Ai to Get Code and Apps Features on Vibe",
-      "date": "2026-06-19"
-    },
-    {
-      "url": "https://retention.blog/p/chat-based-onboarding",
-      "title": "Chat-based Onboarding",
-      "date": "2026-06-19"
-    },
-    {
-      "url": "https://dpereira.substack.com/p/what-nobody-says-about-being-a-product",
-      "title": "What Nobody Says About Being a Product Lead",
-      "date": "2026-06-19"
-    },
-    {
-      "url": "https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary",
-      "title": "I Hate Compilers",
-      "date": "2026-06-19"
-    },
-    {
-      "url": "https://nesbitt.io/2026/06/18/open-source-vs-the-invisible-hand.html",
-      "title": "Open Source vs the Invisible Hand",
-      "date": "2026-06-19"
-    },
-    {
-      "url": "https://revenuecat.com/blog/growth/monthly-subscriptions-when-to-offer",
-      "title": "Monthly Plans Might Be Your Best Option",
-      "date": "2026-06-19"
-    },
-    {
-      "url": "https://cutlefish.substack.com/p/tbm-426-the-trouble-with-mirrors",
-      "title": "The Trouble With Mirrors",
-      "date": "2026-06-19"
-    },
-    {
-      "url": "https://a16z.news/p/new-media-one-year-in",
-      "title": "New Media, One Year in",
-      "date": "2026-06-19"
-    },
-    {
       "url": "https://links.tldrnewsletter.com/ovgknl",
       "title": "From Prompting Agents to Loop Engineering",
       "date": "2026-06-22"
@@ -1204,6 +1084,111 @@
       "url": "https://gilkalai.wordpress.com/2026/07/02/the-ramanujan-challenge-for-ai",
       "title": "The Ramanujan Challenge for Ai",
       "date": "2026-07-03"
+    },
+    {
+      "url": "https://thinkroom.kieranklaassen.com/d/njrs5tjhis",
+      "title": "Closing the Verification Loop",
+      "date": "2026-07-06"
+    },
+    {
+      "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers",
+      "title": "Ai Has Torched the Market for Junior Programmers",
+      "date": "2026-07-06"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/h7dut9",
+      "title": "Agentic Autonomy Levels",
+      "date": "2026-07-06"
+    },
+    {
+      "url": "https://github.com/jamesob/local-llm",
+      "title": "Jamesob's Guide to Running Sota Llms Locally",
+      "date": "2026-07-06"
+    },
+    {
+      "url": "https://simonwillison.net/2026/jul/3/judgement",
+      "title": "Work",
+      "date": "2026-07-06"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/h4l4kp",
+      "title": "A Field Guide to Fable: Finding Your Unknowns",
+      "date": "2026-07-06"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/axvcyc",
+      "title": "Own the Loop: a Field Guide to Agent Harnesses",
+      "date": "2026-07-06"
+    },
+    {
+      "url": "https://danluu.com/ai-coding",
+      "title": "Coding From Galapagos Island",
+      "date": "2026-07-06"
+    },
+    {
+      "url": "https://blog.matt-rickard.com/p/rebuilding-cognitions-agentic-mapreduce",
+      "title": "Rebuilding Cognition's Agentic Mapreduce",
+      "date": "2026-07-06"
+    },
+    {
+      "url": "https://blog.fsck.com/2026/07/05/new-patterns",
+      "title": "Some New Agentic Patterns",
+      "date": "2026-07-06"
+    },
+    {
+      "url": "https://blog.arcbjorn.com/state-of-cli-coding-agents-2026",
+      "title": "State of Cli Coding Agents, Mid-2026",
+      "date": "2026-07-06"
+    },
+    {
+      "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools",
+      "title": "Better Models: Worse Tools",
+      "date": "2026-07-06"
+    },
+    {
+      "url": "https://softwaredoug.com/blog/2026/07/04/write-code-not-specs.html",
+      "title": "Write Code, Not Specs",
+      "date": "2026-07-06"
+    },
+    {
+      "url": "https://astralcodexten.com/p/the-ai-superforecasters-are-here",
+      "title": "The Ai Superforecasters Are Here",
+      "date": "2026-07-06"
+    },
+    {
+      "url": "https://github.com/backnotprop/plannotator",
+      "title": "Plannotator",
+      "date": "2026-07-06"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/ux7evj",
+      "title": "A Brief History of Distillation in Ai",
+      "date": "2026-07-06"
+    },
+    {
+      "url": "https://github.com/mistralai/leanstralsafeverify/blob/main/leanstralreport.pdf",
+      "title": "Leanstral",
+      "date": "2026-07-06"
+    },
+    {
+      "url": "https://wozniak.ca/blog/2014/08/03/1/index.html",
+      "title": "What Orms Have Taught Me: Just Learn Sql",
+      "date": "2026-07-06"
+    },
+    {
+      "url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job",
+      "title": "If You're a Button, You Have One Job",
+      "date": "2026-07-06"
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code",
+      "title": "Alibaba Reportedly Restricted Claude Code",
+      "date": "2026-07-06"
+    },
+    {
+      "url": "https://github.com/flythenimbus/bramble",
+      "title": "Bramble",
+      "date": "2026-07-06"
     }
   ],
   "feedback": [
