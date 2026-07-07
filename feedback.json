@@ -1,126 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://links.tldrnewsletter.com/ovgknl",
-      "title": "From Prompting Agents to Loop Engineering",
-      "date": "2026-06-22"
-    },
-    {
-      "url": "https://octet-stream.net/b/scb/2026-06-22-when-its-the-maintainer-whos-ai-pilled.html",
-      "title": "When It's the Maintainer Who's Ai-pilled",
-      "date": "2026-06-22"
-    },
-    {
-      "url": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works",
-      "title": "When I Reject Ai Code Even If it Works",
-      "date": "2026-06-22"
-    },
-    {
-      "url": "https://alisawuffles.github.io/blog/job-search",
-      "title": "Notes on the Industry Job Search",
-      "date": "2026-06-22"
-    },
-    {
-      "url": "https://github.com/raiyanyahya/recall",
-      "title": "Recall",
-      "date": "2026-06-22"
-    },
-    {
-      "url": "https://blog.cloudflare.com/temporary-accounts",
-      "title": "Temporary Cloudflare Accounts for Ai Agents",
-      "date": "2026-06-22"
-    },
-    {
-      "url": "https://steve-yegge.medium.com/the-flat-curve-society-36c8b01eb33b",
-      "title": "The Flat Curve Society",
-      "date": "2026-06-22"
-    },
-    {
-      "url": "https://brandur.org/minimum-viable-unit",
-      "title": "The Minimum Viable Unit of Saleable Software",
-      "date": "2026-06-22"
-    },
-    {
-      "url": "https://developer.chrome.com/docs/lighthouse/agentic-browsing/scoring",
-      "title": "Lighthouse Agentic Browsing Scoring",
-      "date": "2026-06-22"
-    },
-    {
-      "url": "https://threadreaderapp.com/thread/2068862070062485867.html",
-      "title": "Sakana Fugu",
-      "date": "2026-06-22"
-    },
-    {
-      "url": "https://morphllm.com/blog/codegen-inference-research",
-      "title": "Optimizing Models to Be Fast at Codegen",
-      "date": "2026-06-22"
-    },
-    {
-      "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites",
-      "title": "Json-ld Explained for Personal Websites",
-      "date": "2026-06-22"
-    },
-    {
-      "url": "https://fosterelli.co/developers-dont-understand-cors",
-      "title": "Developers Don't Understand Cors",
-      "date": "2026-06-22"
-    },
-    {
-      "url": "https://newsletter.kentbeck.com/p/hey-n00b-we-didnt-hire-you-to-complete",
-      "title": "Hey, N00b, We Didn't Hire You to Complete Tasks",
-      "date": "2026-06-22"
-    },
-    {
-      "url": "https://decrypt.co/371722/inception-labs-mercury-2-ai-beats-googles-diffusiongemma",
-      "title": "Game",
-      "date": "2026-06-22"
-    },
-    {
-      "url": "https://seangoedecke.com/big-tech-needs-big-egos",
-      "title": "Big Tech Engineers Need Big Egos",
-      "date": "2026-06-22"
-    },
-    {
-      "url": "https://timwehrle.de/blog/i-stored-a-website-in-a-favicon",
-      "title": "I Stored a Website in a Favicon",
-      "date": "2026-06-22"
-    },
-    {
-      "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
-      "title": "Building Reliable Agentic Ai Systems",
-      "date": "2026-06-22"
-    },
-    {
-      "url": "https://ianbarber.blog/2026/06/19/llms-are-complicated-now",
-      "title": "Llms Are Complicated Now",
-      "date": "2026-06-22"
-    },
-    {
-      "url": "https://clickhouse.com/blog/open-source-10",
-      "title": "Ten Years of Clickhouse in Open Source",
-      "date": "2026-06-22"
-    },
-    {
-      "url": "https://mooreds.com/wordpress/archives/3518",
-      "title": "Ask for No, Don't Ask for Yes",
-      "date": "2026-06-22"
-    },
-    {
-      "url": "https://thenextweb.com/news/trump-anthropic-not-national-security-threat-axios-interview",
-      "title": "After G7 Meeting With Ceo",
-      "date": "2026-06-22"
-    },
-    {
-      "url": "https://lesswrong.com/posts/zoyxpdamgft43wc24/how-transparent-is-diffusiongemma-and-why-it-matters",
-      "title": "Auditing Diffusiongemma Transparency",
-      "date": "2026-06-22"
-    },
-    {
-      "url": "https://research.nvidia.com/labs/gear/enpire",
-      "title": "Nvidia's Autonomous Robotics Research",
-      "date": "2026-06-22"
-    },
-    {
       "url": "https://links.tldrnewsletter.com/sfnfjc",
       "title": "Using Codex for Long-running Projects",
       "date": "2026-06-23"
@@ -1189,6 +1069,131 @@
       "url": "https://github.com/flythenimbus/bramble",
       "title": "Bramble",
       "date": "2026-07-06"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/cif4wx",
+      "title": "Getting Started With Loops",
+      "date": "2026-07-07"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/hvidyn",
+      "title": "Career Advice in the Age of Ai",
+      "date": "2026-07-07"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/9cfmcx",
+      "title": "Continual Learning for Agents",
+      "date": "2026-07-07"
+    },
+    {
+      "url": "https://janilowski.pl/en/blog/2026/price-per-m-tokens",
+      "title": "Price Per 1m Tokens is Meaningless",
+      "date": "2026-07-07"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/05m7sd",
+      "title": "46 Thoughts on the Near Future",
+      "date": "2026-07-07"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/b6ib1b",
+      "title": "Never Mind the Prompts, Here's the Thinking",
+      "date": "2026-07-07"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/vy2yxv",
+      "title": "Gpt 5.6",
+      "date": "2026-07-07"
+    },
+    {
+      "url": "https://ramp.com/data/heavy-ai-adopters-hire-more",
+      "title": "Companies Hire More After Ai Adoption",
+      "date": "2026-07-07"
+    },
+    {
+      "url": "https://manager.dev/newsletter/the-software-engineering-war",
+      "title": "The Software Engineering War",
+      "date": "2026-07-07"
+    },
+    {
+      "url": "https://antmurphy.me/newsletter/measuring-learning",
+      "title": "Measuring \u2260 Learning",
+      "date": "2026-07-07"
+    },
+    {
+      "url": "https://cutlefish.substack.com/p/tbm-429-how-to-thrive-at-work-when",
+      "title": "How to Thrive at Work When You Think Too Much",
+      "date": "2026-07-07"
+    },
+    {
+      "url": "https://stevekrouse.com/learn-to-code",
+      "title": "Learning to Code is Still Worthwhile",
+      "date": "2026-07-07"
+    },
+    {
+      "url": "https://github.com/mozilla-ai/otari",
+      "title": "Otari",
+      "date": "2026-07-07"
+    },
+    {
+      "url": "https://github.com/iofficeai/officecli",
+      "title": "Officecli",
+      "date": "2026-07-07"
+    },
+    {
+      "url": "https://anthropic.com/research/global-workspace",
+      "title": "A Global Workspace in Language Models",
+      "date": "2026-07-07"
+    },
+    {
+      "url": "https://simonwillison.net/2026/jul/6/hy3",
+      "title": "Hy3",
+      "date": "2026-07-07"
+    },
+    {
+      "url": "https://samgerstenzang.substack.com/p/the-emotional-cost-of-finding-product",
+      "title": "The Emotional Cost of Finding Product-market Fit",
+      "date": "2026-07-07"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/yopiwd",
+      "title": "A Stargate for Data",
+      "date": "2026-07-07"
+    },
+    {
+      "url": "https://huggingface.co/papers/2607.02032",
+      "title": "Pace: a Proxy for Agentic Capability Evaluation",
+      "date": "2026-07-07"
+    },
+    {
+      "url": "https://chinatalk.media/p/the-robots-are-here",
+      "title": "The Robots Are Here",
+      "date": "2026-07-07"
+    },
+    {
+      "url": "https://blog.genesmindsmachines.com/p/tell-a-story-is-not-helpful-advice",
+      "title": "\u201ctell a Story\u201d is Not Helpful Advice",
+      "date": "2026-07-07"
+    },
+    {
+      "url": "https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm",
+      "title": "Training on Rocm",
+      "date": "2026-07-07"
+    },
+    {
+      "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+      "title": "Small Ai Models Gain Traction Around the World",
+      "date": "2026-07-07"
+    },
+    {
+      "url": "https://cnbc.com/2026/07/06/nvidia-kyber-rack-system-delays-manufacturing-taiwan-rubin-chips-.html",
+      "title": "Snags",
+      "date": "2026-07-07"
+    },
+    {
+      "url": "https://gizmodo.com/xai-is-dead-long-live-spacexai-2000782034",
+      "title": "Xai is Dead. Long Live Spacexai",
+      "date": "2026-07-07"
     }
   ],
   "feedback": [
