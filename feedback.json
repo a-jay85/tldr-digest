@@ -1,121 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://links.tldrnewsletter.com/sfnfjc",
-      "title": "Using Codex for Long-running Projects",
-      "date": "2026-06-23"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/vjfg7n",
-      "title": "Loop Engineering Clearly Explained",
-      "date": "2026-06-23"
-    },
-    {
-      "url": "https://slater.dev/2026/06/the-optimal-amount-of-slop-is-non-zero",
-      "title": "The Optimal Amount of Slop is Non-zero",
-      "date": "2026-06-23"
-    },
-    {
-      "url": "https://samihonkonen.com/posts/an-agent-capability-library",
-      "title": "An Agent Capability Library",
-      "date": "2026-06-23"
-    },
-    {
-      "url": "https://github.com/stablyai/orca",
-      "title": "Orca",
-      "date": "2026-06-23"
-    },
-    {
-      "url": "https://aha.io/engineering/articles/im-the-for-claude-now",
-      "title": "I'm the Agent for Claude Now",
-      "date": "2026-06-23"
-    },
-    {
-      "url": "https://techstackups.com/comparisons/glm-5.2-vs-opus",
-      "title": "Glm-5.2 vs Claude Opus",
-      "date": "2026-06-23"
-    },
-    {
-      "url": "https://benn.substack.com/p/can-ai-make-an-iphone",
-      "title": "Can Ai Make an Iphone?",
-      "date": "2026-06-23"
-    },
-    {
-      "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic",
-      "title": "Authentic",
-      "date": "2026-06-23"
-    },
-    {
-      "url": "https://blog.andr2i.com/posts/2026-06-22-optimization-catalog-how-4-bytes-of-padding-make-array-clearing-49-faster",
-      "title": "Faster",
-      "date": "2026-06-23"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/10vhek",
-      "title": "Owning Vs. Renting Intelligence",
-      "date": "2026-06-23"
-    },
-    {
-      "url": "https://thezvi.wordpress.com/2026/06/22/glm-5-2-is-the-new-best-open-model",
-      "title": "Glm-5.2 Raises the Bar for Open Models",
-      "date": "2026-06-23"
-    },
-    {
-      "url": "https://docs.deno.com/runtime/desktop",
-      "title": "Deno Desktop",
-      "date": "2026-06-23"
-    },
-    {
-      "url": "https://tanstack.com/blog/tanstack-table-v9-typescript-performance",
-      "title": "Typescript Performance in Tanstack Table V9",
-      "date": "2026-06-23"
-    },
-    {
-      "url": "https://antmurphy.me/newsletter/the-most-demanding-role-in-product",
-      "title": "The Most Demanding Role in Product",
-      "date": "2026-06-23"
-    },
-    {
-      "url": "https://longform.asmartbear.com/confidence",
-      "title": "Lost Confidence",
-      "date": "2026-06-23"
-    },
-    {
-      "url": "https://lesswrong.com/posts/ylhiqgcpdvzl9fbn3/model-size-scaling-in-2023-2031",
-      "title": "Model Size Scaling in 2023-2031",
-      "date": "2026-06-23"
-    },
-    {
-      "url": "https://hustvl.github.io/moebius",
-      "title": "Moebius",
-      "date": "2026-06-23"
-    },
-    {
-      "url": "https://jchri.st/blog/in-praise-of-memcached",
-      "title": "In Praise of Memcached",
-      "date": "2026-06-23"
-    },
-    {
-      "url": "https://alignmentforum.org/posts/wazwa6fpqvh8okouj/llm-driven-feature-discovery",
-      "title": "Llm-driven Feature Discovery",
-      "date": "2026-06-23"
-    },
-    {
-      "url": "https://thenextweb.com/news/cloudflare-pact-browser-privacy-bot-traffic-protocol",
-      "title": "Anti-bot Protocol",
-      "date": "2026-06-23"
-    },
-    {
-      "url": "https://davesresearch.com/timescales",
-      "title": "Timescales of Play",
-      "date": "2026-06-23"
-    },
-    {
-      "url": "https://worksinprogress.co/issue/why-american-data-centers-cant-plug-in",
-      "title": "Why American Data Centers Can't Plug in",
-      "date": "2026-06-23"
-    },
-    {
       "url": "https://blog.bytebytego.com/p/an-ex-meta-l8s-agentic-engineering",
       "title": "An Ex-meta L8's Agentic Engineering Setup",
       "date": "2026-06-24"
@@ -1194,6 +1079,121 @@
       "url": "https://gizmodo.com/xai-is-dead-long-live-spacexai-2000782034",
       "title": "Xai is Dead. Long Live Spacexai",
       "date": "2026-07-07"
+    },
+    {
+      "url": "https://theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689",
+      "title": "The People Who Will Thrive in the Ai Age",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://newsletter.systemdesign.one/p/graph-based-agent-memory",
+      "title": "How to Use Ai Agents Better Than 99% of People",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://lilianweng.github.io/posts/2026-07-04-harness",
+      "title": "Harness Engineering for Self-improvement",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/3v92r5",
+      "title": "Building a Moat: Self Learning Agents",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://developer.microsoft.com/blog/not-all-model-upgrades-are-upgrades",
+      "title": "Not All Model Upgrades Are Upgrades",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://swizec.com/blog/theory-of-constraints-ai-and-code-review",
+      "title": "Theory of Constraints, Ai, and Code Review",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://raymondcamden.com/2026/07/07/asking-cursor-to-review-my-blog-for-performance",
+      "title": "Asking Cursor to Review My Blog for Performance",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://developer.microsoft.com/blog/dont-rewrite-your-cli-for-agents",
+      "title": "Agents Work Better With Conventional Clis",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/ioxpho",
+      "title": "Microsoft's Real Ai Strategy is Not the Chatbot",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api",
+      "title": "And More",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://github.com/ogulcancelik/herdr",
+      "title": "Herdr",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://claude.com/blog/cowork-web-mobile",
+      "title": "Claude Cowork on Mobile and Web",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/jtul3i",
+      "title": "No Space Like J-space",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://anthonyhobday.com/blog/20260410",
+      "title": "Notes on Software Quality",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://arxiv.org/html/2607.02770v1",
+      "title": "Gemma 4 Technical Report",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://support.claude.com/en/articles/15424964-claude-fable-5-promotional-access",
+      "title": "Claude Fable 5 Promotional Access",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "title": "Rowboat",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much",
+      "title": "98% Isn't Very Much",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://lesswrong.com/posts/mwpo4tu87zsfzwfwb/calibrating-alignment-evals",
+      "title": "Why Alignment Evals Need Calibration",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://allenpike.com/2025/why-is-chatgpt-so-good-claude",
+      "title": "Why is Chatgpt for Mac So Good?",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://github.com/tiliondev/fortress",
+      "title": "Fortress",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/iwydbh",
+      "title": "Thursday",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://cnbc.com/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html",
+      "title": "Anthropic Costs Surge",
+      "date": "2026-07-08"
     }
   ],
   "feedback": [
