@@ -1,131 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://blog.bytebytego.com/p/an-ex-meta-l8s-agentic-engineering",
-      "title": "An Ex-meta L8's Agentic Engineering Setup",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://anthropic.com/news/introducing-claude-tag",
-      "title": "Claude Tag",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://builder.io/blog/building-in-the-age-of-collaborative-coding",
-      "title": "Building in the Age of Collaborative Coding",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://dbreunig.com/2026/06/22/the-problem-is-prompt-debt.html",
-      "title": "The Problem is Prompt Debt",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop",
-      "title": "The Coming Loop",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://thoughtfullab.com/the-state-of-ai-post-training-agents.html",
-      "title": "The State of Ai Post-training Agents",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://github.com/modem-dev/hunk",
-      "title": "Hunk",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
-      "title": "Lightweight Harness",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://mistral.ai/news/ocr-4",
-      "title": "Mistral Ocr 4: Sota Ocr for Document Intelligence",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://latent.space/p/gray-swan",
-      "title": "Insights on Indirect Prompt Injection",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://unsloth.ai/docs/models/glm-5.2",
-      "title": "Glm-5.2 - How to Run Locally",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://role-confusion.github.io",
-      "title": "Prompt Injection as Role Confusion",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://words.filippo.io/vuln-reports",
-      "title": "Vulnerability Reports Are Not Special Anymore",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://akselmo.dev/posts/please-keep-code-descriptions-simple",
-      "title": "Please Keep Code Descriptions Simple",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://momentic.ai/blog/a-new-era-of-software-quality",
-      "title": "A New Era of Software Quality Starts Today",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://swelljoe.com/post/will-it-mythos",
-      "title": "Will it Mythos?",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://cnet.com/tech/services-and-software/bytedance-introduces-new-seedance-2-5-video-model",
-      "title": "Prompt",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://github.com/fluree/db",
-      "title": "Fluree Db",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://text-incubation.com/startup-ennui-and-the-forgetten-art-of-risk-taking",
-      "title": "Dead Players",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://github.com/graphsignal/graphsignal-profiler",
-      "title": "Graphsignal",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://github.com/baidu/unlimited-ocr",
-      "title": "Unlimited Ocr Works",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://sofiakodar.github.io/posts/becomingmanager",
-      "title": "The Truth About Being a Manager",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://krea.ai/blog/krea-2-technical-report",
-      "title": "Krea 2 Technical Report",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
-      "title": "The Low-tech Ai of Elden Ring",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://jakub.kr/writing/less-is-more",
-      "title": "Less is More, More or Less",
-      "date": "2026-06-24"
-    },
-    {
       "url": "https://rico.codes/loops-not-prompts",
       "title": "Writing Loops, Not Prompts, Explained",
       "date": "2026-06-25"
@@ -1194,6 +1069,126 @@
       "url": "https://cnbc.com/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html",
       "title": "Anthropic Costs Surge",
       "date": "2026-07-08"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/lh3sdn",
+      "title": "You're Not Ambitious Enough With Claude",
+      "date": "2026-07-09"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/vycv2e",
+      "title": "Own the Outer Loop",
+      "date": "2026-07-09"
+    },
+    {
+      "url": "https://alecscollon.com/blog/llm-burnout",
+      "title": "I Think I Have Llm Burnout",
+      "date": "2026-07-09"
+    },
+    {
+      "url": "https://martinfowler.com/articles/exploring-gen-ai/local-models-for-coding-experiences.html",
+      "title": "Experiences With Local Models for Coding",
+      "date": "2026-07-09"
+    },
+    {
+      "url": "https://registerspill.thorstenball.com/p/ownership",
+      "title": "Ownership",
+      "date": "2026-07-09"
+    },
+    {
+      "url": "https://bun.com/blog/bun-in-rust",
+      "title": "Rewriting Bun in Rust",
+      "date": "2026-07-09"
+    },
+    {
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0",
+      "title": "Announcing Typescript 7.0",
+      "date": "2026-07-09"
+    },
+    {
+      "url": "https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users",
+      "title": "A Bug Which Only Affected Left-handed Users",
+      "date": "2026-07-09"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/lergze",
+      "title": "Auditing the Reliability of Coding Benchmarks",
+      "date": "2026-07-09"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/fprnmx",
+      "title": "A Taxonomy of Self-evolving Agents",
+      "date": "2026-07-09"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/qxmkhl",
+      "title": "Data at the Edge",
+      "date": "2026-07-09"
+    },
+    {
+      "url": "https://github.com/dekart-xyz/geosql",
+      "title": "Geosql",
+      "date": "2026-07-09"
+    },
+    {
+      "url": "https://theregister.com/ai-and-ml/2026/07/08/former-github-ceo-launches-competitor-designed-for-the-age-of-vibe-coding/5268694",
+      "title": "Coding",
+      "date": "2026-07-09"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/wt5ej5",
+      "title": "Gpt-live",
+      "date": "2026-07-09"
+    },
+    {
+      "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+      "title": "Data for Agents",
+      "date": "2026-07-09"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/ftsywo",
+      "title": "Introducing Gpt-live",
+      "date": "2026-07-09"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/tvq3yk",
+      "title": "Introducing Grok 4.5",
+      "date": "2026-07-09"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/iyige3",
+      "title": "Grok 4.5",
+      "date": "2026-07-09"
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model",
+      "title": "Model'",
+      "date": "2026-07-09"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/cdd8ln",
+      "title": "In",
+      "date": "2026-07-09"
+    },
+    {
+      "url": "https://testingcatalog.com/meta-launches-muse-image-across-its-apps-and-previews-muse-video",
+      "title": "Meta Launches Muse Image Across Its Apps",
+      "date": "2026-07-09"
+    },
+    {
+      "url": "https://mistral.ai/news/robostral-navigate",
+      "title": "Robostral Navigate: Single-camera Ai Navigation",
+      "date": "2026-07-09"
+    },
+    {
+      "url": "https://cnbc.com/2026/07/08/sambanova-ai-chip-funding-valuation.html",
+      "title": "Challengers",
+      "date": "2026-07-09"
+    },
+    {
+      "url": "https://blog.google/products-and-platforms/products/photos/video-remix",
+      "title": "Google Photos Added Ai-powered Video Remixing",
+      "date": "2026-07-09"
     }
   ],
   "feedback": [
