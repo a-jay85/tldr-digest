@@ -1,106 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://rico.codes/loops-not-prompts",
-      "title": "Writing Loops, Not Prompts, Explained",
-      "date": "2026-06-25"
-    },
-    {
-      "url": "https://structural.chat/articles/programming-in-markdown",
-      "title": "Stop Programming in Markdown",
-      "date": "2026-06-25"
-    },
-    {
-      "url": "https://platformer.news/matt-garman-aws-ceo-interview-ai-jobs",
-      "title": "Employees",
-      "date": "2026-06-25"
-    },
-    {
-      "url": "https://robenglander.com/writing/the-case-for-language-native-software",
-      "title": "The Case for Language-native Software",
-      "date": "2026-06-25"
-    },
-    {
-      "url": "https://interconnects.ai/p/glm-52-is-the-step-change-for-open",
-      "title": "Glm-5.2 is the Step Change for Open Agents",
-      "date": "2026-06-25"
-    },
-    {
-      "url": "https://skovhus.dev/blog/moving-linear-from-styled-components-to-stylex",
-      "title": "Moving Linear From Styled\u2011components to Stylex",
-      "date": "2026-06-25"
-    },
-    {
-      "url": "https://lesswrong.com/posts/d8xdgzceye639qqev/a-mechanistic-explanation-of-prompt-injection-and-why-you",
-      "title": "Study Roles)",
-      "date": "2026-06-25"
-    },
-    {
-      "url": "https://archive.is/t1fjg",
-      "title": "Why Big Ai Labs Are Hiring So Many Philosophers",
-      "date": "2026-06-25"
-    },
-    {
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash",
-      "title": "Introducing Computer Use on Gemini 3.5 Flash",
-      "date": "2026-06-25"
-    },
-    {
-      "url": "https://questdb.com/blog/lies-damn-lies-and-database-benchmarks",
-      "title": "Lies, Damn Lies, and Database Benchmarks",
-      "date": "2026-06-25"
-    },
-    {
-      "url": "https://github.com/nubjs/nub",
-      "title": "Nub",
-      "date": "2026-06-25"
-    },
-    {
-      "url": "https://datatracker.ietf.org/doc/rfc10008",
-      "title": "The Http Query Method",
-      "date": "2026-06-25"
-    },
-    {
-      "url": "https://github.com/notasithlord/peerd",
-      "title": "Peerd",
-      "date": "2026-06-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.24597",
-      "title": "Qwen-agentworld",
-      "date": "2026-06-25"
-    },
-    {
-      "url": "https://perplexity.ai/hub/blog/introducing-computer-for-counsel",
-      "title": "Perplexity Computer for Counsel",
-      "date": "2026-06-25"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/5cnkgv",
-      "title": "Jalape\u00f1o: Openai's New Chip",
-      "date": "2026-06-25"
-    },
-    {
-      "url": "https://educatedguesswork.org/posts/notes-amazon-perplexity",
-      "title": "Notes on Amazon V. Perplexity",
-      "date": "2026-06-25"
-    },
-    {
-      "url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals",
-      "title": "Gemini Researchers Join Anthropic",
-      "date": "2026-06-25"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/mikj9l",
-      "title": "Own Ai",
-      "date": "2026-06-25"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/bn2kzt",
-      "title": "Useful",
-      "date": "2026-06-25"
-    },
-    {
       "url": "https://blog.grandimam.com/posts/repricing-of-software-engineering-labor",
       "title": "Repricing of Software Engineering Labor",
       "date": "2026-06-26"
@@ -1189,6 +1089,121 @@
       "url": "https://blog.google/products-and-platforms/products/photos/video-remix",
       "title": "Google Photos Added Ai-powered Video Remixing",
       "date": "2026-07-09"
+    },
+    {
+      "url": "https://newsletter.posthog.com/p/code-review-tips",
+      "title": "Stop Being the Code Review Bottleneck",
+      "date": "2026-07-10"
+    },
+    {
+      "url": "https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself",
+      "title": "Ai Slop Starts With the Codebase Itself",
+      "date": "2026-07-10"
+    },
+    {
+      "url": "https://theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689?gift=bmvuiu0ra57xgi0zoa4kgminu--qpr8lfebqyptwwtq",
+      "title": "The People Who Will Thrive in the Ai Age",
+      "date": "2026-07-10"
+    },
+    {
+      "url": "https://ben-evans.com/benedictevans/2026/7/9/ways-to-think-about-token-pricing",
+      "title": "Ways to Think About Token Pricing",
+      "date": "2026-07-10"
+    },
+    {
+      "url": "https://magnus919.com/2026/07/the-spec-ceiling-why-ai-coding-speed-moves-the-bottleneck-to-product-discovery",
+      "title": "Discovery",
+      "date": "2026-07-10"
+    },
+    {
+      "url": "https://github.com/traycerai/traycer",
+      "title": "Traycer",
+      "date": "2026-07-10"
+    },
+    {
+      "url": "https://stratechery.com/2026/a-script-for-mark-zuckerberg",
+      "title": "A Script for Mark Zuckerberg",
+      "date": "2026-07-10"
+    },
+    {
+      "url": "https://astralcodexten.com/p/introducing-plan-a",
+      "title": "Introducing Plan a",
+      "date": "2026-07-10"
+    },
+    {
+      "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api",
+      "title": "Muse Spark 1.1",
+      "date": "2026-07-10"
+    },
+    {
+      "url": "https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner",
+      "title": "How Github Gave Every Repository a Durable Owner",
+      "date": "2026-07-10"
+    },
+    {
+      "url": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university",
+      "title": "Scores Fell 50%",
+      "date": "2026-07-10"
+    },
+    {
+      "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto",
+      "title": "Interview With Mitchell Hashimoto",
+      "date": "2026-07-10"
+    },
+    {
+      "url": "https://lucasfcosta.com/blog/laws-of-software-project-management",
+      "title": "Lucas' Laws of Project Management",
+      "date": "2026-07-10"
+    },
+    {
+      "url": "https://github.com/prisma/prisma",
+      "title": "Prisma",
+      "date": "2026-07-10"
+    },
+    {
+      "url": "https://blogs.windows.com/windowsexperience/2026/07/09/evolving-windows-vulnerability-management-to-meet-the-speed-of-ai-powered-discovery",
+      "title": "Ai-powered Discovery",
+      "date": "2026-07-10"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/thb8pe",
+      "title": "Chatgpt Work",
+      "date": "2026-07-10"
+    },
+    {
+      "url": "https://vinvashishta.substack.com/p/fable-5-vs-opus-48-outcomes-based",
+      "title": "For Frontier Ai Labs",
+      "date": "2026-07-10"
+    },
+    {
+      "url": "https://anthropic.com/news/hard-questions",
+      "title": "Inviting Hard Questions",
+      "date": "2026-07-10"
+    },
+    {
+      "url": "https://spyglass.org/meta-ai-cloud-business-model",
+      "title": "Your Ai Margin is Meta's Opportunity",
+      "date": "2026-07-10"
+    },
+    {
+      "url": "https://mbi-deepdives.com/data",
+      "title": "The Salience of Data",
+      "date": "2026-07-10"
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing",
+      "title": "Openai Retired Atlas",
+      "date": "2026-07-10"
+    },
+    {
+      "url": "https://worksinprogress.news/p/ai-is-bottlenecked-by-the-grid",
+      "title": "What's Really Slowing Down the Ai Buildout",
+      "date": "2026-07-10"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/rduwbo",
+      "title": "Pay-to-use Ai",
+      "date": "2026-07-10"
     }
   ],
   "feedback": [
