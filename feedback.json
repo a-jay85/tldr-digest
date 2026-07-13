@@ -1,101 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://blog.grandimam.com/posts/repricing-of-software-engineering-labor",
-      "title": "Repricing of Software Engineering Labor",
-      "date": "2026-06-26"
-    },
-    {
-      "url": "https://exponentialview.co/p/the-state-of-the-ai-economy",
-      "title": "\ud83d\udd2e the State of the Ai Economy",
-      "date": "2026-06-26"
-    },
-    {
-      "url": "https://danielmiessler.com/blog/ai-native-divide",
-      "title": "The Coming Divide: Ai-native or Left Behind",
-      "date": "2026-06-26"
-    },
-    {
-      "url": "https://borretti.me/article/no-one-escapes-the-permanent-underclass",
-      "title": "No-one Escapes the Permanent Underclass",
-      "date": "2026-06-26"
-    },
-    {
-      "url": "https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models",
-      "title": "The Unbearable Cheapness of Open Weight Models",
-      "date": "2026-06-26"
-    },
-    {
-      "url": "https://tanayj.com/p/build-the-agent-or-power-the-agent",
-      "title": "Build the Agent or Power the Agent?",
-      "date": "2026-06-26"
-    },
-    {
-      "url": "https://huggingface.co/blog/vllm-jobs",
-      "title": "Run a Vllm Server on Hf Jobs in One Command",
-      "date": "2026-06-26"
-    },
-    {
-      "url": "https://productpower.substack.com/p/product-manager-is-the-old-title",
-      "title": "Product Manager is the Old Title",
-      "date": "2026-06-26"
-    },
-    {
-      "url": "https://itamargilad.com/how-dev-productivity",
-      "title": "How to Measure Development Productivity?",
-      "date": "2026-06-26"
-    },
-    {
-      "url": "https://dpereira.substack.com/p/is-ai-fooling-you",
-      "title": "Is Ai Fooling You?",
-      "date": "2026-06-26"
-    },
-    {
-      "url": "https://dev.karltryggvason.com/you-cant-unit-test-for-taste",
-      "title": "You Can't Unit Test for Taste",
-      "date": "2026-06-26"
-    },
-    {
-      "url": "https://tierfs.com/blog/every-team-builds-the-same-cache.html",
-      "title": "Every Team is Building the Same Cache",
-      "date": "2026-06-26"
-    },
-    {
-      "url": "https://inner-game-bq3fs.sprites.app",
-      "title": "The New Inner Game",
-      "date": "2026-06-26"
-    },
-    {
-      "url": "https://lilianweng.github.io/posts/2026-06-24-scaling-laws",
-      "title": "Scaling Laws, Carefully",
-      "date": "2026-06-26"
-    },
-    {
-      "url": "https://cursor.com/blog/reward-hacking-coding-benchmarks",
-      "title": "Measuring Exploits in Llm Agents With Tool Use",
-      "date": "2026-06-26"
-    },
-    {
-      "url": "https://threadreaderapp.com/thread/2070181051801235463.html",
-      "title": "We Removed an Lm's Ability to Speak German",
-      "date": "2026-06-26"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.25996",
-      "title": "Agents That Build Better Training Data",
-      "date": "2026-06-26"
-    },
-    {
-      "url": "https://github.com/every-app/open-seo",
-      "title": "Open Seo",
-      "date": "2026-06-26"
-    },
-    {
-      "url": "https://kolistat.com/blog/the-stats-duck-v0-6-0",
-      "title": "The-stats-duck V0.6.0",
-      "date": "2026-06-26"
-    },
-    {
       "url": "https://venturebeat.com/ai/claude-code-turned-every-engineer-into-three-now-companies-need-more-product-thinkers",
       "title": "Product Thinkers",
       "date": "2026-06-29"
@@ -1204,6 +1109,126 @@
       "url": "https://links.tldrnewsletter.com/rduwbo",
       "title": "Pay-to-use Ai",
       "date": "2026-07-10"
+    },
+    {
+      "url": "https://vhyrro.neorg.org/posts/a-hitchhikers-guide-to-ai",
+      "title": "A Hitchhiker's Guide to Ai",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://danielmiessler.com/blog/intent-engineering",
+      "title": "From Prompt Engineering to Intent Engineering",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/of39xv",
+      "title": "5.6 Sol is Underhyped for General Work",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://abeautifulsite.net/posts/software-has-changed",
+      "title": "Software Has Changed",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2075635283211772279.html",
+      "title": "Claude Code on Desktop Now Has an In-app Browser",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://langchain.com/blog/introducing-openwiki-brains-general-purpose-wiki-memory-for-agents",
+      "title": "Openwiki Brains: Proactive Memory for Ai Agents",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents",
+      "title": "Old and New Apps, via Modern Coding Agents",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://simonwillison.net/2026/jul/12/bump",
+      "title": "Anthropic Extended Claude Fable 5 Access Again",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/klabol",
+      "title": "Own Your Weights",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://thinkingmachines.ai/blog/the-future-worth-building-is-human",
+      "title": "The Future Worth Building is Human",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://github.com/colemurray/background-agents",
+      "title": "Open-inspect",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://seangoedecke.com/in-defense-of-not-understanding-your-codebase",
+      "title": "In Defense of Not Understanding Your Codebase",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/8idhzf",
+      "title": "The Reverse Information Paradox",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+      "title": "Ai 2040 and the Cult of Intelligence",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+      "title": "I Love Llms, I Hate Hype",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.08716",
+      "title": "Proactive Memory for Long-horizon Agents",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+      "title": "Exactly How Much",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://github.com/cosmtrek/mindwalk",
+      "title": "Mindwalk",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://smw.ai/blog/basecamp-bench",
+      "title": "Basecamp Bench",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://joereis.substack.com/p/your-agents-are-stuck-in-your-org",
+      "title": "Your Agents Are Stuck in Your Org Chart",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://gingerbill.org/article/2026/07/10/good-tools-are-invisible",
+      "title": "Good Tools Are Invisible",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://guseyn.com/html/posts/why-vanilla-js.html",
+      "title": "Why Vanilla Js",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://github.com/hasenj/go-shirei",
+      "title": "Shirei",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2075315309591044522.html",
+      "title": "Pepsi Challenge for Llms",
+      "date": "2026-07-13"
     }
   ],
   "feedback": [
