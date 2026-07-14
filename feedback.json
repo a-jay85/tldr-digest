@@ -1,91 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://venturebeat.com/ai/claude-code-turned-every-engineer-into-three-now-companies-need-more-product-thinkers",
-      "title": "Product Thinkers",
-      "date": "2026-06-29"
-    },
-    {
-      "url": "https://github.com/humanlayer/12-factor-agents",
-      "title": "12 Factor Agents",
-      "date": "2026-06-29"
-    },
-    {
-      "url": "https://anthropic.com/research/economic-index-june-2026-report",
-      "title": "Anthropic Economic Index June 2026 Report",
-      "date": "2026-06-29"
-    },
-    {
-      "url": "https://magazine.sebastianraschka.com/p/using-local-coding-agents",
-      "title": "Using Local Coding Agents",
-      "date": "2026-06-29"
-    },
-    {
-      "url": "https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai",
-      "title": "Software Engineering in the Age of Ai",
-      "date": "2026-06-29"
-    },
-    {
-      "url": "https://terezatizkova.com/writing/software-abundance",
-      "title": "Software is Becoming Marketing",
-      "date": "2026-06-29"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/aklx60",
-      "title": "Off",
-      "date": "2026-06-29"
-    },
-    {
-      "url": "https://dwarkesh.com/p/the-next-paradigm",
-      "title": "The Next Paradigm",
-      "date": "2026-06-29"
-    },
-    {
-      "url": "https://chatgptpro.substack.com/p/tyler-cowen",
-      "title": "An \u201cinfovore\u201d Shares His Chats",
-      "date": "2026-06-29"
-    },
-    {
-      "url": "https://swizec.com/blog/code-is-the-easy-part-or-how-we-refactored-half-the-business-to-fix-a-janky-script",
-      "title": "A Janky Script",
-      "date": "2026-06-29"
-    },
-    {
-      "url": "https://jayfreestone.com/writing/you-might-not-need-a-service-worker",
-      "title": "You Might Not Need\u2026 a Service Worker",
-      "date": "2026-06-29"
-    },
-    {
-      "url": "https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing",
-      "title": "Tokenmaxxing is Dead, Long Live Tokenmaxxing",
-      "date": "2026-06-29"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/lqdvjf",
-      "title": "Defining Taste",
-      "date": "2026-06-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.26907",
-      "title": "Qwen Image Agent",
-      "date": "2026-06-29"
-    },
-    {
-      "url": "https://w.pitula.me/fintech-engineering-handbook",
-      "title": "Fintech Engineering Handbook",
-      "date": "2026-06-29"
-    },
-    {
-      "url": "https://research.google/blog/accelerating-gemini-nano-models-on-pixel-with-frozen-multi-token-prediction",
-      "title": "Prediction",
-      "date": "2026-06-29"
-    },
-    {
-      "url": "https://alganet.github.io/blog/2026-06-28-12-posix-is-not-a-shell.html",
-      "title": "Posix is Not a Shell",
-      "date": "2026-06-29"
-    },
-    {
       "url": "https://comet.com/site/blog/claude-code-context-bloat",
       "title": "Cost",
       "date": "2026-06-30"
@@ -1229,6 +1144,126 @@
       "url": "https://threadreaderapp.com/thread/2075315309591044522.html",
       "title": "Pepsi Challenge for Llms",
       "date": "2026-07-13"
+    },
+    {
+      "url": "https://vivekhaldar.com/articles/compiling-an-ai-agent-skill",
+      "title": "How I Cut an Ai Agent's Token Use by 94%",
+      "date": "2026-07-14"
+    },
+    {
+      "url": "https://antirez.com/news/169",
+      "title": "Control the Ideas, Not the Code",
+      "date": "2026-07-14"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/ymxdvv",
+      "title": "Making Fable Cheaper Than Opus",
+      "date": "2026-07-14"
+    },
+    {
+      "url": "https://danielmiessler.com/blog/avoid-the-ai-expertise-trap",
+      "title": "Avoid the Ai Expertise Trap",
+      "date": "2026-07-14"
+    },
+    {
+      "url": "https://thezvi.wordpress.com/2026/07/13/better-call-sol-the-workhorse",
+      "title": "Better Call Sol: the Workhorse",
+      "date": "2026-07-14"
+    },
+    {
+      "url": "https://normaltech.ai/p/what-will-be-left-for-us-to-work",
+      "title": "What Will Be Left for Us to Work On?",
+      "date": "2026-07-14"
+    },
+    {
+      "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+      "title": "What Xai Grok Build Cli Actually Sends to Xai",
+      "date": "2026-07-14"
+    },
+    {
+      "url": "https://github.com/google/mantis",
+      "title": "Harnesses",
+      "date": "2026-07-14"
+    },
+    {
+      "url": "https://github.com/clawkwork/clawk",
+      "title": "Clawk",
+      "date": "2026-07-14"
+    },
+    {
+      "url": "https://github.com/gentleman-programming/engram",
+      "title": "Engram",
+      "date": "2026-07-14"
+    },
+    {
+      "url": "https://jeffgothelf.com/blog/how-to-collect-product-feedback-when-your-ai-gives-every-user-a-different-answer",
+      "title": "Different Answer",
+      "date": "2026-07-14"
+    },
+    {
+      "url": "https://spin.atomicobject.com/ai-agents-attention-bottleneck",
+      "title": "With Ai Agents, Attention is the New Bottleneck",
+      "date": "2026-07-14"
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2076447247693402301.html",
+      "title": "Today, We Are Releasing Verifiers V1",
+      "date": "2026-07-14"
+    },
+    {
+      "url": "https://workos.com/blog/webmcp-workos-docs",
+      "title": "Webmcp for Documentation",
+      "date": "2026-07-14"
+    },
+    {
+      "url": "https://sleuth-io.github.io/sx/2026/07/10/your-dropbox-is-now-a-skill-server.html",
+      "title": "Your Dropbox is Now a Skill Server",
+      "date": "2026-07-14"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/bbbwys",
+      "title": "The Reverse Information Paradox",
+      "date": "2026-07-14"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/xkmlec",
+      "title": "Taste Cannot Be Delegated",
+      "date": "2026-07-14"
+    },
+    {
+      "url": "https://github.com/zli12321/lhtb",
+      "title": "Testing Agents on Long-horizon Terminal Work",
+      "date": "2026-07-14"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/0jjltf",
+      "title": "Agentic Loop",
+      "date": "2026-07-14"
+    },
+    {
+      "url": "https://anthropic.com/research/claude-values-models-languages",
+      "title": "How Claude's Values Vary by Model and Language",
+      "date": "2026-07-14"
+    },
+    {
+      "url": "https://lea.verou.me/blog/2026/polyfills",
+      "title": "In Defense of Polyfills",
+      "date": "2026-07-14"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/4ezerz",
+      "title": "Ai's Biggest Winners Have the Lowest Margins",
+      "date": "2026-07-14"
+    },
+    {
+      "url": "https://cutlefish.substack.com/p/tbm-430-incubate-compound-refinance",
+      "title": "Incubate, Compound, Refinance, Liquidate",
+      "date": "2026-07-14"
+    },
+    {
+      "url": "https://a16z.com/the-most-human-technology-ever-made",
+      "title": "The Most Human Technology Ever Made",
+      "date": "2026-07-14"
     }
   ],
   "feedback": [
