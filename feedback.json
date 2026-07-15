@@ -1,116 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://comet.com/site/blog/claude-code-context-bloat",
-      "title": "Cost",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://venturebeat.com/infrastructure/claude-code-turned-every-engineer-into-three-now-companies-need-more-product-thinkers",
-      "title": "Product Thinkers",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://htmx.org/essays/working-with-ai",
-      "title": "Working With Ai: a Concrete Example",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/c2xi1u",
-      "title": "The Economy of Tokens",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://tanayj.com/p/rl-beyond-the-verifiable",
-      "title": "Rl Beyond the Verifiable",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://jeffgothelf.com/blog/how-to-write-okrs-for-an-ai-product",
-      "title": "How to Write Okrs for an Ai Product",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://hamel.dev/blog/posts/eval-smell",
-      "title": "\u201cit's Hard to Eval\u201d is a Product Smell",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://cutlefish.substack.com/p/tbm-427-the-bottleneck-strike-again",
-      "title": "The Bottleneck Strike Again!",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://cognition.com/blog/devin-fusion",
-      "title": "Devin Fusion",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/c4tkr9",
-      "title": "Defining Taste",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://evnm.substack.com/p/generative-ui-doesnt-make-sense-for",
-      "title": "Generative Ui Doesn't Make Sense for Startups",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/cvv9ff",
-      "title": "The New Product Roles",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://venturebeat.com/orchestration/deepseek-open-sources-dspark-a-new-framework-to-speed-up-llm-inference-by-up-to-85",
-      "title": "Inference by up to 85%",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://lambrospetrou.com/articles/fokosdb",
-      "title": "Cloudflare Durable Objects",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://github.com/facebook/astryx",
-      "title": "Astryx",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://nextplayso.substack.com/p/on-building-your-personal-brand",
-      "title": "On Building Your Personal Brand",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://cursor.com/blog/ios-mobile-app",
-      "title": "Build From Anywhere With Cursor for Ios",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel",
-      "title": "What Happens When You Run a Cuda Kernel",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://github.com/craft-ai-agents/craft-agents-oss",
-      "title": "Craft Agents Oss",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://pivotal.substack.com/p/on-data-quality-1-basics",
-      "title": "On Data Quality - the Fundamentals",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.15846",
-      "title": "Across Version Upgrades",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://theverge.com/ai-artificial-intelligence/959269/heres-a-photo-of-openais-codex-hardware",
-      "title": "Openai's Codex Hardware",
-      "date": "2026-06-30"
-    },
-    {
       "url": "https://oneusefulthing.org/p/the-twilight-of-the-chatbots",
       "title": "The Twilight of the Chatbots",
       "date": "2026-07-01"
@@ -1264,6 +1154,111 @@
       "url": "https://a16z.com/the-most-human-technology-ever-made",
       "title": "The Most Human Technology Ever Made",
       "date": "2026-07-14"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/mbq7sp",
+      "title": "The Great Flattening",
+      "date": "2026-07-15"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/pke2tn",
+      "title": "The Guide to Software Factories",
+      "date": "2026-07-15"
+    },
+    {
+      "url": "https://a16z.news/p/the-next-ai-goldrush-tokens-loops",
+      "title": "You Just Hired a Million Bad Employees",
+      "date": "2026-07-15"
+    },
+    {
+      "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising",
+      "title": "The Tower Keeps Rising",
+      "date": "2026-07-15"
+    },
+    {
+      "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+      "title": "How to Stop Claude From Saying Load-bearing",
+      "date": "2026-07-15"
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer",
+      "title": "Engineer",
+      "date": "2026-07-15"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/lqpbix",
+      "title": "Measuring the Business Value of Ai Agents",
+      "date": "2026-07-15"
+    },
+    {
+      "url": "https://adi.bio/reality",
+      "title": "Punch Yourself in the Face With Reality",
+      "date": "2026-07-15"
+    },
+    {
+      "url": "https://text-incubation.com/tight-feedback-loops",
+      "title": "Tight Feedback Loops",
+      "date": "2026-07-15"
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning",
+      "title": "Warning",
+      "date": "2026-07-15"
+    },
+    {
+      "url": "https://stateofopensource.ai",
+      "title": "The State of Open Source Ai",
+      "date": "2026-07-15"
+    },
+    {
+      "url": "https://theengineeringmanager.substack.com/p/code-yellow-code-red",
+      "title": "Code Yellow, Code Red",
+      "date": "2026-07-15"
+    },
+    {
+      "url": "https://resilientcyber.io/p/building-for-breach",
+      "title": "Building for Breach",
+      "date": "2026-07-15"
+    },
+    {
+      "url": "https://github.com/jetbrains/youtrackdb",
+      "title": "Youtrackdb",
+      "date": "2026-07-15"
+    },
+    {
+      "url": "https://lobste.rs/s/ko1ji1/lobste_rs_is_now_running_on_sqlite",
+      "title": "Lobste.rs is Now Running on Sqlite",
+      "date": "2026-07-15"
+    },
+    {
+      "url": "https://research.perplexity.ai/articles/wandr-benchmark-evaluating-research-agents-that-must-search-wide-and-deep",
+      "title": "Deep",
+      "date": "2026-07-15"
+    },
+    {
+      "url": "https://404media.co/ai-made-cloning-games-easier-than-ever",
+      "title": "Ai Made Cloning Games Easier Than Ever",
+      "date": "2026-07-15"
+    },
+    {
+      "url": "https://cnbc.com/2026/07/14/apple-prismml-ai-compression-iphone.html",
+      "title": "Iphone",
+      "date": "2026-07-15"
+    },
+    {
+      "url": "https://cnbc.com/2026/07/14/google-deepmind-demis-hassabis-us-led-ai-standards-body.html",
+      "title": "Standards Body",
+      "date": "2026-07-15"
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/14/deepseek-reportedly-in-talks-to-raise-1-5b-then-ipo",
+      "title": "Deepseek Potential Ipo",
+      "date": "2026-07-15"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/5a1qa8",
+      "title": "Companion",
+      "date": "2026-07-15"
     }
   ],
   "feedback": [
