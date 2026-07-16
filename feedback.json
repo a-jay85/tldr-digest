@@ -1,116 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://oneusefulthing.org/p/the-twilight-of-the-chatbots",
-      "title": "The Twilight of the Chatbots",
-      "date": "2026-07-01"
-    },
-    {
-      "url": "https://blog.bytebytego.com/p/inside-thinking-machines-interaction",
-      "title": "Inside Thinking Machines' Interaction Models",
-      "date": "2026-07-01"
-    },
-    {
-      "url": "https://dwarkesh.com/p/grant-sanderson-2",
-      "title": "Ai and the Future of Math",
-      "date": "2026-07-01"
-    },
-    {
-      "url": "https://linkedin.com/blog/engineering/ai/qa-agent-reimagining-software-quality-with-ai-driven-autonomous-testing",
-      "title": "Autonomous Testing",
-      "date": "2026-07-01"
-    },
-    {
-      "url": "https://tratt.net/laurie/blog/2026/local_reasoning_for_global_properties.html",
-      "title": "Local Reasoning for Global Properties",
-      "date": "2026-07-01"
-    },
-    {
-      "url": "https://anthropic.com/news/claude-sonnet-5",
-      "title": "Claude Sonnet 5",
-      "date": "2026-07-01"
-    },
-    {
-      "url": "https://ably.com/blog/measure-ai-effectiveness-teams",
-      "title": "Is Ai Making Your Teams Better, or Just Busier?",
-      "date": "2026-07-01"
-    },
-    {
-      "url": "https://moondream.ai/blog/popping-the-gpu-bubble",
-      "title": "Popping the Gpu Bubble",
-      "date": "2026-07-01"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/n2sqcb",
-      "title": "Frontier Problems in Mathematics",
-      "date": "2026-07-01"
-    },
-    {
-      "url": "https://blog.postman.com/how-we-really-build-production-grade-ai-agents-beyond-models-toward-data-and-api-quality",
-      "title": "Data and Api Quality",
-      "date": "2026-07-01"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/xplfwd",
-      "title": "Let it Crash: How to Steer What Comes After",
-      "date": "2026-07-01"
-    },
-    {
-      "url": "https://github.com/typedef-ai/fenic",
-      "title": "Fenic",
-      "date": "2026-07-01"
-    },
-    {
-      "url": "https://github.com/google/copybara",
-      "title": "Copybara",
-      "date": "2026-07-01"
-    },
-    {
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-flash-nano-banana-2-lite",
-      "title": "Nano Banana 2 Lite",
-      "date": "2026-07-01"
-    },
-    {
-      "url": "https://huggingface.co/blog/dharma-ai/why-specialization-is-inevitable",
-      "title": "Why Specialization is Inevitable",
-      "date": "2026-07-01"
-    },
-    {
-      "url": "https://lyra.horse/blog/2026/06/reddit-spam-internals",
-      "title": "A Peek Into Reddit's Anti-spam Internals",
-      "date": "2026-07-01"
-    },
-    {
-      "url": "https://ngrok.com/blog/i-ported-kubernetes-to-the-browser",
-      "title": "I Ported Kubernetes to the Browser",
-      "date": "2026-07-01"
-    },
-    {
-      "url": "https://wakamoleguy.com/p/flexible-gates",
-      "title": "Don't Make Gates Optional, Make Them Flexible",
-      "date": "2026-07-01"
-    },
-    {
-      "url": "https://blog.ploeh.dk/2026/06/29/worse-is-better",
-      "title": "Worse is Better",
-      "date": "2026-07-01"
-    },
-    {
-      "url": "https://expo.dev/changelog/sdk-57",
-      "title": "Expo 57",
-      "date": "2026-07-01"
-    },
-    {
-      "url": "https://anthropic.com/news/claude-science-ai-workbench",
-      "title": "Claude Science, an Ai Workbench for Scientists",
-      "date": "2026-07-01"
-    },
-    {
-      "url": "https://cnbc.com/2026/06/30/aws-amazon-ai-forward-deployed-engineers.html",
-      "title": "Customers, Joining Growing Wave",
-      "date": "2026-07-01"
-    },
-    {
       "url": "https://ramp.com/data/ai-jobs-impact",
       "title": "Workforce Adjustment",
       "date": "2026-07-02"
@@ -1259,6 +1149,121 @@
       "url": "https://links.tldrnewsletter.com/5a1qa8",
       "title": "Companion",
       "date": "2026-07-15"
+    },
+    {
+      "url": "https://andywidjaja.com/blog/110-pipeline",
+      "title": "The $110/month Self-improving Pipeline",
+      "date": "2026-07-16"
+    },
+    {
+      "url": "https://bdtechtalks.substack.com/p/a-primer-on-self-improving-agent",
+      "title": "A Primer on Self-improving Agent Harnesses",
+      "date": "2026-07-16"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/7l8obb",
+      "title": "Why We Stopped Using Sdks",
+      "date": "2026-07-16"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/cjsoet",
+      "title": "The Marginal Cost of Correctness",
+      "date": "2026-07-16"
+    },
+    {
+      "url": "https://turntrout.com/why-i-left-google-deepmind",
+      "title": "Why I Left Google Deepmind",
+      "date": "2026-07-16"
+    },
+    {
+      "url": "https://freestyle.sh/blog/opinion/designing-apis-for-agents",
+      "title": "Designing Apis for Agents",
+      "date": "2026-07-16"
+    },
+    {
+      "url": "https://eardatasci.github.io/c/ambiance/index.html",
+      "title": "Towards a Harness That Can Do Anything",
+      "date": "2026-07-16"
+    },
+    {
+      "url": "https://github.com/xai-org/grok-build",
+      "title": "Grok Build Coding Agent",
+      "date": "2026-07-16"
+    },
+    {
+      "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+      "title": "Model Routing is Simple. Until it Isn't",
+      "date": "2026-07-16"
+    },
+    {
+      "url": "https://github.com/openinterpreter/openinterpreter",
+      "title": "Open Interpreter",
+      "date": "2026-07-16"
+    },
+    {
+      "url": "https://alignment.anthropic.com/2026/agentic-misalignment-summer-2026",
+      "title": "Agentic Misalignment in Summer 2026",
+      "date": "2026-07-16"
+    },
+    {
+      "url": "https://tenderlovemaking.com/2026/07/15/detecting-full-table-scans-with-sqlite",
+      "title": "Detecting Full Table Scans With Sqlite",
+      "date": "2026-07-16"
+    },
+    {
+      "url": "https://mort.coffee/home/sqlite-editions",
+      "title": "Sqlite Should Have (rust-style) Editions",
+      "date": "2026-07-16"
+    },
+    {
+      "url": "https://github.com/raroque/boop-agent",
+      "title": "Boop Agent",
+      "date": "2026-07-16"
+    },
+    {
+      "url": "https://thinkingmachines.ai/news/introducing-inkling",
+      "title": "Thinking Machines Releases First Open Model",
+      "date": "2026-07-16"
+    },
+    {
+      "url": "https://perplexity.ai/hub/blog/secure-sandboxes-for-agents",
+      "title": "Secure Sandboxes for Agents",
+      "date": "2026-07-16"
+    },
+    {
+      "url": "https://notes.designarena.ai/how-openais-sol-finally-learned-design-taste",
+      "title": "How Openai's Sol Finally Learned Design Taste",
+      "date": "2026-07-16"
+    },
+    {
+      "url": "https://reactbench.com/blog",
+      "title": "Reactbench V1",
+      "date": "2026-07-16"
+    },
+    {
+      "url": "https://github.com/cyrusnuevodia/capn-hook",
+      "title": "Capn-hook",
+      "date": "2026-07-16"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/bdfefd",
+      "title": "Gpt-red for Safety Testing",
+      "date": "2026-07-16"
+    },
+    {
+      "url": "https://vercel.com/changelog/open-data-and-shareable-charts-for-ai-gateway-leaderboards",
+      "title": "Access and Share Ai Gateway Leaderboard Data",
+      "date": "2026-07-16"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/kiqhgg",
+      "title": "First Time",
+      "date": "2026-07-16"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/mxkxnv",
+      "title": "Giants' Grip",
+      "date": "2026-07-16"
     }
   ],
   "feedback": [
