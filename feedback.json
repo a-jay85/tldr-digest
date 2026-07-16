@@ -1730,6 +1730,20 @@
       "vote": "up",
       "source": "TLDR Dev",
       "date": "2026-07-01"
+    },
+    {
+      "url": "https://vivekhaldar.com/articles/compiling-an-ai-agent-skill",
+      "title": "How I Cut an Ai Agent's Token Use by 94%",
+      "vote": "up",
+      "source": "TLDR Dev",
+      "date": "2026-07-15"
+    },
+    {
+      "url": "https://antirez.com/news/169",
+      "title": "Control the Ideas, Not the Code",
+      "vote": "up",
+      "source": "TLDR Dev",
+      "date": "2026-07-16"
     }
   ]
 }
