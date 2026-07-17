@@ -1,106 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://ramp.com/data/ai-jobs-impact",
-      "title": "Workforce Adjustment",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/5daura",
-      "title": "Product Shape is the Moat",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://sajalsharma.com/posts/sandboxing-an-ai-agent",
-      "title": "Sandboxing an Ai Agent",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://tomtunguz.com/ai-execution-routing",
-      "title": "Most Ai Work Can Wait",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://github.com/langchain-ai/openwiki",
-      "title": "Openwiki",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale",
-      "title": "Meta's Ai Storage Blueprint at Scale",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://buttondown.com/blog/google-reader",
-      "title": "Google Reader Was Building the Wrong Future",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://wearables.developer.meta.com/docs/develop/webapps/build",
-      "title": "Meta Build for Wearables",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/bih4i1",
-      "title": "Zcode",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://anthropic.com/news/redeploying-fable-5",
-      "title": "Redeploying Fable 5",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://olliewilliams.xyz/blog/dark-mode",
-      "title": "Dark Mode With Web Standards",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://developer.chrome.com/blog/usermedia-html-element",
-      "title": "Introducing the 'usermedia' Html Element",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/ljduju",
-      "title": "Portal: Portable Task Adapters for Llms",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://manualmeida.dev/articles/gin-simple-over-easy",
-      "title": "Building Gin: Simple Over Easy",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://databricks.com/blog/how-we-keep-gpus-reliable-across-databricks-ai",
-      "title": "How We Keep Gpus Reliable Across Databricks Ai",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026",
-      "title": "2026",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/fijbmd",
-      "title": "Just Begun",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback.html",
-      "title": "Pressure",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://nextplatform.com/cloud/2026/07/01/of-course-meta-platforms-is-going-to-be-a-cloud/5265392",
-      "title": "Of Course Meta Platforms is Going to Be a Cloud",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://itcanthink.substack.com/p/rise-of-the-cheap-robots",
-      "title": "Rise of the Cheap Robots",
-      "date": "2026-07-02"
-    },
-    {
       "url": "https://geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck.html",
       "title": "Understanding is the New Bottleneck",
       "date": "2026-07-03"
@@ -1264,6 +1164,136 @@
       "url": "https://links.tldrnewsletter.com/mxkxnv",
       "title": "Giants' Grip",
       "date": "2026-07-16"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/1ukdwv",
+      "title": "Choosing Gpt-5.6 Sol, Terra, or Luna in Codex",
+      "date": "2026-07-17"
+    },
+    {
+      "url": "https://theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway",
+      "title": "The Llm Critics Are Right. I Use Llms Anyway",
+      "date": "2026-07-17"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/fispyz",
+      "title": "Earning Judgment",
+      "date": "2026-07-17"
+    },
+    {
+      "url": "https://photoroom.com/inside-photoroom/the-insights-factory-how-we-run-deep-data-investigations-with-llm-agents",
+      "title": "Agents",
+      "date": "2026-07-17"
+    },
+    {
+      "url": "https://replit.com/blog/self-driving-company",
+      "title": "The Self-driving Company",
+      "date": "2026-07-17"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/rptymo",
+      "title": "The Best Model Routing is Task Specific",
+      "date": "2026-07-17"
+    },
+    {
+      "url": "https://itamargilad.com/ai-pm-jobs",
+      "title": "Is Ai Going to Take Pm Jobs?",
+      "date": "2026-07-17"
+    },
+    {
+      "url": "https://dpereira.substack.com/p/are-pms-becoming-irrelevant",
+      "title": "Are Pms Becoming Irrelevant?",
+      "date": "2026-07-17"
+    },
+    {
+      "url": "https://ruhan-wang.github.io/harness-handbook",
+      "title": "Harness Handbook to Map Agent Behavior to Code",
+      "date": "2026-07-17"
+    },
+    {
+      "url": "https://nekuda.substack.com/p/the-agentic-web-summer",
+      "title": "The Agentic Web Summer",
+      "date": "2026-07-17"
+    },
+    {
+      "url": "https://newsletter.thelongcommit.com/p/the-prototype-is-a-question-not-a",
+      "title": "The Prototype is a Question, Not a Product",
+      "date": "2026-07-17"
+    },
+    {
+      "url": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away",
+      "title": "Walk Away.\u201d",
+      "date": "2026-07-17"
+    },
+    {
+      "url": "https://github.com/github/copilot-sdk",
+      "title": "Copilot Sdk",
+      "date": "2026-07-17"
+    },
+    {
+      "url": "https://github.com/callstack/agent-device",
+      "title": "Agent-device",
+      "date": "2026-07-17"
+    },
+    {
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+      "title": "Nvidia Nemotron 3 Embed",
+      "date": "2026-07-17"
+    },
+    {
+      "url": "https://kimi.com/blog/kimi-k3",
+      "title": "Kimi K3",
+      "date": "2026-07-17"
+    },
+    {
+      "url": "https://github.com/ekkolearnai/hermes-studio",
+      "title": "Hermes Studio",
+      "date": "2026-07-17"
+    },
+    {
+      "url": "https://piccalil.li/blog/use-cases-for-aria-expanded",
+      "title": "Use Cases for Aria-expanded",
+      "date": "2026-07-17"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/jic5zm",
+      "title": "Schema",
+      "date": "2026-07-17"
+    },
+    {
+      "url": "https://oreilly.com/radar/dont-neglect-the-operational-groundwork",
+      "title": "Don't Neglect the Operational Groundwork",
+      "date": "2026-07-17"
+    },
+    {
+      "url": "https://romanpichler.medium.com/how-to-create-a-truly-inspiring-product-vision-7b8e8c71bc22",
+      "title": "How to Create a Truly Inspiring Product Vision",
+      "date": "2026-07-17"
+    },
+    {
+      "url": "https://sinja.io/blog/data-landscape-guide-for-developers",
+      "title": "Guide to Data Tools Landscape for Developers",
+      "date": "2026-07-17"
+    },
+    {
+      "url": "https://a16z.news/p/reactors-have-a-surprising-amount",
+      "title": "Reactors Have a Surprising Amount of Detail",
+      "date": "2026-07-17"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/6mo9wh",
+      "title": "You Are Not Too Big for a Job",
+      "date": "2026-07-17"
+    },
+    {
+      "url": "https://lethain.com/generated-demand",
+      "title": "Generated and Suppressed Demand",
+      "date": "2026-07-17"
+    },
+    {
+      "url": "https://cnbc.com/2026/07/16/microsoft-ceo-says-anthropic-fable-request-policy-doesnt-make-sense.html",
+      "title": "\u2018editorially Controlled'",
+      "date": "2026-07-17"
     }
   ],
   "feedback": [
