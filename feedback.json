@@ -1,131 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck.html",
-      "title": "Understanding is the New Bottleneck",
-      "date": "2026-07-03"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/i0xkf0",
-      "title": "Career Advice in the Age of Ai",
-      "date": "2026-07-03"
-    },
-    {
-      "url": "https://lmsys.org/blog/2026-07-02-agent-assisted-sglang-development",
-      "title": "Agent-assisted Sglang Development",
-      "date": "2026-07-03"
-    },
-    {
-      "url": "https://cra.mr/building-an-intern",
-      "title": "Building an Intern",
-      "date": "2026-07-03"
-    },
-    {
-      "url": "https://blog.pragmaticengineer.com/the-pulse-a-new-trend-smart-model-routing",
-      "title": "A New Trend, Smart Model Routing",
-      "date": "2026-07-03"
-    },
-    {
-      "url": "https://github.com/diegosouzapw/omniroute",
-      "title": "Omniroute",
-      "date": "2026-07-03"
-    },
-    {
-      "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped",
-      "title": "Quickly as He'd Hoped",
-      "date": "2026-07-03"
-    },
-    {
-      "url": "https://amycmitchell.substack.com/p/product-manager-workflows-execution",
-      "title": "Execution Problems Are Often Workflow Problems",
-      "date": "2026-07-03"
-    },
-    {
-      "url": "https://threadreaderapp.com/thread/2072368168182432109.html",
-      "title": "Introducing Devin Security Swarm",
-      "date": "2026-07-03"
-    },
-    {
-      "url": "https://svpg.com/great-products-bad-companies",
-      "title": "Great Products, Bad Companies",
-      "date": "2026-07-03"
-    },
-    {
-      "url": "https://poolside.ai/blog/introducing-laguna-xs-2-1",
-      "title": "Introducing Laguna Xs 2.1",
-      "date": "2026-07-03"
-    },
-    {
-      "url": "https://apple.github.io/foundationdb/flow.html",
-      "title": "Flow",
-      "date": "2026-07-03"
-    },
-    {
-      "url": "https://anthropic.com/news/fable-safeguards-jailbreak-framework",
-      "title": "Framework",
-      "date": "2026-07-03"
-    },
-    {
-      "url": "https://github.com/valmishq/valmis",
-      "title": "Valmis",
-      "date": "2026-07-03"
-    },
-    {
-      "url": "https://elenaverna.com/p/please-stop-the-ai-confidence-theater",
-      "title": "Please Stop the Ai Confidence Theater",
-      "date": "2026-07-03"
-    },
-    {
-      "url": "https://machinelearning.apple.com/research/residual-context-diffusion",
-      "title": "Residual Context Diffusion Language Models",
-      "date": "2026-07-03"
-    },
-    {
-      "url": "https://nbcnews.com/tech/tech-news/cloudflare-sets-ai-crawler-deadline-separate-search-blocked-rcna352446",
-      "title": "Ai Training",
-      "date": "2026-07-03"
-    },
-    {
-      "url": "https://letsdatascience.com/news/metas-watermelon-matches-gpt-55-benchmarks-76a9460e",
-      "title": "Meta's Watermelon Matches Gpt-5.5 Benchmarks",
-      "date": "2026-07-03"
-    },
-    {
-      "url": "https://cursor.com/evals",
-      "title": "Cursorbench 3.1",
-      "date": "2026-07-03"
-    },
-    {
-      "url": "https://spyglass.org/meta-cloud",
-      "title": "Meta's Inevitable Cloud",
-      "date": "2026-07-03"
-    },
-    {
-      "url": "https://geekwire.com/2026/microsoft-announces-2-5b-frontier-company-to-embed-ai-engineers-inside-customers",
-      "title": "Inside Customers",
-      "date": "2026-07-03"
-    },
-    {
-      "url": "https://lesswrong.com/posts/xhrmcafxqfn3e6nd8/when-should-you-know-the-point",
-      "title": "When Should You Know the Point?",
-      "date": "2026-07-03"
-    },
-    {
-      "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung",
-      "title": "Anthropic Exploring a Samsung Chip Partnership",
-      "date": "2026-07-03"
-    },
-    {
-      "url": "https://technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines",
-      "title": "Teaching Ai to Run With the Turbines",
-      "date": "2026-07-03"
-    },
-    {
-      "url": "https://gilkalai.wordpress.com/2026/07/02/the-ramanujan-challenge-for-ai",
-      "title": "The Ramanujan Challenge for Ai",
-      "date": "2026-07-03"
-    },
-    {
       "url": "https://thinkroom.kieranklaassen.com/d/njrs5tjhis",
       "title": "Closing the Verification Loop",
       "date": "2026-07-06"
@@ -1294,6 +1169,126 @@
       "url": "https://cnbc.com/2026/07/16/microsoft-ceo-says-anthropic-fable-request-policy-doesnt-make-sense.html",
       "title": "\u2018editorially Controlled'",
       "date": "2026-07-17"
+    },
+    {
+      "url": "https://adamhjk.com/blog/a-practical-guide-to-reducing-token-spend",
+      "title": "A Practical Guide to Reducing Token Spend",
+      "date": "2026-07-20"
+    },
+    {
+      "url": "https://pydantic.dev/articles/the-human-in-the-loop-is-tired",
+      "title": "The Human-in-the-loop is Tired",
+      "date": "2026-07-20"
+    },
+    {
+      "url": "https://chrisloy.dev/post/2026/07/19/coding-too-fast-to-collaborate",
+      "title": "Coding Too Fast to Collaborate",
+      "date": "2026-07-20"
+    },
+    {
+      "url": "https://packagemain.tech/p/review-the-actual-change-not-the",
+      "title": "Review the Actual Change, Not the File List",
+      "date": "2026-07-20"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/nqj49j",
+      "title": "Maybe Intelligence Ain't All That",
+      "date": "2026-07-20"
+    },
+    {
+      "url": "https://alanyahya.com/writing/domain-specific-harnesses",
+      "title": "Domain-specific Harnesses",
+      "date": "2026-07-20"
+    },
+    {
+      "url": "https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c",
+      "title": "How Netflix Built Its Llm Serving Stack",
+      "date": "2026-07-20"
+    },
+    {
+      "url": "https://thezvi.substack.com/p/demis-hassabis-on-the-new-coming",
+      "title": "Demis Hassabis and Google's Ai Commitments",
+      "date": "2026-07-20"
+    },
+    {
+      "url": "https://github.com/moonshotai/kimi-code",
+      "title": "Kimi Code Cli",
+      "date": "2026-07-20"
+    },
+    {
+      "url": "https://github.com/loopgain-ai/loopgain",
+      "title": "Loopgain",
+      "date": "2026-07-20"
+    },
+    {
+      "url": "https://rruxandra.github.io/llm-wars-database-wars.html",
+      "title": "Are the Llm Wars the Database Wars?",
+      "date": "2026-07-20"
+    },
+    {
+      "url": "https://github.com/oso95/scroll-world",
+      "title": "Scroll-world",
+      "date": "2026-07-20"
+    },
+    {
+      "url": "https://github.com/millionco/reactbench",
+      "title": "Reactbench",
+      "date": "2026-07-20"
+    },
+    {
+      "url": "https://jasnell.me/posts/fetch-needs-error-codes",
+      "title": "Fetch Needs Error Codes",
+      "date": "2026-07-20"
+    },
+    {
+      "url": "https://github.com/tokio-rs/topcoat",
+      "title": "Topcoat",
+      "date": "2026-07-20"
+    },
+    {
+      "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite",
+      "title": "Learning a Few Things About Running Sqlite",
+      "date": "2026-07-20"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/iybxpo",
+      "title": "Qwen3.8 is Going Open-weight",
+      "date": "2026-07-20"
+    },
+    {
+      "url": "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking",
+      "title": "Ai Mania is Eviscerating Global Decisionmaking",
+      "date": "2026-07-20"
+    },
+    {
+      "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment",
+      "title": "The Kimi K3 Moment",
+      "date": "2026-07-20"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/xcrwoc",
+      "title": "Qwen3.8 Has Launched",
+      "date": "2026-07-20"
+    },
+    {
+      "url": "https://thenextweb.com/news/alibaba-t-head-sail-open-source-nvidia-cuda-alternative",
+      "title": "Nvidia's Cuda Lock-in",
+      "date": "2026-07-20"
+    },
+    {
+      "url": "https://thenextweb.com/news/a-chinese-ai-startup-is-about-to-hit-1bn-in-sales-while-giving-its-best-models-away-for-free",
+      "title": "Best Models Away for Free",
+      "date": "2026-07-20"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/ncpih8",
+      "title": "Kimi K3 Has Received Far More Love Than Expected",
+      "date": "2026-07-20"
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal",
+      "title": "Million Deal",
+      "date": "2026-07-20"
     }
   ],
   "feedback": [
