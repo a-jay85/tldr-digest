@@ -1,131 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://links.tldrnewsletter.com/cif4wx",
-      "title": "Getting Started With Loops",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/hvidyn",
-      "title": "Career Advice in the Age of Ai",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/9cfmcx",
-      "title": "Continual Learning for Agents",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://janilowski.pl/en/blog/2026/price-per-m-tokens",
-      "title": "Price Per 1m Tokens is Meaningless",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/05m7sd",
-      "title": "46 Thoughts on the Near Future",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/b6ib1b",
-      "title": "Never Mind the Prompts, Here's the Thinking",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/vy2yxv",
-      "title": "Gpt 5.6",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://ramp.com/data/heavy-ai-adopters-hire-more",
-      "title": "Companies Hire More After Ai Adoption",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://manager.dev/newsletter/the-software-engineering-war",
-      "title": "The Software Engineering War",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://antmurphy.me/newsletter/measuring-learning",
-      "title": "Measuring \u2260 Learning",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://cutlefish.substack.com/p/tbm-429-how-to-thrive-at-work-when",
-      "title": "How to Thrive at Work When You Think Too Much",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://stevekrouse.com/learn-to-code",
-      "title": "Learning to Code is Still Worthwhile",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://github.com/mozilla-ai/otari",
-      "title": "Otari",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://github.com/iofficeai/officecli",
-      "title": "Officecli",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://anthropic.com/research/global-workspace",
-      "title": "A Global Workspace in Language Models",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://simonwillison.net/2026/jul/6/hy3",
-      "title": "Hy3",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://samgerstenzang.substack.com/p/the-emotional-cost-of-finding-product",
-      "title": "The Emotional Cost of Finding Product-market Fit",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/yopiwd",
-      "title": "A Stargate for Data",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://huggingface.co/papers/2607.02032",
-      "title": "Pace: a Proxy for Agentic Capability Evaluation",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://chinatalk.media/p/the-robots-are-here",
-      "title": "The Robots Are Here",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://blog.genesmindsmachines.com/p/tell-a-story-is-not-helpful-advice",
-      "title": "\u201ctell a Story\u201d is Not Helpful Advice",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm",
-      "title": "Training on Rocm",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
-      "title": "Small Ai Models Gain Traction Around the World",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://cnbc.com/2026/07/06/nvidia-kyber-rack-system-delays-manufacturing-taiwan-rubin-chips-.html",
-      "title": "Snags",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://gizmodo.com/xai-is-dead-long-live-spacexai-2000782034",
-      "title": "Xai is Dead. Long Live Spacexai",
-      "date": "2026-07-07"
-    },
-    {
       "url": "https://theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689",
       "title": "The People Who Will Thrive in the Ai Age",
       "date": "2026-07-08"
@@ -1294,6 +1169,141 @@
       "url": "https://cognition.com/blog/welcoming-tierzero",
       "title": "Welcoming Tierzero to Cognition",
       "date": "2026-07-21"
+    },
+    {
+      "url": "https://greptile.com/blog/model-inversion",
+      "title": "Models Are Worse at Reviewing Their Own Code",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2079595988998554047.html",
+      "title": "New in Claude Cowork: Teach Claude a Skill",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/zhalhn",
+      "title": "Software Factories, Light and Dark",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://code.claude.com/docs/en/desktop-ios-simulator",
+      "title": "Test Ios Apps in the Simulator",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://blog.exe.dev/claude-is-not-a-compiler",
+      "title": "Claude is Not a Compiler",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://wakamoleguy.com/p/llms-are-surprisingly-bad-blog-authors",
+      "title": "Llms Are Surprisingly Bad Blog Authors",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://agentclientprotocol.com/announcements/acp-v2-draft",
+      "title": "Acp V2 is Available in Draft",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/gnfxev",
+      "title": "Openai Models Escaped a Cybersecurity Test",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://thezvi.substack.com/p/openai-shares-some-alignment-problems",
+      "title": "Openai Shares Some Alignment Problems",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://secretspec.dev/blog/secrets-dont-belong-in-config",
+      "title": "Secrets Don't Belong in Config",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://github.com/marcelroed/gigatoken",
+      "title": "Gigatoken",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://blog.gaborkoos.com/posts/2026-07-19-beyond-happy-path-engineering-time",
+      "title": "Beyond Happy Path Engineering: Time",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://architecture-weekly.com/p/throw-result-or-neither",
+      "title": "Throw, Result, or Neither?",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/ierbaz",
+      "title": "Model Evaluation",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/wwzi8j",
+      "title": "Wrong",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/yfu07c",
+      "title": "Introducing Devin Outposts",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://blog.dshr.org/2026/07/distilling-moat.html",
+      "title": "Distilling the Moat",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents",
+      "title": "Teams and Their Ai Agents",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://georgwiese.github.io/posts/formal-verification-ai",
+      "title": "A New Software Engineering Paradigm",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://github.com/microsoft/mage",
+      "title": "Mage",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://github.com/lidge-jun/opencodex",
+      "title": "Opencodex",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://github.com/oblien/openship",
+      "title": "Openship",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber",
+      "title": "Google Released Three New Gemini",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://poolside.ai/blog/introducing-laguna-s-2-1",
+      "title": "Introducing Laguna S 2.1",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://laurent.le-brun.eu/blog/a-history-of-ides-at-google",
+      "title": "A History of Ides at Google",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://blog.bytebytego.com/p/inside-robloxs-bet-on-world-models",
+      "title": "Inside Roblox's Bet on World Models",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://cnbc.com/2026/07/21/nvidia-vera-cpu-ai-amd-intel.html",
+      "title": "Challenge to Amd and Intel",
+      "date": "2026-07-22"
     }
   ],
   "feedback": [
