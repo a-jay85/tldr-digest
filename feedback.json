@@ -1,121 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689",
-      "title": "The People Who Will Thrive in the Ai Age",
-      "date": "2026-07-08"
-    },
-    {
-      "url": "https://newsletter.systemdesign.one/p/graph-based-agent-memory",
-      "title": "How to Use Ai Agents Better Than 99% of People",
-      "date": "2026-07-08"
-    },
-    {
-      "url": "https://lilianweng.github.io/posts/2026-07-04-harness",
-      "title": "Harness Engineering for Self-improvement",
-      "date": "2026-07-08"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/3v92r5",
-      "title": "Building a Moat: Self Learning Agents",
-      "date": "2026-07-08"
-    },
-    {
-      "url": "https://developer.microsoft.com/blog/not-all-model-upgrades-are-upgrades",
-      "title": "Not All Model Upgrades Are Upgrades",
-      "date": "2026-07-08"
-    },
-    {
-      "url": "https://swizec.com/blog/theory-of-constraints-ai-and-code-review",
-      "title": "Theory of Constraints, Ai, and Code Review",
-      "date": "2026-07-08"
-    },
-    {
-      "url": "https://raymondcamden.com/2026/07/07/asking-cursor-to-review-my-blog-for-performance",
-      "title": "Asking Cursor to Review My Blog for Performance",
-      "date": "2026-07-08"
-    },
-    {
-      "url": "https://developer.microsoft.com/blog/dont-rewrite-your-cli-for-agents",
-      "title": "Agents Work Better With Conventional Clis",
-      "date": "2026-07-08"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/ioxpho",
-      "title": "Microsoft's Real Ai Strategy is Not the Chatbot",
-      "date": "2026-07-08"
-    },
-    {
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api",
-      "title": "And More",
-      "date": "2026-07-08"
-    },
-    {
-      "url": "https://github.com/ogulcancelik/herdr",
-      "title": "Herdr",
-      "date": "2026-07-08"
-    },
-    {
-      "url": "https://claude.com/blog/cowork-web-mobile",
-      "title": "Claude Cowork on Mobile and Web",
-      "date": "2026-07-08"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/jtul3i",
-      "title": "No Space Like J-space",
-      "date": "2026-07-08"
-    },
-    {
-      "url": "https://anthonyhobday.com/blog/20260410",
-      "title": "Notes on Software Quality",
-      "date": "2026-07-08"
-    },
-    {
-      "url": "https://arxiv.org/html/2607.02770v1",
-      "title": "Gemma 4 Technical Report",
-      "date": "2026-07-08"
-    },
-    {
-      "url": "https://support.claude.com/en/articles/15424964-claude-fable-5-promotional-access",
-      "title": "Claude Fable 5 Promotional Access",
-      "date": "2026-07-08"
-    },
-    {
-      "url": "https://github.com/rowboatlabs/rowboat",
-      "title": "Rowboat",
-      "date": "2026-07-08"
-    },
-    {
-      "url": "https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much",
-      "title": "98% Isn't Very Much",
-      "date": "2026-07-08"
-    },
-    {
-      "url": "https://lesswrong.com/posts/mwpo4tu87zsfzwfwb/calibrating-alignment-evals",
-      "title": "Why Alignment Evals Need Calibration",
-      "date": "2026-07-08"
-    },
-    {
-      "url": "https://allenpike.com/2025/why-is-chatgpt-so-good-claude",
-      "title": "Why is Chatgpt for Mac So Good?",
-      "date": "2026-07-08"
-    },
-    {
-      "url": "https://github.com/tiliondev/fortress",
-      "title": "Fortress",
-      "date": "2026-07-08"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/iwydbh",
-      "title": "Thursday",
-      "date": "2026-07-08"
-    },
-    {
-      "url": "https://cnbc.com/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html",
-      "title": "Anthropic Costs Surge",
-      "date": "2026-07-08"
-    },
-    {
       "url": "https://links.tldrnewsletter.com/lh3sdn",
       "title": "You're Not Ambitious Enough With Claude",
       "date": "2026-07-09"
@@ -1304,6 +1189,121 @@
       "url": "https://cnbc.com/2026/07/21/nvidia-vera-cpu-ai-amd-intel.html",
       "title": "Challenge to Amd and Intel",
       "date": "2026-07-22"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/ogectw",
+      "title": "Why Hasn't Ai Increased Unemployment?",
+      "date": "2026-07-23"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/xcrqdk",
+      "title": "Durable Objects Are Made for Agents",
+      "date": "2026-07-23"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/9u8aun",
+      "title": "Sierra Mcp Gateway Dev Diary",
+      "date": "2026-07-23"
+    },
+    {
+      "url": "https://simonwillison.net/2026/jul/22/openai-cyberattack",
+      "title": "Fiction That Happened",
+      "date": "2026-07-23"
+    },
+    {
+      "url": "https://hatchet.run/blog/postgres-survival-guide",
+      "title": "The Startup's Postgres Survival Guide",
+      "date": "2026-07-23"
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2080098518535110913.html",
+      "title": "Turbopack/next.js",
+      "date": "2026-07-23"
+    },
+    {
+      "url": "https://mitchellh.com/writing/everyone-should-know-simd",
+      "title": "Everyone Should Know Simd",
+      "date": "2026-07-23"
+    },
+    {
+      "url": "https://blog.gaborkoos.com/posts/2026-07-21-your-js-date-is-lying-to-you",
+      "title": "Your Js Date is Lying to You",
+      "date": "2026-07-23"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/ug5mwj",
+      "title": "The Problem With Hypergrowth Ai Startups",
+      "date": "2026-07-23"
+    },
+    {
+      "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+      "title": "Are Ai Labs Pelicanmaxxing?",
+      "date": "2026-07-23"
+    },
+    {
+      "url": "https://anthropic.com/news/anthropic-economic-index-connector",
+      "title": "Claude Added Direct Access to Ai Usage Data",
+      "date": "2026-07-23"
+    },
+    {
+      "url": "https://spronta.com/blog/state-of-webmcp-july-2026",
+      "title": "The State of Webmcp",
+      "date": "2026-07-23"
+    },
+    {
+      "url": "https://abhi.now/blog/calm-technologies",
+      "title": "Calm Technologies That Excite Me",
+      "date": "2026-07-23"
+    },
+    {
+      "url": "https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql",
+      "title": "If You Think You Can Do Real-world Text-to-sql",
+      "date": "2026-07-23"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/ohekah",
+      "title": "Openai Presence",
+      "date": "2026-07-23"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/jnujho",
+      "title": "Towards Automating Eval Engineering",
+      "date": "2026-07-23"
+    },
+    {
+      "url": "https://cole-k.com/2026/07/21/reddit",
+      "title": "So Reddit Has Decided That Plain Html is Unsafe",
+      "date": "2026-07-23"
+    },
+    {
+      "url": "https://arcee.ai/science-1",
+      "title": "Genesis",
+      "date": "2026-07-23"
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/openai-unveils-presence-a-new-platform-that-lets-enterprises-launch-and-manage-realtime-voice-agents-and-chatbots",
+      "title": "And Manage Realtime Voice Agents and Chatbots",
+      "date": "2026-07-23"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/csqmas",
+      "title": "Cursor Router",
+      "date": "2026-07-23"
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable",
+      "title": "Distilled Anthropic's Fable",
+      "date": "2026-07-23"
+    },
+    {
+      "url": "https://ciphertalk.substack.com/p/nobody-knows-what-a-used-gpu-cluster",
+      "title": "Nobody Knows What a Used Gpu Cluster is Worth",
+      "date": "2026-07-23"
+    },
+    {
+      "url": "https://cnbc.com/2026/07/20/tsmc-arizona-fab-capacity-ai-chip-demand.html",
+      "title": "\u2018megatrend,' Cfo Says",
+      "date": "2026-07-23"
     }
   ],
   "feedback": [
