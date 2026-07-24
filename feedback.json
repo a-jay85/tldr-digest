@@ -1,126 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://links.tldrnewsletter.com/lh3sdn",
-      "title": "You're Not Ambitious Enough With Claude",
-      "date": "2026-07-09"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/vycv2e",
-      "title": "Own the Outer Loop",
-      "date": "2026-07-09"
-    },
-    {
-      "url": "https://alecscollon.com/blog/llm-burnout",
-      "title": "I Think I Have Llm Burnout",
-      "date": "2026-07-09"
-    },
-    {
-      "url": "https://martinfowler.com/articles/exploring-gen-ai/local-models-for-coding-experiences.html",
-      "title": "Experiences With Local Models for Coding",
-      "date": "2026-07-09"
-    },
-    {
-      "url": "https://registerspill.thorstenball.com/p/ownership",
-      "title": "Ownership",
-      "date": "2026-07-09"
-    },
-    {
-      "url": "https://bun.com/blog/bun-in-rust",
-      "title": "Rewriting Bun in Rust",
-      "date": "2026-07-09"
-    },
-    {
-      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0",
-      "title": "Announcing Typescript 7.0",
-      "date": "2026-07-09"
-    },
-    {
-      "url": "https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users",
-      "title": "A Bug Which Only Affected Left-handed Users",
-      "date": "2026-07-09"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/lergze",
-      "title": "Auditing the Reliability of Coding Benchmarks",
-      "date": "2026-07-09"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/fprnmx",
-      "title": "A Taxonomy of Self-evolving Agents",
-      "date": "2026-07-09"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/qxmkhl",
-      "title": "Data at the Edge",
-      "date": "2026-07-09"
-    },
-    {
-      "url": "https://github.com/dekart-xyz/geosql",
-      "title": "Geosql",
-      "date": "2026-07-09"
-    },
-    {
-      "url": "https://theregister.com/ai-and-ml/2026/07/08/former-github-ceo-launches-competitor-designed-for-the-age-of-vibe-coding/5268694",
-      "title": "Coding",
-      "date": "2026-07-09"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/wt5ej5",
-      "title": "Gpt-live",
-      "date": "2026-07-09"
-    },
-    {
-      "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
-      "title": "Data for Agents",
-      "date": "2026-07-09"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/ftsywo",
-      "title": "Introducing Gpt-live",
-      "date": "2026-07-09"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/tvq3yk",
-      "title": "Introducing Grok 4.5",
-      "date": "2026-07-09"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/iyige3",
-      "title": "Grok 4.5",
-      "date": "2026-07-09"
-    },
-    {
-      "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model",
-      "title": "Model'",
-      "date": "2026-07-09"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/cdd8ln",
-      "title": "In",
-      "date": "2026-07-09"
-    },
-    {
-      "url": "https://testingcatalog.com/meta-launches-muse-image-across-its-apps-and-previews-muse-video",
-      "title": "Meta Launches Muse Image Across Its Apps",
-      "date": "2026-07-09"
-    },
-    {
-      "url": "https://mistral.ai/news/robostral-navigate",
-      "title": "Robostral Navigate: Single-camera Ai Navigation",
-      "date": "2026-07-09"
-    },
-    {
-      "url": "https://cnbc.com/2026/07/08/sambanova-ai-chip-funding-valuation.html",
-      "title": "Challengers",
-      "date": "2026-07-09"
-    },
-    {
-      "url": "https://blog.google/products-and-platforms/products/photos/video-remix",
-      "title": "Google Photos Added Ai-powered Video Remixing",
-      "date": "2026-07-09"
-    },
-    {
       "url": "https://newsletter.posthog.com/p/code-review-tips",
       "title": "Stop Being the Code Review Bottleneck",
       "date": "2026-07-10"
@@ -1304,6 +1184,116 @@
       "url": "https://cnbc.com/2026/07/20/tsmc-arizona-fab-capacity-ai-chip-demand.html",
       "title": "\u2018megatrend,' Cfo Says",
       "date": "2026-07-23"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/opcnph",
+      "title": "Why Hasn't Ai Increased Unemployment?",
+      "date": "2026-07-24"
+    },
+    {
+      "url": "https://github.com/izeigerman/claude-thermos",
+      "title": "Claude Thermos",
+      "date": "2026-07-24"
+    },
+    {
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
+      "title": "Why Software Factories Fail",
+      "date": "2026-07-24"
+    },
+    {
+      "url": "https://latent.space/p/poolside",
+      "title": "How to Build a Frontier Model Factory",
+      "date": "2026-07-24"
+    },
+    {
+      "url": "https://evilmartians.com/chronicles/which-ai-actually-reads-your-site-two-months-of-llm-traffic-measured",
+      "title": "Measured",
+      "date": "2026-07-24"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/qje1ip",
+      "title": "Frontier Diffusion & Control",
+      "date": "2026-07-24"
+    },
+    {
+      "url": "https://moekhalil.substack.com/p/how-to-become-a-10x-ramble-coder",
+      "title": "How to Become a 10x Ramble-coder",
+      "date": "2026-07-24"
+    },
+    {
+      "url": "https://geopolitechs.org/p/deepseek-founder-liang-wenfeng-in",
+      "title": "Deepseek Founder Liang Wenfeng in His Own Words",
+      "date": "2026-07-24"
+    },
+    {
+      "url": "https://neciudan.dev/do-we-need-state-management-libraries",
+      "title": "Do We Need State Management Libraries Anymore?",
+      "date": "2026-07-24"
+    },
+    {
+      "url": "https://svpg.com/the-ai-productivity-paradox",
+      "title": "The Ai Productivity Paradox",
+      "date": "2026-07-24"
+    },
+    {
+      "url": "https://blog.gopenai.com/why-your-ai-product-has-no-memory-and-why-thats-destroying-user-retention-938247376e8a",
+      "title": "Why Your Ai Product Has No Memory",
+      "date": "2026-07-24"
+    },
+    {
+      "url": "https://github.com/onecli/onecli",
+      "title": "Onecli",
+      "date": "2026-07-24"
+    },
+    {
+      "url": "https://ghuntley.com/slop",
+      "title": "Engineer Away the Slop",
+      "date": "2026-07-24"
+    },
+    {
+      "url": "https://docs.google.com/document/d/1dbbedqalcmpygw2bs8fisa9dv-7dgpugwzks7udoybm/edit?tab=t.0",
+      "title": "Frontier",
+      "date": "2026-07-24"
+    },
+    {
+      "url": "https://github.com/andrewyng/openworker",
+      "title": "Openworker",
+      "date": "2026-07-24"
+    },
+    {
+      "url": "https://newsletter.weskao.com/p/defensible-but-not-good",
+      "title": "Defensible, but Not Good",
+      "date": "2026-07-24"
+    },
+    {
+      "url": "https://github.com/davidhdev/canvas-ui",
+      "title": "Canvas Ui",
+      "date": "2026-07-24"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/qo1g90",
+      "title": "How to Become So Creative it Feels Illegal",
+      "date": "2026-07-24"
+    },
+    {
+      "url": "https://implicator.ai/deepseeks-huawei-chip-training-claim-finally-gets-its-benchmarks-and-its-doubters",
+      "title": "And Its Doubters",
+      "date": "2026-07-24"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy",
+      "title": "Understanding the Ai Economy",
+      "date": "2026-07-24"
+    },
+    {
+      "url": "https://engadget.com/2221938/claude-voice-mode-just-got-smarter",
+      "title": "Updated Claude Voice Mode",
+      "date": "2026-07-24"
+    },
+    {
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "title": "Palmier Pro",
+      "date": "2026-07-24"
     }
   ],
   "feedback": [
