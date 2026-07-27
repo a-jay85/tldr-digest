@@ -1,121 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://newsletter.posthog.com/p/code-review-tips",
-      "title": "Stop Being the Code Review Bottleneck",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself",
-      "title": "Ai Slop Starts With the Codebase Itself",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689?gift=bmvuiu0ra57xgi0zoa4kgminu--qpr8lfebqyptwwtq",
-      "title": "The People Who Will Thrive in the Ai Age",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://ben-evans.com/benedictevans/2026/7/9/ways-to-think-about-token-pricing",
-      "title": "Ways to Think About Token Pricing",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://magnus919.com/2026/07/the-spec-ceiling-why-ai-coding-speed-moves-the-bottleneck-to-product-discovery",
-      "title": "Discovery",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://github.com/traycerai/traycer",
-      "title": "Traycer",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://stratechery.com/2026/a-script-for-mark-zuckerberg",
-      "title": "A Script for Mark Zuckerberg",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://astralcodexten.com/p/introducing-plan-a",
-      "title": "Introducing Plan a",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api",
-      "title": "Muse Spark 1.1",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner",
-      "title": "How Github Gave Every Repository a Durable Owner",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university",
-      "title": "Scores Fell 50%",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto",
-      "title": "Interview With Mitchell Hashimoto",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://lucasfcosta.com/blog/laws-of-software-project-management",
-      "title": "Lucas' Laws of Project Management",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://github.com/prisma/prisma",
-      "title": "Prisma",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://blogs.windows.com/windowsexperience/2026/07/09/evolving-windows-vulnerability-management-to-meet-the-speed-of-ai-powered-discovery",
-      "title": "Ai-powered Discovery",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/thb8pe",
-      "title": "Chatgpt Work",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://vinvashishta.substack.com/p/fable-5-vs-opus-48-outcomes-based",
-      "title": "For Frontier Ai Labs",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://anthropic.com/news/hard-questions",
-      "title": "Inviting Hard Questions",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://spyglass.org/meta-ai-cloud-business-model",
-      "title": "Your Ai Margin is Meta's Opportunity",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://mbi-deepdives.com/data",
-      "title": "The Salience of Data",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing",
-      "title": "Openai Retired Atlas",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://worksinprogress.news/p/ai-is-bottlenecked-by-the-grid",
-      "title": "What's Really Slowing Down the Ai Buildout",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/rduwbo",
-      "title": "Pay-to-use Ai",
-      "date": "2026-07-10"
-    },
-    {
       "url": "https://vhyrro.neorg.org/posts/a-hitchhikers-guide-to-ai",
       "title": "A Hitchhiker's Guide to Ai",
       "date": "2026-07-13"
@@ -1294,6 +1179,111 @@
       "url": "https://github.com/palmier-io/palmier-pro",
       "title": "Palmier Pro",
       "date": "2026-07-24"
+    },
+    {
+      "url": "https://earendil.com/posts/prompt-caching",
+      "title": "Prompt Caching in Agents",
+      "date": "2026-07-27"
+    },
+    {
+      "url": "https://antirez.com/news/171",
+      "title": "Being Linux Torvalds",
+      "date": "2026-07-27"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/oc0hoc",
+      "title": "The Life of a Codex Conversation on Disk",
+      "date": "2026-07-27"
+    },
+    {
+      "url": "https://notboring.co/p/ai-is-oil-not-god",
+      "title": "Ai is Oil, Not God",
+      "date": "2026-07-27"
+    },
+    {
+      "url": "https://noahpinion.blog/p/what-will-more-intelligence-actually",
+      "title": "What Will More Intelligence Actually Do for Us?",
+      "date": "2026-07-27"
+    },
+    {
+      "url": "https://anthropic.com/news/claude-opus-5",
+      "title": "Claude Opus 5",
+      "date": "2026-07-27"
+    },
+    {
+      "url": "https://benn.substack.com/p/brute-intelligence",
+      "title": "Brute Intelligence",
+      "date": "2026-07-27"
+    },
+    {
+      "url": "https://blog.sentry.io/structure-a-log",
+      "title": "How to Structure a Log",
+      "date": "2026-07-27"
+    },
+    {
+      "url": "https://testing.googleblog.com/2026/07/prefactoring-clear-way-for-your-new.html",
+      "title": "Prefactoring: Clear the Way for Your New Feature",
+      "date": "2026-07-27"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/gxugx7",
+      "title": "How We Teach Ai Models",
+      "date": "2026-07-27"
+    },
+    {
+      "url": "https://canva.dev/blog/engineering/session-revocations-at-scale",
+      "title": "Session Revocations at Scale",
+      "date": "2026-07-27"
+    },
+    {
+      "url": "https://refp.se/articles/your-shell-and-the-magic-colon",
+      "title": "A Shell Colon Does Nothing. Use it Anyway",
+      "date": "2026-07-27"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/mh5tuj",
+      "title": "How We Built the New Fastest Api for Glm-5.2",
+      "date": "2026-07-27"
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2080671145938821414.html",
+      "title": "Introducing Classifiers, Now in Beta",
+      "date": "2026-07-27"
+    },
+    {
+      "url": "https://deniskyashif.com/2026/07/25/modeling-facts-and-reactions-with-domain-events",
+      "title": "Modeling Facts and Reactions With Domain Events",
+      "date": "2026-07-27"
+    },
+    {
+      "url": "https://github.com/corebunch/instatic",
+      "title": "Instatic",
+      "date": "2026-07-27"
+    },
+    {
+      "url": "https://killthecookiebanner.eu",
+      "title": "Kill the Cookie Banner",
+      "date": "2026-07-27"
+    },
+    {
+      "url": "https://nvlabs.github.io/sana/video2",
+      "title": "Nvidia's New Long-form Video Generation",
+      "date": "2026-07-27"
+    },
+    {
+      "url": "https://stephango.com/design-is-compromise",
+      "title": "Design is Compromise",
+      "date": "2026-07-27"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/ovu8zb",
+      "title": "Introducing Celeris-1",
+      "date": "2026-07-27"
+    },
+    {
+      "url": "https://lemire.me/blog/2026/07/25/memory-level-parallelism-amd-is-the-king",
+      "title": "Memory-level Parallelism: Amd is the King",
+      "date": "2026-07-27"
     }
   ],
   "feedback": [
