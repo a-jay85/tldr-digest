@@ -1,126 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://vhyrro.neorg.org/posts/a-hitchhikers-guide-to-ai",
-      "title": "A Hitchhiker's Guide to Ai",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://danielmiessler.com/blog/intent-engineering",
-      "title": "From Prompt Engineering to Intent Engineering",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/of39xv",
-      "title": "5.6 Sol is Underhyped for General Work",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://abeautifulsite.net/posts/software-has-changed",
-      "title": "Software Has Changed",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://threadreaderapp.com/thread/2075635283211772279.html",
-      "title": "Claude Code on Desktop Now Has an In-app Browser",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://langchain.com/blog/introducing-openwiki-brains-general-purpose-wiki-memory-for-agents",
-      "title": "Openwiki Brains: Proactive Memory for Ai Agents",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents",
-      "title": "Old and New Apps, via Modern Coding Agents",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://simonwillison.net/2026/jul/12/bump",
-      "title": "Anthropic Extended Claude Fable 5 Access Again",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/klabol",
-      "title": "Own Your Weights",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://thinkingmachines.ai/blog/the-future-worth-building-is-human",
-      "title": "The Future Worth Building is Human",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://github.com/colemurray/background-agents",
-      "title": "Open-inspect",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://seangoedecke.com/in-defense-of-not-understanding-your-codebase",
-      "title": "In Defense of Not Understanding Your Codebase",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/8idhzf",
-      "title": "The Reverse Information Paradox",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
-      "title": "Ai 2040 and the Cult of Intelligence",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
-      "title": "I Love Llms, I Hate Hype",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.08716",
-      "title": "Proactive Memory for Long-horizon Agents",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-      "title": "Exactly How Much",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://github.com/cosmtrek/mindwalk",
-      "title": "Mindwalk",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://smw.ai/blog/basecamp-bench",
-      "title": "Basecamp Bench",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://joereis.substack.com/p/your-agents-are-stuck-in-your-org",
-      "title": "Your Agents Are Stuck in Your Org Chart",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://gingerbill.org/article/2026/07/10/good-tools-are-invisible",
-      "title": "Good Tools Are Invisible",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://guseyn.com/html/posts/why-vanilla-js.html",
-      "title": "Why Vanilla Js",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://github.com/hasenj/go-shirei",
-      "title": "Shirei",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://threadreaderapp.com/thread/2075315309591044522.html",
-      "title": "Pepsi Challenge for Llms",
-      "date": "2026-07-13"
-    },
-    {
       "url": "https://vivekhaldar.com/articles/compiling-an-ai-agent-skill",
       "title": "How I Cut an Ai Agent's Token Use by 94%",
       "date": "2026-07-14"
@@ -1284,6 +1164,171 @@
       "url": "https://lemire.me/blog/2026/07/25/memory-level-parallelism-amd-is-the-king",
       "title": "Memory-level Parallelism: Amd is the King",
       "date": "2026-07-27"
+    },
+    {
+      "url": "https://newsletter.posthog.com/p/agent-autonomy",
+      "title": "How Much Can You Delegate to Agents?",
+      "date": "2026-07-28"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/dgvzzk",
+      "title": "Openai's Report on How Ai is Expanding",
+      "date": "2026-07-28"
+    },
+    {
+      "url": "https://anthropic.com/news/position-open-weights-models",
+      "title": "Our Position on Open-weights Models",
+      "date": "2026-07-28"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/qk11uj",
+      "title": "Don't Need to",
+      "date": "2026-07-28"
+    },
+    {
+      "url": "https://cachebag.sh/journal/interactive-rebasing",
+      "title": "Git Rebase -i is Not That Scary",
+      "date": "2026-07-28"
+    },
+    {
+      "url": "https://github.com/octanejs/octane",
+      "title": "Octane",
+      "date": "2026-07-28"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/m0vafq",
+      "title": "How Nvidia Builds Open Models for the Age of Ai",
+      "date": "2026-07-28"
+    },
+    {
+      "url": "https://tanstack.com/blog/we-stopped-using-rsc-on-tanstack-com",
+      "title": "We Stopped Using Rsc on Tanstack.com",
+      "date": "2026-07-28"
+    },
+    {
+      "url": "https://jeffgothelf.com/blog/how-to-run-customer-interviews-for-a-capability-your-users-have-never-experienced",
+      "title": "Experienced",
+      "date": "2026-07-28"
+    },
+    {
+      "url": "https://tanayj.com/p/the-robot-data-pyramid",
+      "title": "The Data Pyramid in Robotics",
+      "date": "2026-07-28"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/wkbgde",
+      "title": "Open Source Must Be Fun (or it Will Die)",
+      "date": "2026-07-28"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/bznvie",
+      "title": "The Productivity Mirage",
+      "date": "2026-07-28"
+    },
+    {
+      "url": "https://cutlefish.substack.com/p/tbm-432-bundling-and-unbundling-capabilities",
+      "title": "Bundling & Unbundling Capabilities (and Ai)",
+      "date": "2026-07-28"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/cnhwcr",
+      "title": "Two-way Doors Sometimes Lock Behind You",
+      "date": "2026-07-28"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/sf21gw",
+      "title": "Finding Bugs in Raft Implementations",
+      "date": "2026-07-28"
+    },
+    {
+      "url": "https://shreyasdoshi.substack.com/p/the-antithesis-principle",
+      "title": "The Antithesis Principle",
+      "date": "2026-07-28"
+    },
+    {
+      "url": "https://github.com/vercel-labs/scriptc",
+      "title": "Scriptc",
+      "date": "2026-07-28"
+    },
+    {
+      "url": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
+      "title": "How is the Bun Rewrite in Rust Going?",
+      "date": "2026-07-28"
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2081819550329327689.html",
+      "title": "Portal",
+      "date": "2026-07-28"
+    },
+    {
+      "url": "https://github.com/nvidia-nemo/labs-molt",
+      "title": "Molt Agentic Reinforcement Learning Framework",
+      "date": "2026-07-28"
+    },
+    {
+      "url": "https://ebellani.github.io/blog/2026/why-care-about-programming-languages",
+      "title": "Why Care About Programming Languages",
+      "date": "2026-07-28"
+    },
+    {
+      "url": "https://davesresearch.com/gameplay-before-strategy",
+      "title": "Gameplay Before Strategy",
+      "date": "2026-07-28"
+    },
+    {
+      "url": "https://spin.atomicobject.com/phased-design-no-finish-line",
+      "title": "Design Doesn't Have a Finish Line",
+      "date": "2026-07-28"
+    },
+    {
+      "url": "https://github.com/inclusionai/llada2.x",
+      "title": "Llada2.x",
+      "date": "2026-07-28"
+    },
+    {
+      "url": "https://cassidoo.co/post/clustering-tiles",
+      "title": "A Simple Clustering Algorithm for Lists",
+      "date": "2026-07-28"
+    },
+    {
+      "url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash",
+      "title": "Microsoft Introduced a Cybersecurity Model",
+      "date": "2026-07-28"
+    },
+    {
+      "url": "https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/tuning/distillation",
+      "title": "Gemini Distillation Service",
+      "date": "2026-07-28"
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2081491621162668207.html",
+      "title": "The Applied Ai Opportunity",
+      "date": "2026-07-28"
+    },
+    {
+      "url": "https://jcs.org/2026/07/23/ai",
+      "title": "On Ai",
+      "date": "2026-07-28"
+    },
+    {
+      "url": "https://github.com/letsseal/letsseal",
+      "title": "Seal",
+      "date": "2026-07-28"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/6sqqd6",
+      "title": "22580: From Gpt2 to Kimi3, Explained",
+      "date": "2026-07-28"
+    },
+    {
+      "url": "https://world.hey.com/dhh/i-m-sorry-dave-380ec27d",
+      "title": "I'm Sorry, Dave",
+      "date": "2026-07-28"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/p4ktqp",
+      "title": "What Are Looped Transformers? Explained Clearly",
+      "date": "2026-07-28"
     }
   ],
   "feedback": [
