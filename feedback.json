@@ -1,126 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://vivekhaldar.com/articles/compiling-an-ai-agent-skill",
-      "title": "How I Cut an Ai Agent's Token Use by 94%",
-      "date": "2026-07-14"
-    },
-    {
-      "url": "https://antirez.com/news/169",
-      "title": "Control the Ideas, Not the Code",
-      "date": "2026-07-14"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/ymxdvv",
-      "title": "Making Fable Cheaper Than Opus",
-      "date": "2026-07-14"
-    },
-    {
-      "url": "https://danielmiessler.com/blog/avoid-the-ai-expertise-trap",
-      "title": "Avoid the Ai Expertise Trap",
-      "date": "2026-07-14"
-    },
-    {
-      "url": "https://thezvi.wordpress.com/2026/07/13/better-call-sol-the-workhorse",
-      "title": "Better Call Sol: the Workhorse",
-      "date": "2026-07-14"
-    },
-    {
-      "url": "https://normaltech.ai/p/what-will-be-left-for-us-to-work",
-      "title": "What Will Be Left for Us to Work On?",
-      "date": "2026-07-14"
-    },
-    {
-      "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
-      "title": "What Xai Grok Build Cli Actually Sends to Xai",
-      "date": "2026-07-14"
-    },
-    {
-      "url": "https://github.com/google/mantis",
-      "title": "Harnesses",
-      "date": "2026-07-14"
-    },
-    {
-      "url": "https://github.com/clawkwork/clawk",
-      "title": "Clawk",
-      "date": "2026-07-14"
-    },
-    {
-      "url": "https://github.com/gentleman-programming/engram",
-      "title": "Engram",
-      "date": "2026-07-14"
-    },
-    {
-      "url": "https://jeffgothelf.com/blog/how-to-collect-product-feedback-when-your-ai-gives-every-user-a-different-answer",
-      "title": "Different Answer",
-      "date": "2026-07-14"
-    },
-    {
-      "url": "https://spin.atomicobject.com/ai-agents-attention-bottleneck",
-      "title": "With Ai Agents, Attention is the New Bottleneck",
-      "date": "2026-07-14"
-    },
-    {
-      "url": "https://threadreaderapp.com/thread/2076447247693402301.html",
-      "title": "Today, We Are Releasing Verifiers V1",
-      "date": "2026-07-14"
-    },
-    {
-      "url": "https://workos.com/blog/webmcp-workos-docs",
-      "title": "Webmcp for Documentation",
-      "date": "2026-07-14"
-    },
-    {
-      "url": "https://sleuth-io.github.io/sx/2026/07/10/your-dropbox-is-now-a-skill-server.html",
-      "title": "Your Dropbox is Now a Skill Server",
-      "date": "2026-07-14"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/bbbwys",
-      "title": "The Reverse Information Paradox",
-      "date": "2026-07-14"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/xkmlec",
-      "title": "Taste Cannot Be Delegated",
-      "date": "2026-07-14"
-    },
-    {
-      "url": "https://github.com/zli12321/lhtb",
-      "title": "Testing Agents on Long-horizon Terminal Work",
-      "date": "2026-07-14"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/0jjltf",
-      "title": "Agentic Loop",
-      "date": "2026-07-14"
-    },
-    {
-      "url": "https://anthropic.com/research/claude-values-models-languages",
-      "title": "How Claude's Values Vary by Model and Language",
-      "date": "2026-07-14"
-    },
-    {
-      "url": "https://lea.verou.me/blog/2026/polyfills",
-      "title": "In Defense of Polyfills",
-      "date": "2026-07-14"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/4ezerz",
-      "title": "Ai's Biggest Winners Have the Lowest Margins",
-      "date": "2026-07-14"
-    },
-    {
-      "url": "https://cutlefish.substack.com/p/tbm-430-incubate-compound-refinance",
-      "title": "Incubate, Compound, Refinance, Liquidate",
-      "date": "2026-07-14"
-    },
-    {
-      "url": "https://a16z.com/the-most-human-technology-ever-made",
-      "title": "The Most Human Technology Ever Made",
-      "date": "2026-07-14"
-    },
-    {
       "url": "https://links.tldrnewsletter.com/mbq7sp",
       "title": "The Great Flattening",
       "date": "2026-07-15"
@@ -1329,6 +1209,126 @@
       "url": "https://links.tldrnewsletter.com/p4ktqp",
       "title": "What Are Looped Transformers? Explained Clearly",
       "date": "2026-07-28"
+    },
+    {
+      "url": "https://martinfowler.com/articles/orchestrator-tax.html",
+      "title": "The Orchestrator's Tax",
+      "date": "2026-07-29"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/5esftw",
+      "title": "How to Research Technical Topics With Ai",
+      "date": "2026-07-29"
+    },
+    {
+      "url": "https://newsletter.pragmaticengineer.com/p/inside-anthropic",
+      "title": "How Building Software is Changing at Anthropic",
+      "date": "2026-07-29"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/nw9ywd",
+      "title": "Agents Sdk, and Code Mode",
+      "date": "2026-07-29"
+    },
+    {
+      "url": "https://blog.bytebytego.com/p/why-doordash-instacart-and-uber-eats",
+      "title": "Three Different Ways",
+      "date": "2026-07-29"
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2082164248697069935.html",
+      "title": "Mcp 2026-07-28 is Live",
+      "date": "2026-07-29"
+    },
+    {
+      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+      "title": "The July 2026 Incident",
+      "date": "2026-07-29"
+    },
+    {
+      "url": "https://github.com/openai/codex-security",
+      "title": "Codex Security",
+      "date": "2026-07-29"
+    },
+    {
+      "url": "https://mlugg.co.uk/posts/incremental-compilation-internals",
+      "title": "Inside Zig's Incremental Compilation",
+      "date": "2026-07-29"
+    },
+    {
+      "url": "https://fermisense.com/when-machines-take-the-wheel",
+      "title": "Vs the Frontier",
+      "date": "2026-07-29"
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google",
+      "title": "Google",
+      "date": "2026-07-29"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/xwexyx",
+      "title": "The Inference Engine Guide for K3 Deployment",
+      "date": "2026-07-29"
+    },
+    {
+      "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
+      "title": "Kimi K3 Architecture Notes",
+      "date": "2026-07-29"
+    },
+    {
+      "url": "https://antirez.com/news/172",
+      "title": "The Real Ai Risk is Inside the Labs",
+      "date": "2026-07-29"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/cvuyjs",
+      "title": "The Ai Future is for Everyone",
+      "date": "2026-07-29"
+    },
+    {
+      "url": "https://anthropic.com/research/discovering-cryptographic-weaknesses",
+      "title": "Discovering Cryptographic Weaknesses With Claude",
+      "date": "2026-07-29"
+    },
+    {
+      "url": "https://github.com/microsoft/flint-chart",
+      "title": "Flint Agent",
+      "date": "2026-07-29"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/slzrsw",
+      "title": "Algorithms",
+      "date": "2026-07-29"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/c2oisz",
+      "title": "Aftermarket Harnesses",
+      "date": "2026-07-29"
+    },
+    {
+      "url": "https://microsoft.github.io/mage",
+      "title": "Mage",
+      "date": "2026-07-29"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/ooejar",
+      "title": "Introducing Build Mode",
+      "date": "2026-07-29"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks",
+      "title": "Managed Gemini Agents Gain More Controls",
+      "date": "2026-07-29"
+    },
+    {
+      "url": "https://wccftech.com/moonshot-openly-defies-the-trump-administration-by-seeking-access-to-additional-nvidia-gpus-for-training-the-next-gen-kimi-k4-model",
+      "title": "Moonshot Openly Defies the Trump Administration",
+      "date": "2026-07-29"
+    },
+    {
+      "url": "https://thenextweb.com/news/fcc-covered-list-foreign-robots-inverters-china",
+      "title": "China",
+      "date": "2026-07-29"
     }
   ],
   "feedback": [
