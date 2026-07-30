@@ -1,111 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://links.tldrnewsletter.com/mbq7sp",
-      "title": "The Great Flattening",
-      "date": "2026-07-15"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/pke2tn",
-      "title": "The Guide to Software Factories",
-      "date": "2026-07-15"
-    },
-    {
-      "url": "https://a16z.news/p/the-next-ai-goldrush-tokens-loops",
-      "title": "You Just Hired a Million Bad Employees",
-      "date": "2026-07-15"
-    },
-    {
-      "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising",
-      "title": "The Tower Keeps Rising",
-      "date": "2026-07-15"
-    },
-    {
-      "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
-      "title": "How to Stop Claude From Saying Load-bearing",
-      "date": "2026-07-15"
-    },
-    {
-      "url": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer",
-      "title": "Engineer",
-      "date": "2026-07-15"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/lqpbix",
-      "title": "Measuring the Business Value of Ai Agents",
-      "date": "2026-07-15"
-    },
-    {
-      "url": "https://adi.bio/reality",
-      "title": "Punch Yourself in the Face With Reality",
-      "date": "2026-07-15"
-    },
-    {
-      "url": "https://text-incubation.com/tight-feedback-loops",
-      "title": "Tight Feedback Loops",
-      "date": "2026-07-15"
-    },
-    {
-      "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning",
-      "title": "Warning",
-      "date": "2026-07-15"
-    },
-    {
-      "url": "https://stateofopensource.ai",
-      "title": "The State of Open Source Ai",
-      "date": "2026-07-15"
-    },
-    {
-      "url": "https://theengineeringmanager.substack.com/p/code-yellow-code-red",
-      "title": "Code Yellow, Code Red",
-      "date": "2026-07-15"
-    },
-    {
-      "url": "https://resilientcyber.io/p/building-for-breach",
-      "title": "Building for Breach",
-      "date": "2026-07-15"
-    },
-    {
-      "url": "https://github.com/jetbrains/youtrackdb",
-      "title": "Youtrackdb",
-      "date": "2026-07-15"
-    },
-    {
-      "url": "https://lobste.rs/s/ko1ji1/lobste_rs_is_now_running_on_sqlite",
-      "title": "Lobste.rs is Now Running on Sqlite",
-      "date": "2026-07-15"
-    },
-    {
-      "url": "https://research.perplexity.ai/articles/wandr-benchmark-evaluating-research-agents-that-must-search-wide-and-deep",
-      "title": "Deep",
-      "date": "2026-07-15"
-    },
-    {
-      "url": "https://404media.co/ai-made-cloning-games-easier-than-ever",
-      "title": "Ai Made Cloning Games Easier Than Ever",
-      "date": "2026-07-15"
-    },
-    {
-      "url": "https://cnbc.com/2026/07/14/apple-prismml-ai-compression-iphone.html",
-      "title": "Iphone",
-      "date": "2026-07-15"
-    },
-    {
-      "url": "https://cnbc.com/2026/07/14/google-deepmind-demis-hassabis-us-led-ai-standards-body.html",
-      "title": "Standards Body",
-      "date": "2026-07-15"
-    },
-    {
-      "url": "https://techcrunch.com/2026/07/14/deepseek-reportedly-in-talks-to-raise-1-5b-then-ipo",
-      "title": "Deepseek Potential Ipo",
-      "date": "2026-07-15"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/5a1qa8",
-      "title": "Companion",
-      "date": "2026-07-15"
-    },
-    {
       "url": "https://andywidjaja.com/blog/110-pipeline",
       "title": "The $110/month Self-improving Pipeline",
       "date": "2026-07-16"
@@ -1329,6 +1224,116 @@
       "url": "https://thenextweb.com/news/fcc-covered-list-foreign-robots-inverters-china",
       "title": "China",
       "date": "2026-07-29"
+    },
+    {
+      "url": "https://danielmiessler.com/blog/the-answer-to-the-harness-question",
+      "title": "The Answer to the Harness Question",
+      "date": "2026-07-30"
+    },
+    {
+      "url": "https://github.com/funador/claude-code-merge-queue",
+      "title": "Claude Code Stolen Queue",
+      "date": "2026-07-30"
+    },
+    {
+      "url": "https://luke.geek.nz/azure/eval-gates-for-prompts",
+      "title": "Treat Prompt Changes Like Code Deploys",
+      "date": "2026-07-30"
+    },
+    {
+      "url": "https://vincentschmalbach.com/make-ai-writing-sound-human-logit-bias",
+      "title": "Logit_bias",
+      "date": "2026-07-30"
+    },
+    {
+      "url": "https://thezvi.wordpress.com/2026/07/29/frontier-lab-employee-open-letter-calls-for-being-able-to-pace-the-frontier",
+      "title": "Frontier",
+      "date": "2026-07-30"
+    },
+    {
+      "url": "https://github.com/drumih/turbo-fieldfare",
+      "title": "Turbofieldfare",
+      "date": "2026-07-30"
+    },
+    {
+      "url": "https://langchain.com/blog/deep-agents-v0-7",
+      "title": "Deep Agents V0.7",
+      "date": "2026-07-30"
+    },
+    {
+      "url": "https://embrace.io/blog/research-core-web-vitals",
+      "title": "For Your Site",
+      "date": "2026-07-30"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/egt7as",
+      "title": "Benchmark",
+      "date": "2026-07-30"
+    },
+    {
+      "url": "https://huggingface.co/blog/liquidai/lfm2-5-encoders",
+      "title": "Cpu-friendly Long-context Encoders",
+      "date": "2026-07-30"
+    },
+    {
+      "url": "https://andonlabs.com/blog/opus-5-vending-bench",
+      "title": "Misaligned",
+      "date": "2026-07-30"
+    },
+    {
+      "url": "https://frantic.im/mirage",
+      "title": "The Productivity Mirage",
+      "date": "2026-07-30"
+    },
+    {
+      "url": "https://github.com/perplexityai/numbat",
+      "title": "Numbat",
+      "date": "2026-07-30"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/cksm4b",
+      "title": "Ai's 2008 Moment",
+      "date": "2026-07-30"
+    },
+    {
+      "url": "https://depot.dev/blog/github-is-the-wrong-shape-for-this-new-world",
+      "title": "Github is the Wrong Shape for This New World",
+      "date": "2026-07-30"
+    },
+    {
+      "url": "https://visual-prompt-engineering.github.io",
+      "title": "Visual Prompts in Video Models",
+      "date": "2026-07-30"
+    },
+    {
+      "url": "https://gilesthomas.com/2026/07/why-do-openai-gpt2-weights-beat-mine-1-intro",
+      "title": "Why Do Openai's Gpt-2 Weights Beat Mine?",
+      "date": "2026-07-30"
+    },
+    {
+      "url": "https://research.nvidia.com/labs/genair/pdd",
+      "title": "Parallel Decoding for Video Generation",
+      "date": "2026-07-30"
+    },
+    {
+      "url": "https://zachholman.com/posts/cold-email",
+      "title": "The Cold Email",
+      "date": "2026-07-30"
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai",
+      "title": "Thinking Machines Cofounder Joined Openai",
+      "date": "2026-07-30"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/lyria-3-5",
+      "title": "Musicality, Lyrics, Vocals, and Creative Control",
+      "date": "2026-07-30"
+    },
+    {
+      "url": "https://pangram.com/blog/introducing-pangram-4",
+      "title": "Introducing Pangram 4",
+      "date": "2026-07-30"
     }
   ],
   "feedback": [
