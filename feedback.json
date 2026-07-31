@@ -1,121 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://andywidjaja.com/blog/110-pipeline",
-      "title": "The $110/month Self-improving Pipeline",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://bdtechtalks.substack.com/p/a-primer-on-self-improving-agent",
-      "title": "A Primer on Self-improving Agent Harnesses",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/7l8obb",
-      "title": "Why We Stopped Using Sdks",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/cjsoet",
-      "title": "The Marginal Cost of Correctness",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://turntrout.com/why-i-left-google-deepmind",
-      "title": "Why I Left Google Deepmind",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://freestyle.sh/blog/opinion/designing-apis-for-agents",
-      "title": "Designing Apis for Agents",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://eardatasci.github.io/c/ambiance/index.html",
-      "title": "Towards a Harness That Can Do Anything",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://github.com/xai-org/grok-build",
-      "title": "Grok Build Coding Agent",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
-      "title": "Model Routing is Simple. Until it Isn't",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://github.com/openinterpreter/openinterpreter",
-      "title": "Open Interpreter",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://alignment.anthropic.com/2026/agentic-misalignment-summer-2026",
-      "title": "Agentic Misalignment in Summer 2026",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://tenderlovemaking.com/2026/07/15/detecting-full-table-scans-with-sqlite",
-      "title": "Detecting Full Table Scans With Sqlite",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://mort.coffee/home/sqlite-editions",
-      "title": "Sqlite Should Have (rust-style) Editions",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://github.com/raroque/boop-agent",
-      "title": "Boop Agent",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://thinkingmachines.ai/news/introducing-inkling",
-      "title": "Thinking Machines Releases First Open Model",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://perplexity.ai/hub/blog/secure-sandboxes-for-agents",
-      "title": "Secure Sandboxes for Agents",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://notes.designarena.ai/how-openais-sol-finally-learned-design-taste",
-      "title": "How Openai's Sol Finally Learned Design Taste",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://reactbench.com/blog",
-      "title": "Reactbench V1",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://github.com/cyrusnuevodia/capn-hook",
-      "title": "Capn-hook",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/bdfefd",
-      "title": "Gpt-red for Safety Testing",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://vercel.com/changelog/open-data-and-shareable-charts-for-ai-gateway-leaderboards",
-      "title": "Access and Share Ai Gateway Leaderboard Data",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/kiqhgg",
-      "title": "First Time",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/mxkxnv",
-      "title": "Giants' Grip",
-      "date": "2026-07-16"
-    },
-    {
       "url": "https://links.tldrnewsletter.com/1ukdwv",
       "title": "Choosing Gpt-5.6 Sol, Terra, or Luna in Codex",
       "date": "2026-07-17"
@@ -1334,6 +1219,166 @@
       "url": "https://pangram.com/blog/introducing-pangram-4",
       "title": "Introducing Pangram 4",
       "date": "2026-07-30"
+    },
+    {
+      "url": "https://obryant.dev/p/2x-not-10x",
+      "title": "2x, Not 10x: Coding With Llms in 2026",
+      "date": "2026-07-31"
+    },
+    {
+      "url": "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html",
+      "title": "The Economic Benefit of Refactoring",
+      "date": "2026-07-31"
+    },
+    {
+      "url": "https://steelmanlabs.com/blog/computer-use-is-far-from-solved",
+      "title": "Computer Use is Far From Solved",
+      "date": "2026-07-31"
+    },
+    {
+      "url": "https://cursor.com/blog/cloud-agent-environment",
+      "title": "Building Cloud Environments for Coding Agents",
+      "date": "2026-07-31"
+    },
+    {
+      "url": "https://github.com/yoanwai/agent-manager",
+      "title": "Agent Manager",
+      "date": "2026-07-31"
+    },
+    {
+      "url": "https://dpereira.substack.com/p/building-with-ai-isnt-enough",
+      "title": "Building With Ai Isn't Enough",
+      "date": "2026-07-31"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/0tzs5n",
+      "title": "From Vague Requirements to Testable Stories",
+      "date": "2026-07-31"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/bgiuxm",
+      "title": "Box",
+      "date": "2026-07-31"
+    },
+    {
+      "url": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
+      "title": "Meet Stripe's Knowledge Ai Platform",
+      "date": "2026-07-31"
+    },
+    {
+      "url": "https://richmironov.substack.com/p/barbell-shaped-product-roles",
+      "title": "Barbell-shaped Product Roles",
+      "date": "2026-07-31"
+    },
+    {
+      "url": "https://marcobambini.substack.com/p/the-waste-inference-engine",
+      "title": "The Waste Inference Engine",
+      "date": "2026-07-31"
+    },
+    {
+      "url": "https://arjunbansal.substack.com/p/open-weight-llms-have-caught-up-on",
+      "title": "Open-weight Llms Have Caught up on Accuracy",
+      "date": "2026-07-31"
+    },
+    {
+      "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview",
+      "title": "Stacked Pull Requests Are Now in Public Preview",
+      "date": "2026-07-31"
+    },
+    {
+      "url": "https://github.com/experientiallabs/world-model-optimizer",
+      "title": "World Model Optimizer",
+      "date": "2026-07-31"
+    },
+    {
+      "url": "https://a16z.news/p/the-next-ai-moat-isnt-a-better-model",
+      "title": "The Next Ai Moat Isn't a Better Model",
+      "date": "2026-07-31"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/1lmstd",
+      "title": "The Agent Graveyard Isn't Real Anymore",
+      "date": "2026-07-31"
+    },
+    {
+      "url": "https://ai.google.dev/gemini-api/docs/live-api?linkid=63011869",
+      "title": "Gemini Live Api Overview",
+      "date": "2026-07-31"
+    },
+    {
+      "url": "https://bottlenecklabs.com/blog/autonomously-run-businesses",
+      "title": "Gpt 5.6 Sol Ran a Real Business",
+      "date": "2026-07-31"
+    },
+    {
+      "url": "https://blog.google/security/chrome-stronger-with-every-update",
+      "title": "In the Ai Era",
+      "date": "2026-07-31"
+    },
+    {
+      "url": "https://developer.nvidia.com/blog/nvidia-exemplar-cloud-lessons-for-unlocking-full-performance-on-ai-infrastructure",
+      "title": "Infrastructure",
+      "date": "2026-07-31"
+    },
+    {
+      "url": "https://earendil.com/posts/session-portability",
+      "title": "The Session You Cannot Take With You",
+      "date": "2026-07-31"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/jd2mzn",
+      "title": "Minimax H3",
+      "date": "2026-07-31"
+    },
+    {
+      "url": "https://arcee.ai/blog/teaching-an-open-model-to-do-science",
+      "title": "Teaching an Open Model to Do Science",
+      "date": "2026-07-31"
+    },
+    {
+      "url": "https://architecture-weekly.com/p/fixing-bugs-in-event-sourcing-is",
+      "title": "Fixing Bugs in Event Sourcing is Hard, for Real?",
+      "date": "2026-07-31"
+    },
+    {
+      "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic",
+      "title": "The Ai Aesthetic",
+      "date": "2026-07-31"
+    },
+    {
+      "url": "https://thinkingmachines.ai/news/inkling-small",
+      "title": "Inkling-small",
+      "date": "2026-07-31"
+    },
+    {
+      "url": "https://cnbc.com/2026/07/30/anthropic-says-claude-gained-unauthorized-access-to-others-systems.html",
+      "title": "Other Organizations' Systems",
+      "date": "2026-07-31"
+    },
+    {
+      "url": "https://anthropic.com/news/investigating-incidents-cybersecurity-evals",
+      "title": "Evaluations",
+      "date": "2026-07-31"
+    },
+    {
+      "url": "https://blog.dshr.org/2026/07/microsofts-project-silica.html",
+      "title": "Microsoft's Project Silica",
+      "date": "2026-07-31"
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming",
+      "title": "Coming",
+      "date": "2026-07-31"
+    },
+    {
+      "url": "https://github.com/opengeos/geolibre",
+      "title": "Geolibre",
+      "date": "2026-07-31"
+    },
+    {
+      "url": "https://cutlefish.substack.com/p/tbm-433-the-border-collie-faustian",
+      "title": "The Border Collie Faustian Bargain",
+      "date": "2026-07-31"
     }
   ],
   "feedback": [
