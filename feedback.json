@@ -1861,6 +1861,34 @@
       "vote": "up",
       "source": "TLDR Product",
       "date": "2026-07-24"
+    },
+    {
+      "url": "https://danielmiessler.com/blog/the-answer-to-the-harness-question",
+      "title": "The Answer to the Harness Question",
+      "vote": "up",
+      "source": "TLDR AI",
+      "date": "2026-07-30"
+    },
+    {
+      "url": "https://luke.geek.nz/azure/eval-gates-for-prompts",
+      "title": "Treat Prompt Changes Like Code Deploys",
+      "vote": "up",
+      "source": "TLDR",
+      "date": "2026-07-30"
+    },
+    {
+      "url": "https://frantic.im/mirage",
+      "title": "The Productivity Mirage",
+      "vote": "up",
+      "source": "TLDR Dev",
+      "date": "2026-07-30"
+    },
+    {
+      "url": "https://zachholman.com/posts/cold-email",
+      "title": "The Cold Email",
+      "vote": "up",
+      "source": "TLDR",
+      "date": "2026-07-30"
     }
   ]
 }
