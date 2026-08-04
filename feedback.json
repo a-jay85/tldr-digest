@@ -1,256 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://links.tldrnewsletter.com/1ukdwv",
-      "title": "Choosing Gpt-5.6 Sol, Terra, or Luna in Codex",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway",
-      "title": "The Llm Critics Are Right. I Use Llms Anyway",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/fispyz",
-      "title": "Earning Judgment",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://photoroom.com/inside-photoroom/the-insights-factory-how-we-run-deep-data-investigations-with-llm-agents",
-      "title": "Agents",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://replit.com/blog/self-driving-company",
-      "title": "The Self-driving Company",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/rptymo",
-      "title": "The Best Model Routing is Task Specific",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://itamargilad.com/ai-pm-jobs",
-      "title": "Is Ai Going to Take Pm Jobs?",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://dpereira.substack.com/p/are-pms-becoming-irrelevant",
-      "title": "Are Pms Becoming Irrelevant?",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://ruhan-wang.github.io/harness-handbook",
-      "title": "Harness Handbook to Map Agent Behavior to Code",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://nekuda.substack.com/p/the-agentic-web-summer",
-      "title": "The Agentic Web Summer",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://newsletter.thelongcommit.com/p/the-prototype-is-a-question-not-a",
-      "title": "The Prototype is a Question, Not a Product",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away",
-      "title": "Walk Away.\u201d",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://github.com/github/copilot-sdk",
-      "title": "Copilot Sdk",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://github.com/callstack/agent-device",
-      "title": "Agent-device",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
-      "title": "Nvidia Nemotron 3 Embed",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://kimi.com/blog/kimi-k3",
-      "title": "Kimi K3",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://github.com/ekkolearnai/hermes-studio",
-      "title": "Hermes Studio",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://piccalil.li/blog/use-cases-for-aria-expanded",
-      "title": "Use Cases for Aria-expanded",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/jic5zm",
-      "title": "Schema",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://oreilly.com/radar/dont-neglect-the-operational-groundwork",
-      "title": "Don't Neglect the Operational Groundwork",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://romanpichler.medium.com/how-to-create-a-truly-inspiring-product-vision-7b8e8c71bc22",
-      "title": "How to Create a Truly Inspiring Product Vision",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://sinja.io/blog/data-landscape-guide-for-developers",
-      "title": "Guide to Data Tools Landscape for Developers",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://a16z.news/p/reactors-have-a-surprising-amount",
-      "title": "Reactors Have a Surprising Amount of Detail",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/6mo9wh",
-      "title": "You Are Not Too Big for a Job",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://lethain.com/generated-demand",
-      "title": "Generated and Suppressed Demand",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://cnbc.com/2026/07/16/microsoft-ceo-says-anthropic-fable-request-policy-doesnt-make-sense.html",
-      "title": "\u2018editorially Controlled'",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://adamhjk.com/blog/a-practical-guide-to-reducing-token-spend",
-      "title": "A Practical Guide to Reducing Token Spend",
-      "date": "2026-07-20"
-    },
-    {
-      "url": "https://pydantic.dev/articles/the-human-in-the-loop-is-tired",
-      "title": "The Human-in-the-loop is Tired",
-      "date": "2026-07-20"
-    },
-    {
-      "url": "https://chrisloy.dev/post/2026/07/19/coding-too-fast-to-collaborate",
-      "title": "Coding Too Fast to Collaborate",
-      "date": "2026-07-20"
-    },
-    {
-      "url": "https://packagemain.tech/p/review-the-actual-change-not-the",
-      "title": "Review the Actual Change, Not the File List",
-      "date": "2026-07-20"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/nqj49j",
-      "title": "Maybe Intelligence Ain't All That",
-      "date": "2026-07-20"
-    },
-    {
-      "url": "https://alanyahya.com/writing/domain-specific-harnesses",
-      "title": "Domain-specific Harnesses",
-      "date": "2026-07-20"
-    },
-    {
-      "url": "https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c",
-      "title": "How Netflix Built Its Llm Serving Stack",
-      "date": "2026-07-20"
-    },
-    {
-      "url": "https://thezvi.substack.com/p/demis-hassabis-on-the-new-coming",
-      "title": "Demis Hassabis and Google's Ai Commitments",
-      "date": "2026-07-20"
-    },
-    {
-      "url": "https://github.com/moonshotai/kimi-code",
-      "title": "Kimi Code Cli",
-      "date": "2026-07-20"
-    },
-    {
-      "url": "https://github.com/loopgain-ai/loopgain",
-      "title": "Loopgain",
-      "date": "2026-07-20"
-    },
-    {
-      "url": "https://rruxandra.github.io/llm-wars-database-wars.html",
-      "title": "Are the Llm Wars the Database Wars?",
-      "date": "2026-07-20"
-    },
-    {
-      "url": "https://github.com/oso95/scroll-world",
-      "title": "Scroll-world",
-      "date": "2026-07-20"
-    },
-    {
-      "url": "https://github.com/millionco/reactbench",
-      "title": "Reactbench",
-      "date": "2026-07-20"
-    },
-    {
-      "url": "https://jasnell.me/posts/fetch-needs-error-codes",
-      "title": "Fetch Needs Error Codes",
-      "date": "2026-07-20"
-    },
-    {
-      "url": "https://github.com/tokio-rs/topcoat",
-      "title": "Topcoat",
-      "date": "2026-07-20"
-    },
-    {
-      "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite",
-      "title": "Learning a Few Things About Running Sqlite",
-      "date": "2026-07-20"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/iybxpo",
-      "title": "Qwen3.8 is Going Open-weight",
-      "date": "2026-07-20"
-    },
-    {
-      "url": "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking",
-      "title": "Ai Mania is Eviscerating Global Decisionmaking",
-      "date": "2026-07-20"
-    },
-    {
-      "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment",
-      "title": "The Kimi K3 Moment",
-      "date": "2026-07-20"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/xcrwoc",
-      "title": "Qwen3.8 Has Launched",
-      "date": "2026-07-20"
-    },
-    {
-      "url": "https://thenextweb.com/news/alibaba-t-head-sail-open-source-nvidia-cuda-alternative",
-      "title": "Nvidia's Cuda Lock-in",
-      "date": "2026-07-20"
-    },
-    {
-      "url": "https://thenextweb.com/news/a-chinese-ai-startup-is-about-to-hit-1bn-in-sales-while-giving-its-best-models-away-for-free",
-      "title": "Best Models Away for Free",
-      "date": "2026-07-20"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/ncpih8",
-      "title": "Kimi K3 Has Received Far More Love Than Expected",
-      "date": "2026-07-20"
-    },
-    {
-      "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal",
-      "title": "Million Deal",
-      "date": "2026-07-20"
-    },
-    {
       "url": "https://annievella.com/posts/the-productivity-experience-paradox",
       "title": "The Productivity-experience Paradox",
       "date": "2026-07-21"
@@ -1379,6 +1129,276 @@
       "url": "https://cutlefish.substack.com/p/tbm-433-the-border-collie-faustian",
       "title": "The Border Collie Faustian Bargain",
       "date": "2026-07-31"
+    },
+    {
+      "url": "https://domenic.me/agentic-coding-setup",
+      "title": "My Agentic Coding Setup, July 2026",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://cursor.com/changelog/google-workspace-plugins",
+      "title": "Google Workspace Plugins",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://eng.wealthfront.com/2026/08/03/experiments-with-ai-code-review",
+      "title": "Experiments With Ai Code Review",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://seangoedecke.com/llms-reward-expertise",
+      "title": "Llms Reward Expertise",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2083749667410727319.html",
+      "title": "A New Era of Ai Testing",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://bjorg.bjornroche.com/management/ai-productivity-gap",
+      "title": "The Ai Productivity Gap",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2084271141477113926.html",
+      "title": "How to Spot 2026-era Ai Writing",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/gs1r2n",
+      "title": "Openai's Abundant Intelligence",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://mostlyobvio.us/2026/07/curiosity-reduced-the-heap-size-by-60",
+      "title": "Curiosity Reduced the Heap Size by 60%",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://vincentschmalbach.com/gpt-5-6-sol-xhigh-uses-twice-tokens-gpt-5-5",
+      "title": "Gpt-5.6 Sol Uses Twice the Tokens of Gpt-5.5",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://akashbajwa.co/p/the-endgame-of-vertical-integration",
+      "title": "The Endgame of Vertical Integration",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://yegge.ai/essays/the-shape-of-things-to-come",
+      "title": "The Shape of Things to Come",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/rnpgve",
+      "title": "Devtools Must Be Open Source",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://hamvocke.com/blog/task-runners",
+      "title": "Use Task Runners for Common Coding Tasks",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://nextjs.org/blog/next-16-3",
+      "title": "Next.js 16.3",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://gruhn.me/blog/2026-08-03",
+      "title": "Don't Be a Meat Proxy",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://future.lulzx.space/blog/falling-floor.html",
+      "title": "You Cannot Own a Falling Floor",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://blog.cloudflare.com/cloudflare-computer",
+      "title": "Cloudflare Computer",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://antmurphy.me/newsletter/stop-using-epics-and-user-stories",
+      "title": "Stop Using Epics & User Stories",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://benn.substack.com/p/this-is-why-we-cant-have-nice-things",
+      "title": "This is Why We Can't Have Nice Things",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://github.com/googlechromelabs/use-webmcp-tool",
+      "title": "Use Webmcp Tool",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://evnm.substack.com/p/platform-engineering-still-matters",
+      "title": "Platform Engineering Still Matters",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://github.com/github/gh-stack",
+      "title": "Gh Stack",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://nader.substack.com/p/software-abundance",
+      "title": "Software Abundance",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://github.com/microsoft/orchard",
+      "title": "Orchard",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://fieldventures.substack.com/p/the-build-vs-buy-head-fake",
+      "title": "The Build vs Buy Head Fake",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://mili.dev/writing/canva-is-one-percent-of-the-way-there",
+      "title": "Canva is One Percent of the Way There",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://qwen.ai/blog?id=qwen3.8",
+      "title": "Qwen3.8-max: a New Bar for Coding and Cowork",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
+      "title": "The Development Pipeline is a Production System",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/ygwwif",
+      "title": "How Openai Built Gpt-live",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://planetscale.com/blog/massively-parallel-postgres-backups",
+      "title": "Massively Parallel Postgres Backups",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://astralcodexten.com/p/does-forecasting-have-room-at-the",
+      "title": "Does Forecasting Have Room at the Top?",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://allenpike.com/2026/finding-a-business-case-for-quality",
+      "title": "Weighing the Business Case for Quality",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://news.crunchbase.com/workplace/tech-ceo-leadership-career-path-product-manager",
+      "title": "Course for Leadership in Tech",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://huggingface.co/deepseek-ai/deepseek-v4-flash-0731",
+      "title": "Deepseek V4 Flash",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://labs.ramp.com/swebench",
+      "title": "Ramp Swe-bench",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://thenextweb.com/news/ai-talent-wars-loyalty-money-mission-anthropic",
+      "title": "Might Take Them for the Money",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://thezvi.wordpress.com/2026/08/03/openais-unreleased-model-astra-solves-ten-major-open-mathematics-problems",
+      "title": "Problems",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://epoch.ai/mirrorcode",
+      "title": "Mirrorcode",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/ddre86",
+      "title": "What I've Learned Writing for Billions of Users",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://cutlefish.substack.com/p/tbm-434-how-maps-can-hide-problems",
+      "title": "How Maps Can Hide Problems",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://testingcatalog.com/exclusive-microsoft-tests-new-mai-realtime-voice-model",
+      "title": "Microsoft Tests New Mai Realtime Voice Model",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://github.com/prime-radiant-inc/smevals",
+      "title": "Smevals",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://github.com/wangqinsi1/rlsvr",
+      "title": "From Rlvr to Rlsvr",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/agckxl",
+      "title": "To Run, Research Firm Says",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://github.com/janestreet/bonsai",
+      "title": "Bonsai",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://wafer.ai/blog/kimi-k3-mi355x",
+      "title": "Kimi K3 on Amd",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/xwbjwg",
+      "title": "Openai",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://github.com/micro/mu",
+      "title": "Mu",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://neowin.net/news/openais-next-major-model-astra-claims-breakthroughs-on-10-long-standing-math-problems",
+      "title": "Long-standing Math Problems",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://borretti.me/article/mathematics-without-mathematicians",
+      "title": "Mathematics Without Mathematicians",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://cnbc.com/2026/08/03/white-house-ai-companies-voluntary-framework-meeting.html",
+      "title": "Framework",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://seuros.com/blog/how-to-build-an-os-without-being-a-degenerate",
+      "title": "How to Build an Os Without Being a Degenerate",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/dfvm2d",
+      "title": "Ai Bubble?",
+      "date": "2026-08-04"
     }
   ],
   "feedback": [
