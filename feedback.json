@@ -1,116 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://annievella.com/posts/the-productivity-experience-paradox",
-      "title": "The Productivity-experience Paradox",
-      "date": "2026-07-21"
-    },
-    {
-      "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models?access_token=eyjhbgcioijsuzi1niisimtpzci6inn0cmf0zwnozxj5lnbhc3nwb3j0lm9ubgluzsisinr5cci6ikpxvcj9.eyjhdwqioijzdhjhdgvjagvyes5wyxnzcg9ydc5vbmxpbmuilcjhenaioijis0xjuzred1nod1aywurlymzqv00xiiwizw50ijp7invyasi6wyjodhrwczovl3n0cmf0zwnozxj5lmnvbs8ymdi2l3dob3mtywzyywlklw9mlwnoaw5lc2utbw9kzwxzlyjdfswizxhwijoxnzg3mtm3mzc5lcjpyxqioje3odq1nduznzksimlzcyi6imh0dhbzoi8vyxbwlnbhc3nwb3j0lm9ubgluzs9vyxv0acisinnjb3blijoizmvlzdpyzwfkigfydgljbgu6cmvhzcbhc3nlddpyzwfkignhdgvnb3j5onjlywqgzw50axrszw1lbnrziiwic3viijoimmuxnze1otetyzaync00yjzmlwiwzdytmzq3nwq1nzq0ngmxiiwidxnlijoiywnjzxnzin0.yoxtmsniowlq4l7ouexae6nvv6ywzju4alzfhpv6qz1a2cu5amt71pp9wbvewcruxqn12yiftxztk9uooxqlb5zka3vphsghvry6fvac_2ivwd4ylmqtm4w8qstqkve5vc1vzlkmoqffc31huziiktd3t2pd5cy9yy13vbrk8xn-ilyrxd89ddsxiti11wox3wbibrkgjpgvg-7noyokg1ew-eed0s08zfb4_ge1ltbrjc3zvqyecxqpch3ecmh_vugudjjomesju0jx3upopxjjqj8uroh-hsjkltbo3l4sknrh5mz0gqmb-ohzhzbymchsjcg3daawi_lex8jfiq",
-      "title": "Who's Afraid of Chinese Models?",
-      "date": "2026-07-21"
-    },
-    {
-      "url": "https://benn.substack.com/p/is-jobs-a-four-letter-word",
-      "title": "Is \"jobs\" a Four-letter Word?",
-      "date": "2026-07-21"
-    },
-    {
-      "url": "https://builders.ramp.com/post/thompson-sampling-model-routing",
-      "title": "Online Learning for Cost-efficient Llm Routing",
-      "date": "2026-07-21"
-    },
-    {
-      "url": "https://cursor.com/blog/agent-swarm-model-economics",
-      "title": "Agent Swarms and the New Model Economics",
-      "date": "2026-07-21"
-    },
-    {
-      "url": "https://jennywanger.com/articles/your-ai-should-keep-a-diary",
-      "title": "Your Ai Should Keep a Diary",
-      "date": "2026-07-21"
-    },
-    {
-      "url": "https://wren.wtf/shower-thoughts/stop-using-opencode",
-      "title": "Stop Using Opencode",
-      "date": "2026-07-21"
-    },
-    {
-      "url": "https://sunilpai.dev/posts/one-document-two-hands",
-      "title": "One Document, Two Hands",
-      "date": "2026-07-21"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/k7uod7",
-      "title": "Perfection is Not Over-engineering",
-      "date": "2026-07-21"
-    },
-    {
-      "url": "https://akashbajwa.co/p/sparse-by-design",
-      "title": "Sparse by Design",
-      "date": "2026-07-21"
-    },
-    {
-      "url": "https://polarsignals.com/blog/posts/2026/07/14/new-and-faster-profiler",
-      "title": "Our New and Faster Profiler Dashboard",
-      "date": "2026-07-21"
-    },
-    {
-      "url": "https://antmurphy.me/newsletter/8-strategy-concepts-every-pm-should-know",
-      "title": "8 Strategy Concepts Every Pm Should Know",
-      "date": "2026-07-21"
-    },
-    {
-      "url": "https://cutlefish.substack.com/p/tbm-431-the-denominator-that-matters",
-      "title": "The Denominator That Matters",
-      "date": "2026-07-21"
-    },
-    {
-      "url": "https://codemanship.wordpress.com/2026/07/19/the-power-of-why",
-      "title": "The Power of \u201cwhy?\u201d",
-      "date": "2026-07-21"
-    },
-    {
-      "url": "https://github.com/knockoutez/wigolo",
-      "title": "Wigolo",
-      "date": "2026-07-21"
-    },
-    {
-      "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
-      "title": "Introducing Cosmos 3 Edge",
-      "date": "2026-07-21"
-    },
-    {
-      "url": "https://cnbc.com/2026/07/20/amd-helios-microsoft-ai-nvidia.html",
-      "title": "Amd's Helios",
-      "date": "2026-07-21"
-    },
-    {
-      "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient",
-      "title": "Google's New Chip for Gemini",
-      "date": "2026-07-21"
-    },
-    {
-      "url": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
-      "title": "Xiaomi-robotics-1",
-      "date": "2026-07-21"
-    },
-    {
-      "url": "https://kr-asia.com/why-cpus-are-now-at-the-center-of-the-ai-race",
-      "title": "Why Cpus Are Now at the Center of the Ai Race",
-      "date": "2026-07-21"
-    },
-    {
-      "url": "https://finance.yahoo.com/technology/ai/articles/chinas-z-ai-completes-1-205515769.html",
-      "title": "Z.ai Built a Gigawatt-scale Ai Data Center",
-      "date": "2026-07-21"
-    },
-    {
-      "url": "https://cognition.com/blog/welcoming-tierzero",
-      "title": "Welcoming Tierzero to Cognition",
-      "date": "2026-07-21"
-    },
-    {
       "url": "https://greptile.com/blog/model-inversion",
       "title": "Models Are Worse at Reviewing Their Own Code",
       "date": "2026-07-22"
@@ -1399,6 +1289,106 @@
       "url": "https://links.tldrnewsletter.com/dfvm2d",
       "title": "Ai Bubble?",
       "date": "2026-08-04"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/hg16hj",
+      "title": "What Codex Actually Sends to the Model",
+      "date": "2026-08-05"
+    },
+    {
+      "url": "https://earendil.com/posts/pi-autoresearch-and-databricks",
+      "title": "Pi, Minimal and Performant",
+      "date": "2026-08-05"
+    },
+    {
+      "url": "https://kiro.dev/blog/introducing-kiro-crew",
+      "title": "Introducing Kiro Crew",
+      "date": "2026-08-05"
+    },
+    {
+      "url": "https://simonwillison.net/2026/jul/31/stateless-mcp",
+      "title": "And Datasette-mcp)",
+      "date": "2026-08-05"
+    },
+    {
+      "url": "https://warp.dev/blog/introducing-the-warp-agent-cli-coding-agent",
+      "title": "Others Can't",
+      "date": "2026-08-05"
+    },
+    {
+      "url": "https://productcurious.com/p/deep-dive-why-did-doordash-ship-a",
+      "title": "Deep Dive: Why Did Doordash Ship a Cli?",
+      "date": "2026-08-05"
+    },
+    {
+      "url": "https://noahpinion.blog/p/the-end-of-the-age-of-heroes",
+      "title": "The End of the Age of Heroes",
+      "date": "2026-08-05"
+    },
+    {
+      "url": "https://blog.cloudflare.com/wallets",
+      "title": "Agentic Internet",
+      "date": "2026-08-05"
+    },
+    {
+      "url": "https://thisandthat.chat/blog/most-tech-revolutions-made-work-worse-for-employees",
+      "title": "Exception",
+      "date": "2026-08-05"
+    },
+    {
+      "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing",
+      "title": "A Unified Api for Ai Model Routing",
+      "date": "2026-08-05"
+    },
+    {
+      "url": "https://404media.co/microsoft-tells-engineers-tokenmaxxing-is-not-what-we-are-optimizing-for",
+      "title": "Optimizing For'",
+      "date": "2026-08-05"
+    },
+    {
+      "url": "https://greaterwrong.com/posts/9c9kpkjjbmz7tmv3k/rewrite-all-the-code-all-the-time",
+      "title": "Rewrite All the Code, All the Time",
+      "date": "2026-08-05"
+    },
+    {
+      "url": "https://mistral.ai/news/shieldstral",
+      "title": "Introducing Shieldstral",
+      "date": "2026-08-05"
+    },
+    {
+      "url": "https://liquid.ai/blog/lfm2-5-2-6b",
+      "title": "Lfm2.5-2.6b: Deploy Agents Everywhere",
+      "date": "2026-08-05"
+    },
+    {
+      "url": "https://textslashplain.com/2026/08/04/security-is-hard-yall",
+      "title": "Web Security is Too Hard",
+      "date": "2026-08-05"
+    },
+    {
+      "url": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available",
+      "title": "Nvidia Released Alpamayo 2",
+      "date": "2026-08-05"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.00146",
+      "title": "Diffusiongemma Technical Report",
+      "date": "2026-08-05"
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/04/bending-spoons-to-buy-airtable-for-1-28b",
+      "title": "Bending Spoons to Buy Airtable for $1.28b",
+      "date": "2026-08-05"
+    },
+    {
+      "url": "https://huggingface.co/nvidia/nvidia-nemotronlabs-voicechat-11b",
+      "title": "Nvidia's Real-time Full-duplex Voice Model",
+      "date": "2026-08-05"
+    },
+    {
+      "url": "https://blog.talosintelligence.com/keep-going-bro-youve-got-this-a-data-driven-look-at-how-adversaries-are-weaponizing-ai",
+      "title": "Adversaries Are Weaponizing Ai",
+      "date": "2026-08-05"
     }
   ],
   "feedback": [
