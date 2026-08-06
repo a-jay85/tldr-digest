@@ -1,141 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://greptile.com/blog/model-inversion",
-      "title": "Models Are Worse at Reviewing Their Own Code",
-      "date": "2026-07-22"
-    },
-    {
-      "url": "https://threadreaderapp.com/thread/2079595988998554047.html",
-      "title": "New in Claude Cowork: Teach Claude a Skill",
-      "date": "2026-07-22"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/zhalhn",
-      "title": "Software Factories, Light and Dark",
-      "date": "2026-07-22"
-    },
-    {
-      "url": "https://code.claude.com/docs/en/desktop-ios-simulator",
-      "title": "Test Ios Apps in the Simulator",
-      "date": "2026-07-22"
-    },
-    {
-      "url": "https://blog.exe.dev/claude-is-not-a-compiler",
-      "title": "Claude is Not a Compiler",
-      "date": "2026-07-22"
-    },
-    {
-      "url": "https://wakamoleguy.com/p/llms-are-surprisingly-bad-blog-authors",
-      "title": "Llms Are Surprisingly Bad Blog Authors",
-      "date": "2026-07-22"
-    },
-    {
-      "url": "https://agentclientprotocol.com/announcements/acp-v2-draft",
-      "title": "Acp V2 is Available in Draft",
-      "date": "2026-07-22"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/gnfxev",
-      "title": "Openai Models Escaped a Cybersecurity Test",
-      "date": "2026-07-22"
-    },
-    {
-      "url": "https://thezvi.substack.com/p/openai-shares-some-alignment-problems",
-      "title": "Openai Shares Some Alignment Problems",
-      "date": "2026-07-22"
-    },
-    {
-      "url": "https://secretspec.dev/blog/secrets-dont-belong-in-config",
-      "title": "Secrets Don't Belong in Config",
-      "date": "2026-07-22"
-    },
-    {
-      "url": "https://github.com/marcelroed/gigatoken",
-      "title": "Gigatoken",
-      "date": "2026-07-22"
-    },
-    {
-      "url": "https://blog.gaborkoos.com/posts/2026-07-19-beyond-happy-path-engineering-time",
-      "title": "Beyond Happy Path Engineering: Time",
-      "date": "2026-07-22"
-    },
-    {
-      "url": "https://architecture-weekly.com/p/throw-result-or-neither",
-      "title": "Throw, Result, or Neither?",
-      "date": "2026-07-22"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/ierbaz",
-      "title": "Model Evaluation",
-      "date": "2026-07-22"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/wwzi8j",
-      "title": "Wrong",
-      "date": "2026-07-22"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/yfu07c",
-      "title": "Introducing Devin Outposts",
-      "date": "2026-07-22"
-    },
-    {
-      "url": "https://blog.dshr.org/2026/07/distilling-moat.html",
-      "title": "Distilling the Moat",
-      "date": "2026-07-22"
-    },
-    {
-      "url": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents",
-      "title": "Teams and Their Ai Agents",
-      "date": "2026-07-22"
-    },
-    {
-      "url": "https://georgwiese.github.io/posts/formal-verification-ai",
-      "title": "A New Software Engineering Paradigm",
-      "date": "2026-07-22"
-    },
-    {
-      "url": "https://github.com/microsoft/mage",
-      "title": "Mage",
-      "date": "2026-07-22"
-    },
-    {
-      "url": "https://github.com/lidge-jun/opencodex",
-      "title": "Opencodex",
-      "date": "2026-07-22"
-    },
-    {
-      "url": "https://github.com/oblien/openship",
-      "title": "Openship",
-      "date": "2026-07-22"
-    },
-    {
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber",
-      "title": "Google Released Three New Gemini",
-      "date": "2026-07-22"
-    },
-    {
-      "url": "https://poolside.ai/blog/introducing-laguna-s-2-1",
-      "title": "Introducing Laguna S 2.1",
-      "date": "2026-07-22"
-    },
-    {
-      "url": "https://laurent.le-brun.eu/blog/a-history-of-ides-at-google",
-      "title": "A History of Ides at Google",
-      "date": "2026-07-22"
-    },
-    {
-      "url": "https://blog.bytebytego.com/p/inside-robloxs-bet-on-world-models",
-      "title": "Inside Roblox's Bet on World Models",
-      "date": "2026-07-22"
-    },
-    {
-      "url": "https://cnbc.com/2026/07/21/nvidia-vera-cpu-ai-amd-intel.html",
-      "title": "Challenge to Amd and Intel",
-      "date": "2026-07-22"
-    },
-    {
       "url": "https://links.tldrnewsletter.com/ogectw",
       "title": "Why Hasn't Ai Increased Unemployment?",
       "date": "2026-07-23"
@@ -1389,6 +1254,101 @@
       "url": "https://blog.talosintelligence.com/keep-going-bro-youve-got-this-a-data-driven-look-at-how-adversaries-are-weaponizing-ai",
       "title": "Adversaries Are Weaponizing Ai",
       "date": "2026-08-05"
+    },
+    {
+      "url": "https://primeintellect.ai/blog/prime-agent",
+      "title": "Prime Agent: a Self-improving Rlm Agent",
+      "date": "2026-08-06"
+    },
+    {
+      "url": "https://data4sci.com/blog/building-an-advanced-agentic-harness",
+      "title": "Building an Advanced Agentic Harness",
+      "date": "2026-08-06"
+    },
+    {
+      "url": "https://newsletter.getdx.com/p/what-are-code-reviews-even-for",
+      "title": "What Are Code Reviews Even For?",
+      "date": "2026-08-06"
+    },
+    {
+      "url": "https://cmpnd.ai/blog/let-the-model-write-the-code.html",
+      "title": "Introducing Flex: Let the Model Write the Code",
+      "date": "2026-08-06"
+    },
+    {
+      "url": "https://thezvi.wordpress.com/2026/08/05/the-three-ai-pills",
+      "title": "The Three Ai Pills",
+      "date": "2026-08-06"
+    },
+    {
+      "url": "https://evilmartians.com/chronicles/the-secure-way-to-release-an-npm-package",
+      "title": "The Secure Way to Release an Npm Package in 2026",
+      "date": "2026-08-06"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/gucp8w",
+      "title": "Rl Environments Are All You Need",
+      "date": "2026-08-06"
+    },
+    {
+      "url": "https://constraintlab.com/blog/ai-is-a-bubble-just-like-dot-com.html",
+      "title": "Ai is a Bubble, Just Like Dot-com",
+      "date": "2026-08-06"
+    },
+    {
+      "url": "https://seangoedecke.com/continuous-learning",
+      "title": "What's So Hard About Continuous Learning?",
+      "date": "2026-08-06"
+    },
+    {
+      "url": "https://theaiengineer.substack.com/p/should-you-self-host-inference",
+      "title": "Should You Self-host Inference?",
+      "date": "2026-08-06"
+    },
+    {
+      "url": "https://github.com/cloudflare/cloudflare-os",
+      "title": "Cloudflare Os",
+      "date": "2026-08-06"
+    },
+    {
+      "url": "https://weli.dev/blog/the-valley-of-webhooks",
+      "title": "The Valley of Webhooks",
+      "date": "2026-08-06"
+    },
+    {
+      "url": "https://blog.cloudflare.com/the-agent-access-model",
+      "title": "The Agent Access Model",
+      "date": "2026-08-06"
+    },
+    {
+      "url": "https://runtimewire.com/article/exclusive-openai-agents-rebuilt-a-secret-message-board-after-the-company-shut-it",
+      "title": "It Down",
+      "date": "2026-08-06"
+    },
+    {
+      "url": "https://astralcodexten.com/p/open-questions-on-open-weights",
+      "title": "Open Questions on Open Weights",
+      "date": "2026-08-06"
+    },
+    {
+      "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
+      "title": "Meta Releases Muse Code",
+      "date": "2026-08-06"
+    },
+    {
+      "url": "https://blog.fogus.me/llm/born-against.html",
+      "title": "Against Llm Usage",
+      "date": "2026-08-06"
+    },
+    {
+      "url": "https://github.com/uber/adr",
+      "title": "Adr",
+      "date": "2026-08-06"
+    },
+    {
+      "url": "https://naomibashkansky.com/blog/telepathy",
+      "title": "Why I'm Leaving Openai to Build Telepathy",
+      "date": "2026-08-06"
     }
   ],
   "feedback": [
