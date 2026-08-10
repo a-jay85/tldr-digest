@@ -1,231 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://links.tldrnewsletter.com/ogectw",
-      "title": "Why Hasn't Ai Increased Unemployment?",
-      "date": "2026-07-23"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/xcrqdk",
-      "title": "Durable Objects Are Made for Agents",
-      "date": "2026-07-23"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/9u8aun",
-      "title": "Sierra Mcp Gateway Dev Diary",
-      "date": "2026-07-23"
-    },
-    {
-      "url": "https://simonwillison.net/2026/jul/22/openai-cyberattack",
-      "title": "Fiction That Happened",
-      "date": "2026-07-23"
-    },
-    {
-      "url": "https://hatchet.run/blog/postgres-survival-guide",
-      "title": "The Startup's Postgres Survival Guide",
-      "date": "2026-07-23"
-    },
-    {
-      "url": "https://threadreaderapp.com/thread/2080098518535110913.html",
-      "title": "Turbopack/next.js",
-      "date": "2026-07-23"
-    },
-    {
-      "url": "https://mitchellh.com/writing/everyone-should-know-simd",
-      "title": "Everyone Should Know Simd",
-      "date": "2026-07-23"
-    },
-    {
-      "url": "https://blog.gaborkoos.com/posts/2026-07-21-your-js-date-is-lying-to-you",
-      "title": "Your Js Date is Lying to You",
-      "date": "2026-07-23"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/ug5mwj",
-      "title": "The Problem With Hypergrowth Ai Startups",
-      "date": "2026-07-23"
-    },
-    {
-      "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
-      "title": "Are Ai Labs Pelicanmaxxing?",
-      "date": "2026-07-23"
-    },
-    {
-      "url": "https://anthropic.com/news/anthropic-economic-index-connector",
-      "title": "Claude Added Direct Access to Ai Usage Data",
-      "date": "2026-07-23"
-    },
-    {
-      "url": "https://spronta.com/blog/state-of-webmcp-july-2026",
-      "title": "The State of Webmcp",
-      "date": "2026-07-23"
-    },
-    {
-      "url": "https://abhi.now/blog/calm-technologies",
-      "title": "Calm Technologies That Excite Me",
-      "date": "2026-07-23"
-    },
-    {
-      "url": "https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql",
-      "title": "If You Think You Can Do Real-world Text-to-sql",
-      "date": "2026-07-23"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/ohekah",
-      "title": "Openai Presence",
-      "date": "2026-07-23"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/jnujho",
-      "title": "Towards Automating Eval Engineering",
-      "date": "2026-07-23"
-    },
-    {
-      "url": "https://cole-k.com/2026/07/21/reddit",
-      "title": "So Reddit Has Decided That Plain Html is Unsafe",
-      "date": "2026-07-23"
-    },
-    {
-      "url": "https://arcee.ai/science-1",
-      "title": "Genesis",
-      "date": "2026-07-23"
-    },
-    {
-      "url": "https://venturebeat.com/orchestration/openai-unveils-presence-a-new-platform-that-lets-enterprises-launch-and-manage-realtime-voice-agents-and-chatbots",
-      "title": "And Manage Realtime Voice Agents and Chatbots",
-      "date": "2026-07-23"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/csqmas",
-      "title": "Cursor Router",
-      "date": "2026-07-23"
-    },
-    {
-      "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable",
-      "title": "Distilled Anthropic's Fable",
-      "date": "2026-07-23"
-    },
-    {
-      "url": "https://ciphertalk.substack.com/p/nobody-knows-what-a-used-gpu-cluster",
-      "title": "Nobody Knows What a Used Gpu Cluster is Worth",
-      "date": "2026-07-23"
-    },
-    {
-      "url": "https://cnbc.com/2026/07/20/tsmc-arizona-fab-capacity-ai-chip-demand.html",
-      "title": "\u2018megatrend,' Cfo Says",
-      "date": "2026-07-23"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/opcnph",
-      "title": "Why Hasn't Ai Increased Unemployment?",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://github.com/izeigerman/claude-thermos",
-      "title": "Claude Thermos",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
-      "title": "Why Software Factories Fail",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://latent.space/p/poolside",
-      "title": "How to Build a Frontier Model Factory",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://evilmartians.com/chronicles/which-ai-actually-reads-your-site-two-months-of-llm-traffic-measured",
-      "title": "Measured",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/qje1ip",
-      "title": "Frontier Diffusion & Control",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://moekhalil.substack.com/p/how-to-become-a-10x-ramble-coder",
-      "title": "How to Become a 10x Ramble-coder",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://geopolitechs.org/p/deepseek-founder-liang-wenfeng-in",
-      "title": "Deepseek Founder Liang Wenfeng in His Own Words",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://neciudan.dev/do-we-need-state-management-libraries",
-      "title": "Do We Need State Management Libraries Anymore?",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://svpg.com/the-ai-productivity-paradox",
-      "title": "The Ai Productivity Paradox",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://blog.gopenai.com/why-your-ai-product-has-no-memory-and-why-thats-destroying-user-retention-938247376e8a",
-      "title": "Why Your Ai Product Has No Memory",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://github.com/onecli/onecli",
-      "title": "Onecli",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://ghuntley.com/slop",
-      "title": "Engineer Away the Slop",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://docs.google.com/document/d/1dbbedqalcmpygw2bs8fisa9dv-7dgpugwzks7udoybm/edit?tab=t.0",
-      "title": "Frontier",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://github.com/andrewyng/openworker",
-      "title": "Openworker",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://newsletter.weskao.com/p/defensible-but-not-good",
-      "title": "Defensible, but Not Good",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://github.com/davidhdev/canvas-ui",
-      "title": "Canvas Ui",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/qo1g90",
-      "title": "How to Become So Creative it Feels Illegal",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://implicator.ai/deepseeks-huawei-chip-training-claim-finally-gets-its-benchmarks-and-its-doubters",
-      "title": "And Its Doubters",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy",
-      "title": "Understanding the Ai Economy",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://engadget.com/2221938/claude-voice-mode-just-got-smarter",
-      "title": "Updated Claude Voice Mode",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://github.com/palmier-io/palmier-pro",
-      "title": "Palmier Pro",
-      "date": "2026-07-24"
-    },
-    {
       "url": "https://earendil.com/posts/prompt-caching",
       "title": "Prompt Caching in Agents",
       "date": "2026-07-27"
@@ -1349,6 +1124,186 @@
       "url": "https://naomibashkansky.com/blog/telepathy",
       "title": "Why I'm Leaving Openai to Build Telepathy",
       "date": "2026-08-06"
+    },
+    {
+      "url": "https://code.claude.com/docs/en/cross-session-messaging",
+      "title": "Message Your Other Claude Code Sessions",
+      "date": "2026-08-10"
+    },
+    {
+      "url": "https://addyo.substack.com/p/agentic-code-quality",
+      "title": "Agentic Code Quality",
+      "date": "2026-08-10"
+    },
+    {
+      "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn",
+      "title": "How I Use Llms to Learn Complex Topics",
+      "date": "2026-08-10"
+    },
+    {
+      "url": "https://coinbase.com/blog/interviewing-engineers-in-the-ai-era-lessons-from-a-year-of-rebuilding",
+      "title": "Rebuilding",
+      "date": "2026-08-10"
+    },
+    {
+      "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
+      "title": "Taste is All That's Left",
+      "date": "2026-08-10"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/k4xrwf",
+      "title": "Why Engineering Leaders Are Walking Away",
+      "date": "2026-08-10"
+    },
+    {
+      "url": "https://leonfurze.com/2026/08/09/the-window-of-critique-for-ai-is-closing-fast",
+      "title": "The Window of Critique for Ai is Closing Fast",
+      "date": "2026-08-10"
+    },
+    {
+      "url": "https://lalitm.com/post/changing-devtools-is-cheap-owning-them-isnt",
+      "title": "Changing Devtools is Cheap. Owning Them Isn't",
+      "date": "2026-08-10"
+    },
+    {
+      "url": "https://vercel.com/blog/introducing-agent-plugins",
+      "title": "Agent Plugins",
+      "date": "2026-08-10"
+    },
+    {
+      "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak",
+      "title": "Make a Decent One)",
+      "date": "2026-08-10"
+    },
+    {
+      "url": "https://frontierai.substack.com/p/the-saas-extinction-test-f6e",
+      "title": "The Saas Extinction Test",
+      "date": "2026-08-10"
+    },
+    {
+      "url": "https://shayon.dev/post/2026/220/every-fast-write-moves-work-somewhere-else",
+      "title": "Every Fast Write Moves Work Somewhere Else",
+      "date": "2026-08-10"
+    },
+    {
+      "url": "https://asimovaddendum.substack.com/p/googles-westinghouse-bet",
+      "title": "Google's Westinghouse Bet",
+      "date": "2026-08-10"
+    },
+    {
+      "url": "https://github.com/huangruiteng/loopx",
+      "title": "Loopx",
+      "date": "2026-08-10"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/ip0z9y",
+      "title": "An Agentic Ide That Builds Itself",
+      "date": "2026-08-10"
+    },
+    {
+      "url": "https://blog.cloudflare.com/kitesurf",
+      "title": "Cloudflare Workers",
+      "date": "2026-08-10"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/kpkp2q",
+      "title": "The End of No Code",
+      "date": "2026-08-10"
+    },
+    {
+      "url": "https://rafa.ee/articles/progressive-enhanced-forms-htmx",
+      "title": "Building Progressively Enhanced Forms Using Htmx",
+      "date": "2026-08-10"
+    },
+    {
+      "url": "https://spyglass.org/you-are-the-tokens",
+      "title": "If You're Not Paying for the Tokens...",
+      "date": "2026-08-10"
+    },
+    {
+      "url": "https://blog.cloudflare.com/the-agentic-internet",
+      "title": "And Payable",
+      "date": "2026-08-10"
+    },
+    {
+      "url": "https://boda.sh/blog/generative-ui",
+      "title": "Generative Ui",
+      "date": "2026-08-10"
+    },
+    {
+      "url": "https://github.com/denoland/celld",
+      "title": "Celld",
+      "date": "2026-08-10"
+    },
+    {
+      "url": "https://github.com/copilotkit/channels-sdk",
+      "title": "Channels Sdk",
+      "date": "2026-08-10"
+    },
+    {
+      "url": "https://snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring",
+      "title": "Clockwork",
+      "date": "2026-08-10"
+    },
+    {
+      "url": "https://shopify.engineering/scaling-inventory-reservations",
+      "title": "Scaled (2026)",
+      "date": "2026-08-10"
+    },
+    {
+      "url": "https://atproto.com/articles/atproto-for-distsys-engineers",
+      "title": "Atproto for Distributed Systems Engineers",
+      "date": "2026-08-10"
+    },
+    {
+      "url": "https://spyglass.org/google-deepmind-hassabis-dean-gemini",
+      "title": "Google's Mind is Now Less Deep",
+      "date": "2026-08-10"
+    },
+    {
+      "url": "https://simonwillison.net/2026/aug/7/openai-timeline",
+      "title": "Hugging Face",
+      "date": "2026-08-10"
+    },
+    {
+      "url": "https://tomshardware.com/pc-components/cpus/amazon-cracks-down-on-cpu-waste-among-engineers-as-agentic-ai-crunch-intensifies-cpu-demand-makes-low-utilization-ec2-instances-a-hot-commodity",
+      "title": "Crunch Intensifies",
+      "date": "2026-08-10"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/q7zfqa",
+      "title": "Gpt-5.6 Luna Became Chatgpt's Default Free Model",
+      "date": "2026-08-10"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.05000",
+      "title": "How Modalities Learn Together",
+      "date": "2026-08-10"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/2kdgja",
+      "title": "Users",
+      "date": "2026-08-10"
+    },
+    {
+      "url": "https://mht.wtf/post/jevons",
+      "title": "Reverse Jevons Paradox",
+      "date": "2026-08-10"
+    },
+    {
+      "url": "https://news.harvard.edu/gazette/story/2026/08/when-ai-goes-rogue",
+      "title": "When Ai Goes Rogue",
+      "date": "2026-08-10"
+    },
+    {
+      "url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone",
+      "title": "What Happened to Hackerone?",
+      "date": "2026-08-10"
+    },
+    {
+      "url": "https://eejournal.com/article/practical-ai-dont-work-harder-work-smarter",
+      "title": "Practical Ai: Don't Work Harder; Work Smarter",
+      "date": "2026-08-10"
     }
   ],
   "feedback": [
