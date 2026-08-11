@@ -1,111 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://earendil.com/posts/prompt-caching",
-      "title": "Prompt Caching in Agents",
-      "date": "2026-07-27"
-    },
-    {
-      "url": "https://antirez.com/news/171",
-      "title": "Being Linux Torvalds",
-      "date": "2026-07-27"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/oc0hoc",
-      "title": "The Life of a Codex Conversation on Disk",
-      "date": "2026-07-27"
-    },
-    {
-      "url": "https://notboring.co/p/ai-is-oil-not-god",
-      "title": "Ai is Oil, Not God",
-      "date": "2026-07-27"
-    },
-    {
-      "url": "https://noahpinion.blog/p/what-will-more-intelligence-actually",
-      "title": "What Will More Intelligence Actually Do for Us?",
-      "date": "2026-07-27"
-    },
-    {
-      "url": "https://anthropic.com/news/claude-opus-5",
-      "title": "Claude Opus 5",
-      "date": "2026-07-27"
-    },
-    {
-      "url": "https://benn.substack.com/p/brute-intelligence",
-      "title": "Brute Intelligence",
-      "date": "2026-07-27"
-    },
-    {
-      "url": "https://blog.sentry.io/structure-a-log",
-      "title": "How to Structure a Log",
-      "date": "2026-07-27"
-    },
-    {
-      "url": "https://testing.googleblog.com/2026/07/prefactoring-clear-way-for-your-new.html",
-      "title": "Prefactoring: Clear the Way for Your New Feature",
-      "date": "2026-07-27"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/gxugx7",
-      "title": "How We Teach Ai Models",
-      "date": "2026-07-27"
-    },
-    {
-      "url": "https://canva.dev/blog/engineering/session-revocations-at-scale",
-      "title": "Session Revocations at Scale",
-      "date": "2026-07-27"
-    },
-    {
-      "url": "https://refp.se/articles/your-shell-and-the-magic-colon",
-      "title": "A Shell Colon Does Nothing. Use it Anyway",
-      "date": "2026-07-27"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/mh5tuj",
-      "title": "How We Built the New Fastest Api for Glm-5.2",
-      "date": "2026-07-27"
-    },
-    {
-      "url": "https://threadreaderapp.com/thread/2080671145938821414.html",
-      "title": "Introducing Classifiers, Now in Beta",
-      "date": "2026-07-27"
-    },
-    {
-      "url": "https://deniskyashif.com/2026/07/25/modeling-facts-and-reactions-with-domain-events",
-      "title": "Modeling Facts and Reactions With Domain Events",
-      "date": "2026-07-27"
-    },
-    {
-      "url": "https://github.com/corebunch/instatic",
-      "title": "Instatic",
-      "date": "2026-07-27"
-    },
-    {
-      "url": "https://killthecookiebanner.eu",
-      "title": "Kill the Cookie Banner",
-      "date": "2026-07-27"
-    },
-    {
-      "url": "https://nvlabs.github.io/sana/video2",
-      "title": "Nvidia's New Long-form Video Generation",
-      "date": "2026-07-27"
-    },
-    {
-      "url": "https://stephango.com/design-is-compromise",
-      "title": "Design is Compromise",
-      "date": "2026-07-27"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/ovu8zb",
-      "title": "Introducing Celeris-1",
-      "date": "2026-07-27"
-    },
-    {
-      "url": "https://lemire.me/blog/2026/07/25/memory-level-parallelism-amd-is-the-king",
-      "title": "Memory-level Parallelism: Amd is the King",
-      "date": "2026-07-27"
-    },
-    {
       "url": "https://newsletter.posthog.com/p/agent-autonomy",
       "title": "How Much Can You Delegate to Agents?",
       "date": "2026-07-28"
@@ -1304,6 +1199,161 @@
       "url": "https://eejournal.com/article/practical-ai-dont-work-harder-work-smarter",
       "title": "Practical Ai: Don't Work Harder; Work Smarter",
       "date": "2026-08-10"
+    },
+    {
+      "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
+      "title": "Claude Code Makes Auto Mode the Default",
+      "date": "2026-08-11"
+    },
+    {
+      "url": "https://justinjay.wang/designing-with-code",
+      "title": "Designing With Code",
+      "date": "2026-08-11"
+    },
+    {
+      "url": "https://martech.zone/i-built-a-travel-tech-startup-using-ai",
+      "title": "Engineering Team",
+      "date": "2026-08-11"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/iavncf",
+      "title": "Building an Ai-native Finance Team",
+      "date": "2026-08-11"
+    },
+    {
+      "url": "https://svpg.com/a-fresh-definition-of-the-product-role",
+      "title": "A Fresh Definition of the Product Role",
+      "date": "2026-08-11"
+    },
+    {
+      "url": "https://seangoedecke.com/local-models-will-not-win",
+      "title": "No, Local Models Will Not Win",
+      "date": "2026-08-11"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/uzx4fz",
+      "title": "Are Agents Really Killing Ui?",
+      "date": "2026-08-11"
+    },
+    {
+      "url": "https://diginomica.com/how-grindr-overhauled-its-back-end-while-terraforming-future-ai-native-no-engineering-constraints",
+      "title": "An Ai-native",
+      "date": "2026-08-11"
+    },
+    {
+      "url": "https://vercel.com/changelog/skill-packs-are-now-available",
+      "title": "Skill Packs Are Now Available on Skills.sh",
+      "date": "2026-08-11"
+    },
+    {
+      "url": "https://expo.dev/blog/fable-5-vs-gpt-5-6-sol-expo-apps",
+      "title": "Out Who Wins",
+      "date": "2026-08-11"
+    },
+    {
+      "url": "https://github.com/antigmalabs/ante",
+      "title": "Ante",
+      "date": "2026-08-11"
+    },
+    {
+      "url": "https://cutlefish.substack.com/p/tbm-435-20-unfiltered-operating-takes",
+      "title": "20 Unfiltered Operating Takes",
+      "date": "2026-08-11"
+    },
+    {
+      "url": "https://elliotcsmith.com/want-taste-eat-your-slop",
+      "title": "Want Taste? Eat Your Slop",
+      "date": "2026-08-11"
+    },
+    {
+      "url": "https://seangoedecke.com/advanced-ai-sycophancy",
+      "title": "Advanced Ai Sycophancy",
+      "date": "2026-08-11"
+    },
+    {
+      "url": "https://kai-waehner.de/blog/2026/08/10/why-enterprises-need-a-multi-model-ai-strategy-cost-compliance-and-resilience",
+      "title": "Resilience",
+      "date": "2026-08-11"
+    },
+    {
+      "url": "https://simonwillison.net/2026/aug/10/introducing-muse-glimmer",
+      "title": "Introducing Muse Glimmer",
+      "date": "2026-08-11"
+    },
+    {
+      "url": "https://davesresearch.com/good-move-grounded",
+      "title": "A Good Move is Grounded",
+      "date": "2026-08-11"
+    },
+    {
+      "url": "https://langchain.com/blog/managed-deep-agents-is-now-in-public-beta",
+      "title": "Managed Deep Agents is Now in Public Beta",
+      "date": "2026-08-11"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/nwzqml",
+      "title": "Ipo",
+      "date": "2026-08-11"
+    },
+    {
+      "url": "https://age-of-product.com/agile-product-operating-model-survey-results",
+      "title": "Actually Changing",
+      "date": "2026-08-11"
+    },
+    {
+      "url": "https://thezvi.wordpress.com/2026/08/08/what-happened-openai-and-huggingface",
+      "title": "What Happened: Openai and Huggingface",
+      "date": "2026-08-11"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/hvu00n",
+      "title": "The Neolabs Are a Bet Against Superintelligence",
+      "date": "2026-08-11"
+    },
+    {
+      "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+      "title": "Meta Released Muse Glimmer",
+      "date": "2026-08-11"
+    },
+    {
+      "url": "https://github.com/qwenlm/qwen-mm-plugins",
+      "title": "Qwen-mm-plugins",
+      "date": "2026-08-11"
+    },
+    {
+      "url": "https://randsinrepose.com/archives/fifteen-tics",
+      "title": "Fifteen Tics",
+      "date": "2026-08-11"
+    },
+    {
+      "url": "https://byroot.github.io/ruby/performance/2026/08/05/shrinking-ruby-hashes.html",
+      "title": "Shrinking Ruby Hashes",
+      "date": "2026-08-11"
+    },
+    {
+      "url": "https://abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986",
+      "title": "Cyber Attack",
+      "date": "2026-08-11"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/6nwnfu",
+      "title": "Gpt-5.6-cyber",
+      "date": "2026-08-11"
+    },
+    {
+      "url": "https://kernel.pryanic.com/posts/two-bets-on-standing-still-and-a-dark-horse",
+      "title": "Two Bets on Standing Still, and a Dark Horse",
+      "date": "2026-08-11"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/bx8nmr",
+      "title": "Openai Pauses Astra Over Cybersecurity Risks",
+      "date": "2026-08-11"
+    },
+    {
+      "url": "https://huggingface.co/blog/mayafree/model-dna",
+      "title": "Or Derived",
+      "date": "2026-08-11"
     }
   ],
   "feedback": [
