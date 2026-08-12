@@ -1,171 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://newsletter.posthog.com/p/agent-autonomy",
-      "title": "How Much Can You Delegate to Agents?",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/dgvzzk",
-      "title": "Openai's Report on How Ai is Expanding",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://anthropic.com/news/position-open-weights-models",
-      "title": "Our Position on Open-weights Models",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/qk11uj",
-      "title": "Don't Need to",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://cachebag.sh/journal/interactive-rebasing",
-      "title": "Git Rebase -i is Not That Scary",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://github.com/octanejs/octane",
-      "title": "Octane",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/m0vafq",
-      "title": "How Nvidia Builds Open Models for the Age of Ai",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://tanstack.com/blog/we-stopped-using-rsc-on-tanstack-com",
-      "title": "We Stopped Using Rsc on Tanstack.com",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://jeffgothelf.com/blog/how-to-run-customer-interviews-for-a-capability-your-users-have-never-experienced",
-      "title": "Experienced",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://tanayj.com/p/the-robot-data-pyramid",
-      "title": "The Data Pyramid in Robotics",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/wkbgde",
-      "title": "Open Source Must Be Fun (or it Will Die)",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/bznvie",
-      "title": "The Productivity Mirage",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://cutlefish.substack.com/p/tbm-432-bundling-and-unbundling-capabilities",
-      "title": "Bundling & Unbundling Capabilities (and Ai)",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/cnhwcr",
-      "title": "Two-way Doors Sometimes Lock Behind You",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/sf21gw",
-      "title": "Finding Bugs in Raft Implementations",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://shreyasdoshi.substack.com/p/the-antithesis-principle",
-      "title": "The Antithesis Principle",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://github.com/vercel-labs/scriptc",
-      "title": "Scriptc",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
-      "title": "How is the Bun Rewrite in Rust Going?",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://threadreaderapp.com/thread/2081819550329327689.html",
-      "title": "Portal",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://github.com/nvidia-nemo/labs-molt",
-      "title": "Molt Agentic Reinforcement Learning Framework",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://ebellani.github.io/blog/2026/why-care-about-programming-languages",
-      "title": "Why Care About Programming Languages",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://davesresearch.com/gameplay-before-strategy",
-      "title": "Gameplay Before Strategy",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://spin.atomicobject.com/phased-design-no-finish-line",
-      "title": "Design Doesn't Have a Finish Line",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://github.com/inclusionai/llada2.x",
-      "title": "Llada2.x",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://cassidoo.co/post/clustering-tiles",
-      "title": "A Simple Clustering Algorithm for Lists",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash",
-      "title": "Microsoft Introduced a Cybersecurity Model",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/tuning/distillation",
-      "title": "Gemini Distillation Service",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://threadreaderapp.com/thread/2081491621162668207.html",
-      "title": "The Applied Ai Opportunity",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://jcs.org/2026/07/23/ai",
-      "title": "On Ai",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://github.com/letsseal/letsseal",
-      "title": "Seal",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/6sqqd6",
-      "title": "22580: From Gpt2 to Kimi3, Explained",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://world.hey.com/dhh/i-m-sorry-dave-380ec27d",
-      "title": "I'm Sorry, Dave",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/p4ktqp",
-      "title": "What Are Looped Transformers? Explained Clearly",
-      "date": "2026-07-28"
-    },
-    {
       "url": "https://martinfowler.com/articles/orchestrator-tax.html",
       "title": "The Orchestrator's Tax",
       "date": "2026-07-29"
@@ -1354,6 +1189,116 @@
       "url": "https://huggingface.co/blog/mayafree/model-dna",
       "title": "Or Derived",
       "date": "2026-08-11"
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/nvidias-switchyard-router-reshuffles-ai-models-mid-task-cutting-task-costs-to-a-third-in-its-own-tests",
+      "title": "Task Costs to a Third in Its Own Tests",
+      "date": "2026-08-12"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/jvlyms",
+      "title": "The Frictions That Make Ai Forecasting Hard",
+      "date": "2026-08-12"
+    },
+    {
+      "url": "https://vercel.com/blog/everything-hackable-will-get-hacked",
+      "title": "Everything Hackable Will Get Hacked",
+      "date": "2026-08-12"
+    },
+    {
+      "url": "https://lethain.com/decisions-not-dates",
+      "title": "Roadmap Decisions Rather Than Dates",
+      "date": "2026-08-12"
+    },
+    {
+      "url": "https://modular.com/blog/modular-26-5-mojo-1-0-is-here",
+      "title": "Modular 26.5: Mojo 1.0 is Here!",
+      "date": "2026-08-12"
+    },
+    {
+      "url": "https://lovable.dev/blog/the-model-picker-is-a-dead-end",
+      "title": "The Model Picker is a Dead End",
+      "date": "2026-08-12"
+    },
+    {
+      "url": "https://learn.chatgpt.com/docs/import",
+      "title": "Import From Another Agent",
+      "date": "2026-08-12"
+    },
+    {
+      "url": "https://baweaver.com/writing/2026/08/09/beyond-senior-creating-hope",
+      "title": "Creating Hope",
+      "date": "2026-08-12"
+    },
+    {
+      "url": "https://github.com/sourcebot-dev/sourcebot",
+      "title": "Sourcebot",
+      "date": "2026-08-12"
+    },
+    {
+      "url": "https://github.com/corsairdev/corsair",
+      "title": "Corsair",
+      "date": "2026-08-12"
+    },
+    {
+      "url": "https://stolen-thoughts.com",
+      "title": "Stolen Thoughts",
+      "date": "2026-08-12"
+    },
+    {
+      "url": "https://excamera.substack.com/p/make-everything-look-like-a-software",
+      "title": "Make Everything Look Like a Software Project",
+      "date": "2026-08-12"
+    },
+    {
+      "url": "https://huggingface.co/nvidia/nvidia-nemotron-3.5-lightning-30b-a3b-nvfp4",
+      "title": "Nemotron 3.5 Lightning",
+      "date": "2026-08-12"
+    },
+    {
+      "url": "https://ngrok.com/blog/compression-is-prediction",
+      "title": "Compression is Prediction",
+      "date": "2026-08-12"
+    },
+    {
+      "url": "https://newsletter.ai-frontiers.org/p/agi-will-set-off-an-industrial-explosion",
+      "title": "Agi Will Set Off an Industrial Explosion",
+      "date": "2026-08-12"
+    },
+    {
+      "url": "http://x.ai/news/introducing-grok-bot",
+      "title": "Introducing Grok Bot",
+      "date": "2026-08-12"
+    },
+    {
+      "url": "https://planetscale.com/blog/the-dangers-of-postgres-subtransactions",
+      "title": "The Dangers of Postgres Subtransactions",
+      "date": "2026-08-12"
+    },
+    {
+      "url": "https://blog.helsing.ai/posts/on-comments",
+      "title": "On Comments",
+      "date": "2026-08-12"
+    },
+    {
+      "url": "https://research.nvidia.com/labs/sil/projects/worldtrace",
+      "title": "Memory in Video World Models",
+      "date": "2026-08-12"
+    },
+    {
+      "url": "https://danielmiessler.com/blog/where-watermarks-hide-in-text",
+      "title": "Where an Ai Watermark Can Hide in Plain Text",
+      "date": "2026-08-12"
+    },
+    {
+      "url": "https://arslan.io/2026/08/10/joining-cursor",
+      "title": "Joining Cursor",
+      "date": "2026-08-12"
+    },
+    {
+      "url": "https://stratechery.com/2026/nvidias-risky-business",
+      "title": "Nvidia's Risky Business",
+      "date": "2026-08-12"
     }
   ],
   "feedback": [
