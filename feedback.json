@@ -1,126 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://martinfowler.com/articles/orchestrator-tax.html",
-      "title": "The Orchestrator's Tax",
-      "date": "2026-07-29"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/5esftw",
-      "title": "How to Research Technical Topics With Ai",
-      "date": "2026-07-29"
-    },
-    {
-      "url": "https://newsletter.pragmaticengineer.com/p/inside-anthropic",
-      "title": "How Building Software is Changing at Anthropic",
-      "date": "2026-07-29"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/nw9ywd",
-      "title": "Agents Sdk, and Code Mode",
-      "date": "2026-07-29"
-    },
-    {
-      "url": "https://blog.bytebytego.com/p/why-doordash-instacart-and-uber-eats",
-      "title": "Three Different Ways",
-      "date": "2026-07-29"
-    },
-    {
-      "url": "https://threadreaderapp.com/thread/2082164248697069935.html",
-      "title": "Mcp 2026-07-28 is Live",
-      "date": "2026-07-29"
-    },
-    {
-      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-      "title": "The July 2026 Incident",
-      "date": "2026-07-29"
-    },
-    {
-      "url": "https://github.com/openai/codex-security",
-      "title": "Codex Security",
-      "date": "2026-07-29"
-    },
-    {
-      "url": "https://mlugg.co.uk/posts/incremental-compilation-internals",
-      "title": "Inside Zig's Incremental Compilation",
-      "date": "2026-07-29"
-    },
-    {
-      "url": "https://fermisense.com/when-machines-take-the-wheel",
-      "title": "Vs the Frontier",
-      "date": "2026-07-29"
-    },
-    {
-      "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google",
-      "title": "Google",
-      "date": "2026-07-29"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/xwexyx",
-      "title": "The Inference Engine Guide for K3 Deployment",
-      "date": "2026-07-29"
-    },
-    {
-      "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
-      "title": "Kimi K3 Architecture Notes",
-      "date": "2026-07-29"
-    },
-    {
-      "url": "https://antirez.com/news/172",
-      "title": "The Real Ai Risk is Inside the Labs",
-      "date": "2026-07-29"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/cvuyjs",
-      "title": "The Ai Future is for Everyone",
-      "date": "2026-07-29"
-    },
-    {
-      "url": "https://anthropic.com/research/discovering-cryptographic-weaknesses",
-      "title": "Discovering Cryptographic Weaknesses With Claude",
-      "date": "2026-07-29"
-    },
-    {
-      "url": "https://github.com/microsoft/flint-chart",
-      "title": "Flint Agent",
-      "date": "2026-07-29"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/slzrsw",
-      "title": "Algorithms",
-      "date": "2026-07-29"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/c2oisz",
-      "title": "Aftermarket Harnesses",
-      "date": "2026-07-29"
-    },
-    {
-      "url": "https://microsoft.github.io/mage",
-      "title": "Mage",
-      "date": "2026-07-29"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/ooejar",
-      "title": "Introducing Build Mode",
-      "date": "2026-07-29"
-    },
-    {
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks",
-      "title": "Managed Gemini Agents Gain More Controls",
-      "date": "2026-07-29"
-    },
-    {
-      "url": "https://wccftech.com/moonshot-openly-defies-the-trump-administration-by-seeking-access-to-additional-nvidia-gpus-for-training-the-next-gen-kimi-k4-model",
-      "title": "Moonshot Openly Defies the Trump Administration",
-      "date": "2026-07-29"
-    },
-    {
-      "url": "https://thenextweb.com/news/fcc-covered-list-foreign-robots-inverters-china",
-      "title": "China",
-      "date": "2026-07-29"
-    },
-    {
       "url": "https://danielmiessler.com/blog/the-answer-to-the-harness-question",
       "title": "The Answer to the Harness Question",
       "date": "2026-07-30"
@@ -1299,6 +1179,126 @@
       "url": "https://stratechery.com/2026/nvidias-risky-business",
       "title": "Nvidia's Risky Business",
       "date": "2026-08-12"
+    },
+    {
+      "url": "https://wesmckinney.com/blog/agentic-engineering-aug-2026",
+      "title": "How a Three-person Team Ships Hundreds of Prs",
+      "date": "2026-08-13"
+    },
+    {
+      "url": "https://blog.cloudflare.com/astro-issue-triage",
+      "title": "To Zero",
+      "date": "2026-08-13"
+    },
+    {
+      "url": "https://blog.pamelafox.org/2026/08/building-safe-mcp-servers-for-your.html",
+      "title": "Building Safer Mcp Servers",
+      "date": "2026-08-13"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/dry1ml",
+      "title": "Grok 4.6 \u2013 a Field Guide",
+      "date": "2026-08-13"
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open",
+      "title": "Open",
+      "date": "2026-08-13"
+    },
+    {
+      "url": "https://adapt.com/blog/build-wide-ship-narrow",
+      "title": "Build Wide, Ship Narrow",
+      "date": "2026-08-13"
+    },
+    {
+      "url": "https://smunshi.net/posts/ai-theses.html",
+      "title": "9 Theses on Ai",
+      "date": "2026-08-13"
+    },
+    {
+      "url": "https://brentfitzgerald.com/posts/the-human-is-the-loop",
+      "title": "The Human is the Loop",
+      "date": "2026-08-13"
+    },
+    {
+      "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at",
+      "title": "What Sort of Maths Are Llms Good At?",
+      "date": "2026-08-13"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/tltcn1",
+      "title": "Hiring Agents is the Easy Part",
+      "date": "2026-08-13"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/rwirhz",
+      "title": "Grok Bot: a New Kind of Colleague",
+      "date": "2026-08-13"
+    },
+    {
+      "url": "https://zed.dev/blog/introducing-delta",
+      "title": "Introducing Delta",
+      "date": "2026-08-13"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/klu13q",
+      "title": "Programming Language Adoption Patterns at Meta",
+      "date": "2026-08-13"
+    },
+    {
+      "url": "https://econlab.substack.com/p/ai-index-august-2026",
+      "title": "Cracks in the Ai Thesis",
+      "date": "2026-08-13"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/yu2bou",
+      "title": "Inside an Applied Ai Company",
+      "date": "2026-08-13"
+    },
+    {
+      "url": "https://engineeringblog.yelp.com/2026/08/migrating-a-large-flow-monorepo-to-typescript.html",
+      "title": "Migrating a Large Flow Monorepo to Typescript",
+      "date": "2026-08-13"
+    },
+    {
+      "url": "https://ethanding.substack.com/p/why-you-cant-copy-palantir",
+      "title": "Why You Can't Copy Palantir",
+      "date": "2026-08-13"
+    },
+    {
+      "url": "https://elliotcsmith.com/input-based-pricing-vs-output-based-pricing",
+      "title": "Input-based Pricing vs Output-based Pricing",
+      "date": "2026-08-13"
+    },
+    {
+      "url": "https://blog.bytebytego.com/p/github-vs-vercel-vs-replit-what-dev",
+      "title": "Cheap",
+      "date": "2026-08-13"
+    },
+    {
+      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+      "title": "How We Tracked Down a 16-year-old Sqlite Bug",
+      "date": "2026-08-13"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/cnbxe1",
+      "title": "Enterprise Ai Shifts Toward Execution",
+      "date": "2026-08-13"
+    },
+    {
+      "url": "https://muratbuffalo.blogspot.com/2026/08/specula-scaling-formal-specifications.html",
+      "title": "Of System Code",
+      "date": "2026-08-13"
+    },
+    {
+      "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome",
+      "title": "Why Tiny Jpegs Look Different in Chrome",
+      "date": "2026-08-13"
+    },
+    {
+      "url": "https://huggingface.co/qwen/qwen3.8-2.4t-a95b",
+      "title": "Qwen3.8-2.4t-a95b",
+      "date": "2026-08-13"
     }
   ],
   "feedback": [
