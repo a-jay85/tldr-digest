@@ -1875,6 +1875,13 @@
       "vote": "up",
       "source": "TLDR",
       "date": "2026-08-07"
+    },
+    {
+      "url": "https://lethain.com/decisions-not-dates",
+      "title": "Roadmap Decisions Rather Than Dates",
+      "vote": "up",
+      "source": "TLDR",
+      "date": "2026-08-12"
     }
   ]
 }
