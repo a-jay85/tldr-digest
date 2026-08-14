@@ -1,116 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://danielmiessler.com/blog/the-answer-to-the-harness-question",
-      "title": "The Answer to the Harness Question",
-      "date": "2026-07-30"
-    },
-    {
-      "url": "https://github.com/funador/claude-code-merge-queue",
-      "title": "Claude Code Stolen Queue",
-      "date": "2026-07-30"
-    },
-    {
-      "url": "https://luke.geek.nz/azure/eval-gates-for-prompts",
-      "title": "Treat Prompt Changes Like Code Deploys",
-      "date": "2026-07-30"
-    },
-    {
-      "url": "https://vincentschmalbach.com/make-ai-writing-sound-human-logit-bias",
-      "title": "Logit_bias",
-      "date": "2026-07-30"
-    },
-    {
-      "url": "https://thezvi.wordpress.com/2026/07/29/frontier-lab-employee-open-letter-calls-for-being-able-to-pace-the-frontier",
-      "title": "Frontier",
-      "date": "2026-07-30"
-    },
-    {
-      "url": "https://github.com/drumih/turbo-fieldfare",
-      "title": "Turbofieldfare",
-      "date": "2026-07-30"
-    },
-    {
-      "url": "https://langchain.com/blog/deep-agents-v0-7",
-      "title": "Deep Agents V0.7",
-      "date": "2026-07-30"
-    },
-    {
-      "url": "https://embrace.io/blog/research-core-web-vitals",
-      "title": "For Your Site",
-      "date": "2026-07-30"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/egt7as",
-      "title": "Benchmark",
-      "date": "2026-07-30"
-    },
-    {
-      "url": "https://huggingface.co/blog/liquidai/lfm2-5-encoders",
-      "title": "Cpu-friendly Long-context Encoders",
-      "date": "2026-07-30"
-    },
-    {
-      "url": "https://andonlabs.com/blog/opus-5-vending-bench",
-      "title": "Misaligned",
-      "date": "2026-07-30"
-    },
-    {
-      "url": "https://frantic.im/mirage",
-      "title": "The Productivity Mirage",
-      "date": "2026-07-30"
-    },
-    {
-      "url": "https://github.com/perplexityai/numbat",
-      "title": "Numbat",
-      "date": "2026-07-30"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/cksm4b",
-      "title": "Ai's 2008 Moment",
-      "date": "2026-07-30"
-    },
-    {
-      "url": "https://depot.dev/blog/github-is-the-wrong-shape-for-this-new-world",
-      "title": "Github is the Wrong Shape for This New World",
-      "date": "2026-07-30"
-    },
-    {
-      "url": "https://visual-prompt-engineering.github.io",
-      "title": "Visual Prompts in Video Models",
-      "date": "2026-07-30"
-    },
-    {
-      "url": "https://gilesthomas.com/2026/07/why-do-openai-gpt2-weights-beat-mine-1-intro",
-      "title": "Why Do Openai's Gpt-2 Weights Beat Mine?",
-      "date": "2026-07-30"
-    },
-    {
-      "url": "https://research.nvidia.com/labs/genair/pdd",
-      "title": "Parallel Decoding for Video Generation",
-      "date": "2026-07-30"
-    },
-    {
-      "url": "https://zachholman.com/posts/cold-email",
-      "title": "The Cold Email",
-      "date": "2026-07-30"
-    },
-    {
-      "url": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai",
-      "title": "Thinking Machines Cofounder Joined Openai",
-      "date": "2026-07-30"
-    },
-    {
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/lyria-3-5",
-      "title": "Musicality, Lyrics, Vocals, and Creative Control",
-      "date": "2026-07-30"
-    },
-    {
-      "url": "https://pangram.com/blog/introducing-pangram-4",
-      "title": "Introducing Pangram 4",
-      "date": "2026-07-30"
-    },
-    {
       "url": "https://obryant.dev/p/2x-not-10x",
       "title": "2x, Not 10x: Coding With Llms in 2026",
       "date": "2026-07-31"
@@ -1299,6 +1189,121 @@
       "url": "https://huggingface.co/qwen/qwen3.8-2.4t-a95b",
       "title": "Qwen3.8-2.4t-a95b",
       "date": "2026-08-13"
+    },
+    {
+      "url": "https://earendil.com/posts/compaction-in-pi",
+      "title": "How Compaction Works in Pi",
+      "date": "2026-08-14"
+    },
+    {
+      "url": "https://geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
+      "title": "Understanding is the New Bottleneck",
+      "date": "2026-08-14"
+    },
+    {
+      "url": "https://anthropic.com/research/multiagent-systems",
+      "title": "How Ai Agents Could Fail at Scale",
+      "date": "2026-08-14"
+    },
+    {
+      "url": "https://itamargilad.com/artificial-competence",
+      "title": "The Ai Competence/judgement Gap",
+      "date": "2026-08-14"
+    },
+    {
+      "url": "https://github.com/vercel-labs/eve-software-factory-template",
+      "title": "Foreman",
+      "date": "2026-08-14"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/rwdewb",
+      "title": "Agent Plugins Are the Future of Agent Skills",
+      "date": "2026-08-14"
+    },
+    {
+      "url": "https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality",
+      "title": "Factuality",
+      "date": "2026-08-14"
+    },
+    {
+      "url": "https://newsletter.vickiboykis.com/archive/write-for-people",
+      "title": "Write for People",
+      "date": "2026-08-14"
+    },
+    {
+      "url": "https://seangoedecke.com/blog-about-things-you-dont-understand-yet",
+      "title": "Blog About Things You Don't Understand Yet",
+      "date": "2026-08-14"
+    },
+    {
+      "url": "https://chinatalk.media/p/the-deepseek-thesis",
+      "title": "The Deepseek Thesis",
+      "date": "2026-08-14"
+    },
+    {
+      "url": "https://antmurphy.me/newsletter/nobody-actually-prioritising-value",
+      "title": "Nobody's Actually Prioritising \u2018value'",
+      "date": "2026-08-14"
+    },
+    {
+      "url": "https://dpereira.substack.com/p/cutting-the-noise",
+      "title": "Cutting the Noise",
+      "date": "2026-08-14"
+    },
+    {
+      "url": "https://productpower.substack.com/p/generative-media-beyond-the-model",
+      "title": "Generative Media Beyond the Model Race",
+      "date": "2026-08-14"
+    },
+    {
+      "url": "https://spin.atomicobject.com/carry-on-with-demo",
+      "title": "Keep Calm and Carry On\u2026 With Your Demo",
+      "date": "2026-08-14"
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2087682699364573687.html",
+      "title": "The Top Reasons Ai Stalls Inside Companies",
+      "date": "2026-08-14"
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/13/x-open-sources-its-ranking-algorithm-letting-users-see-if-theyve-been-shadowbanned",
+      "title": "Been \u2018shadowbanned'",
+      "date": "2026-08-14"
+    },
+    {
+      "url": "https://a16z.news/p/this-essay-is-10-ai-generated",
+      "title": "Pangram, Authorship, and French Theory",
+      "date": "2026-08-14"
+    },
+    {
+      "url": "https://theengineeringmanager.substack.com/p/landing-the-plane",
+      "title": "Landing the Plane",
+      "date": "2026-08-14"
+    },
+    {
+      "url": "https://cursor.com/blog/builds",
+      "title": "Cloud Agents Start 3x Faster With Builds",
+      "date": "2026-08-14"
+    },
+    {
+      "url": "https://testingcatalog.com/google-tests-agent-management-ui-on-ai-studio",
+      "title": "Google Tests Agent Management Ui on Ai Studio",
+      "date": "2026-08-14"
+    },
+    {
+      "url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
+      "title": "Introducing Bluesky Protocol Services",
+      "date": "2026-08-14"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash",
+      "title": "Introducing Gemini 3.7 Flash",
+      "date": "2026-08-14"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/8neg6k",
+      "title": "Influence at Anthropic",
+      "date": "2026-08-14"
     }
   ],
   "feedback": [
