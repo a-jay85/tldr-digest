@@ -1887,6 +1887,27 @@
       "vote": "up",
       "source": "TLDR",
       "date": "2026-08-12"
+    },
+    {
+      "url": "https://itamargilad.com/artificial-competence",
+      "title": "The Ai Competence/judgement Gap",
+      "vote": "up",
+      "source": "TLDR Product",
+      "date": "2026-08-14"
+    },
+    {
+      "url": "https://seangoedecke.com/blog-about-things-you-dont-understand-yet",
+      "title": "Blog About Things You Don't Understand Yet",
+      "vote": "up",
+      "source": "TLDR Dev",
+      "date": "2026-08-14"
+    },
+    {
+      "url": "https://a16z.news/p/this-essay-is-10-ai-generated",
+      "title": "Pangram, Authorship, and French Theory",
+      "vote": "up",
+      "source": "TLDR",
+      "date": "2026-08-14"
     }
   ]
 }
