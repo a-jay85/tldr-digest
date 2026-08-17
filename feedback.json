@@ -1,166 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://obryant.dev/p/2x-not-10x",
-      "title": "2x, Not 10x: Coding With Llms in 2026",
-      "date": "2026-07-31"
-    },
-    {
-      "url": "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html",
-      "title": "The Economic Benefit of Refactoring",
-      "date": "2026-07-31"
-    },
-    {
-      "url": "https://steelmanlabs.com/blog/computer-use-is-far-from-solved",
-      "title": "Computer Use is Far From Solved",
-      "date": "2026-07-31"
-    },
-    {
-      "url": "https://cursor.com/blog/cloud-agent-environment",
-      "title": "Building Cloud Environments for Coding Agents",
-      "date": "2026-07-31"
-    },
-    {
-      "url": "https://github.com/yoanwai/agent-manager",
-      "title": "Agent Manager",
-      "date": "2026-07-31"
-    },
-    {
-      "url": "https://dpereira.substack.com/p/building-with-ai-isnt-enough",
-      "title": "Building With Ai Isn't Enough",
-      "date": "2026-07-31"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/0tzs5n",
-      "title": "From Vague Requirements to Testable Stories",
-      "date": "2026-07-31"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/bgiuxm",
-      "title": "Box",
-      "date": "2026-07-31"
-    },
-    {
-      "url": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
-      "title": "Meet Stripe's Knowledge Ai Platform",
-      "date": "2026-07-31"
-    },
-    {
-      "url": "https://richmironov.substack.com/p/barbell-shaped-product-roles",
-      "title": "Barbell-shaped Product Roles",
-      "date": "2026-07-31"
-    },
-    {
-      "url": "https://marcobambini.substack.com/p/the-waste-inference-engine",
-      "title": "The Waste Inference Engine",
-      "date": "2026-07-31"
-    },
-    {
-      "url": "https://arjunbansal.substack.com/p/open-weight-llms-have-caught-up-on",
-      "title": "Open-weight Llms Have Caught up on Accuracy",
-      "date": "2026-07-31"
-    },
-    {
-      "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview",
-      "title": "Stacked Pull Requests Are Now in Public Preview",
-      "date": "2026-07-31"
-    },
-    {
-      "url": "https://github.com/experientiallabs/world-model-optimizer",
-      "title": "World Model Optimizer",
-      "date": "2026-07-31"
-    },
-    {
-      "url": "https://a16z.news/p/the-next-ai-moat-isnt-a-better-model",
-      "title": "The Next Ai Moat Isn't a Better Model",
-      "date": "2026-07-31"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/1lmstd",
-      "title": "The Agent Graveyard Isn't Real Anymore",
-      "date": "2026-07-31"
-    },
-    {
-      "url": "https://ai.google.dev/gemini-api/docs/live-api?linkid=63011869",
-      "title": "Gemini Live Api Overview",
-      "date": "2026-07-31"
-    },
-    {
-      "url": "https://bottlenecklabs.com/blog/autonomously-run-businesses",
-      "title": "Gpt 5.6 Sol Ran a Real Business",
-      "date": "2026-07-31"
-    },
-    {
-      "url": "https://blog.google/security/chrome-stronger-with-every-update",
-      "title": "In the Ai Era",
-      "date": "2026-07-31"
-    },
-    {
-      "url": "https://developer.nvidia.com/blog/nvidia-exemplar-cloud-lessons-for-unlocking-full-performance-on-ai-infrastructure",
-      "title": "Infrastructure",
-      "date": "2026-07-31"
-    },
-    {
-      "url": "https://earendil.com/posts/session-portability",
-      "title": "The Session You Cannot Take With You",
-      "date": "2026-07-31"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/jd2mzn",
-      "title": "Minimax H3",
-      "date": "2026-07-31"
-    },
-    {
-      "url": "https://arcee.ai/blog/teaching-an-open-model-to-do-science",
-      "title": "Teaching an Open Model to Do Science",
-      "date": "2026-07-31"
-    },
-    {
-      "url": "https://architecture-weekly.com/p/fixing-bugs-in-event-sourcing-is",
-      "title": "Fixing Bugs in Event Sourcing is Hard, for Real?",
-      "date": "2026-07-31"
-    },
-    {
-      "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic",
-      "title": "The Ai Aesthetic",
-      "date": "2026-07-31"
-    },
-    {
-      "url": "https://thinkingmachines.ai/news/inkling-small",
-      "title": "Inkling-small",
-      "date": "2026-07-31"
-    },
-    {
-      "url": "https://cnbc.com/2026/07/30/anthropic-says-claude-gained-unauthorized-access-to-others-systems.html",
-      "title": "Other Organizations' Systems",
-      "date": "2026-07-31"
-    },
-    {
-      "url": "https://anthropic.com/news/investigating-incidents-cybersecurity-evals",
-      "title": "Evaluations",
-      "date": "2026-07-31"
-    },
-    {
-      "url": "https://blog.dshr.org/2026/07/microsofts-project-silica.html",
-      "title": "Microsoft's Project Silica",
-      "date": "2026-07-31"
-    },
-    {
-      "url": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming",
-      "title": "Coming",
-      "date": "2026-07-31"
-    },
-    {
-      "url": "https://github.com/opengeos/geolibre",
-      "title": "Geolibre",
-      "date": "2026-07-31"
-    },
-    {
-      "url": "https://cutlefish.substack.com/p/tbm-433-the-border-collie-faustian",
-      "title": "The Border Collie Faustian Bargain",
-      "date": "2026-07-31"
-    },
-    {
       "url": "https://domenic.me/agentic-coding-setup",
       "title": "My Agentic Coding Setup, July 2026",
       "date": "2026-08-04"
@@ -1304,6 +1144,91 @@
       "url": "https://links.tldrnewsletter.com/8neg6k",
       "title": "Influence at Anthropic",
       "date": "2026-08-14"
+    },
+    {
+      "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+      "title": "Maximizing the Value of Your Claude Code Sessions",
+      "date": "2026-08-17"
+    },
+    {
+      "url": "https://nolanlawson.com/2026/08/16/you-can-just-choose-how-many-bugs-you-want-now",
+      "title": "You Can Just Choose How Many Bugs You Want Now",
+      "date": "2026-08-17"
+    },
+    {
+      "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse",
+      "title": "Why Does Opus 5 Feel Worse to Work With?",
+      "date": "2026-08-17"
+    },
+    {
+      "url": "https://sunilpai.dev/posts/the-task-isnt-the-job",
+      "title": "The Task Isn't the Job",
+      "date": "2026-08-17"
+    },
+    {
+      "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
+      "title": "Models Are Getting Dumber on Purpose",
+      "date": "2026-08-17"
+    },
+    {
+      "url": "https://yagmin.com/blog/code-is-the-byproduct",
+      "title": "Code is the Byproduct",
+      "date": "2026-08-17"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/oamiss",
+      "title": "Dropout",
+      "date": "2026-08-17"
+    },
+    {
+      "url": "https://github.com/lajosdeme/mole",
+      "title": "Mole",
+      "date": "2026-08-17"
+    },
+    {
+      "url": "https://newsletter.getdx.com/p/your-benchmarks-dont-apply-to-us",
+      "title": "\u201cyour Benchmarks Don't Apply to Us\"",
+      "date": "2026-08-17"
+    },
+    {
+      "url": "https://sankalp.bearblog.dev/autoresearch",
+      "title": "Baseline With Codex in Gpu Mode's Qr_v2 Problem",
+      "date": "2026-08-17"
+    },
+    {
+      "url": "https://buf.build/blog/protobuf-lsp",
+      "title": "Protobuf Finally Has Lsp Support. You're Welcome",
+      "date": "2026-08-17"
+    },
+    {
+      "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark",
+      "title": "Everything is About to \u201cgo Dark\u201d",
+      "date": "2026-08-17"
+    },
+    {
+      "url": "https://bernsteinbear.com/blog/zkp",
+      "title": "A Quick Look at Zero-knowledge Proofs",
+      "date": "2026-08-17"
+    },
+    {
+      "url": "https://marble.onl/posts/evaluating_ai_product_quality.html",
+      "title": "Evaluating Ai Agents as Products",
+      "date": "2026-08-17"
+    },
+    {
+      "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+      "title": "Who Are the Token Brokers?",
+      "date": "2026-08-17"
+    },
+    {
+      "url": "https://implicator.ai/z-ai-delays-glm-5-3-weights-two-weeks-after-cyber-score-beats-mythos-5",
+      "title": "5",
+      "date": "2026-08-17"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/hd7zza",
+      "title": "So You Want to Build an Ai Star?",
+      "date": "2026-08-17"
     }
   ],
   "feedback": [
