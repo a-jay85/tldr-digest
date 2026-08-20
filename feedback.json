@@ -1,106 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://links.tldrnewsletter.com/hg16hj",
-      "title": "What Codex Actually Sends to the Model",
-      "date": "2026-08-05"
-    },
-    {
-      "url": "https://earendil.com/posts/pi-autoresearch-and-databricks",
-      "title": "Pi, Minimal and Performant",
-      "date": "2026-08-05"
-    },
-    {
-      "url": "https://kiro.dev/blog/introducing-kiro-crew",
-      "title": "Introducing Kiro Crew",
-      "date": "2026-08-05"
-    },
-    {
-      "url": "https://simonwillison.net/2026/jul/31/stateless-mcp",
-      "title": "And Datasette-mcp)",
-      "date": "2026-08-05"
-    },
-    {
-      "url": "https://warp.dev/blog/introducing-the-warp-agent-cli-coding-agent",
-      "title": "Others Can't",
-      "date": "2026-08-05"
-    },
-    {
-      "url": "https://productcurious.com/p/deep-dive-why-did-doordash-ship-a",
-      "title": "Deep Dive: Why Did Doordash Ship a Cli?",
-      "date": "2026-08-05"
-    },
-    {
-      "url": "https://noahpinion.blog/p/the-end-of-the-age-of-heroes",
-      "title": "The End of the Age of Heroes",
-      "date": "2026-08-05"
-    },
-    {
-      "url": "https://blog.cloudflare.com/wallets",
-      "title": "Agentic Internet",
-      "date": "2026-08-05"
-    },
-    {
-      "url": "https://thisandthat.chat/blog/most-tech-revolutions-made-work-worse-for-employees",
-      "title": "Exception",
-      "date": "2026-08-05"
-    },
-    {
-      "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing",
-      "title": "A Unified Api for Ai Model Routing",
-      "date": "2026-08-05"
-    },
-    {
-      "url": "https://404media.co/microsoft-tells-engineers-tokenmaxxing-is-not-what-we-are-optimizing-for",
-      "title": "Optimizing For'",
-      "date": "2026-08-05"
-    },
-    {
-      "url": "https://greaterwrong.com/posts/9c9kpkjjbmz7tmv3k/rewrite-all-the-code-all-the-time",
-      "title": "Rewrite All the Code, All the Time",
-      "date": "2026-08-05"
-    },
-    {
-      "url": "https://mistral.ai/news/shieldstral",
-      "title": "Introducing Shieldstral",
-      "date": "2026-08-05"
-    },
-    {
-      "url": "https://liquid.ai/blog/lfm2-5-2-6b",
-      "title": "Lfm2.5-2.6b: Deploy Agents Everywhere",
-      "date": "2026-08-05"
-    },
-    {
-      "url": "https://textslashplain.com/2026/08/04/security-is-hard-yall",
-      "title": "Web Security is Too Hard",
-      "date": "2026-08-05"
-    },
-    {
-      "url": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available",
-      "title": "Nvidia Released Alpamayo 2",
-      "date": "2026-08-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.00146",
-      "title": "Diffusiongemma Technical Report",
-      "date": "2026-08-05"
-    },
-    {
-      "url": "https://techcrunch.com/2026/08/04/bending-spoons-to-buy-airtable-for-1-28b",
-      "title": "Bending Spoons to Buy Airtable for $1.28b",
-      "date": "2026-08-05"
-    },
-    {
-      "url": "https://huggingface.co/nvidia/nvidia-nemotronlabs-voicechat-11b",
-      "title": "Nvidia's Real-time Full-duplex Voice Model",
-      "date": "2026-08-05"
-    },
-    {
-      "url": "https://blog.talosintelligence.com/keep-going-bro-youve-got-this-a-data-driven-look-at-how-adversaries-are-weaponizing-ai",
-      "title": "Adversaries Are Weaponizing Ai",
-      "date": "2026-08-05"
-    },
-    {
       "url": "https://primeintellect.ai/blog/prime-agent",
       "title": "Prime Agent: a Self-improving Rlm Agent",
       "date": "2026-08-06"
@@ -1304,6 +1204,111 @@
       "url": "https://etched.com/progress/from-zero-to-one",
       "title": "From Zero to One",
       "date": "2026-08-19"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/7evths",
+      "title": "Right-sizing Your Intelligence Spend",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/ol3w9y",
+      "title": "The Job Ain't Quite the Same",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://cursor.com/changelog/08-19-26",
+      "title": "Cloud Agents and Cursor Harness Improvements",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://redis.io/blog/compounding-context-memory-as-the-moat",
+      "title": "Agent Memory as a Moat: How Context Compounds",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://web.navan.dev/posts/2026-08-19-on-computer-use.html",
+      "title": "On Computer Use",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://jumploops.com/blog/sol-loves-to-cheat",
+      "title": "Sol Loves to Cheat",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://github.com/chaitanyagiri/munder-difflin",
+      "title": "Munder Difflin",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://github.com/onecli/onecli",
+      "title": "Onecli",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://raphaelbauer.com/posts/postgresql-everything",
+      "title": "Postgresql for Everything",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://lmsys.org/blog/2026-08-19-deepseek-v4-pro-engine-optimization-h20",
+      "title": "Pushing the Limits of Serving Deepseek-v4-pro",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://ngrok.com/blog/probes",
+      "title": "How Kubernetes Probes Work",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://github.com/betterwright/betterwright",
+      "title": "Betterwright",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://lovable.dev/blog/how-we-migrated-lovable-dev-away-from-nextjs",
+      "title": "Another Lovable App",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://replit.com/blog/replit-introduces-free-mode",
+      "title": "Replit Introduces Free Mode",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
+      "title": "Unsloth Dynamic 3.0 Ggufs",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://tipiirai.com/writing/bun-rust-rewrite-worries",
+      "title": "Bun 1.4 Rust Rewrite is Not Looking Good",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://github.com/ryancodrai/turbovec",
+      "title": "Turbovec",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://axios.com/2026/08/19/stripe-payments-openrouter-singularity",
+      "title": "Stripe Says \"the Singularity\" Has Begun",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://huggingface.co/superwhisper/s1-mini",
+      "title": "Superwhisper/s1-mini",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://testingcatalog.com/exclusive-early-outputs-of-muse-video-model-from-meta",
+      "title": "Early Outputs of Muse Video Model From Meta",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://hiraditya.github.io/posts/there-is-no-address",
+      "title": "There is No Address",
+      "date": "2026-08-20"
     }
   ],
   "feedback": [
