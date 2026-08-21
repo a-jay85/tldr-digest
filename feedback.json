@@ -1,101 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://primeintellect.ai/blog/prime-agent",
-      "title": "Prime Agent: a Self-improving Rlm Agent",
-      "date": "2026-08-06"
-    },
-    {
-      "url": "https://data4sci.com/blog/building-an-advanced-agentic-harness",
-      "title": "Building an Advanced Agentic Harness",
-      "date": "2026-08-06"
-    },
-    {
-      "url": "https://newsletter.getdx.com/p/what-are-code-reviews-even-for",
-      "title": "What Are Code Reviews Even For?",
-      "date": "2026-08-06"
-    },
-    {
-      "url": "https://cmpnd.ai/blog/let-the-model-write-the-code.html",
-      "title": "Introducing Flex: Let the Model Write the Code",
-      "date": "2026-08-06"
-    },
-    {
-      "url": "https://thezvi.wordpress.com/2026/08/05/the-three-ai-pills",
-      "title": "The Three Ai Pills",
-      "date": "2026-08-06"
-    },
-    {
-      "url": "https://evilmartians.com/chronicles/the-secure-way-to-release-an-npm-package",
-      "title": "The Secure Way to Release an Npm Package in 2026",
-      "date": "2026-08-06"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/gucp8w",
-      "title": "Rl Environments Are All You Need",
-      "date": "2026-08-06"
-    },
-    {
-      "url": "https://constraintlab.com/blog/ai-is-a-bubble-just-like-dot-com.html",
-      "title": "Ai is a Bubble, Just Like Dot-com",
-      "date": "2026-08-06"
-    },
-    {
-      "url": "https://seangoedecke.com/continuous-learning",
-      "title": "What's So Hard About Continuous Learning?",
-      "date": "2026-08-06"
-    },
-    {
-      "url": "https://theaiengineer.substack.com/p/should-you-self-host-inference",
-      "title": "Should You Self-host Inference?",
-      "date": "2026-08-06"
-    },
-    {
-      "url": "https://github.com/cloudflare/cloudflare-os",
-      "title": "Cloudflare Os",
-      "date": "2026-08-06"
-    },
-    {
-      "url": "https://weli.dev/blog/the-valley-of-webhooks",
-      "title": "The Valley of Webhooks",
-      "date": "2026-08-06"
-    },
-    {
-      "url": "https://blog.cloudflare.com/the-agent-access-model",
-      "title": "The Agent Access Model",
-      "date": "2026-08-06"
-    },
-    {
-      "url": "https://runtimewire.com/article/exclusive-openai-agents-rebuilt-a-secret-message-board-after-the-company-shut-it",
-      "title": "It Down",
-      "date": "2026-08-06"
-    },
-    {
-      "url": "https://astralcodexten.com/p/open-questions-on-open-weights",
-      "title": "Open Questions on Open Weights",
-      "date": "2026-08-06"
-    },
-    {
-      "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
-      "title": "Meta Releases Muse Code",
-      "date": "2026-08-06"
-    },
-    {
-      "url": "https://blog.fogus.me/llm/born-against.html",
-      "title": "Against Llm Usage",
-      "date": "2026-08-06"
-    },
-    {
-      "url": "https://github.com/uber/adr",
-      "title": "Adr",
-      "date": "2026-08-06"
-    },
-    {
-      "url": "https://naomibashkansky.com/blog/telepathy",
-      "title": "Why I'm Leaving Openai to Build Telepathy",
-      "date": "2026-08-06"
-    },
-    {
       "url": "https://code.claude.com/docs/en/cross-session-messaging",
       "title": "Message Your Other Claude Code Sessions",
       "date": "2026-08-10"
@@ -1309,6 +1214,126 @@
       "url": "https://hiraditya.github.io/posts/there-is-no-address",
       "title": "There is No Address",
       "date": "2026-08-20"
+    },
+    {
+      "url": "https://runtimewire.com/article/anthropic-s-project-parka-sits-through-meetings-and-assigns-claude-agents-the-ho",
+      "title": "Agents the Homework",
+      "date": "2026-08-21"
+    },
+    {
+      "url": "https://mistral.ai/news/agentic-search",
+      "title": "Loop",
+      "date": "2026-08-21"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/wf1kdt",
+      "title": "Files for Production Agents",
+      "date": "2026-08-21"
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2090278256306229675.html",
+      "title": "Why Ai Makes Experts More Valuable",
+      "date": "2026-08-21"
+    },
+    {
+      "url": "https://antigravity.google/blog/antigravity-enterprise",
+      "title": "Existing Ides",
+      "date": "2026-08-21"
+    },
+    {
+      "url": "https://danielvaughn.dev/posts/huzzah",
+      "title": "Huzzah",
+      "date": "2026-08-21"
+    },
+    {
+      "url": "https://richmironov.substack.com/p/technical-ingredients-revenue-ingredients",
+      "title": "Technical Ingredients, Revenue Ingredients",
+      "date": "2026-08-21"
+    },
+    {
+      "url": "https://galratner.substack.com/p/the-end-of-open-source",
+      "title": "The End of Open Source",
+      "date": "2026-08-21"
+    },
+    {
+      "url": "https://tomtunguz.com/previously-unmanufacturable",
+      "title": "Previously Unmanufacturable",
+      "date": "2026-08-21"
+    },
+    {
+      "url": "https://franciscotrindade.me/blog/the-kids-are-really-alright",
+      "title": "The Kids Are Really Alright",
+      "date": "2026-08-21"
+    },
+    {
+      "url": "https://davidpoblador.com/blog/the-next-github-is-not-worth-winning.html",
+      "title": "The Next Github is Not Worth Winning",
+      "date": "2026-08-21"
+    },
+    {
+      "url": "https://dpereira.substack.com/p/the-art-of-simplifying-decisions",
+      "title": "The Art of Simplifying Decisions",
+      "date": "2026-08-21"
+    },
+    {
+      "url": "https://jennywanger.com/articles/influence-doesnt-come-with-the-promotion",
+      "title": "Influence Doesn't Come With the Promotion",
+      "date": "2026-08-21"
+    },
+    {
+      "url": "https://tanstack.com/blog/tanstack-router-navigation-lanes",
+      "title": "Inside a Tanstack Router Navigation",
+      "date": "2026-08-21"
+    },
+    {
+      "url": "https://chrisburnell.com/html-can-do-that",
+      "title": "Html Can Do That",
+      "date": "2026-08-21"
+    },
+    {
+      "url": "https://thegustafson.com/blog/paged-attention",
+      "title": "Pagedattention: Virtual Memory for the Kv Cache",
+      "date": "2026-08-21"
+    },
+    {
+      "url": "https://github.com/bgub/fig",
+      "title": "Fig",
+      "date": "2026-08-21"
+    },
+    {
+      "url": "https://matklad.github.io/2026/08/20/better-batteries.html",
+      "title": "Better Batteries",
+      "date": "2026-08-21"
+    },
+    {
+      "url": "https://newsletter.weskao.com/p/turn-bugs-into-features",
+      "title": "Turn Bugs Into Features",
+      "date": "2026-08-21"
+    },
+    {
+      "url": "https://ezyang.github.io/interactive-parallelize-transformer",
+      "title": "Parallelizing Transformer Training",
+      "date": "2026-08-21"
+    },
+    {
+      "url": "https://antonz.org/going-freestanding",
+      "title": "Going Freestanding",
+      "date": "2026-08-21"
+    },
+    {
+      "url": "https://strn.cat/posts/spacetime",
+      "title": "Spacetimedb: a Short Technical Review",
+      "date": "2026-08-21"
+    },
+    {
+      "url": "https://danhock.co/p/how-to-build-a-high-growth-os",
+      "title": "How to Build a High-growth Operating System",
+      "date": "2026-08-21"
+    },
+    {
+      "url": "https://a16z.news/p/rise-of-the-borderless-founder",
+      "title": "Rise of the Borderless Founder",
+      "date": "2026-08-21"
     }
   ],
   "feedback": [
