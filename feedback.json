@@ -1,186 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://code.claude.com/docs/en/cross-session-messaging",
-      "title": "Message Your Other Claude Code Sessions",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://addyo.substack.com/p/agentic-code-quality",
-      "title": "Agentic Code Quality",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn",
-      "title": "How I Use Llms to Learn Complex Topics",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://coinbase.com/blog/interviewing-engineers-in-the-ai-era-lessons-from-a-year-of-rebuilding",
-      "title": "Rebuilding",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
-      "title": "Taste is All That's Left",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/k4xrwf",
-      "title": "Why Engineering Leaders Are Walking Away",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://leonfurze.com/2026/08/09/the-window-of-critique-for-ai-is-closing-fast",
-      "title": "The Window of Critique for Ai is Closing Fast",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://lalitm.com/post/changing-devtools-is-cheap-owning-them-isnt",
-      "title": "Changing Devtools is Cheap. Owning Them Isn't",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://vercel.com/blog/introducing-agent-plugins",
-      "title": "Agent Plugins",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak",
-      "title": "Make a Decent One)",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://frontierai.substack.com/p/the-saas-extinction-test-f6e",
-      "title": "The Saas Extinction Test",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://shayon.dev/post/2026/220/every-fast-write-moves-work-somewhere-else",
-      "title": "Every Fast Write Moves Work Somewhere Else",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://asimovaddendum.substack.com/p/googles-westinghouse-bet",
-      "title": "Google's Westinghouse Bet",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://github.com/huangruiteng/loopx",
-      "title": "Loopx",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/ip0z9y",
-      "title": "An Agentic Ide That Builds Itself",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://blog.cloudflare.com/kitesurf",
-      "title": "Cloudflare Workers",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/kpkp2q",
-      "title": "The End of No Code",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://rafa.ee/articles/progressive-enhanced-forms-htmx",
-      "title": "Building Progressively Enhanced Forms Using Htmx",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://spyglass.org/you-are-the-tokens",
-      "title": "If You're Not Paying for the Tokens...",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://blog.cloudflare.com/the-agentic-internet",
-      "title": "And Payable",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://boda.sh/blog/generative-ui",
-      "title": "Generative Ui",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://github.com/denoland/celld",
-      "title": "Celld",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://github.com/copilotkit/channels-sdk",
-      "title": "Channels Sdk",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring",
-      "title": "Clockwork",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://shopify.engineering/scaling-inventory-reservations",
-      "title": "Scaled (2026)",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://atproto.com/articles/atproto-for-distsys-engineers",
-      "title": "Atproto for Distributed Systems Engineers",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://spyglass.org/google-deepmind-hassabis-dean-gemini",
-      "title": "Google's Mind is Now Less Deep",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://simonwillison.net/2026/aug/7/openai-timeline",
-      "title": "Hugging Face",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://tomshardware.com/pc-components/cpus/amazon-cracks-down-on-cpu-waste-among-engineers-as-agentic-ai-crunch-intensifies-cpu-demand-makes-low-utilization-ec2-instances-a-hot-commodity",
-      "title": "Crunch Intensifies",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/q7zfqa",
-      "title": "Gpt-5.6 Luna Became Chatgpt's Default Free Model",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.05000",
-      "title": "How Modalities Learn Together",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/2kdgja",
-      "title": "Users",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://mht.wtf/post/jevons",
-      "title": "Reverse Jevons Paradox",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://news.harvard.edu/gazette/story/2026/08/when-ai-goes-rogue",
-      "title": "When Ai Goes Rogue",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone",
-      "title": "What Happened to Hackerone?",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://eejournal.com/article/practical-ai-dont-work-harder-work-smarter",
-      "title": "Practical Ai: Don't Work Harder; Work Smarter",
-      "date": "2026-08-10"
-    },
-    {
       "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
       "title": "Claude Code Makes Auto Mode the Default",
       "date": "2026-08-11"
@@ -1434,6 +1254,151 @@
       "url": "https://how.complexsystems.fail",
       "title": "How Complex Systems Fail",
       "date": "2026-08-24"
+    },
+    {
+      "url": "https://newsletter.port.io/p/how-uber-built-a-software-factory",
+      "title": "And the Platform Underneath",
+      "date": "2026-08-25"
+    },
+    {
+      "url": "https://vedanshh.com/blog/context-engineering",
+      "title": "The State Machine Nobody Designed",
+      "date": "2026-08-25"
+    },
+    {
+      "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+      "title": "Ai Coding Will Prevent Expertise",
+      "date": "2026-08-25"
+    },
+    {
+      "url": "https://alexzhang13.github.io/blog/2026/spec-ptc",
+      "title": "Speculative Programmatic Tool Calling",
+      "date": "2026-08-25"
+    },
+    {
+      "url": "https://blog.sshh.io/p/the-harness-is-the-company",
+      "title": "The Harness is the Company",
+      "date": "2026-08-25"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/ffdjqe",
+      "title": "The Economics of the Intelligence Frontier",
+      "date": "2026-08-25"
+    },
+    {
+      "url": "https://stratechery.com/2026/autonomy-and-innovation",
+      "title": "Autonomy and Innovation",
+      "date": "2026-08-25"
+    },
+    {
+      "url": "https://about.gitlab.com/blog/when-code-is-abundant",
+      "title": "When Code is Abundant",
+      "date": "2026-08-25"
+    },
+    {
+      "url": "https://github.com/rome-os/rome",
+      "title": "Rome",
+      "date": "2026-08-25"
+    },
+    {
+      "url": "https://blog.tymscar.com/posts/howtoreportabug",
+      "title": "How to Report a Bug So it Actually Gets Fixed",
+      "date": "2026-08-25"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/tck9t4",
+      "title": "Ai's Next Big Leap is Into the Real World",
+      "date": "2026-08-25"
+    },
+    {
+      "url": "https://codegood.co/writing/the-deadline-that-was-already-missed",
+      "title": "The Deadline That Was Already Missed",
+      "date": "2026-08-25"
+    },
+    {
+      "url": "https://highimpactengineering.substack.com/p/developers-must-become-mini-pms",
+      "title": "Developers Must Become Mini-pms",
+      "date": "2026-08-25"
+    },
+    {
+      "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits",
+      "title": "Stop Using Conventional Commits",
+      "date": "2026-08-25"
+    },
+    {
+      "url": "https://kciter.so/posts/how-to-design-animation/en",
+      "title": "How to Design an Animation",
+      "date": "2026-08-25"
+    },
+    {
+      "url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
+      "title": "Your Executable is a Sqlite Database",
+      "date": "2026-08-25"
+    },
+    {
+      "url": "https://github.com/getkern/kern",
+      "title": "Kern",
+      "date": "2026-08-25"
+    },
+    {
+      "url": "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency",
+      "title": "Anger, Anxiety and Agency",
+      "date": "2026-08-25"
+    },
+    {
+      "url": "https://davesresearch.com/good-move-enabling",
+      "title": "A Good Move is Enabling",
+      "date": "2026-08-25"
+    },
+    {
+      "url": "https://smart-interface-design-patterns.com/articles/big-bang-redesigns-vs-legacy-modernization",
+      "title": "Big-bang Redesigns Vs. Legacy Modernization",
+      "date": "2026-08-25"
+    },
+    {
+      "url": "https://github.com/deep-jlu/awesome-graph-engineering",
+      "title": "Graph Engineering",
+      "date": "2026-08-25"
+    },
+    {
+      "url": "https://github.com/picomq/picomq",
+      "title": "Picomq",
+      "date": "2026-08-25"
+    },
+    {
+      "url": "https://plicara.ai/research/agent-skill-languages",
+      "title": "What Language Are Agent Skills Written In?",
+      "date": "2026-08-25"
+    },
+    {
+      "url": "https://rushed-reflections.bearblog.dev/an-unlikely-experiment",
+      "title": "An Unlikely Experiment",
+      "date": "2026-08-25"
+    },
+    {
+      "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+      "title": "Engines",
+      "date": "2026-08-25"
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2089921630650925170.html",
+      "title": "Enterprise Ai's Biggest Opportunities",
+      "date": "2026-08-25"
+    },
+    {
+      "url": "https://wccftech.com/nvidia-groq-3-lpx-ai-inference-accelerator-full-production-supercharging-vera-rubin",
+      "title": "Speeds Ever Recorded",
+      "date": "2026-08-25"
+    },
+    {
+      "url": "https://tomtunguz.com/the-ai-cost-stack",
+      "title": "The Ai Bullwhip",
+      "date": "2026-08-25"
+    },
+    {
+      "url": "https://paulgraham.com/prepare.html",
+      "title": "How Universities Should Prepare Founders",
+      "date": "2026-08-25"
     }
   ],
   "feedback": [
