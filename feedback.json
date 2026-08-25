@@ -2052,6 +2052,27 @@
       "vote": "up",
       "source": "TLDR Dev",
       "date": "2026-08-19"
+    },
+    {
+      "url": "https://fabiensanglard.net/agent.md/index.html",
+      "title": "An Agent.md to Improve Llm-assisted Code Quality",
+      "vote": "down",
+      "source": "TLDR",
+      "date": "2026-08-24"
+    },
+    {
+      "url": "https://claude.com/blog/the-ai-native-sdlc-playbook",
+      "title": "The Ai-native Sdlc Playbook",
+      "vote": "up",
+      "source": "TLDR AI",
+      "date": "2026-08-24"
+    },
+    {
+      "url": "https://lalitm.com/post/find-problems-staff-engineer",
+      "title": "How I Find Problems to Solve as a Staff Engineer",
+      "vote": "up",
+      "source": "TLDR Dev",
+      "date": "2026-08-24"
     }
   ]
 }
