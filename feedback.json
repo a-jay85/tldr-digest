@@ -1,161 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
-      "title": "Claude Code Makes Auto Mode the Default",
-      "date": "2026-08-11"
-    },
-    {
-      "url": "https://justinjay.wang/designing-with-code",
-      "title": "Designing With Code",
-      "date": "2026-08-11"
-    },
-    {
-      "url": "https://martech.zone/i-built-a-travel-tech-startup-using-ai",
-      "title": "Engineering Team",
-      "date": "2026-08-11"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/iavncf",
-      "title": "Building an Ai-native Finance Team",
-      "date": "2026-08-11"
-    },
-    {
-      "url": "https://svpg.com/a-fresh-definition-of-the-product-role",
-      "title": "A Fresh Definition of the Product Role",
-      "date": "2026-08-11"
-    },
-    {
-      "url": "https://seangoedecke.com/local-models-will-not-win",
-      "title": "No, Local Models Will Not Win",
-      "date": "2026-08-11"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/uzx4fz",
-      "title": "Are Agents Really Killing Ui?",
-      "date": "2026-08-11"
-    },
-    {
-      "url": "https://diginomica.com/how-grindr-overhauled-its-back-end-while-terraforming-future-ai-native-no-engineering-constraints",
-      "title": "An Ai-native",
-      "date": "2026-08-11"
-    },
-    {
-      "url": "https://vercel.com/changelog/skill-packs-are-now-available",
-      "title": "Skill Packs Are Now Available on Skills.sh",
-      "date": "2026-08-11"
-    },
-    {
-      "url": "https://expo.dev/blog/fable-5-vs-gpt-5-6-sol-expo-apps",
-      "title": "Out Who Wins",
-      "date": "2026-08-11"
-    },
-    {
-      "url": "https://github.com/antigmalabs/ante",
-      "title": "Ante",
-      "date": "2026-08-11"
-    },
-    {
-      "url": "https://cutlefish.substack.com/p/tbm-435-20-unfiltered-operating-takes",
-      "title": "20 Unfiltered Operating Takes",
-      "date": "2026-08-11"
-    },
-    {
-      "url": "https://elliotcsmith.com/want-taste-eat-your-slop",
-      "title": "Want Taste? Eat Your Slop",
-      "date": "2026-08-11"
-    },
-    {
-      "url": "https://seangoedecke.com/advanced-ai-sycophancy",
-      "title": "Advanced Ai Sycophancy",
-      "date": "2026-08-11"
-    },
-    {
-      "url": "https://kai-waehner.de/blog/2026/08/10/why-enterprises-need-a-multi-model-ai-strategy-cost-compliance-and-resilience",
-      "title": "Resilience",
-      "date": "2026-08-11"
-    },
-    {
-      "url": "https://simonwillison.net/2026/aug/10/introducing-muse-glimmer",
-      "title": "Introducing Muse Glimmer",
-      "date": "2026-08-11"
-    },
-    {
-      "url": "https://davesresearch.com/good-move-grounded",
-      "title": "A Good Move is Grounded",
-      "date": "2026-08-11"
-    },
-    {
-      "url": "https://langchain.com/blog/managed-deep-agents-is-now-in-public-beta",
-      "title": "Managed Deep Agents is Now in Public Beta",
-      "date": "2026-08-11"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/nwzqml",
-      "title": "Ipo",
-      "date": "2026-08-11"
-    },
-    {
-      "url": "https://age-of-product.com/agile-product-operating-model-survey-results",
-      "title": "Actually Changing",
-      "date": "2026-08-11"
-    },
-    {
-      "url": "https://thezvi.wordpress.com/2026/08/08/what-happened-openai-and-huggingface",
-      "title": "What Happened: Openai and Huggingface",
-      "date": "2026-08-11"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/hvu00n",
-      "title": "The Neolabs Are a Bet Against Superintelligence",
-      "date": "2026-08-11"
-    },
-    {
-      "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-      "title": "Meta Released Muse Glimmer",
-      "date": "2026-08-11"
-    },
-    {
-      "url": "https://github.com/qwenlm/qwen-mm-plugins",
-      "title": "Qwen-mm-plugins",
-      "date": "2026-08-11"
-    },
-    {
-      "url": "https://randsinrepose.com/archives/fifteen-tics",
-      "title": "Fifteen Tics",
-      "date": "2026-08-11"
-    },
-    {
-      "url": "https://byroot.github.io/ruby/performance/2026/08/05/shrinking-ruby-hashes.html",
-      "title": "Shrinking Ruby Hashes",
-      "date": "2026-08-11"
-    },
-    {
-      "url": "https://abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986",
-      "title": "Cyber Attack",
-      "date": "2026-08-11"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/6nwnfu",
-      "title": "Gpt-5.6-cyber",
-      "date": "2026-08-11"
-    },
-    {
-      "url": "https://kernel.pryanic.com/posts/two-bets-on-standing-still-and-a-dark-horse",
-      "title": "Two Bets on Standing Still, and a Dark Horse",
-      "date": "2026-08-11"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/bx8nmr",
-      "title": "Openai Pauses Astra Over Cybersecurity Risks",
-      "date": "2026-08-11"
-    },
-    {
-      "url": "https://huggingface.co/blog/mayafree/model-dna",
-      "title": "Or Derived",
-      "date": "2026-08-11"
-    },
-    {
       "url": "https://venturebeat.com/orchestration/nvidias-switchyard-router-reshuffles-ai-models-mid-task-cutting-task-costs-to-a-third-in-its-own-tests",
       "title": "Task Costs to a Third in Its Own Tests",
       "date": "2026-08-12"
@@ -1399,6 +1244,121 @@
       "url": "https://paulgraham.com/prepare.html",
       "title": "How Universities Should Prepare Founders",
       "date": "2026-08-25"
+    },
+    {
+      "url": "https://scottspence.com/posts/agentic-engineering-practical-guide",
+      "title": "Agentic Engineering for Reliable Coding Agents",
+      "date": "2026-08-26"
+    },
+    {
+      "url": "https://githubnext.com/posts/knowledge-compressor",
+      "title": "Knowledge Compressor",
+      "date": "2026-08-26"
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux",
+      "title": "Product Thibault Sottiaux",
+      "date": "2026-08-26"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/9pwm3w",
+      "title": "Moats in the Age of Floods",
+      "date": "2026-08-26"
+    },
+    {
+      "url": "https://github.com/context-labs/whip",
+      "title": "Whip",
+      "date": "2026-08-26"
+    },
+    {
+      "url": "https://elliotcsmith.com/engineering-theatre",
+      "title": "Engineering Theatre",
+      "date": "2026-08-26"
+    },
+    {
+      "url": "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production",
+      "title": "How to Evaluate Llms Before Production",
+      "date": "2026-08-26"
+    },
+    {
+      "url": "https://ianbarber.blog/2026/08/24/vocab-break",
+      "title": "Vocab Break",
+      "date": "2026-08-26"
+    },
+    {
+      "url": "https://vercel.com/blog/the-end-of-credential-sprawl-for-agents",
+      "title": "Short-lived Credentials for Ai Agents",
+      "date": "2026-08-26"
+    },
+    {
+      "url": "https://vercel.com/blog/introducing-run",
+      "title": "Introducing Run Sdk: Secure Eval for Your Agents",
+      "date": "2026-08-26"
+    },
+    {
+      "url": "https://ventureinsecurity.net/p/how-ai-is-actually-remaking-security",
+      "title": "How Ai is Actually Remaking Security",
+      "date": "2026-08-26"
+    },
+    {
+      "url": "https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs",
+      "title": "Local Ai Agent With Zero Token Costs",
+      "date": "2026-08-26"
+    },
+    {
+      "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+      "title": "Granite 4.2 Llms: How They're Built",
+      "date": "2026-08-26"
+    },
+    {
+      "url": "https://ishadeed.com/article/flex-wrap-balance",
+      "title": "Balancing Flex Items With Flex-wrap",
+      "date": "2026-08-26"
+    },
+    {
+      "url": "https://rvier.fr/posts/why-i-wrote-my-own-monitoring-tool-en",
+      "title": "Monitoring Tool",
+      "date": "2026-08-26"
+    },
+    {
+      "url": "https://ilyabirman.net/meanwhile/all/let-me-click",
+      "title": "Let Me Click",
+      "date": "2026-08-26"
+    },
+    {
+      "url": "https://github.com/jd-opensource/joyai-echo",
+      "title": "Open Omnimodal World Models",
+      "date": "2026-08-26"
+    },
+    {
+      "url": "http://sebsite.pw/w/20260801-pythonconstants.html",
+      "title": "Python's Pre-declared Constants Are Kinda Weird",
+      "date": "2026-08-26"
+    },
+    {
+      "url": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference",
+      "title": "Development",
+      "date": "2026-08-26"
+    },
+    {
+      "url": "https://natemeyvis.com/some-recent-applications-of-ai",
+      "title": "Some Recent Applications of Ai",
+      "date": "2026-08-26"
+    },
+    {
+      "url": "https://appliedcompute.com/platform/introducing-ac2",
+      "title": "Applied Compute Agent Cloud",
+      "date": "2026-08-26"
+    },
+    {
+      "url": "https://apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
+      "title": "Compute",
+      "date": "2026-08-26"
+    },
+    {
+      "url": "https://electronicsweekly.com/blogs/mannerisms/dilemmas/could-nvidia-default-2026-08",
+      "title": "Could Nvidia Default?",
+      "date": "2026-08-26"
     }
   ],
   "feedback": [
