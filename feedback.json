@@ -1,116 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://venturebeat.com/orchestration/nvidias-switchyard-router-reshuffles-ai-models-mid-task-cutting-task-costs-to-a-third-in-its-own-tests",
-      "title": "Task Costs to a Third in Its Own Tests",
-      "date": "2026-08-12"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/jvlyms",
-      "title": "The Frictions That Make Ai Forecasting Hard",
-      "date": "2026-08-12"
-    },
-    {
-      "url": "https://vercel.com/blog/everything-hackable-will-get-hacked",
-      "title": "Everything Hackable Will Get Hacked",
-      "date": "2026-08-12"
-    },
-    {
-      "url": "https://lethain.com/decisions-not-dates",
-      "title": "Roadmap Decisions Rather Than Dates",
-      "date": "2026-08-12"
-    },
-    {
-      "url": "https://modular.com/blog/modular-26-5-mojo-1-0-is-here",
-      "title": "Modular 26.5: Mojo 1.0 is Here!",
-      "date": "2026-08-12"
-    },
-    {
-      "url": "https://lovable.dev/blog/the-model-picker-is-a-dead-end",
-      "title": "The Model Picker is a Dead End",
-      "date": "2026-08-12"
-    },
-    {
-      "url": "https://learn.chatgpt.com/docs/import",
-      "title": "Import From Another Agent",
-      "date": "2026-08-12"
-    },
-    {
-      "url": "https://baweaver.com/writing/2026/08/09/beyond-senior-creating-hope",
-      "title": "Creating Hope",
-      "date": "2026-08-12"
-    },
-    {
-      "url": "https://github.com/sourcebot-dev/sourcebot",
-      "title": "Sourcebot",
-      "date": "2026-08-12"
-    },
-    {
-      "url": "https://github.com/corsairdev/corsair",
-      "title": "Corsair",
-      "date": "2026-08-12"
-    },
-    {
-      "url": "https://stolen-thoughts.com",
-      "title": "Stolen Thoughts",
-      "date": "2026-08-12"
-    },
-    {
-      "url": "https://excamera.substack.com/p/make-everything-look-like-a-software",
-      "title": "Make Everything Look Like a Software Project",
-      "date": "2026-08-12"
-    },
-    {
-      "url": "https://huggingface.co/nvidia/nvidia-nemotron-3.5-lightning-30b-a3b-nvfp4",
-      "title": "Nemotron 3.5 Lightning",
-      "date": "2026-08-12"
-    },
-    {
-      "url": "https://ngrok.com/blog/compression-is-prediction",
-      "title": "Compression is Prediction",
-      "date": "2026-08-12"
-    },
-    {
-      "url": "https://newsletter.ai-frontiers.org/p/agi-will-set-off-an-industrial-explosion",
-      "title": "Agi Will Set Off an Industrial Explosion",
-      "date": "2026-08-12"
-    },
-    {
-      "url": "http://x.ai/news/introducing-grok-bot",
-      "title": "Introducing Grok Bot",
-      "date": "2026-08-12"
-    },
-    {
-      "url": "https://planetscale.com/blog/the-dangers-of-postgres-subtransactions",
-      "title": "The Dangers of Postgres Subtransactions",
-      "date": "2026-08-12"
-    },
-    {
-      "url": "https://blog.helsing.ai/posts/on-comments",
-      "title": "On Comments",
-      "date": "2026-08-12"
-    },
-    {
-      "url": "https://research.nvidia.com/labs/sil/projects/worldtrace",
-      "title": "Memory in Video World Models",
-      "date": "2026-08-12"
-    },
-    {
-      "url": "https://danielmiessler.com/blog/where-watermarks-hide-in-text",
-      "title": "Where an Ai Watermark Can Hide in Plain Text",
-      "date": "2026-08-12"
-    },
-    {
-      "url": "https://arslan.io/2026/08/10/joining-cursor",
-      "title": "Joining Cursor",
-      "date": "2026-08-12"
-    },
-    {
-      "url": "https://stratechery.com/2026/nvidias-risky-business",
-      "title": "Nvidia's Risky Business",
-      "date": "2026-08-12"
-    },
-    {
       "url": "https://wesmckinney.com/blog/agentic-engineering-aug-2026",
       "title": "How a Three-person Team Ships Hundreds of Prs",
       "date": "2026-08-13"
@@ -1359,6 +1249,121 @@
       "url": "https://electronicsweekly.com/blogs/mannerisms/dilemmas/could-nvidia-default-2026-08",
       "title": "Could Nvidia Default?",
       "date": "2026-08-26"
+    },
+    {
+      "url": "https://github.com/microsoft/autosaddler",
+      "title": "Automatic Harness Optimization",
+      "date": "2026-08-27"
+    },
+    {
+      "url": "https://scott-fryxell.github.io/blog/the-harness-is-the-thing",
+      "title": "The Harness is the Thing",
+      "date": "2026-08-27"
+    },
+    {
+      "url": "https://theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet",
+      "title": "Quiet",
+      "date": "2026-08-27"
+    },
+    {
+      "url": "https://acceptmarkdown.com",
+      "title": "Serve Markdown to Ai Agents With Accept Headers",
+      "date": "2026-08-27"
+    },
+    {
+      "url": "https://blog.bytebytego.com/p/how-to-make-llms-3x-faster",
+      "title": "How to Make Llms 3x Faster",
+      "date": "2026-08-27"
+    },
+    {
+      "url": "https://nekuda.substack.com/p/breaking-chatgpt-now-supports-webmcp",
+      "title": "Chatgpt Now Supports Webmcp",
+      "date": "2026-08-27"
+    },
+    {
+      "url": "https://claude.com/blog/cowork-built-in-browser",
+      "title": "Claude Gets Its Own Browser in Cowork",
+      "date": "2026-08-27"
+    },
+    {
+      "url": "https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents",
+      "title": "Vms Won't Contain Cyber-capable Agents",
+      "date": "2026-08-27"
+    },
+    {
+      "url": "https://chrissmith.xyz/blog/2026/the-process-of-migrating-from-sass-to-native-css",
+      "title": "The Process of Migrating From Sass to Native Css",
+      "date": "2026-08-27"
+    },
+    {
+      "url": "https://conspicuouscognition.com/p/most-questions-about-ai-arent-about",
+      "title": "Most Questions About Ai Aren't About Ai",
+      "date": "2026-08-27"
+    },
+    {
+      "url": "https://z.ai/blog/glm-5.3-flash",
+      "title": "Ox-alpha Revealed as Glm-5.3-flash",
+      "date": "2026-08-27"
+    },
+    {
+      "url": "https://thedeepview.com/articles/what-z-ai-s-ox-alpha-reveals-about-ai-economics",
+      "title": "What Z.ai's Ox Alpha Reveals About Ai Economics",
+      "date": "2026-08-27"
+    },
+    {
+      "url": "https://github.com/tencent/wemm-embedding",
+      "title": "Wechat Released Family of Embedding Models",
+      "date": "2026-08-27"
+    },
+    {
+      "url": "https://ghacks.net/2026/08/26/google-reportedly-in-advanced-talks-for-1-5-billion-deal-with-ai-coding-startup-mechanize",
+      "title": "Coding Startup Mechanize",
+      "date": "2026-08-27"
+    },
+    {
+      "url": "https://allthingsdistributed.com/2026/08/duckdb-and-the-changing-physics-of-analytics.html",
+      "title": "Duckdb and the Changing Physics of Analytics",
+      "date": "2026-08-27"
+    },
+    {
+      "url": "https://developer.meta.com/ai/models/muse-image",
+      "title": "Muse Image",
+      "date": "2026-08-27"
+    },
+    {
+      "url": "https://github.com/sentelabsai/openexecutive",
+      "title": "Openexecutive",
+      "date": "2026-08-27"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/3p5o0a",
+      "title": "Nvidia in Talks to Buy Ai Startup Hugging Face",
+      "date": "2026-08-27"
+    },
+    {
+      "url": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent",
+      "title": "Disruptive Actions\u201d",
+      "date": "2026-08-27"
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/salesforce-just-put-its-entire-crm-inside-claude-and-says-youll-never-need-its-app-again",
+      "title": "Never Need Its App Again",
+      "date": "2026-08-27"
+    },
+    {
+      "url": "https://cnbc.com/2026/08/26/salesforce-anthropic-partnership-claudeforce.html",
+      "title": "\u2018saaspocalypse' Concerns",
+      "date": "2026-08-27"
+    },
+    {
+      "url": "https://blog.himanshuanand.com/2026/08/i-had-some-free-time-so-i-tried-to-pwn-v8",
+      "title": "I Had Some Free Time, So I Tried to Pwn V8",
+      "date": "2026-08-27"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/shr6ri",
+      "title": "Grok Bot is Now Included With More Plans",
+      "date": "2026-08-27"
     }
   ],
   "feedback": [
