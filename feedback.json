@@ -1998,6 +1998,27 @@
       "vote": "up",
       "source": "TLDR Dev",
       "date": "2026-08-24"
+    },
+    {
+      "url": "https://scottspence.com/posts/agentic-engineering-practical-guide",
+      "title": "Agentic Engineering for Reliable Coding Agents",
+      "vote": "down",
+      "source": "TLDR Dev",
+      "date": "2026-08-26"
+    },
+    {
+      "url": "https://githubnext.com/posts/knowledge-compressor",
+      "title": "Knowledge Compressor",
+      "vote": "up",
+      "source": "TLDR",
+      "date": "2026-08-26"
+    },
+    {
+      "url": "https://elliotcsmith.com/engineering-theatre",
+      "title": "Engineering Theatre",
+      "vote": "down",
+      "source": "TLDR",
+      "date": "2026-08-26"
     }
   ]
 }
