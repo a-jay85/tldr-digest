@@ -1,126 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://wesmckinney.com/blog/agentic-engineering-aug-2026",
-      "title": "How a Three-person Team Ships Hundreds of Prs",
-      "date": "2026-08-13"
-    },
-    {
-      "url": "https://blog.cloudflare.com/astro-issue-triage",
-      "title": "To Zero",
-      "date": "2026-08-13"
-    },
-    {
-      "url": "https://blog.pamelafox.org/2026/08/building-safe-mcp-servers-for-your.html",
-      "title": "Building Safer Mcp Servers",
-      "date": "2026-08-13"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/dry1ml",
-      "title": "Grok 4.6 \u2013 a Field Guide",
-      "date": "2026-08-13"
-    },
-    {
-      "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open",
-      "title": "Open",
-      "date": "2026-08-13"
-    },
-    {
-      "url": "https://adapt.com/blog/build-wide-ship-narrow",
-      "title": "Build Wide, Ship Narrow",
-      "date": "2026-08-13"
-    },
-    {
-      "url": "https://smunshi.net/posts/ai-theses.html",
-      "title": "9 Theses on Ai",
-      "date": "2026-08-13"
-    },
-    {
-      "url": "https://brentfitzgerald.com/posts/the-human-is-the-loop",
-      "title": "The Human is the Loop",
-      "date": "2026-08-13"
-    },
-    {
-      "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at",
-      "title": "What Sort of Maths Are Llms Good At?",
-      "date": "2026-08-13"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/tltcn1",
-      "title": "Hiring Agents is the Easy Part",
-      "date": "2026-08-13"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/rwirhz",
-      "title": "Grok Bot: a New Kind of Colleague",
-      "date": "2026-08-13"
-    },
-    {
-      "url": "https://zed.dev/blog/introducing-delta",
-      "title": "Introducing Delta",
-      "date": "2026-08-13"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/klu13q",
-      "title": "Programming Language Adoption Patterns at Meta",
-      "date": "2026-08-13"
-    },
-    {
-      "url": "https://econlab.substack.com/p/ai-index-august-2026",
-      "title": "Cracks in the Ai Thesis",
-      "date": "2026-08-13"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/yu2bou",
-      "title": "Inside an Applied Ai Company",
-      "date": "2026-08-13"
-    },
-    {
-      "url": "https://engineeringblog.yelp.com/2026/08/migrating-a-large-flow-monorepo-to-typescript.html",
-      "title": "Migrating a Large Flow Monorepo to Typescript",
-      "date": "2026-08-13"
-    },
-    {
-      "url": "https://ethanding.substack.com/p/why-you-cant-copy-palantir",
-      "title": "Why You Can't Copy Palantir",
-      "date": "2026-08-13"
-    },
-    {
-      "url": "https://elliotcsmith.com/input-based-pricing-vs-output-based-pricing",
-      "title": "Input-based Pricing vs Output-based Pricing",
-      "date": "2026-08-13"
-    },
-    {
-      "url": "https://blog.bytebytego.com/p/github-vs-vercel-vs-replit-what-dev",
-      "title": "Cheap",
-      "date": "2026-08-13"
-    },
-    {
-      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-      "title": "How We Tracked Down a 16-year-old Sqlite Bug",
-      "date": "2026-08-13"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/cnbxe1",
-      "title": "Enterprise Ai Shifts Toward Execution",
-      "date": "2026-08-13"
-    },
-    {
-      "url": "https://muratbuffalo.blogspot.com/2026/08/specula-scaling-formal-specifications.html",
-      "title": "Of System Code",
-      "date": "2026-08-13"
-    },
-    {
-      "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome",
-      "title": "Why Tiny Jpegs Look Different in Chrome",
-      "date": "2026-08-13"
-    },
-    {
-      "url": "https://huggingface.co/qwen/qwen3.8-2.4t-a95b",
-      "title": "Qwen3.8-2.4t-a95b",
-      "date": "2026-08-13"
-    },
-    {
       "url": "https://earendil.com/posts/compaction-in-pi",
       "title": "How Compaction Works in Pi",
       "date": "2026-08-14"
@@ -1364,6 +1244,156 @@
       "url": "https://links.tldrnewsletter.com/shr6ri",
       "title": "Grok Bot is Now Included With More Plans",
       "date": "2026-08-27"
+    },
+    {
+      "url": "https://simonwillison.net/2026/aug/27/breaking-claude-code-opus-5-auto-mode",
+      "title": "Breaking Claude Code Opus 5 Auto Mode",
+      "date": "2026-08-28"
+    },
+    {
+      "url": "https://habitat-thinking.github.io/ai-literacy-superpowers/plugins/ai-literacy-superpowers/explanation/harness-engineering",
+      "title": "Harness Engineering",
+      "date": "2026-08-28"
+    },
+    {
+      "url": "https://blog.postman.com/why-ai-coding-agents-need-context-graphs",
+      "title": "Why Ai Coding Agents Need Context Graphs",
+      "date": "2026-08-28"
+    },
+    {
+      "url": "https://blog.pragmaticengineer.com/the-pulse-we-need-to-talk-about-migrations-with-ai",
+      "title": "We Need to Talk About Migrations With Ai",
+      "date": "2026-08-28"
+    },
+    {
+      "url": "https://trychroma.com/engineering/transactions",
+      "title": "Agent Swarms Are a Distributed Systems Problem",
+      "date": "2026-08-28"
+    },
+    {
+      "url": "https://pub.towardsai.net/from-ai-demo-to-ai-product-what-sits-between-a-prompt-and-production-reality-5d5d2723c7a7",
+      "title": "Reality",
+      "date": "2026-08-28"
+    },
+    {
+      "url": "https://github.com/neolabhq/context-engineering-kit",
+      "title": "Context Engineering Toolkit",
+      "date": "2026-08-28"
+    },
+    {
+      "url": "https://louisabraham.github.io/load-bearing",
+      "title": "The Load-bearing Vocabulary of Claude",
+      "date": "2026-08-28"
+    },
+    {
+      "url": "https://addyo.substack.com/p/audit-your-agent-files",
+      "title": "Audit Your Agent Files",
+      "date": "2026-08-28"
+    },
+    {
+      "url": "https://dpereira.substack.com/p/just-another-transformation",
+      "title": "Just Another Transformation",
+      "date": "2026-08-28"
+    },
+    {
+      "url": "https://github.com/tencent/browserskill",
+      "title": "Browserskill",
+      "date": "2026-08-28"
+    },
+    {
+      "url": "https://calv.info/small-models-have-arrived",
+      "title": "Small Models Have Arrived",
+      "date": "2026-08-28"
+    },
+    {
+      "url": "https://github.com/experientiallabs/experiential",
+      "title": "Experiential",
+      "date": "2026-08-28"
+    },
+    {
+      "url": "https://wayofmarkdown.com/markdown-database",
+      "title": "The Markdown Database Pattern",
+      "date": "2026-08-28"
+    },
+    {
+      "url": "https://readwriterachel.com/opinions/hacks/presentations/2026/08/26/usertesting-on-a-shoestring.html",
+      "title": "User Testing on a Shoestring",
+      "date": "2026-08-28"
+    },
+    {
+      "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111",
+      "title": "Cache",
+      "date": "2026-08-28"
+    },
+    {
+      "url": "https://johnpcutler.github.io/stratprompt",
+      "title": "Strategy Prompts Activity",
+      "date": "2026-08-28"
+    },
+    {
+      "url": "https://swizec.com/blog/focus-and-followthrough-are-the-moat",
+      "title": "Focus and Follow-through Are the Moat",
+      "date": "2026-08-28"
+    },
+    {
+      "url": "https://a16z.news/p/you-are-not-a-model-dont-price-per",
+      "title": "You Are Not a Model. Don't Price Per Token",
+      "date": "2026-08-28"
+    },
+    {
+      "url": "https://martinfowler.com/articles/making-data-ready-for-agentic-ai.html",
+      "title": "Making Your Data Ready for Agentic Ai",
+      "date": "2026-08-28"
+    },
+    {
+      "url": "https://scrum.org/resources/blog/agility-might-have-been-waiting-ai",
+      "title": "Agility Might Have Been Waiting for Ai",
+      "date": "2026-08-28"
+    },
+    {
+      "url": "https://github.com/openai/codex/pull/40799",
+      "title": "Support Persistent Reasoning Effort",
+      "date": "2026-08-28"
+    },
+    {
+      "url": "https://blog.ravi-mehta.com/p/taste-is-a-skill-not-a-gift",
+      "title": "Good Taste Doesn't Exist",
+      "date": "2026-08-28"
+    },
+    {
+      "url": "https://media.deliveringvalue.co/p/youre-5-decisions-away-from-1m-users",
+      "title": "You're 5 Decisions Away From 1m+ Users",
+      "date": "2026-08-28"
+    },
+    {
+      "url": "https://anthropic.com/news/model-hardware-standard-research-preview",
+      "title": "Anthropic's Model Hardware Standard",
+      "date": "2026-08-28"
+    },
+    {
+      "url": "https://openrouter.ai/blog/insights/gpt-5-6-discounts-jevons-paradox",
+      "title": "Gpt 5.6 Discounts & Jevons Paradox",
+      "date": "2026-08-28"
+    },
+    {
+      "url": "https://thinkingmachines.ai/news/putting-task-expertise-into-rl",
+      "title": "On Text-to-sql",
+      "date": "2026-08-28"
+    },
+    {
+      "url": "https://read.first1000.co/p/growing-lazyweb-to-50k-agents",
+      "title": "Growing Lazyweb to 50k+ Agents",
+      "date": "2026-08-28"
+    },
+    {
+      "url": "https://lmsys.org/blog/2026-08-27-minimax-h3-h200",
+      "title": "Accelerating Minimax-h3",
+      "date": "2026-08-28"
+    },
+    {
+      "url": "https://research.haloneuro.ai/posts/sopro-v2",
+      "title": "Fast On-device Voice Cloning",
+      "date": "2026-08-28"
     }
   ],
   "feedback": [
