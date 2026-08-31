@@ -2054,6 +2054,20 @@
       "vote": "down",
       "source": "TLDR",
       "date": "2026-08-26"
+    },
+    {
+      "url": "https://habitat-thinking.github.io/ai-literacy-superpowers/plugins/ai-literacy-superpowers/explanation/harness-engineering",
+      "title": "Harness Engineering",
+      "vote": "up",
+      "source": "TLDR",
+      "date": "2026-08-28"
+    },
+    {
+      "url": "https://louisabraham.github.io/load-bearing",
+      "title": "The Load-bearing Vocabulary of Claude",
+      "vote": "up",
+      "source": "TLDR Dev",
+      "date": "2026-08-28"
     }
   ]
 }
