@@ -1,121 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://earendil.com/posts/compaction-in-pi",
-      "title": "How Compaction Works in Pi",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
-      "title": "Understanding is the New Bottleneck",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://anthropic.com/research/multiagent-systems",
-      "title": "How Ai Agents Could Fail at Scale",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://itamargilad.com/artificial-competence",
-      "title": "The Ai Competence/judgement Gap",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://github.com/vercel-labs/eve-software-factory-template",
-      "title": "Foreman",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/rwdewb",
-      "title": "Agent Plugins Are the Future of Agent Skills",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality",
-      "title": "Factuality",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://newsletter.vickiboykis.com/archive/write-for-people",
-      "title": "Write for People",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://seangoedecke.com/blog-about-things-you-dont-understand-yet",
-      "title": "Blog About Things You Don't Understand Yet",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://chinatalk.media/p/the-deepseek-thesis",
-      "title": "The Deepseek Thesis",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://antmurphy.me/newsletter/nobody-actually-prioritising-value",
-      "title": "Nobody's Actually Prioritising \u2018value'",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://dpereira.substack.com/p/cutting-the-noise",
-      "title": "Cutting the Noise",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://productpower.substack.com/p/generative-media-beyond-the-model",
-      "title": "Generative Media Beyond the Model Race",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://spin.atomicobject.com/carry-on-with-demo",
-      "title": "Keep Calm and Carry On\u2026 With Your Demo",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://threadreaderapp.com/thread/2087682699364573687.html",
-      "title": "The Top Reasons Ai Stalls Inside Companies",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://techcrunch.com/2026/08/13/x-open-sources-its-ranking-algorithm-letting-users-see-if-theyve-been-shadowbanned",
-      "title": "Been \u2018shadowbanned'",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://a16z.news/p/this-essay-is-10-ai-generated",
-      "title": "Pangram, Authorship, and French Theory",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://theengineeringmanager.substack.com/p/landing-the-plane",
-      "title": "Landing the Plane",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://cursor.com/blog/builds",
-      "title": "Cloud Agents Start 3x Faster With Builds",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://testingcatalog.com/google-tests-agent-management-ui-on-ai-studio",
-      "title": "Google Tests Agent Management Ui on Ai Studio",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
-      "title": "Introducing Bluesky Protocol Services",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash",
-      "title": "Introducing Gemini 3.7 Flash",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/8neg6k",
-      "title": "Influence at Anthropic",
-      "date": "2026-08-14"
-    },
-    {
       "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
       "title": "Maximizing the Value of Your Claude Code Sessions",
       "date": "2026-08-17"
@@ -1394,6 +1279,131 @@
       "url": "https://research.haloneuro.ai/posts/sopro-v2",
       "title": "Fast On-device Voice Cloning",
       "date": "2026-08-28"
+    },
+    {
+      "url": "https://seangoedecke.com/you-have-to-beat-the-models-at-something",
+      "title": "You Have to Beat the Models at Something",
+      "date": "2026-08-31"
+    },
+    {
+      "url": "https://coldtake.dev/blog/domain-driven-agents",
+      "title": "Domain-driven Agents",
+      "date": "2026-08-31"
+    },
+    {
+      "url": "https://simonwillison.net/2026/aug/30/understanding-chatgpt-work",
+      "title": "Understanding Chatgpt Work",
+      "date": "2026-08-31"
+    },
+    {
+      "url": "https://ampcode.com/notes/orbs-explained",
+      "title": "Orbs, Explained",
+      "date": "2026-08-31"
+    },
+    {
+      "url": "https://codegood.co/writing/the-standup-your-agents-cant-attend",
+      "title": "The Standup Your Agents Can't Attend",
+      "date": "2026-08-31"
+    },
+    {
+      "url": "https://anthropic.com/research/automated-researchers-mitigate-alignment-failures",
+      "title": "Anthropic's Report on Self-improving Ai",
+      "date": "2026-08-31"
+    },
+    {
+      "url": "https://askmike.org/articles/ai-coding-lessons-in-the-90s-from-my-dad",
+      "title": "What My Dad Taught Me About Ai Coding in the 90s",
+      "date": "2026-08-31"
+    },
+    {
+      "url": "https://github.github.com/gh-aw",
+      "title": "Github Agentic Workflows",
+      "date": "2026-08-31"
+    },
+    {
+      "url": "https://danluu.com/bug-blind",
+      "title": "Bug Blindness",
+      "date": "2026-08-31"
+    },
+    {
+      "url": "https://tucker.wales/writing/bias-towards-action",
+      "title": "In a New Role",
+      "date": "2026-08-31"
+    },
+    {
+      "url": "https://adlrocha.substack.com/p/adlrocha-base-models-stopped-being",
+      "title": "Base Models Stopped Being the Bottleneck",
+      "date": "2026-08-31"
+    },
+    {
+      "url": "https://github.com/openai/codex/issues/41711",
+      "title": "Private Chat Thread Exfiltration",
+      "date": "2026-08-31"
+    },
+    {
+      "url": "http://itamarnovick.com/intro-to-startup-anti-pattern-series",
+      "title": "Intro to Startup Anti-pattern Series",
+      "date": "2026-08-31"
+    },
+    {
+      "url": "https://github.com/kingroryg/turbokv",
+      "title": "Turbokv",
+      "date": "2026-08-31"
+    },
+    {
+      "url": "https://github.com/vercel-labs/vgpu",
+      "title": "Vgpu",
+      "date": "2026-08-31"
+    },
+    {
+      "url": "https://artificialanalysis.ai/hardware-inference-stack/mobile-phones",
+      "title": "Consumer Inference Systems",
+      "date": "2026-08-31"
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu",
+      "title": "Nvidia's Ai Advantage is Moving Beyond the Gpu",
+      "date": "2026-08-31"
+    },
+    {
+      "url": "https://lesswrong.com/posts/fpldjkg3ej49beqtc/adaptive-agentic-worms-are-here",
+      "title": "Adaptive Agentic Worms",
+      "date": "2026-08-31"
+    },
+    {
+      "url": "https://dwarkesh.com/p/openai-huggingface",
+      "title": "The Rise and Fall of Agent Civilizations",
+      "date": "2026-08-31"
+    },
+    {
+      "url": "https://simonwillison.net/2026/aug/29/hy4",
+      "title": "Introducing Hy4 Preview",
+      "date": "2026-08-31"
+    },
+    {
+      "url": "https://0xcc.io/posts/omarchy-root-creds",
+      "title": "Omarchy: Any User Process Can Escalate to Root",
+      "date": "2026-08-31"
+    },
+    {
+      "url": "https://huggingface.co/nvidia/deepseek-v4-pro-0813-nvfp4",
+      "title": "Deepseek-v4-pro-0813-nvfp4",
+      "date": "2026-08-31"
+    },
+    {
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
+      "title": "Vllm V0.28.0",
+      "date": "2026-08-31"
+    },
+    {
+      "url": "https://spyglass.org/meta-ai-context-watermelon-hatch",
+      "title": "Meta's Complicated Ai Context",
+      "date": "2026-08-31"
+    },
+    {
+      "url": "https://rudyfaile.com/2026/08/30/the-big-one-is-coming",
+      "title": "The Big One is Coming",
+      "date": "2026-08-31"
     }
   ],
   "feedback": [
