@@ -1,151 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
-      "title": "Maximizing the Value of Your Claude Code Sessions",
-      "date": "2026-08-17"
-    },
-    {
-      "url": "https://nolanlawson.com/2026/08/16/you-can-just-choose-how-many-bugs-you-want-now",
-      "title": "You Can Just Choose How Many Bugs You Want Now",
-      "date": "2026-08-17"
-    },
-    {
-      "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse",
-      "title": "Why Does Opus 5 Feel Worse to Work With?",
-      "date": "2026-08-17"
-    },
-    {
-      "url": "https://sunilpai.dev/posts/the-task-isnt-the-job",
-      "title": "The Task Isn't the Job",
-      "date": "2026-08-17"
-    },
-    {
-      "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
-      "title": "Models Are Getting Dumber on Purpose",
-      "date": "2026-08-17"
-    },
-    {
-      "url": "https://yagmin.com/blog/code-is-the-byproduct",
-      "title": "Code is the Byproduct",
-      "date": "2026-08-17"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/oamiss",
-      "title": "Dropout",
-      "date": "2026-08-17"
-    },
-    {
-      "url": "https://github.com/lajosdeme/mole",
-      "title": "Mole",
-      "date": "2026-08-17"
-    },
-    {
-      "url": "https://newsletter.getdx.com/p/your-benchmarks-dont-apply-to-us",
-      "title": "\u201cyour Benchmarks Don't Apply to Us\"",
-      "date": "2026-08-17"
-    },
-    {
-      "url": "https://sankalp.bearblog.dev/autoresearch",
-      "title": "Baseline With Codex in Gpu Mode's Qr_v2 Problem",
-      "date": "2026-08-17"
-    },
-    {
-      "url": "https://buf.build/blog/protobuf-lsp",
-      "title": "Protobuf Finally Has Lsp Support. You're Welcome",
-      "date": "2026-08-17"
-    },
-    {
-      "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark",
-      "title": "Everything is About to \u201cgo Dark\u201d",
-      "date": "2026-08-17"
-    },
-    {
-      "url": "https://bernsteinbear.com/blog/zkp",
-      "title": "A Quick Look at Zero-knowledge Proofs",
-      "date": "2026-08-17"
-    },
-    {
-      "url": "https://marble.onl/posts/evaluating_ai_product_quality.html",
-      "title": "Evaluating Ai Agents as Products",
-      "date": "2026-08-17"
-    },
-    {
-      "url": "https://vectoral.com/blog/who-are-the-token-brokers",
-      "title": "Who Are the Token Brokers?",
-      "date": "2026-08-17"
-    },
-    {
-      "url": "https://implicator.ai/z-ai-delays-glm-5-3-weights-two-weeks-after-cyber-score-beats-mythos-5",
-      "title": "5",
-      "date": "2026-08-17"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/hd7zza",
-      "title": "So You Want to Build an Ai Star?",
-      "date": "2026-08-17"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/qfzyb2",
-      "title": "The Ai Engineering Skills Map",
-      "date": "2026-08-17"
-    },
-    {
-      "url": "https://proofsandintuitions.net/2026/08/14/when-the-hard-part-stops-being-hard",
-      "title": "When the Hard Part Stops Being Hard",
-      "date": "2026-08-17"
-    },
-    {
-      "url": "https://antigravity.google/blog/introducing-custom-agents",
-      "title": "Introducing Custom Agents",
-      "date": "2026-08-17"
-    },
-    {
-      "url": "https://pinglin.tw/blog/the-shapes-of-agent-memory",
-      "title": "Understanding Agent Memory",
-      "date": "2026-08-17"
-    },
-    {
-      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-      "title": "The State of Open Models in 2026",
-      "date": "2026-08-17"
-    },
-    {
-      "url": "https://simonwillison.net/2026/aug/16/qwen-38-27b",
-      "title": "Things",
-      "date": "2026-08-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.08888",
-      "title": "Microsoft's Full-bandwidth Transformers",
-      "date": "2026-08-17"
-    },
-    {
-      "url": "https://tomshardware.com/tech-industry/artificial-intelligence/google-reportedly-taps-amd-to-design-next-generation-tpu-hybrid-ai-asic-could-integrate-on-package-cpu-cores-for-reinforcement-learning",
-      "title": "Learning",
-      "date": "2026-08-17"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/ye1qnf",
-      "title": "Center",
-      "date": "2026-08-17"
-    },
-    {
-      "url": "https://cursor.com/blog/joining-spacex",
-      "title": "Cursor is Now a Part of Spacex",
-      "date": "2026-08-17"
-    },
-    {
-      "url": "https://axios.com/2026/08/14/openai-executive-greg-brockman-ipo",
-      "title": "Openai Sheds Senior Execs in Pre-ipo Refresh",
-      "date": "2026-08-17"
-    },
-    {
-      "url": "https://implicator.ai/openai-paid-100-for-a-4-2-cerebras-stake-weeks-before-ultrafast-launch",
-      "title": "Launch",
-      "date": "2026-08-17"
-    },
-    {
       "url": "https://links.tldrnewsletter.com/banyei",
       "title": "Own Your Intelligence: a How-to Guide",
       "date": "2026-08-18"
@@ -1404,6 +1259,136 @@
       "url": "https://rudyfaile.com/2026/08/30/the-big-one-is-coming",
       "title": "The Big One is Coming",
       "date": "2026-08-31"
+    },
+    {
+      "url": "https://flaviocopes.com/zcode",
+      "title": "A Deep Dive Into Zcode",
+      "date": "2026-09-01"
+    },
+    {
+      "url": "https://newsletter.posthog.com/p/your-agentsmd-is-holding-you-back",
+      "title": "Your Agents.md is Holding You Back",
+      "date": "2026-09-01"
+    },
+    {
+      "url": "https://akashyap.ai/the-future-tech-role-is-the-product-architect",
+      "title": "The Future Tech Role is the Product Architect",
+      "date": "2026-09-01"
+    },
+    {
+      "url": "https://oneusefulthing.org/p/agency-and-agents",
+      "title": "Agency and Agents",
+      "date": "2026-09-01"
+    },
+    {
+      "url": "https://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
+      "title": "The Safest Job From Ai May Be Writing",
+      "date": "2026-09-01"
+    },
+    {
+      "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode",
+      "title": "Breaking Claude Code Opus 5 Auto Mode",
+      "date": "2026-09-01"
+    },
+    {
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/ai-and-employment-what-the-firms-say.html",
+      "title": "Ai and Employment: So Far, So Good",
+      "date": "2026-09-01"
+    },
+    {
+      "url": "https://calpaterson.com/memoryfields.html",
+      "title": "A Portable File Format for Agent Memory",
+      "date": "2026-09-01"
+    },
+    {
+      "url": "https://spin.atomicobject.com/ai-you-need-structure",
+      "title": "In the Age of Ai, You Need Structure",
+      "date": "2026-09-01"
+    },
+    {
+      "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
+      "title": "Openclaw 2.0",
+      "date": "2026-09-01"
+    },
+    {
+      "url": "https://vettedconsumer.com/which-mac-for-local-llms-2026-buyers-guide",
+      "title": "Buyer's Guide",
+      "date": "2026-09-01"
+    },
+    {
+      "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model",
+      "title": "How to Build a Diffusion Language Model",
+      "date": "2026-09-01"
+    },
+    {
+      "url": "https://scrum.org/resources/blog/how-leverage-flow-metrics-accelerate-your-agentic-development-lifecycle",
+      "title": "Lifecycle",
+      "date": "2026-09-01"
+    },
+    {
+      "url": "https://neon.com/blog/autoscaling-lakebase-postgres",
+      "title": "Autoscaling Lakebase Postgres",
+      "date": "2026-09-01"
+    },
+    {
+      "url": "https://allen.hutchison.org/2026/08/31/not-everyone-needs-superintelligence",
+      "title": "Not Everyone Needs Superintelligence",
+      "date": "2026-09-01"
+    },
+    {
+      "url": "https://nervegna.substack.com/p/grok-bot-for-designers-and-product",
+      "title": "Grok Bot for Designers and Product Teams",
+      "date": "2026-09-01"
+    },
+    {
+      "url": "https://runway.com/news/research/introducing-solaris",
+      "title": "Introducing Solaris",
+      "date": "2026-09-01"
+    },
+    {
+      "url": "https://tomtunguz.com/the-great-segmentation",
+      "title": "The Price of Entry to the Frontier",
+      "date": "2026-09-01"
+    },
+    {
+      "url": "https://github.com/waishnav/devspace",
+      "title": "Devspace",
+      "date": "2026-09-01"
+    },
+    {
+      "url": "https://colossus.com/article/invisible-companies",
+      "title": "Invisible Companies",
+      "date": "2026-09-01"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/zai3vj",
+      "title": "What is -1 to 0?",
+      "date": "2026-09-01"
+    },
+    {
+      "url": "https://tanayj.com/p/how-matic-got-robots-into-10000-homes",
+      "title": "How Matic Got Robots Into 10,000 Homes",
+      "date": "2026-09-01"
+    },
+    {
+      "url": "https://github.com/algorithmicresearchgroup/fnscribe",
+      "title": "Fnscribe",
+      "date": "2026-09-01"
+    },
+    {
+      "url": "https://webiterate.dev/google-removed-extensions-ublock-origin-108",
+      "title": "Including Ublock Origin",
+      "date": "2026-09-01"
+    },
+    {
+      "url": "https://benn.substack.com/p/how-to-have-ideas",
+      "title": "How to Have Ideas",
+      "date": "2026-09-01"
+    },
+    {
+      "url": "https://cutlefish.substack.com/p/tbm-438-the-right-but-early-club",
+      "title": "The Right but Early Club",
+      "date": "2026-09-01"
     }
   ],
   "feedback": [
