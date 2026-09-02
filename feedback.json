@@ -1,166 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://links.tldrnewsletter.com/banyei",
-      "title": "Own Your Intelligence: a How-to Guide",
-      "date": "2026-08-18"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/5hcfwy",
-      "title": "Sota Apple Silicon Inference",
-      "date": "2026-08-18"
-    },
-    {
-      "url": "https://engineering.myhoai.com/posts/a-simple-fix-for-llm-tail-latency",
-      "title": "A Simple Fix for Llm Tail Latency",
-      "date": "2026-08-18"
-    },
-    {
-      "url": "https://linear.app/data",
-      "title": "How Software Teams Use Ai in 2026",
-      "date": "2026-08-18"
-    },
-    {
-      "url": "https://turbopuffer.com/blog/control-plane",
-      "title": "How to Ship a Database Every Day",
-      "date": "2026-08-18"
-    },
-    {
-      "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-      "title": "Of Writing",
-      "date": "2026-08-18"
-    },
-    {
-      "url": "https://elenaverna.com/p/report-what-people-really-think-about",
-      "title": "What People *really* Think About Ic Work",
-      "date": "2026-08-18"
-    },
-    {
-      "url": "https://backend.cafe/million-log-lines-a-month",
-      "title": "Cut Your Fastify Log Volume With Logcontroller",
-      "date": "2026-08-18"
-    },
-    {
-      "url": "https://kingy.ai/blog/qwen3-8-27b-vs-qwen3-6-27b-vs-gemma-4-31b",
-      "title": "Qwen3.8 vs Qwen3.6 vs Gemma 4 on a 24gb Gpu",
-      "date": "2026-08-18"
-    },
-    {
-      "url": "https://venturebeat.com/orchestration/one-ai-module-faked-86-of-a-pipelines-accuracy-gains-by-feeding-another-the-answers",
-      "title": "Another the Answers",
-      "date": "2026-08-18"
-    },
-    {
-      "url": "https://github.com/modem-dev/hunk",
-      "title": "Hunk",
-      "date": "2026-08-18"
-    },
-    {
-      "url": "https://davesresearch.com/good-move-constructive",
-      "title": "A Good Move is Constructive",
-      "date": "2026-08-18"
-    },
-    {
-      "url": "https://oppi.li/posts/disposable_ci",
-      "title": "Your Ci Should Be Disposable",
-      "date": "2026-08-18"
-    },
-    {
-      "url": "https://seangoedecke.com/help-peer",
-      "title": "Help Peer",
-      "date": "2026-08-18"
-    },
-    {
-      "url": "https://cutlefish.substack.com/p/tbm-436-tension-based-prioritization",
-      "title": "Tension-based Prioritization (a Non-framework)",
-      "date": "2026-08-18"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/ta9ob3",
-      "title": "Perfection is Not Over-engineering",
-      "date": "2026-08-18"
-    },
-    {
-      "url": "https://docs.warp.dev/agents/agent-memory",
-      "title": "Warp Agent Memory (research Preview)",
-      "date": "2026-08-18"
-    },
-    {
-      "url": "https://interconnects.ai/p/teaching-everyone-to-fish-for-tokens",
-      "title": "Teaching Everyone to Fish for Tokens",
-      "date": "2026-08-18"
-    },
-    {
-      "url": "https://rickmanelius.com/p/aidr-ai-didnt-read",
-      "title": "Ai;dr (ai; Didn't Read)",
-      "date": "2026-08-18"
-    },
-    {
-      "url": "https://danluu.com/benchpocalypse",
-      "title": "The Benchmarkpocalypse",
-      "date": "2026-08-18"
-    },
-    {
-      "url": "https://venturebeat.com/infrastructure/cursor-launches-origin-code-hosting-platform-as-github-outage-exposes-opening-in-ai-coding-race",
-      "title": "Opening in Ai Coding Race",
-      "date": "2026-08-18"
-    },
-    {
-      "url": "https://tomtunguz.com/test-time-training-impact",
-      "title": "When Models Learn",
-      "date": "2026-08-18"
-    },
-    {
-      "url": "https://deadline-dividend.onrender.com",
-      "title": "The Deadline Dividend",
-      "date": "2026-08-18"
-    },
-    {
-      "url": "https://cursor.com/changelog/origin-code-hosting",
-      "title": "Origin Code Hosting",
-      "date": "2026-08-18"
-    },
-    {
-      "url": "https://unite.ai/how-to-monetize-ai-software",
-      "title": "Business Growth",
-      "date": "2026-08-18"
-    },
-    {
-      "url": "https://huggingface.co/orcarouter/qwen3.8-27b-uncensored-mlx",
-      "title": "Qwen3.8-27b-uncensored-mlx",
-      "date": "2026-08-18"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.14071",
-      "title": "Scaling Data Repetition for Llms",
-      "date": "2026-08-18"
-    },
-    {
-      "url": "https://inventwithpython.com/blog/intriguing-stories-in-cs.html",
-      "title": "Intriguing Stories in Computer Science",
-      "date": "2026-08-18"
-    },
-    {
-      "url": "https://betterthanrandom.substack.com/p/shape-up-for-data-teams",
-      "title": "Shape up for Data Teams",
-      "date": "2026-08-18"
-    },
-    {
-      "url": "https://timmarinin.net/2026/bluesky-screenshots",
-      "title": "How Bluesky Draws Its Logo on Screenshots",
-      "date": "2026-08-18"
-    },
-    {
-      "url": "https://threadreaderapp.com/thread/2089409015499374765.html",
-      "title": "How to Work With Designers",
-      "date": "2026-08-18"
-    },
-    {
-      "url": "https://implicator.ai/groq-350-million-3-5-billion-valuation-after-nvidia-deal",
-      "title": "Groq Raised $350 Million After Nvidia Deal",
-      "date": "2026-08-18"
-    },
-    {
       "url": "https://liquid.ai/blog/agent-loops",
       "title": "Building Production-grade Agent Loops",
       "date": "2026-08-19"
@@ -1389,6 +1229,131 @@
       "url": "https://cutlefish.substack.com/p/tbm-438-the-right-but-early-club",
       "title": "The Right but Early Club",
       "date": "2026-09-01"
+    },
+    {
+      "url": "https://addyo.substack.com/p/agentic-skill-decay",
+      "title": "Mastery Still Comes From Doing the Reps",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://theaiengineer.substack.com/p/what-is-agentic-testing-fa2",
+      "title": "What is Agentic Testing?",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://jx0.ca/building-autonomous-goal-loops-that-deliver",
+      "title": "Building Autonomous Goal Loops That Deliver",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
+      "title": "Ai Can Make You Suck Faster Too",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://lws.io/blog/my-local-model-setup",
+      "title": "My Local Model Setup on an M4 Pro Mac Mini",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://anthropic.com/claude-fable-and-mythos-5-1",
+      "title": "Claude Fable 5.1 and Mythos 5.1",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://thezvi.wordpress.com/2026/09/01/huggingface-attack-postmortem-civilizations-reactions-and-next-actions",
+      "title": "Actions",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/ts11pi",
+      "title": "Nobody is Talking Seriously About Ai Demand",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://venturebeat.com/technology/anthropics-claude-fable-5-1-and-mythos-5-1-arrive-with-a-75-cost-reduction-for-fable-cache-reads",
+      "title": "Reduction for Fable Cache Reads",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://hiraditya.github.io/posts/a-type-system-is-a-search-oracle",
+      "title": "A Type System is a Search Oracle",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://hyperdimensional.co/p/on-the-loose",
+      "title": "On the Loose",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://mercor.com/blog/training-frontier-knowledge-work-agents-a-397b-rl-training-guide-with-skyrl",
+      "title": "With Skyrl",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://baseten.co/blog/the-efficient-frontier-of-llm-inference",
+      "title": "The Efficient Frontier of Llm Inference",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://mvakde.github.io/blog/44-on-arc-1",
+      "title": "44% on Arc-agi-1 in 67 Cents",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://flaviocopes.com/stylex",
+      "title": "A Deep Dive Into Stylex",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://anthropic.com/news/improving-alignment-security-efforts",
+      "title": "Improving Our Alignment and Security Practices",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://cnbc.com/2026/09/01/open-ai-astra-cyber-model.html",
+      "title": "Cybersecurity Capability",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://huggingface.co/blog/webgpu-kernels",
+      "title": "200+ Webgpu Kernels for Local Ai",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://blog.dshr.org/2026/09/small-is-beautiful.html",
+      "title": "Small is Beautiful",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://vercel.com/blog/fluid-compute-takes-any-shape",
+      "title": "Fluid Compute",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini",
+      "title": "Agentic Video Understanding in Gemini",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://dbushell.com/2026/09/01/text-editor",
+      "title": "Fine, I'll Build My Own Text Editor!",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://worldlabs.ai/blog/atlas",
+      "title": "Atlas: a World Model for Spatial Intelligence",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://simonwillison.net/2026/sep/1/codex-libreoffice",
+      "title": "Codex Bundles Libreoffice",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://github.com/knockoutez/wigolo",
+      "title": "Wigolo",
+      "date": "2026-09-02"
     }
   ],
   "feedback": [
