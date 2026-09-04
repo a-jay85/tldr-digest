@@ -1,111 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://links.tldrnewsletter.com/7evths",
-      "title": "Right-sizing Your Intelligence Spend",
-      "date": "2026-08-20"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/ol3w9y",
-      "title": "The Job Ain't Quite the Same",
-      "date": "2026-08-20"
-    },
-    {
-      "url": "https://cursor.com/changelog/08-19-26",
-      "title": "Cloud Agents and Cursor Harness Improvements",
-      "date": "2026-08-20"
-    },
-    {
-      "url": "https://redis.io/blog/compounding-context-memory-as-the-moat",
-      "title": "Agent Memory as a Moat: How Context Compounds",
-      "date": "2026-08-20"
-    },
-    {
-      "url": "https://web.navan.dev/posts/2026-08-19-on-computer-use.html",
-      "title": "On Computer Use",
-      "date": "2026-08-20"
-    },
-    {
-      "url": "https://jumploops.com/blog/sol-loves-to-cheat",
-      "title": "Sol Loves to Cheat",
-      "date": "2026-08-20"
-    },
-    {
-      "url": "https://github.com/chaitanyagiri/munder-difflin",
-      "title": "Munder Difflin",
-      "date": "2026-08-20"
-    },
-    {
-      "url": "https://github.com/onecli/onecli",
-      "title": "Onecli",
-      "date": "2026-08-20"
-    },
-    {
-      "url": "https://raphaelbauer.com/posts/postgresql-everything",
-      "title": "Postgresql for Everything",
-      "date": "2026-08-20"
-    },
-    {
-      "url": "https://lmsys.org/blog/2026-08-19-deepseek-v4-pro-engine-optimization-h20",
-      "title": "Pushing the Limits of Serving Deepseek-v4-pro",
-      "date": "2026-08-20"
-    },
-    {
-      "url": "https://ngrok.com/blog/probes",
-      "title": "How Kubernetes Probes Work",
-      "date": "2026-08-20"
-    },
-    {
-      "url": "https://github.com/betterwright/betterwright",
-      "title": "Betterwright",
-      "date": "2026-08-20"
-    },
-    {
-      "url": "https://lovable.dev/blog/how-we-migrated-lovable-dev-away-from-nextjs",
-      "title": "Another Lovable App",
-      "date": "2026-08-20"
-    },
-    {
-      "url": "https://replit.com/blog/replit-introduces-free-mode",
-      "title": "Replit Introduces Free Mode",
-      "date": "2026-08-20"
-    },
-    {
-      "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
-      "title": "Unsloth Dynamic 3.0 Ggufs",
-      "date": "2026-08-20"
-    },
-    {
-      "url": "https://tipiirai.com/writing/bun-rust-rewrite-worries",
-      "title": "Bun 1.4 Rust Rewrite is Not Looking Good",
-      "date": "2026-08-20"
-    },
-    {
-      "url": "https://github.com/ryancodrai/turbovec",
-      "title": "Turbovec",
-      "date": "2026-08-20"
-    },
-    {
-      "url": "https://axios.com/2026/08/19/stripe-payments-openrouter-singularity",
-      "title": "Stripe Says \"the Singularity\" Has Begun",
-      "date": "2026-08-20"
-    },
-    {
-      "url": "https://huggingface.co/superwhisper/s1-mini",
-      "title": "Superwhisper/s1-mini",
-      "date": "2026-08-20"
-    },
-    {
-      "url": "https://testingcatalog.com/exclusive-early-outputs-of-muse-video-model-from-meta",
-      "title": "Early Outputs of Muse Video Model From Meta",
-      "date": "2026-08-20"
-    },
-    {
-      "url": "https://hiraditya.github.io/posts/there-is-no-address",
-      "title": "There is No Address",
-      "date": "2026-08-20"
-    },
-    {
       "url": "https://runtimewire.com/article/anthropic-s-project-parka-sits-through-meetings-and-assigns-claude-agents-the-ho",
       "title": "Agents the Homework",
       "date": "2026-08-21"
@@ -1324,6 +1219,116 @@
       "url": "https://datacenterdynamics.com/en/news/former-openai-stargate-exec-shamez-hemani-joins-anthropic-after-brief-meta-compute-stint",
       "title": "Meta Compute Stint",
       "date": "2026-09-03"
+    },
+    {
+      "url": "https://huggingface.co/blog/funes",
+      "title": "Give Your Coding Agents a Memory You Own",
+      "date": "2026-09-04"
+    },
+    {
+      "url": "https://sjg.io/writing/ai-is-making-us-build-too-much",
+      "title": "Ai is Making Us Build Too Much",
+      "date": "2026-09-04"
+    },
+    {
+      "url": "https://jennywanger.com/articles/burnt-out-on-a-three-day-week",
+      "title": "Burnt Out on a Three-day Week",
+      "date": "2026-09-04"
+    },
+    {
+      "url": "https://ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+      "title": "Ai, Tools and Transformation",
+      "date": "2026-09-04"
+    },
+    {
+      "url": "https://blog.mastykarz.nl/your-product-didnt-get-worse",
+      "title": "Your Product Didn't Get Worse",
+      "date": "2026-09-04"
+    },
+    {
+      "url": "https://dpereira.substack.com/p/bullshit-management-didnt-die-it",
+      "title": "Bullshit Management Didn't Die. it Got Automated",
+      "date": "2026-09-04"
+    },
+    {
+      "url": "https://theskip.substack.com/p/what-the-past-year-taught-meta",
+      "title": "What the Past Year Taught Meta",
+      "date": "2026-09-04"
+    },
+    {
+      "url": "https://nextjs.org/blog/turbopack-chunking",
+      "title": "How Turbopack Chunks Your Javascript",
+      "date": "2026-09-04"
+    },
+    {
+      "url": "https://kciter.so/posts/the-expensive-main-thread/en",
+      "title": "The Browser's Main Thread is Expensive",
+      "date": "2026-09-04"
+    },
+    {
+      "url": "https://explainanalyze.com/p/a-query-on-a-3-billion-row-table-took-100-minutes-one-added-line-made-it-40ms",
+      "title": "Made it 40ms",
+      "date": "2026-09-04"
+    },
+    {
+      "url": "https://insights.euclid.vc/p/forward-deployed-everything-fde-quinn-litherland-revin-ai",
+      "title": "Forward-deployed Everything",
+      "date": "2026-09-04"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/fxrfb4",
+      "title": "The Incumbents Are Coming",
+      "date": "2026-09-04"
+    },
+    {
+      "url": "https://a16z.news/p/enshittification-isnt-real",
+      "title": "\u201censhittification\u201d Isn't Real",
+      "date": "2026-09-04"
+    },
+    {
+      "url": "https://frontierai.substack.com/p/llms-are-becoming-commodities-de1",
+      "title": "Llms Are Becoming Commodities",
+      "date": "2026-09-04"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/byidgd",
+      "title": "Prediction: Ai Will Collapse",
+      "date": "2026-09-04"
+    },
+    {
+      "url": "https://artificialanalysis.ai/articles/benchmarking-gpt-6-astra",
+      "title": "Benchmarking Gpt-6 Astra",
+      "date": "2026-09-04"
+    },
+    {
+      "url": "https://github.com/mlc-ai/web-llm",
+      "title": "Webllm",
+      "date": "2026-09-04"
+    },
+    {
+      "url": "https://mail.cyberneticforests.com/models-dont-go-rogue",
+      "title": "Models Don't Go Rogue",
+      "date": "2026-09-04"
+    },
+    {
+      "url": "https://cutlefish.substack.com/p/tbm-437-ai-and-the-recontextualization",
+      "title": "Ai and the Recontextualization Tax",
+      "date": "2026-09-04"
+    },
+    {
+      "url": "https://tapoueh.org/blog/2026/09/getting-ready-for-postgresql-19",
+      "title": "Getting Ready for Postgresql 19",
+      "date": "2026-09-04"
+    },
+    {
+      "url": "https://ben3d.ca/blog/running-llms-in-the-browser-with-threejs",
+      "title": "Running Llms in the Browser With Three.js",
+      "date": "2026-09-04"
+    },
+    {
+      "url": "https://gwern.net/xanadu",
+      "title": "Project Xanadu: Even More Hindsight",
+      "date": "2026-09-04"
     }
   ],
   "feedback": [
