@@ -1,126 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://runtimewire.com/article/anthropic-s-project-parka-sits-through-meetings-and-assigns-claude-agents-the-ho",
-      "title": "Agents the Homework",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://mistral.ai/news/agentic-search",
-      "title": "Loop",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/wf1kdt",
-      "title": "Files for Production Agents",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://threadreaderapp.com/thread/2090278256306229675.html",
-      "title": "Why Ai Makes Experts More Valuable",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://antigravity.google/blog/antigravity-enterprise",
-      "title": "Existing Ides",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://danielvaughn.dev/posts/huzzah",
-      "title": "Huzzah",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://richmironov.substack.com/p/technical-ingredients-revenue-ingredients",
-      "title": "Technical Ingredients, Revenue Ingredients",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://galratner.substack.com/p/the-end-of-open-source",
-      "title": "The End of Open Source",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://tomtunguz.com/previously-unmanufacturable",
-      "title": "Previously Unmanufacturable",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://franciscotrindade.me/blog/the-kids-are-really-alright",
-      "title": "The Kids Are Really Alright",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://davidpoblador.com/blog/the-next-github-is-not-worth-winning.html",
-      "title": "The Next Github is Not Worth Winning",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://dpereira.substack.com/p/the-art-of-simplifying-decisions",
-      "title": "The Art of Simplifying Decisions",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://jennywanger.com/articles/influence-doesnt-come-with-the-promotion",
-      "title": "Influence Doesn't Come With the Promotion",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://tanstack.com/blog/tanstack-router-navigation-lanes",
-      "title": "Inside a Tanstack Router Navigation",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://chrisburnell.com/html-can-do-that",
-      "title": "Html Can Do That",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://thegustafson.com/blog/paged-attention",
-      "title": "Pagedattention: Virtual Memory for the Kv Cache",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://github.com/bgub/fig",
-      "title": "Fig",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://matklad.github.io/2026/08/20/better-batteries.html",
-      "title": "Better Batteries",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://newsletter.weskao.com/p/turn-bugs-into-features",
-      "title": "Turn Bugs Into Features",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://ezyang.github.io/interactive-parallelize-transformer",
-      "title": "Parallelizing Transformer Training",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://antonz.org/going-freestanding",
-      "title": "Going Freestanding",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://strn.cat/posts/spacetime",
-      "title": "Spacetimedb: a Short Technical Review",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://danhock.co/p/how-to-build-a-high-growth-os",
-      "title": "How to Build a High-growth Operating System",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://a16z.news/p/rise-of-the-borderless-founder",
-      "title": "Rise of the Borderless Founder",
-      "date": "2026-08-21"
-    },
-    {
       "url": "https://fabiensanglard.net/agent.md/index.html",
       "title": "An Agent.md to Improve Llm-assisted Code Quality",
       "date": "2026-08-24"
@@ -1329,6 +1209,126 @@
       "url": "https://gwern.net/xanadu",
       "title": "Project Xanadu: Even More Hindsight",
       "date": "2026-09-04"
+    },
+    {
+      "url": "https://stratechery.com/2026/an-interview-with-openai-president-greg-brockman-about-astra-and-alignment",
+      "title": "Alignment",
+      "date": "2026-09-07"
+    },
+    {
+      "url": "https://blog.detail.dev/posts/towards-self-driving-codebases",
+      "title": "Towards Self-driving Codebases",
+      "date": "2026-09-07"
+    },
+    {
+      "url": "https://henryaj.substack.com/p/the-loop-closes",
+      "title": "The Loop Closes",
+      "date": "2026-09-07"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/uookua",
+      "title": "Research Acceleration: the View Inside Openai",
+      "date": "2026-09-07"
+    },
+    {
+      "url": "https://antonsten.com/articles/the-building-was-never-the-hard-part",
+      "title": "The Point of a System is Fewer Decisions",
+      "date": "2026-09-07"
+    },
+    {
+      "url": "https://zod.dev/blog/reducing-memory-footprint",
+      "title": "Memoization",
+      "date": "2026-09-07"
+    },
+    {
+      "url": "https://github.com/shadcn-ui/cn",
+      "title": "Cn",
+      "date": "2026-09-07"
+    },
+    {
+      "url": "https://martinalderson.com/posts/ai-safety-vs-security",
+      "title": "Ai Safety is Not the Same as Security",
+      "date": "2026-09-07"
+    },
+    {
+      "url": "https://austinhenley.com/blog/python1024.html",
+      "title": "Making a Python Interpreter in 1024 Bytes",
+      "date": "2026-09-07"
+    },
+    {
+      "url": "https://anthropic.com/research/formalizing-fermats-last-theorem",
+      "title": "Formalizing Fermat's Last Theorem",
+      "date": "2026-09-07"
+    },
+    {
+      "url": "https://thezvi.substack.com/p/openai-and-the-wiki-incident",
+      "title": "Openai and the Wiki Incident",
+      "date": "2026-09-07"
+    },
+    {
+      "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm",
+      "title": "It Took a Year to Ship Webassembly in Anubis",
+      "date": "2026-09-07"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/icw2gt",
+      "title": "An Alien Mind",
+      "date": "2026-09-07"
+    },
+    {
+      "url": "https://smolnero.com/posts/between-the-graph-and-the-silicon-inside-the-apple-neural-engine-compiler",
+      "title": "Compiler",
+      "date": "2026-09-07"
+    },
+    {
+      "url": "https://github.com/llm-as-a-verifier/llm-as-a-verifier",
+      "title": "Llm-as-a-verifier",
+      "date": "2026-09-07"
+    },
+    {
+      "url": "https://contraptions.venkateshrao.com/p/the-curiously-playable-universe",
+      "title": "The Curiously Playable Universe",
+      "date": "2026-09-07"
+    },
+    {
+      "url": "https://openai.robocurve.org/gpt-6-astra",
+      "title": "Gpt\u20116 Astra on Robotic Manipulation",
+      "date": "2026-09-07"
+    },
+    {
+      "url": "https://taekim.substack.com/p/gpt-6-astra-and-the-fourth-exponential",
+      "title": "Gpt-6 Astra and the Fourth Exponential",
+      "date": "2026-09-07"
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2096298105213952178.html",
+      "title": "Grok Imagine Video 1.5 Agent",
+      "date": "2026-09-07"
+    },
+    {
+      "url": "https://github.com/salesforceairesearch/random-attention",
+      "title": "Random Attention",
+      "date": "2026-09-07"
+    },
+    {
+      "url": "https://cnbc.com/2026/09/05/anthropic-ipo-launch-shifts-toward-mid-october-reuters.html",
+      "title": "Anthropic Ipo Launch Shifts Toward Mid-october",
+      "date": "2026-09-07"
+    },
+    {
+      "url": "https://extropic.ai/writing/z1t",
+      "title": "Z1t",
+      "date": "2026-09-07"
+    },
+    {
+      "url": "https://tomtunguz.com/the-4-trillion-dollar-ai-data-center-debt-wave",
+      "title": "Concrete, Silicon, & Leverage",
+      "date": "2026-09-07"
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2096271545589190927.html",
+      "title": "Aira\u2083",
+      "date": "2026-09-07"
     }
   ],
   "feedback": [
