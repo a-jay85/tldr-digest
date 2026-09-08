@@ -1,106 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://fabiensanglard.net/agent.md/index.html",
-      "title": "An Agent.md to Improve Llm-assisted Code Quality",
-      "date": "2026-08-24"
-    },
-    {
-      "url": "https://claude.com/blog/the-ai-native-sdlc-playbook",
-      "title": "The Ai-native Sdlc Playbook",
-      "date": "2026-08-24"
-    },
-    {
-      "url": "https://dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html",
-      "title": "Fable & the End of the Free Lunch",
-      "date": "2026-08-24"
-    },
-    {
-      "url": "https://karlkoch.me/writing/on-teaching-ai-how-you-work",
-      "title": "On Teaching Ai How You Work",
-      "date": "2026-08-24"
-    },
-    {
-      "url": "https://latent.space/p/attention-interface",
-      "title": "The Evolution of the Agent Harness",
-      "date": "2026-08-24"
-    },
-    {
-      "url": "https://lalitm.com/post/find-problems-staff-engineer",
-      "title": "How I Find Problems to Solve as a Staff Engineer",
-      "date": "2026-08-24"
-    },
-    {
-      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-      "title": "Why Your Local Llm Feels Dumber Than it is",
-      "date": "2026-08-24"
-    },
-    {
-      "url": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code",
-      "title": "Fast and Hard Code",
-      "date": "2026-08-24"
-    },
-    {
-      "url": "https://omegion.dev/2026/08/ai-and-infrastructure-engineering",
-      "title": "Ai and Infrastructure Engineering",
-      "date": "2026-08-24"
-    },
-    {
-      "url": "https://github.com/proliferate-ai/proliferate",
-      "title": "Proliferate",
-      "date": "2026-08-24"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/wunxh9",
-      "title": "Verifiable Domains Will Eat the World",
-      "date": "2026-08-24"
-    },
-    {
-      "url": "https://martinalderson.com/posts/the-summer-of-open-weights",
-      "title": "The Summer of Open Weights",
-      "date": "2026-08-24"
-    },
-    {
-      "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
-      "title": "The New Mcp Roadmap",
-      "date": "2026-08-24"
-    },
-    {
-      "url": "https://the-decoder.com/deepseek-releases-experimental-flash-vision-model-that-rivals-opus-4-8-on-agent-benchmarks",
-      "title": "4.8 on Agent Benchmarks",
-      "date": "2026-08-24"
-    },
-    {
-      "url": "https://github.com/apache/maka",
-      "title": "Maka",
-      "date": "2026-08-24"
-    },
-    {
-      "url": "https://jepeake.com/ai-chip-architectures",
-      "title": "Ai Chip Architectures",
-      "date": "2026-08-24"
-    },
-    {
-      "url": "https://xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model",
-      "title": "Frontier Model, and it Finished in 30 Minutes",
-      "date": "2026-08-24"
-    },
-    {
-      "url": "https://thenextweb.com/news/anthropic-mythos-5-defenders-open-source-fund",
-      "title": "The Model Itself",
-      "date": "2026-08-24"
-    },
-    {
-      "url": "https://threadreaderapp.com/thread/2091542026072338623.html",
-      "title": "Anthropic",
-      "date": "2026-08-24"
-    },
-    {
-      "url": "https://how.complexsystems.fail",
-      "title": "How Complex Systems Fail",
-      "date": "2026-08-24"
-    },
-    {
       "url": "https://newsletter.port.io/p/how-uber-built-a-software-factory",
       "title": "And the Platform Underneath",
       "date": "2026-08-25"
@@ -1329,6 +1229,156 @@
       "url": "https://threadreaderapp.com/thread/2096271545589190927.html",
       "title": "Aira\u2083",
       "date": "2026-09-07"
+    },
+    {
+      "url": "https://jonathanc.net/blog/hip-agent?v=2",
+      "title": "Hip-agent: a Harness That Fits in the Prompt",
+      "date": "2026-09-08"
+    },
+    {
+      "url": "https://jimmyhmiller.com/shape-of-unfinished-ai-codebases",
+      "title": "The Chasm: the Shape of Unfinished Ai Codebases",
+      "date": "2026-09-08"
+    },
+    {
+      "url": "https://borretti.me/article/the-education-of-a-doomer",
+      "title": "The Education of a Doomer",
+      "date": "2026-09-08"
+    },
+    {
+      "url": "https://blog.reqproof.com/p/your-ai-can-fix-the-bug-can-it-find",
+      "title": "Your Ai Can Fix the Bug. but Can it Find It?",
+      "date": "2026-09-08"
+    },
+    {
+      "url": "https://voiceinthemachine.com/2026/09/07/four-questions-about-agi",
+      "title": "Four Questions About Agi",
+      "date": "2026-09-08"
+    },
+    {
+      "url": "https://antmurphy.me/newsletter/how-the-leading-ai-companies-do-product-part-1",
+      "title": "How the Leading Ai Companies Do Product",
+      "date": "2026-09-08"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/lhhdij",
+      "title": "Applied Ai Doesn't Work",
+      "date": "2026-09-08"
+    },
+    {
+      "url": "https://armosec.io/blog/untrusted-tool-output-prompt-injection",
+      "title": "Prompt Injection Through Tool Output",
+      "date": "2026-09-08"
+    },
+    {
+      "url": "https://jyn.dev/simple-is-not-the-same-as-small",
+      "title": "Simple is Not Small",
+      "date": "2026-09-08"
+    },
+    {
+      "url": "https://github.com/agricidaniel/claude-ads",
+      "title": "Claude Ads",
+      "date": "2026-09-08"
+    },
+    {
+      "url": "https://bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
+      "title": "Emails, $0 Revenue",
+      "date": "2026-09-08"
+    },
+    {
+      "url": "https://codescan.dev/blog/ruff-mypy-pytest-and-then-what",
+      "title": "Ruff, Mypy, Pytest, and Then What?",
+      "date": "2026-09-08"
+    },
+    {
+      "url": "https://productcompass.pm/p/product-engineering-for-pms-part-2",
+      "title": "Build a Saas App Without Coding",
+      "date": "2026-09-08"
+    },
+    {
+      "url": "https://orchidfiles.com/programming-is-art",
+      "title": "Programming is Art",
+      "date": "2026-09-08"
+    },
+    {
+      "url": "https://github.com/mukul975/cve-mcp-server",
+      "title": "Cve Mcp Server",
+      "date": "2026-09-08"
+    },
+    {
+      "url": "https://github.com/nvidia/personal-ai-router",
+      "title": "Nvidia Personal Ai Router - Pair",
+      "date": "2026-09-08"
+    },
+    {
+      "url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting",
+      "title": "De-brainrot Vacations",
+      "date": "2026-09-08"
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2096966511974064535.html",
+      "title": "Ai Can Climb the Hill. Humans Pick the Next One",
+      "date": "2026-09-08"
+    },
+    {
+      "url": "https://github.com/ai-hypercomputer/accelerator-agents",
+      "title": "Google Accelerator Agents for Tpu Development",
+      "date": "2026-09-08"
+    },
+    {
+      "url": "http://notes.erlend.sh/3muwdtclths2d",
+      "title": "Making Software Hurts Now",
+      "date": "2026-09-08"
+    },
+    {
+      "url": "https://korbonits.com/blog/2026-09-06-the-question-was-already-written",
+      "title": "The Question Was Already Written",
+      "date": "2026-09-08"
+    },
+    {
+      "url": "https://benn.substack.com/p/how-to-find-insights",
+      "title": "How to Find Insights",
+      "date": "2026-09-08"
+    },
+    {
+      "url": "https://cutlefish.substack.com/p/tbm-438-the-myth-of-workplace-consensus",
+      "title": "Am I the Only Weirdo in This Company?",
+      "date": "2026-09-08"
+    },
+    {
+      "url": "https://github.com/getopenscreen/openscreen",
+      "title": "Openscreen",
+      "date": "2026-09-08"
+    },
+    {
+      "url": "https://seangoedecke.com/deckard",
+      "title": "Automatically Detecting Ai Text in My Browser",
+      "date": "2026-09-08"
+    },
+    {
+      "url": "https://spiraldb.com/blog/from-s3-to-gpu-in-one-copy",
+      "title": "From S3 to Gpu in One Copy",
+      "date": "2026-09-08"
+    },
+    {
+      "url": "https://kolemannix.com/blog/how-to-name-things",
+      "title": "How to Name Things",
+      "date": "2026-09-08"
+    },
+    {
+      "url": "https://blog.zksecurity.xyz/posts/the-year-finding-bugs-became-cheap",
+      "title": "About it",
+      "date": "2026-09-08"
+    },
+    {
+      "url": "https://aminrj.com/posts/cosine-similarity-is-not-a-safety-property",
+      "title": "Cosine Similarity is Not a Safety Property",
+      "date": "2026-09-08"
+    },
+    {
+      "url": "https://testingcatalog.com/openai-prepares-managed-agents-for-devday-2026",
+      "title": "Openai Prepares Managed Agents for Devday 2026",
+      "date": "2026-09-08"
     }
   ],
   "feedback": [
