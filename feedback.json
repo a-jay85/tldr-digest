@@ -1,151 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://newsletter.port.io/p/how-uber-built-a-software-factory",
-      "title": "And the Platform Underneath",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://vedanshh.com/blog/context-engineering",
-      "title": "The State Machine Nobody Designed",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
-      "title": "Ai Coding Will Prevent Expertise",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://alexzhang13.github.io/blog/2026/spec-ptc",
-      "title": "Speculative Programmatic Tool Calling",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://blog.sshh.io/p/the-harness-is-the-company",
-      "title": "The Harness is the Company",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/ffdjqe",
-      "title": "The Economics of the Intelligence Frontier",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://stratechery.com/2026/autonomy-and-innovation",
-      "title": "Autonomy and Innovation",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://about.gitlab.com/blog/when-code-is-abundant",
-      "title": "When Code is Abundant",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://github.com/rome-os/rome",
-      "title": "Rome",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://blog.tymscar.com/posts/howtoreportabug",
-      "title": "How to Report a Bug So it Actually Gets Fixed",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/tck9t4",
-      "title": "Ai's Next Big Leap is Into the Real World",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://codegood.co/writing/the-deadline-that-was-already-missed",
-      "title": "The Deadline That Was Already Missed",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://highimpactengineering.substack.com/p/developers-must-become-mini-pms",
-      "title": "Developers Must Become Mini-pms",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits",
-      "title": "Stop Using Conventional Commits",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://kciter.so/posts/how-to-design-animation/en",
-      "title": "How to Design an Animation",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
-      "title": "Your Executable is a Sqlite Database",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://github.com/getkern/kern",
-      "title": "Kern",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency",
-      "title": "Anger, Anxiety and Agency",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://davesresearch.com/good-move-enabling",
-      "title": "A Good Move is Enabling",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://smart-interface-design-patterns.com/articles/big-bang-redesigns-vs-legacy-modernization",
-      "title": "Big-bang Redesigns Vs. Legacy Modernization",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://github.com/deep-jlu/awesome-graph-engineering",
-      "title": "Graph Engineering",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://github.com/picomq/picomq",
-      "title": "Picomq",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://plicara.ai/research/agent-skill-languages",
-      "title": "What Language Are Agent Skills Written In?",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://rushed-reflections.bearblog.dev/an-unlikely-experiment",
-      "title": "An Unlikely Experiment",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-      "title": "Engines",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://threadreaderapp.com/thread/2089921630650925170.html",
-      "title": "Enterprise Ai's Biggest Opportunities",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://wccftech.com/nvidia-groq-3-lpx-ai-inference-accelerator-full-production-supercharging-vera-rubin",
-      "title": "Speeds Ever Recorded",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://tomtunguz.com/the-ai-cost-stack",
-      "title": "The Ai Bullwhip",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://paulgraham.com/prepare.html",
-      "title": "How Universities Should Prepare Founders",
-      "date": "2026-08-25"
-    },
-    {
       "url": "https://scottspence.com/posts/agentic-engineering-practical-guide",
       "title": "Agentic Engineering for Reliable Coding Agents",
       "date": "2026-08-26"
@@ -1379,6 +1234,86 @@
       "url": "https://testingcatalog.com/openai-prepares-managed-agents-for-devday-2026",
       "title": "Openai Prepares Managed Agents for Devday 2026",
       "date": "2026-09-08"
+    },
+    {
+      "url": "https://mg-crea.com/blog/the-late-software-developer",
+      "title": "The Late Software Developer",
+      "date": "2026-09-09"
+    },
+    {
+      "url": "https://thexpin.com/p/bill-gates-wrong-about-ai-layoffs",
+      "title": "A Response to Bill Gates's Essay",
+      "date": "2026-09-09"
+    },
+    {
+      "url": "https://katelynlesse.com/blog/cpu-shortage-software-teams",
+      "title": "What the Cpu Shortage Means for Software Teams",
+      "date": "2026-09-09"
+    },
+    {
+      "url": "https://dwarkesh.com/p/pretraining-progress-is-mostly-data",
+      "title": "Pretraining Progress is Mostly Coming From Data",
+      "date": "2026-09-09"
+    },
+    {
+      "url": "https://blog.sshh.io/p/i-asked-100-agents-to-hack-me",
+      "title": "I Asked 100 Agents to Hack Me",
+      "date": "2026-09-09"
+    },
+    {
+      "url": "https://theaiengineer.substack.com/p/what-makes-inference-nondeterministic",
+      "title": "What Makes Inference Nondeterministic?",
+      "date": "2026-09-09"
+    },
+    {
+      "url": "https://packagemain.tech/p/gitignore-everything-by-default",
+      "title": ".gitignore Everything by Default",
+      "date": "2026-09-09"
+    },
+    {
+      "url": "https://ishamf.dev/p/llm-attention-visualizer",
+      "title": "Llm Attention Visualization",
+      "date": "2026-09-09"
+    },
+    {
+      "url": "https://astralcodexten.com/p/god-help-us-lets-try-to-learn-about",
+      "title": "Techniques",
+      "date": "2026-09-09"
+    },
+    {
+      "url": "https://magic.dev/blog/pretraining",
+      "title": ">10x More Efficient Pretraining",
+      "date": "2026-09-09"
+    },
+    {
+      "url": "https://anaconda.com/blog/openai-astra-ai-security",
+      "title": "What Openai's Astra Means for Ai Security Teams",
+      "date": "2026-09-09"
+    },
+    {
+      "url": "https://schneier.com/blog/archives/2026/09/stealing-ai-reasoning-traces.html",
+      "title": "Stealing Ai Reasoning Traces",
+      "date": "2026-09-09"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/lh1qpg",
+      "title": "A Non-renewable Fashion",
+      "date": "2026-09-09"
+    },
+    {
+      "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market",
+      "title": "Is Far From a Winner-take-all Market",
+      "date": "2026-09-09"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/ccembs",
+      "title": "Chatgpt Images 2.5",
+      "date": "2026-09-09"
+    },
+    {
+      "url": "https://prestonfu.com/notes/ppm",
+      "title": "Progressive Point Matching",
+      "date": "2026-09-09"
     }
   ],
   "feedback": [
