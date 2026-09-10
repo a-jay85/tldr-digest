@@ -1,121 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://scottspence.com/posts/agentic-engineering-practical-guide",
-      "title": "Agentic Engineering for Reliable Coding Agents",
-      "date": "2026-08-26"
-    },
-    {
-      "url": "https://githubnext.com/posts/knowledge-compressor",
-      "title": "Knowledge Compressor",
-      "date": "2026-08-26"
-    },
-    {
-      "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux",
-      "title": "Product Thibault Sottiaux",
-      "date": "2026-08-26"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/9pwm3w",
-      "title": "Moats in the Age of Floods",
-      "date": "2026-08-26"
-    },
-    {
-      "url": "https://github.com/context-labs/whip",
-      "title": "Whip",
-      "date": "2026-08-26"
-    },
-    {
-      "url": "https://elliotcsmith.com/engineering-theatre",
-      "title": "Engineering Theatre",
-      "date": "2026-08-26"
-    },
-    {
-      "url": "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production",
-      "title": "How to Evaluate Llms Before Production",
-      "date": "2026-08-26"
-    },
-    {
-      "url": "https://ianbarber.blog/2026/08/24/vocab-break",
-      "title": "Vocab Break",
-      "date": "2026-08-26"
-    },
-    {
-      "url": "https://vercel.com/blog/the-end-of-credential-sprawl-for-agents",
-      "title": "Short-lived Credentials for Ai Agents",
-      "date": "2026-08-26"
-    },
-    {
-      "url": "https://vercel.com/blog/introducing-run",
-      "title": "Introducing Run Sdk: Secure Eval for Your Agents",
-      "date": "2026-08-26"
-    },
-    {
-      "url": "https://ventureinsecurity.net/p/how-ai-is-actually-remaking-security",
-      "title": "How Ai is Actually Remaking Security",
-      "date": "2026-08-26"
-    },
-    {
-      "url": "https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs",
-      "title": "Local Ai Agent With Zero Token Costs",
-      "date": "2026-08-26"
-    },
-    {
-      "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-      "title": "Granite 4.2 Llms: How They're Built",
-      "date": "2026-08-26"
-    },
-    {
-      "url": "https://ishadeed.com/article/flex-wrap-balance",
-      "title": "Balancing Flex Items With Flex-wrap",
-      "date": "2026-08-26"
-    },
-    {
-      "url": "https://rvier.fr/posts/why-i-wrote-my-own-monitoring-tool-en",
-      "title": "Monitoring Tool",
-      "date": "2026-08-26"
-    },
-    {
-      "url": "https://ilyabirman.net/meanwhile/all/let-me-click",
-      "title": "Let Me Click",
-      "date": "2026-08-26"
-    },
-    {
-      "url": "https://github.com/jd-opensource/joyai-echo",
-      "title": "Open Omnimodal World Models",
-      "date": "2026-08-26"
-    },
-    {
-      "url": "http://sebsite.pw/w/20260801-pythonconstants.html",
-      "title": "Python's Pre-declared Constants Are Kinda Weird",
-      "date": "2026-08-26"
-    },
-    {
-      "url": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference",
-      "title": "Development",
-      "date": "2026-08-26"
-    },
-    {
-      "url": "https://natemeyvis.com/some-recent-applications-of-ai",
-      "title": "Some Recent Applications of Ai",
-      "date": "2026-08-26"
-    },
-    {
-      "url": "https://appliedcompute.com/platform/introducing-ac2",
-      "title": "Applied Compute Agent Cloud",
-      "date": "2026-08-26"
-    },
-    {
-      "url": "https://apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
-      "title": "Compute",
-      "date": "2026-08-26"
-    },
-    {
-      "url": "https://electronicsweekly.com/blogs/mannerisms/dilemmas/could-nvidia-default-2026-08",
-      "title": "Could Nvidia Default?",
-      "date": "2026-08-26"
-    },
-    {
       "url": "https://github.com/microsoft/autosaddler",
       "title": "Automatic Harness Optimization",
       "date": "2026-08-27"
@@ -1314,6 +1199,81 @@
       "url": "https://prestonfu.com/notes/ppm",
       "title": "Progressive Point Matching",
       "date": "2026-09-09"
+    },
+    {
+      "url": "https://anthropic.com/institute/econ-scenarios",
+      "title": "Scenarios for Our Economic Future",
+      "date": "2026-09-10"
+    },
+    {
+      "url": "https://chrismdp.com/prompt-evals-are-useless",
+      "title": "Prompt Evals Alone Are Useless",
+      "date": "2026-09-10"
+    },
+    {
+      "url": "https://rubyonrails.org/2026/9/2/agents-on-rails-claude-fable-5-1-and-glm-5-3-flash",
+      "title": "Agents on Rails: Fable 5.1 & Glm 5.3 Flash",
+      "date": "2026-09-10"
+    },
+    {
+      "url": "https://simonwillison.net/2026/sep/8/on-navier-stokes",
+      "title": "On the Navier\u2013stokes Millennium Prize Problem",
+      "date": "2026-09-10"
+    },
+    {
+      "url": "https://riskmusings.substack.com/p/the-llm-architecture-problem",
+      "title": "The Llm Architecture Problem",
+      "date": "2026-09-10"
+    },
+    {
+      "url": "https://react.dev/blog/2026/09/09/react-19-3",
+      "title": "React 19.3",
+      "date": "2026-09-10"
+    },
+    {
+      "url": "https://entropicthoughts.com/better-ai-comment-classifier",
+      "title": "Better Ai Code Comment Detector",
+      "date": "2026-09-10"
+    },
+    {
+      "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
+      "title": "Reasoning Prefills on a Few Open Models, V1.1",
+      "date": "2026-09-10"
+    },
+    {
+      "url": "https://expo.dev/blog/an-early-look-at-expo-modules-2-0",
+      "title": "An Early Look at Expo Modules 2.0",
+      "date": "2026-09-10"
+    },
+    {
+      "url": "https://econlab.substack.com/p/ai-index-sept-2026",
+      "title": "Cracks in the Ai Thesis Part 2",
+      "date": "2026-09-10"
+    },
+    {
+      "url": "https://julien.org/blog/industry-perspectives/2026-09-08_the-cache-is-the-price",
+      "title": "The Cache is the Price",
+      "date": "2026-09-10"
+    },
+    {
+      "url": "https://copperhead.sh",
+      "title": "Copperhead: Cursor for Circuit Boards",
+      "date": "2026-09-10"
+    },
+    {
+      "url": "https://dev.to/jason_gunnells/ai-is-now-out-working-the-people-who-build-it-of0",
+      "title": "Ai is Now Out-working the People Who Build it",
+      "date": "2026-09-10"
+    },
+    {
+      "url": "https://dri.es/the-60-second-procurement-test",
+      "title": "The 60-second Procurement Test",
+      "date": "2026-09-10"
+    },
+    {
+      "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+      "title": "Tailwind Labs is Joining Shopify",
+      "date": "2026-09-10"
     }
   ],
   "feedback": [
