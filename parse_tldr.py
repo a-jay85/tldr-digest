@@ -83,10 +83,58 @@ def parse_links_section(text: str) -> dict[str, str]:
     return links
 
 
+TITLE_MARKER_RE = re.compile(
+    r"\((\d+\s+MINUTE READ|GITHUB REPO)\)\s*\[\d+\]\s*$", re.IGNORECASE
+)
+
+
+def _rejoin_wrapped_titles(lines: list[str]) -> list[str]:
+    """Collapse title blocks that the plaintext email wrapped across lines.
+
+    Titles are one paragraph (a run of non-blank lines) ending in a
+    "(N MINUTE READ) [n]" or "(GITHUB REPO) [n]" marker, but the wrap can
+    land anywhere in that paragraph:
+
+        WHY THE WORLD'S BEST AI STARTUPS WRITE BAD PROMPTS (& HOW TO FIX
+        THIS) (24 MINUTE READ) [16]
+
+        META TO ANNOUNCE SHARED AGENTS FOR MUSE AT META CONNECT (2 MINUTE
+        READ) [8]
+
+        TOP AI LEADERS CALL FOR SLOWING DOWN AI DEVELOPMENT (5 MINUTE READ)
+        [6]
+
+    The line-oriented parser only sees the last line, which either truncates
+    the title or drops the story entirely. So: for each paragraph, if the
+    space-joined text ends with a marker, emit it as one line. Description
+    paragraphs never end with a marker, so they pass through untouched.
+    """
+    out: list[str] = []
+    block: list[str] = []
+
+    def flush():
+        if not block:
+            return
+        if len(block) > 1 and TITLE_MARKER_RE.search(" ".join(l.strip() for l in block)):
+            out.append(" ".join(l.strip() for l in block))
+        else:
+            out.extend(block)
+        block.clear()
+
+    for ln in lines:
+        if ln.strip():
+            block.append(ln)
+        else:
+            flush()
+            out.append(ln)
+    flush()
+    return out
+
+
 def parse_stories(text: str, source: str, links: dict[str, str]) -> list[dict]:
     """Extract stories from newsletter body."""
     stories = []
-    lines = text.split("\n")
+    lines = _rejoin_wrapped_titles(text.split("\n"))
 
     skip_patterns = [
         r"\(SPONSOR\)",
