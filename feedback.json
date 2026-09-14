@@ -1289,6 +1289,136 @@
       "url": "https://hyperbo.la/w/aligned-to-whom",
       "title": "Aligned to Whom?",
       "date": "2026-09-14"
+    },
+    {
+      "url": "https://engineering.monday.com/building-a-robust-harness-for-agent-in-production-feed-agent-case-study",
+      "title": "Building a Robust Harness for Agents in Production",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://dwarkesh.com/p/john-beren-charlie",
+      "title": "Ai Researchers Debate How Close We Are to Recursive Self-improvement",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://earendil.com/posts/measuring-code-sloppiness",
+      "title": "If Coding is Solved, What Now? Measuring Code Sloppiness",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/aq0iud",
+      "title": "Top Ai Leaders Call for Slowing Down Ai Development",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://okaneland.com/signal/the-frontier-twice",
+      "title": "The Frontier Now Ships Twice. the Second Copy is Not for Sale.",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+      "title": "Why Are Ai Agents Lying, Cheating, and Coordinating?",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://seangoedecke.com/slow-devex-will-bottleneck-fast-models",
+      "title": "Slow Developer Experience Will Bottleneck Fast Models",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/6f2sbw",
+      "title": "Openai is Open to Slowing Cutting-edge Ai, Ceo Sam Altman Tells Staff",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.09134",
+      "title": "Salesforce Finds Better Ways to Co-evolve Agents and Their Harnesses",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://cloud.google.com/blog/topics/developers-practitioners/introducing-the-google-cloud-developer-plugin-for-ai-coding-agents",
+      "title": "Introducing the Google Cloud Developer Plugin for Ai Coding Agents",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://anthropic.com/research/alignment-assessment-cybersecurity-incidents",
+      "title": "An Alignment Assessment of Recent Cybersecurity Incidents",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://alfy.blog/2026/07/25/modern-web-guidance.html",
+      "title": "Testing Google's \"modern-web-guidance\" Skill on a Real React App",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://siddhantkhare.com/writing/kv-cache-truth-auditor",
+      "title": "A Cache Hit is Not Proof That You Skipped the Work",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.13009",
+      "title": "How Good Are Frontier Models at Physics? Expert Re-grading Reveals Broken Evaluations and Near-saturation of Leading Benchmarks",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://rubyhack.ai",
+      "title": "Openai Agents Carried Out an Undisclosed Cyberattack on Rubygems",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://elenaverna.com/p/how-to-give-away-free-product-and",
+      "title": "How to Give Away Free Product and Make Money Doing it",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you",
+      "title": "Anthropic's Mythos 5 Spent Hundreds of Pages Fighting Captcha",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://terrytao.wordpress.com/2026/09/13/deep-theorems-were-scarce-and-difficult-and-so-became-an-effective-mechanism-to-identify-deep-thought-ai-has-broken-this-system",
+      "title": "Deep Theorems Were Scarce. Ai Has Broken This System",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://testingcatalog.com/openai-launches-gpt-live-1-for-full-duplex-voice-agents",
+      "title": "Openai Launches Gpt-live-1 for Full-duplex Voice Agents",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://anthropic.com/threat-intelligence-report-september-2026",
+      "title": "Detecting and Countering Misuse of Ai: September 2026",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://rhoda.ai/research/scaling-web-video-pretraining",
+      "title": "Does Scaling Web-video Pre-training Help Real Robots Do Real Work?",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/u20nse",
+      "title": "The Deathray: a Simple Way for an Untrusted Site to Freeze a Mac",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand",
+      "title": "Openai Puts Pro Subscriptions on Hold Due to Astra Demand",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://distributedthoughts.org/2026-09-10-de-identification-protects-your-name",
+      "title": "De-identification Protects Your Name. it Doesn't Protect Your Idea",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://japantimes.co.jp/business/2026/09/14/companies/softbank-loan-openai",
+      "title": "Softbank Gets Upsized $11.9 Billion Loan in Openai Funding Push",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://testingcatalog.com/meta-to-announce-shared-agents-for-muse-at-meta-connect",
+      "title": "Meta to Announce Shared Agents for Muse at Meta Connect",
+      "date": "2026-09-14"
     }
   ],
   "feedback": [
