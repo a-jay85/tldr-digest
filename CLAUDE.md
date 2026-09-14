@@ -19,7 +19,7 @@ Personal newsletter curator. Fetches TLDR newsletters from Gmail, scores stories
 4. `python3 filter_seen.py stories.json feedback.json stories_fresh.json` — remove stories seen in last 7 days
 5. `python3 build_prompt.py` → `prompt_system.txt` (`bin/digest-prompt` + votes from last 90 days) and `prompt_user.txt` (numbered story list, no URLs); `claude -p` (Sonnet, `--effort low`, no tools, no settings/hooks, `--json-schema`) scores every story by index in a single turn; `python3 merge_scores.py` applies cutoffs (drop <20; if >25 remain, drop <30) and joins scores back on index → `scored_stories.json` (LLM step)
 6. `python3 build_email.py scored_stories.json config.json` — generate `digest.html` + `digest_subject.txt`
-7. `python3 send_digest.py config.json` — POST `digest.html`/`digest_subject.txt` to the Apps Script `sendDigest` endpoint, which emails the digest via GmailApp
+7. `python3 send_digest.py config.json` — POST `digest.html`/`digest_subject.txt` to the Apps Script `sendDigest` endpoint, which emails the digest via GmailApp. A 404/timeout/network error on the POST is *ambiguous* (the `/exec` redirect to `script.googleusercontent.com` can fail after the mail is already sent), so the script checks Gmail for the exact subject and exits 0 if found — never re-POSTs, which would duplicate the email
 8. `python3 gmail_ops.py archive` — archive fetched threads
 9. `python3 update_seen.py scored_stories.json feedback.json` — add digest URLs to seen, prune >14 days
 10. `git commit && git push` — persist `feedback.json`

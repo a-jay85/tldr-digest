@@ -19,12 +19,95 @@ the run loudly rather than reporting a phantom send.
 
 import json
 import sys
+import time
 import urllib.request
+from email.header import decode_header, make_header
 from pathlib import Path
 
 from config_util import load_config
 
 PROJECT_DIR = Path(__file__).resolve().parent
+
+
+def verify_sent(subject: str, since_ts: float) -> bool:
+    """Check the owner's mailbox for a digest sent after `since_ts` with this subject.
+
+    Apps Script /exec POSTs 302-redirect to script.googleusercontent.com; a
+    404/timeout on that redirect target happens *after* the script already ran
+    and sent the mail (observed 2026-09-14). So a transport-level failure is
+    ambiguous, not a failure — ask Gmail directly instead of guessing.
+
+    Out-of-band on purpose: re-POSTing would re-use the same flaky channel and
+    could send a second copy. gmail_ops' gmail.modify scope includes read, and
+    the digest is sent from the owner to the owner, so it is visible here.
+
+    `since_ts` (epoch seconds, captured just before the POST) is what makes the
+    match trustworthy: subjects are date-based, so every digest sent on a given
+    day shares one. Without it, a second run's 404 would match the *first* run's
+    email and exit 0, marking the second run's new stories seen but never sent.
+    """
+    try:
+        from gmail_ops import get_service
+        service = get_service()
+    except Exception as e:  # noqa: BLE001 - verification is best-effort
+        print(f"  could not check Gmail to verify the send: {e}", file=sys.stderr)
+        return False
+
+    # Gmail's `subject:` operator is unreliable against the emoji in our
+    # subjects, so match exactly in Python. The query window is deliberately
+    # loose; internalDate vs since_ts does the real narrowing.
+    cutoff = since_ts - 10  # slack for clock skew between here and Gmail
+    for attempt in range(3):
+        if attempt:
+            time.sleep(5)
+        try:
+            resp = service.users().messages().list(
+                userId="me", q="in:anywhere from:me newer_than:1d", maxResults=50,
+            ).execute()
+            for msg in resp.get("messages", []):
+                meta = service.users().messages().get(
+                    userId="me", id=msg["id"],
+                    format="metadata", metadataHeaders=["Subject"],
+                ).execute()
+                try:
+                    if int(meta["internalDate"]) / 1000 < cutoff:
+                        continue
+                except (KeyError, TypeError, ValueError):
+                    continue  # can't date it, can't trust it
+                for h in meta.get("payload", {}).get("headers", []):
+                    if h.get("name", "").lower() != "subject":
+                        continue
+                    raw = h.get("value", "")
+                    try:
+                        decoded = str(make_header(decode_header(raw)))
+                    except Exception:  # noqa: BLE001
+                        decoded = raw
+                    if decoded.strip() == subject or raw.strip() == subject:
+                        return True
+        except Exception as e:  # noqa: BLE001
+            print(f"  Gmail verification attempt {attempt + 1} failed: {e}",
+                  file=sys.stderr)
+    return False
+
+
+def ambiguous_send(reason: str, subject: str, since_ts: float):
+    """Handle a transport-level failure, where the digest may already be sent.
+
+    Exits 0 if Gmail confirms delivery so digest-run can still archive threads
+    and record seen URLs — skipping those would make tomorrow's run re-send the
+    same stories. Exits 1 if unconfirmed, same as any other send failure.
+    """
+    print(f"Send may have failed: {reason}", file=sys.stderr)
+    print("  checking Gmail to see whether the digest actually went out...",
+          file=sys.stderr)
+    if verify_sent(subject, since_ts):
+        print(f"WARNING: {reason}, but the digest IS in your mailbox — "
+              "treating as sent and continuing (no retry, to avoid a duplicate).",
+              file=sys.stderr)
+        sys.exit(0)
+    print("  no matching digest found in Gmail — treating as a real failure.",
+          file=sys.stderr)
+    sys.exit(1)
 
 
 def main():
@@ -60,21 +143,32 @@ def main():
         method="POST",
     )
 
+    # Captured before the POST so verify_sent can tell *this* run's digest from
+    # an earlier one with the same date-based subject.
+    sent_at = time.time()
+
     try:
         with urllib.request.urlopen(req, timeout=30) as resp:
             content_type = resp.headers.get("Content-Type", "")
             raw = resp.read().decode()
     except urllib.error.HTTPError as e:
         if e.code == 405:
+            # The script answered, and answered "no doPost here" — nothing ran.
             print("Send failed: HTTP 405 — the deployment has no doPost. Push the "
                   "updated feedback_webapp.gs and redeploy (bin/deploy-appsscript).",
                   file=sys.stderr)
-        else:
-            print(f"Send failed: HTTP {e.code} {e.reason}", file=sys.stderr)
-        sys.exit(1)
+            sys.exit(1)
+        # e.url is the URL that actually 404'd — usually the googleusercontent
+        # redirect target, i.e. after the script ran. Log it for next time.
+        ambiguous_send(f"HTTP {e.code} {e.reason} from {e.url}",
+                       payload["subject"], sent_at)
     except urllib.error.URLError as e:
-        print(f"Send failed: could not reach web app: {e.reason}", file=sys.stderr)
-        sys.exit(1)
+        ambiguous_send(f"could not reach web app: {e.reason}",
+                       payload["subject"], sent_at)
+    except TimeoutError:
+        # Read timeout: the send may well have completed server-side.
+        ambiguous_send("timed out waiting for the web app response",
+                       payload["subject"], sent_at)
 
     # A not-yet-redeployed or wrong URL returns HTTP 200 with an HTML login/error
     # page rather than our JSON — treat that as failure, same as sync_feedback.py.
