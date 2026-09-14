@@ -1,271 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://github.com/microsoft/autosaddler",
-      "title": "Automatic Harness Optimization",
-      "date": "2026-08-27"
-    },
-    {
-      "url": "https://scott-fryxell.github.io/blog/the-harness-is-the-thing",
-      "title": "The Harness is the Thing",
-      "date": "2026-08-27"
-    },
-    {
-      "url": "https://theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet",
-      "title": "Quiet",
-      "date": "2026-08-27"
-    },
-    {
-      "url": "https://acceptmarkdown.com",
-      "title": "Serve Markdown to Ai Agents With Accept Headers",
-      "date": "2026-08-27"
-    },
-    {
-      "url": "https://blog.bytebytego.com/p/how-to-make-llms-3x-faster",
-      "title": "How to Make Llms 3x Faster",
-      "date": "2026-08-27"
-    },
-    {
-      "url": "https://nekuda.substack.com/p/breaking-chatgpt-now-supports-webmcp",
-      "title": "Chatgpt Now Supports Webmcp",
-      "date": "2026-08-27"
-    },
-    {
-      "url": "https://claude.com/blog/cowork-built-in-browser",
-      "title": "Claude Gets Its Own Browser in Cowork",
-      "date": "2026-08-27"
-    },
-    {
-      "url": "https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents",
-      "title": "Vms Won't Contain Cyber-capable Agents",
-      "date": "2026-08-27"
-    },
-    {
-      "url": "https://chrissmith.xyz/blog/2026/the-process-of-migrating-from-sass-to-native-css",
-      "title": "The Process of Migrating From Sass to Native Css",
-      "date": "2026-08-27"
-    },
-    {
-      "url": "https://conspicuouscognition.com/p/most-questions-about-ai-arent-about",
-      "title": "Most Questions About Ai Aren't About Ai",
-      "date": "2026-08-27"
-    },
-    {
-      "url": "https://z.ai/blog/glm-5.3-flash",
-      "title": "Ox-alpha Revealed as Glm-5.3-flash",
-      "date": "2026-08-27"
-    },
-    {
-      "url": "https://thedeepview.com/articles/what-z-ai-s-ox-alpha-reveals-about-ai-economics",
-      "title": "What Z.ai's Ox Alpha Reveals About Ai Economics",
-      "date": "2026-08-27"
-    },
-    {
-      "url": "https://github.com/tencent/wemm-embedding",
-      "title": "Wechat Released Family of Embedding Models",
-      "date": "2026-08-27"
-    },
-    {
-      "url": "https://ghacks.net/2026/08/26/google-reportedly-in-advanced-talks-for-1-5-billion-deal-with-ai-coding-startup-mechanize",
-      "title": "Coding Startup Mechanize",
-      "date": "2026-08-27"
-    },
-    {
-      "url": "https://allthingsdistributed.com/2026/08/duckdb-and-the-changing-physics-of-analytics.html",
-      "title": "Duckdb and the Changing Physics of Analytics",
-      "date": "2026-08-27"
-    },
-    {
-      "url": "https://developer.meta.com/ai/models/muse-image",
-      "title": "Muse Image",
-      "date": "2026-08-27"
-    },
-    {
-      "url": "https://github.com/sentelabsai/openexecutive",
-      "title": "Openexecutive",
-      "date": "2026-08-27"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/3p5o0a",
-      "title": "Nvidia in Talks to Buy Ai Startup Hugging Face",
-      "date": "2026-08-27"
-    },
-    {
-      "url": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent",
-      "title": "Disruptive Actions\u201d",
-      "date": "2026-08-27"
-    },
-    {
-      "url": "https://venturebeat.com/orchestration/salesforce-just-put-its-entire-crm-inside-claude-and-says-youll-never-need-its-app-again",
-      "title": "Never Need Its App Again",
-      "date": "2026-08-27"
-    },
-    {
-      "url": "https://cnbc.com/2026/08/26/salesforce-anthropic-partnership-claudeforce.html",
-      "title": "\u2018saaspocalypse' Concerns",
-      "date": "2026-08-27"
-    },
-    {
-      "url": "https://blog.himanshuanand.com/2026/08/i-had-some-free-time-so-i-tried-to-pwn-v8",
-      "title": "I Had Some Free Time, So I Tried to Pwn V8",
-      "date": "2026-08-27"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/shr6ri",
-      "title": "Grok Bot is Now Included With More Plans",
-      "date": "2026-08-27"
-    },
-    {
-      "url": "https://simonwillison.net/2026/aug/27/breaking-claude-code-opus-5-auto-mode",
-      "title": "Breaking Claude Code Opus 5 Auto Mode",
-      "date": "2026-08-28"
-    },
-    {
-      "url": "https://habitat-thinking.github.io/ai-literacy-superpowers/plugins/ai-literacy-superpowers/explanation/harness-engineering",
-      "title": "Harness Engineering",
-      "date": "2026-08-28"
-    },
-    {
-      "url": "https://blog.postman.com/why-ai-coding-agents-need-context-graphs",
-      "title": "Why Ai Coding Agents Need Context Graphs",
-      "date": "2026-08-28"
-    },
-    {
-      "url": "https://blog.pragmaticengineer.com/the-pulse-we-need-to-talk-about-migrations-with-ai",
-      "title": "We Need to Talk About Migrations With Ai",
-      "date": "2026-08-28"
-    },
-    {
-      "url": "https://trychroma.com/engineering/transactions",
-      "title": "Agent Swarms Are a Distributed Systems Problem",
-      "date": "2026-08-28"
-    },
-    {
-      "url": "https://pub.towardsai.net/from-ai-demo-to-ai-product-what-sits-between-a-prompt-and-production-reality-5d5d2723c7a7",
-      "title": "Reality",
-      "date": "2026-08-28"
-    },
-    {
-      "url": "https://github.com/neolabhq/context-engineering-kit",
-      "title": "Context Engineering Toolkit",
-      "date": "2026-08-28"
-    },
-    {
-      "url": "https://louisabraham.github.io/load-bearing",
-      "title": "The Load-bearing Vocabulary of Claude",
-      "date": "2026-08-28"
-    },
-    {
-      "url": "https://addyo.substack.com/p/audit-your-agent-files",
-      "title": "Audit Your Agent Files",
-      "date": "2026-08-28"
-    },
-    {
-      "url": "https://dpereira.substack.com/p/just-another-transformation",
-      "title": "Just Another Transformation",
-      "date": "2026-08-28"
-    },
-    {
-      "url": "https://github.com/tencent/browserskill",
-      "title": "Browserskill",
-      "date": "2026-08-28"
-    },
-    {
-      "url": "https://calv.info/small-models-have-arrived",
-      "title": "Small Models Have Arrived",
-      "date": "2026-08-28"
-    },
-    {
-      "url": "https://github.com/experientiallabs/experiential",
-      "title": "Experiential",
-      "date": "2026-08-28"
-    },
-    {
-      "url": "https://wayofmarkdown.com/markdown-database",
-      "title": "The Markdown Database Pattern",
-      "date": "2026-08-28"
-    },
-    {
-      "url": "https://readwriterachel.com/opinions/hacks/presentations/2026/08/26/usertesting-on-a-shoestring.html",
-      "title": "User Testing on a Shoestring",
-      "date": "2026-08-28"
-    },
-    {
-      "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111",
-      "title": "Cache",
-      "date": "2026-08-28"
-    },
-    {
-      "url": "https://johnpcutler.github.io/stratprompt",
-      "title": "Strategy Prompts Activity",
-      "date": "2026-08-28"
-    },
-    {
-      "url": "https://swizec.com/blog/focus-and-followthrough-are-the-moat",
-      "title": "Focus and Follow-through Are the Moat",
-      "date": "2026-08-28"
-    },
-    {
-      "url": "https://a16z.news/p/you-are-not-a-model-dont-price-per",
-      "title": "You Are Not a Model. Don't Price Per Token",
-      "date": "2026-08-28"
-    },
-    {
-      "url": "https://martinfowler.com/articles/making-data-ready-for-agentic-ai.html",
-      "title": "Making Your Data Ready for Agentic Ai",
-      "date": "2026-08-28"
-    },
-    {
-      "url": "https://scrum.org/resources/blog/agility-might-have-been-waiting-ai",
-      "title": "Agility Might Have Been Waiting for Ai",
-      "date": "2026-08-28"
-    },
-    {
-      "url": "https://github.com/openai/codex/pull/40799",
-      "title": "Support Persistent Reasoning Effort",
-      "date": "2026-08-28"
-    },
-    {
-      "url": "https://blog.ravi-mehta.com/p/taste-is-a-skill-not-a-gift",
-      "title": "Good Taste Doesn't Exist",
-      "date": "2026-08-28"
-    },
-    {
-      "url": "https://media.deliveringvalue.co/p/youre-5-decisions-away-from-1m-users",
-      "title": "You're 5 Decisions Away From 1m+ Users",
-      "date": "2026-08-28"
-    },
-    {
-      "url": "https://anthropic.com/news/model-hardware-standard-research-preview",
-      "title": "Anthropic's Model Hardware Standard",
-      "date": "2026-08-28"
-    },
-    {
-      "url": "https://openrouter.ai/blog/insights/gpt-5-6-discounts-jevons-paradox",
-      "title": "Gpt 5.6 Discounts & Jevons Paradox",
-      "date": "2026-08-28"
-    },
-    {
-      "url": "https://thinkingmachines.ai/news/putting-task-expertise-into-rl",
-      "title": "On Text-to-sql",
-      "date": "2026-08-28"
-    },
-    {
-      "url": "https://read.first1000.co/p/growing-lazyweb-to-50k-agents",
-      "title": "Growing Lazyweb to 50k+ Agents",
-      "date": "2026-08-28"
-    },
-    {
-      "url": "https://lmsys.org/blog/2026-08-27-minimax-h3-h200",
-      "title": "Accelerating Minimax-h3",
-      "date": "2026-08-28"
-    },
-    {
-      "url": "https://research.haloneuro.ai/posts/sopro-v2",
-      "title": "Fast On-device Voice Cloning",
-      "date": "2026-08-28"
-    },
-    {
       "url": "https://seangoedecke.com/you-have-to-beat-the-models-at-something",
       "title": "You Have to Beat the Models at Something",
       "date": "2026-08-31"
@@ -1304,6 +1039,256 @@
       "url": "https://links.tldrnewsletter.com/yxzpap",
       "title": "Deepseek-v4.1-flash",
       "date": "2026-09-10"
+    },
+    {
+      "url": "https://checklyhq.com/blog/agentic-rewrite-nodejs-to-go",
+      "title": "Rewriting a Node.js Service in Go With Agents",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://cursor.com/blog/projects",
+      "title": "Introducing Projects",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://blog.bytebytego.com/p/how-smart-model-routing-can-cut-llm",
+      "title": "How Smart Model Routing Can Cut Llm Costs 10x",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://kai-waehner.de/blog/2026/09/01/the-ai-agent-harness-where-vendor-lock-in-went-after-the-model-became-swappable",
+      "title": "The Ai Agent Harness: Where Vendor Lock-in Went",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://latent.space/p/forward-deployed-engineer-best-practices",
+      "title": "Right",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/nzsyq3",
+      "title": "This)",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
+      "title": "We Must Pace the Frontier",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://mmoustafa.com/blog/so-you-want-to-use-openrouter",
+      "title": "So You Want to Use Openrouter?",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://adlrocha.substack.com/p/adlrocha-fat-agents-vs-narrow-agents",
+      "title": "Fat Agents Vs. Narrow Agents",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://seldo.com/posts/we-are-all-product-engineers-now",
+      "title": "We Are All Product Engineers Now",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/2r52yg",
+      "title": "Openai Launches the Agents Api",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://shopify.engineering/back-to-native",
+      "title": "Native is Now the Future of Mobile at Shopify",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/iwcmhd",
+      "title": "Introducing the Openai Agents Api",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://lucumr.pocoo.org/2026/9/7/astra-why",
+      "title": "Astra for Coding: Why Are We Doing This Again?",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/rn9uol",
+      "title": "Ai Has Made Programming So Boring",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://blog.pragmaticengineer.com/the-pulse-tech-companies-move-to-open-ai-models",
+      "title": "Tech Companies Move to Open Ai Models",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://ivokund.com/loops-graphs-harnesses-getting-quality-out-of-a-software-factory",
+      "title": "Factory",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/fiooj2",
+      "title": "Agent Loop",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://charity.wtf/p/confessions-of-an-unrepentant-slop",
+      "title": "Confessions of an Unrepentant Slop Snob",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://github.com/alibaba/open-code-review",
+      "title": "Opencodereview",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://stratechery.com/2026/write-things-down",
+      "title": "Write Things Down",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://andrewchen.substack.com/p/adversarial-creativity-and-the-coming",
+      "title": "The Coming Product Retention Crisis",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://adaptivesoftware.substack.com/p/software-as-content",
+      "title": "Software as Content",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/ud281k",
+      "title": "Software is About to Eat the World Much Faster",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://joelotter.com/posts/2026/09/make-it-anyway",
+      "title": "Make it Anyway",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics",
+      "title": "A Severe Misalignment of Ai in Mathematics",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://smashingmagazine.com/2026/08/why-website-should-never-stop-changing",
+      "title": "Why Your Website Should Never Stop Changing",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://benhylak.substack.com/p/openai-did-it-again-but-what-did",
+      "title": "Openai Did it Again. but What Did They Do?",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://seangoedecke.com/they-really-do-think-ai-might-kill-everyone",
+      "title": "They Really Do Think Ai Might Kill Everyone",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://dpereira.substack.com/p/7-weak-product-management-signs",
+      "title": "7 Weak Product Management Signs",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://planetscale.com/blog/the-lifecycle-of-a-sharded-postgres-query",
+      "title": "The Lifecycle of a Sharded Postgres Query",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://thezvi.substack.com/p/gpt-6-astra-can-do-ambitious-things",
+      "title": "Gpt-6-astra Can Do Ambitious Things",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://webkit.org/blog/18227/fixing-top-level-await-in-safari",
+      "title": "Fixing Top-level Await in Safari",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://cognition.com/blog/swe-2",
+      "title": "Introducing Swe-2: Pushing the Pareto Frontier",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://planetscale.com/blog/introducing-neki",
+      "title": "Introducing Neki: Sharded Postgres",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/1730xf",
+      "title": "Router Power",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://ersc.io/blog/what-comes-after-git",
+      "title": "What Comes After Git",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft",
+      "title": "Rust is Now a Tier-1 Language at Microsoft",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/kt6mtk",
+      "title": "Arc-agi-4",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://openrouter.ai/sakana/fugu-ultra-v2",
+      "title": "Sakana: Fugu Ultra V2",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients",
+      "title": "\u201cgradients\u201d",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://blog.redwoodresearch.org/p/an-operationalization-of-opaque-serial",
+      "title": "An Operationalization of Opaque Serial Depth",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/pclyui",
+      "title": "Weapons",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://revenuecat.com/blog/growth/premium-win-lifecycle-messaging",
+      "title": "Causes Churn",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/f3utmg",
+      "title": "The Principles of Getting Ahead",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://yifanzhang-pro.github.io/recurrent-looped-tranformer",
+      "title": "Recurrent Looped Transformer",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://withspecific.com/benchmarks/real-swe",
+      "title": "Swe Benchmark",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://vals.ai/blogs/fable-solves-cyphral-distich",
+      "title": "Claude Fable 5.1 Solves the Cyphral Distich",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://goodhartlabs.com/blog/frontier-models-still-hack-alignment-evals",
+      "title": "Frontier Models Still Hack Alignment Evals",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://hyperbo.la/w/aligned-to-whom",
+      "title": "Aligned to Whom?",
+      "date": "2026-09-14"
     }
   ],
   "feedback": [
