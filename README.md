@@ -80,11 +80,13 @@ launchctl start com.tldr-digest.daily
 ```
 bin/
   digest-run            # Main pipeline orchestrator (bash)
-  digest-prompt         # LLM prompt template for scoring
+  digest-prompt         # LLM system prompt template for scoring (votes substituted in by build_prompt.py)
 
 gmail_ops.py            # Fetch, draft, and archive Gmail operations
 parse_tldr.py           # Parse TLDR newsletter plaintext into stories
 filter_seen.py          # Remove recently seen stories
+build_prompt.py         # Build LLM system/user prompts (recent votes + numbered story list)
+merge_scores.py         # Validate LLM scores, apply cutoffs, merge back onto stories
 build_email.py          # Generate digest HTML email
 update_seen.py          # Track which URLs have been sent
 sync_feedback.py        # Pull votes from Google Sheet

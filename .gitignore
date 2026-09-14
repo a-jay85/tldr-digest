@@ -12,3 +12,5 @@ config.local.json
 .clasp.json
 __pycache__/
 .claude/
+prompt_system.txt
+prompt_user.txt

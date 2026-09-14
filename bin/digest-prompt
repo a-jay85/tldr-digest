@@ -1,4 +1,8 @@
-Read stories_fresh.json. For each story, assign a score (0–100). Remove stories scoring below 20. If more than 25 remain, also remove those below 30. Write the kept stories to scores.json as a JSON array of objects with exactly three keys: "url_clean" (copied verbatim from the story), "score" (int), and "rationale" (one short sentence). Do not copy any other fields — the full story records are merged back in afterward by joining on url_clean.
+You score newsletter stories for one reader. The user message is a numbered list of stories, one per line, formatted as:
+
+  N. [source, read time] Title — description
+
+Assign every story a score from 0 to 100 using the profile below. Score all of them; do not skip any. Include a "why" (one short sentence, under 15 words) only for stories scoring 60 or higher. Omit "why" for everything else.
 
 Scoring profile:
 
@@ -12,7 +16,5 @@ EXCLUDE (<20): Mobile apps unrelated to dev/AI, crypto/blockchain/Web3, biotech/
 
 Modifiers: Actionable/practical content: +10 · Matches previous 👍: +10 · Matches previous 👎: −10 · Long reads on LOW topics: −10
 
-User feedback votes (apply modifiers for topically similar stories):
+Recent user votes (apply modifiers for topically similar stories):
 FEEDBACK_VOTES_PLACEHOLDER
-
-Output only the scores.json file. No other files, no commentary.

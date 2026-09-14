@@ -17,7 +17,7 @@ Personal newsletter curator. Fetches TLDR newsletters from Gmail, scores stories
 2. `python3 parse_tldr.py emails/ stories.json` — parse stories, dedup
 3. `python3 sync_feedback.py config.json feedback.json` — pull 👍/👎 votes from Google Sheet
 4. `python3 filter_seen.py stories.json feedback.json stories_fresh.json` — remove stories seen in last 7 days
-5. `claude -p` with `bin/digest-prompt` — score `stories_fresh.json` → `scored_stories.json` (LLM step)
+5. `python3 build_prompt.py` → `prompt_system.txt` (`bin/digest-prompt` + votes from last 90 days) and `prompt_user.txt` (numbered story list, no URLs); `claude -p` (Sonnet, `--effort low`, no tools, no settings/hooks, `--json-schema`) scores every story by index in a single turn; `python3 merge_scores.py` applies cutoffs (drop <20; if >25 remain, drop <30) and joins scores back on index → `scored_stories.json` (LLM step)
 6. `python3 build_email.py scored_stories.json config.json` — generate `digest.html` + `digest_subject.txt`
 7. `python3 send_digest.py config.json` — POST `digest.html`/`digest_subject.txt` to the Apps Script `sendDigest` endpoint, which emails the digest via GmailApp
 8. `python3 gmail_ops.py archive` — archive fetched threads
@@ -34,7 +34,11 @@ If the LLM scoring step hits a Claude usage/session limit, `digest-run` parses t
 
 The web app lives in `apps-script/` and is managed with `clasp`. After editing any `.gs`, run `bin/deploy-appsscript` to push the source and redeploy the live `/exec` deployment in place (deployment id is derived from `apps_script_url`, so the redeploy target always matches what `send_digest.py` POSTs to). No manual editing in the Apps Script IDE.
 
-### Scoring Profile (embedded in `bin/digest-prompt`)
+### LLM call budget
+
+The scoring call is deliberately minimal (~10k tokens in, ~1.5k out, ~12s as of 2026-09-14). Keep it that way: stories go in the prompt (not read via tools), the LLM only returns `{i, score, why?}` with `why` only for score ≥ 60, and `--setting-sources ""` keeps user/project hooks (e.g. the auto-commit Stop hook) out of the run. Do not add `--bare`: it skips keychain auth and fails with "Not logged in".
+
+### Scoring Profile (embedded in `bin/digest-prompt`, used as the system prompt)
 
 **HIGH (70–100):** AI usage tips/workflows/power-user techniques, how AI leaders think about AI (interviews, thought leadership, strategic perspectives), AI and the job market
 

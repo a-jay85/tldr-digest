@@ -157,17 +157,13 @@ fi
 
 echo "[2/3] Scoring stories with LLM..."
 
-PROMPT=$(python3 -c "
-import json
-from pathlib import Path
-fb = json.load(open('feedback.json')).get('feedback', [])
-if fb:
-    votes = '\n'.join(f\"  {v['vote'].upper()}: {v['title']} ({v['source']})\" for v in fb)
-else:
-    votes = '  (none)'
-template = Path('bin/digest-prompt').read_text()
-print(template.replace('FEEDBACK_VOTES_PLACEHOLDER', votes))
-")
+# Build the two prompt files: the system prompt (scoring profile + recent
+# votes) and the user prompt (a compact numbered list of stories, no URLs).
+# The LLM only sees what it needs to score; merge_scores.py joins on index.
+python3 build_prompt.py stories_fresh.json feedback.json prompt_system.txt prompt_user.txt
+
+# Structured-output schema: one entry per story, "why" only for score >= 60.
+SCORE_SCHEMA='{"type":"object","properties":{"scores":{"type":"array","items":{"type":"object","properties":{"i":{"type":"integer"},"score":{"type":"integer"},"why":{"type":"string"}},"required":["i","score"]}}},"required":["scores"]}'
 
 # One scoring attempt: run the LLM under a wall-clock guard, then validate its
 # output. An API/network stall on the scoring call can hang with no output
@@ -175,21 +171,38 @@ print(template.replace('FEEDBACK_VOTES_PLACEHOLDER', votes))
 # installed here, so use perl's alarm — the timer survives exec and SIGALRM's
 # default disposition terminates claude. Returns non-zero on timeout, claude
 # failure, or invalid output so the caller can retry.
+#
+# The claude call is deliberately stripped down to keep tokens minimal:
+#   --system-prompt     replaces Claude Code's default system prompt (~30k tokens)
+#   --tools ""          no tool schemas; stories go in the prompt, scores come
+#                       back as structured output, so no Read/Write round trips
+#   --setting-sources "" ignore user/project settings — in particular the Stop
+#                       hooks, which previously made the model do git work
+#   --strict-mcp-config no MCP servers
+#   --json-schema       structured output → single turn, no free-form file writes
+#   --effort low        scoring blurbs needs little thinking; measured 2026-09-14
+#                       on 63 stories: default ~37s/4.3k out, low ~12s/1.4k out,
+#                       same top-12 fidelity. Haiku was tried and rejected: its
+#                       scores drift further from Sonnet's and it thinks ~12k
+#                       tokens unless MAX_THINKING_TOKENS=0, with no token win.
 score_once() {
     local rc=0
-    # Drop any stale output from a previous attempt/day so validation can't
-    # silently pass on it if the LLM writes nothing this time.
-    rm -f scores.json
+    rm -f scored_stories.json
 
-    # Capture claude's output so it can be scanned for a usage-limit message,
-    # then mirror it to the log to preserve the previous live-logging behavior.
+    # Capture claude's JSON output so it can be scanned for a usage-limit
+    # message and parsed by merge_scores.py.
     perl -e 'alarm shift; exec @ARGV' 900 \
-        claude -p "$PROMPT" \
-        --allowedTools "Read,Write" \
-        --dangerously-skip-permissions \
+        claude -p "$(cat prompt_user.txt)" \
+        --system-prompt "$(cat prompt_system.txt)" \
+        --tools "" \
+        --setting-sources "" \
+        --strict-mcp-config \
+        --no-session-persistence \
         --model sonnet \
-        --max-turns 10 > "$SCORE_OUT" 2>&1 || rc=$?
-    cat "$SCORE_OUT"
+        --effort low \
+        --max-turns 3 \
+        --output-format json \
+        --json-schema "$SCORE_SCHEMA" < /dev/null > "$SCORE_OUT" 2>&1 || rc=$?
 
     # A usage/session limit won't clear within the retry loop's window, so don't
     # waste attempts on it — signal the caller (rc 2) to schedule a re-run at the
@@ -204,36 +217,14 @@ score_once() {
             echo "  scoring timed out after 15m" >&2
         else
             echo "  scoring failed (claude exit $rc)" >&2
+            head -c 2000 "$SCORE_OUT"; echo
         fi
         return 1
     fi
 
-    # Validate the LLM's scores file, then deterministically merge the scores
-    # back onto the full story records (joining on url_clean) to rebuild
-    # scored_stories.json. The LLM only emits {url_clean, score, rationale},
-    # keeping its streamed output small to reduce exposure to mid-response
-    # connection drops; the heavy fields (description, urls) never round-trip.
-    python3 -c "
-import json, sys
-try:
-    scores = json.load(open('scores.json'))
-    assert isinstance(scores, list), 'scores.json is not a list'
-    fresh = {s['url_clean']: s for s in json.load(open('stories_fresh.json'))}
-    merged = []
-    for r in scores:
-        for f in ('url_clean', 'score', 'rationale'):
-            assert f in r, f'missing {f} in score entry: {r}'
-        assert isinstance(r['score'], int), f'bad score type: {r}'
-        story = fresh.get(r['url_clean'])
-        assert story is not None, f'url_clean not in stories_fresh: {r[\"url_clean\"]}'
-        merged.append({**story, 'score': r['score'], 'rationale': r['rationale']})
-    merged.sort(key=lambda s: s['score'], reverse=True)
-    json.dump(merged, open('scored_stories.json', 'w'), indent=2, ensure_ascii=False)
-    print(f'Scoring validated: {len(merged)} stories')
-except Exception as e:
-    print(f'ERROR: scoring validation failed: {e}', file=sys.stderr)
-    sys.exit(1)
-"
+    # Validate, apply the score cutoffs, and merge the scores back onto the
+    # full story records (joining on index) to produce scored_stories.json.
+    python3 merge_scores.py "$SCORE_OUT" stories_fresh.json scored_stories.json
 }
 
 # Retry the scoring step: transient API stalls/timeouts are the main failure
