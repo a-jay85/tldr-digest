@@ -1,131 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://seangoedecke.com/you-have-to-beat-the-models-at-something",
-      "title": "You Have to Beat the Models at Something",
-      "date": "2026-08-31"
-    },
-    {
-      "url": "https://coldtake.dev/blog/domain-driven-agents",
-      "title": "Domain-driven Agents",
-      "date": "2026-08-31"
-    },
-    {
-      "url": "https://simonwillison.net/2026/aug/30/understanding-chatgpt-work",
-      "title": "Understanding Chatgpt Work",
-      "date": "2026-08-31"
-    },
-    {
-      "url": "https://ampcode.com/notes/orbs-explained",
-      "title": "Orbs, Explained",
-      "date": "2026-08-31"
-    },
-    {
-      "url": "https://codegood.co/writing/the-standup-your-agents-cant-attend",
-      "title": "The Standup Your Agents Can't Attend",
-      "date": "2026-08-31"
-    },
-    {
-      "url": "https://anthropic.com/research/automated-researchers-mitigate-alignment-failures",
-      "title": "Anthropic's Report on Self-improving Ai",
-      "date": "2026-08-31"
-    },
-    {
-      "url": "https://askmike.org/articles/ai-coding-lessons-in-the-90s-from-my-dad",
-      "title": "What My Dad Taught Me About Ai Coding in the 90s",
-      "date": "2026-08-31"
-    },
-    {
-      "url": "https://github.github.com/gh-aw",
-      "title": "Github Agentic Workflows",
-      "date": "2026-08-31"
-    },
-    {
-      "url": "https://danluu.com/bug-blind",
-      "title": "Bug Blindness",
-      "date": "2026-08-31"
-    },
-    {
-      "url": "https://tucker.wales/writing/bias-towards-action",
-      "title": "In a New Role",
-      "date": "2026-08-31"
-    },
-    {
-      "url": "https://adlrocha.substack.com/p/adlrocha-base-models-stopped-being",
-      "title": "Base Models Stopped Being the Bottleneck",
-      "date": "2026-08-31"
-    },
-    {
-      "url": "https://github.com/openai/codex/issues/41711",
-      "title": "Private Chat Thread Exfiltration",
-      "date": "2026-08-31"
-    },
-    {
-      "url": "http://itamarnovick.com/intro-to-startup-anti-pattern-series",
-      "title": "Intro to Startup Anti-pattern Series",
-      "date": "2026-08-31"
-    },
-    {
-      "url": "https://github.com/kingroryg/turbokv",
-      "title": "Turbokv",
-      "date": "2026-08-31"
-    },
-    {
-      "url": "https://github.com/vercel-labs/vgpu",
-      "title": "Vgpu",
-      "date": "2026-08-31"
-    },
-    {
-      "url": "https://artificialanalysis.ai/hardware-inference-stack/mobile-phones",
-      "title": "Consumer Inference Systems",
-      "date": "2026-08-31"
-    },
-    {
-      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu",
-      "title": "Nvidia's Ai Advantage is Moving Beyond the Gpu",
-      "date": "2026-08-31"
-    },
-    {
-      "url": "https://lesswrong.com/posts/fpldjkg3ej49beqtc/adaptive-agentic-worms-are-here",
-      "title": "Adaptive Agentic Worms",
-      "date": "2026-08-31"
-    },
-    {
-      "url": "https://dwarkesh.com/p/openai-huggingface",
-      "title": "The Rise and Fall of Agent Civilizations",
-      "date": "2026-08-31"
-    },
-    {
-      "url": "https://simonwillison.net/2026/aug/29/hy4",
-      "title": "Introducing Hy4 Preview",
-      "date": "2026-08-31"
-    },
-    {
-      "url": "https://0xcc.io/posts/omarchy-root-creds",
-      "title": "Omarchy: Any User Process Can Escalate to Root",
-      "date": "2026-08-31"
-    },
-    {
-      "url": "https://huggingface.co/nvidia/deepseek-v4-pro-0813-nvfp4",
-      "title": "Deepseek-v4-pro-0813-nvfp4",
-      "date": "2026-08-31"
-    },
-    {
-      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
-      "title": "Vllm V0.28.0",
-      "date": "2026-08-31"
-    },
-    {
-      "url": "https://spyglass.org/meta-ai-context-watermelon-hatch",
-      "title": "Meta's Complicated Ai Context",
-      "date": "2026-08-31"
-    },
-    {
-      "url": "https://rudyfaile.com/2026/08/30/the-big-one-is-coming",
-      "title": "The Big One is Coming",
-      "date": "2026-08-31"
-    },
-    {
       "url": "https://flaviocopes.com/zcode",
       "title": "A Deep Dive Into Zcode",
       "date": "2026-09-01"
@@ -1419,6 +1294,231 @@
       "url": "https://testingcatalog.com/meta-to-announce-shared-agents-for-muse-at-meta-connect",
       "title": "Meta to Announce Shared Agents for Muse at Meta Connect",
       "date": "2026-09-14"
+    },
+    {
+      "url": "https://danluu.com/exercise-7",
+      "title": "Bad Benchmarks and Evals: Senior Swe-bench, Napkin Math, and Winter Tires",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic",
+      "title": "Agentic Coding is Straining Ci. Here's How We Scaled Test Impact Analysis at Anthropic",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://zanlib.dev/blog/do-you-still-read-the-code",
+      "title": "Do You Still Read the Code?",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://newsletter.posthog.com/p/if-ai-writes-all-the-code-whats-left",
+      "title": "What Happens to Engineers When Ai Writes All the Code?",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+      "title": "Gpt-5.6 Luna vs Gpt-6 Astra: is a $1.20 Model Good Enough for Code Review?",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://taekim.substack.com/p/jensen-huang-on-the-irresponsible",
+      "title": "Jensen Huang on the 'irresponsible' Ai Doomers, Rsi, and Dario's Essay",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://cohere.com/blog/who-gets-to-define-the-rules-for-ai",
+      "title": "Who Gets to Define the Rules for Ai?",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://cline.ghost.io/cline-desktop-an-open-source-app-for-open-weight-models",
+      "title": "Cline Desktop: an Open-source App for Open-weight Models",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://addyo.substack.com/p/brownfield-agentic-engineering",
+      "title": "Brownfield Agentic Engineering",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude",
+      "title": "Apple's Siri Ai Can Be Swapped Out for Claude, Chatgpt, Code Shows",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://tomtunguz.com/what-does-the-pause-mean",
+      "title": "What Does Pacing Mean?",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://github.com/huggingface/tau",
+      "title": "Tau",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/pnz9zw",
+      "title": "Sam Altman Backs Federal Frontier Ai Safety Rules",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://cogito-ergo-sum.dev/frontier-economics",
+      "title": "Frontier Labs Have a Financial Incentive to Pace the Frontier",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/lewlax",
+      "title": "Ai Labs Want Someone to Stop Them",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://lucumr.pocoo.org/2026/9/14/interpreting-pangram",
+      "title": "Interpreting Pangram",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://svpg.com/strong-opinions-loosely-held",
+      "title": "Strong Opinions, Loosely Held",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://jeffgothelf.com/blog/dont-let-ai-automate-the-mess-out-of-product-development",
+      "title": "Don't Let Ai Automate the Mess Out of Product Development",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://shiftmag.dev/ai-speeds-up-prototyping-but-teams-still-need-to-distinguish-decisions-from-assumptions-12049",
+      "title": "Distinguishing Decisions From Assumptions",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://docs.google.com/document/d/e/2pacx-1vqnl3sex5iya6d9qhjjfzn-qzgrznfi6b63g-yu1fy-zykvfcwm7i9wxrxw63m6ydb_auduplyq7jbm/pub",
+      "title": "Personal Statement on Ai Risk",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+      "title": "Why Machine Learning Research Agents Don't Overfit, and What Compression Has to Do With it",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://amazon.science/blog/when-llm-judges-agree-should-we-believe-them",
+      "title": "When Llm Judges Agree, Should We Believe Them?",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://pop.rdi.sh/dario-please",
+      "title": "Dario, Please!",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://github.com/google/artemis",
+      "title": "Artemis",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc",
+      "title": "How to Write an Effective Software Design Document",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://github.com/shadcn-ui/lint",
+      "title": "@shadcn/lint",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://a16z.news/p/product-management-is-still-all-about",
+      "title": "Product Management is Still All About Telling Stories",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://mindtheproduct.com/beyond-the-canvas-the-process-and-decisions-behind-trade-flow-builder",
+      "title": "The Product Process That Saved Us Weeks of Wasted Development",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://testingcatalog.com/anthropic-prepares-claude-money-for-personal-finance",
+      "title": "Anthropic Prepares Claude Money for Personal Finance",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://dbtcharts.com/blog/charts-built-for-chat",
+      "title": "Charts Built for Chat",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://pub.sakana.ai/pc-alm",
+      "title": "Augmented Lagrangian Predictive Coding",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://andonlabs.com/blog/why-we-built-pion",
+      "title": "Why We Built Pion",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://proofsandprompts.com/2026/09/14/a-beginning-for-mathematics",
+      "title": "A Beginning for Mathematics",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://elenaverna.com/p/congrats-your-sales-problems-in-plg",
+      "title": "Congrats, Your Sales Problems in Plg Are Completely Unoriginal",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2098789597530431732.html",
+      "title": "Why Spotify Still Uses Frequentist A/b Testing",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://digiday.com/marketing/openais-next-chatgpt-ad-format-click-to-chat-not-to-site",
+      "title": "Openai's Next Chatgpt Ad Format: Click to Chat, Not to Site",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2099530487316553915.html",
+      "title": "Artificial Analysis Capability Indices V1.1",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://nathanacurtis.substack.com/p/design-system-conventions-in-figma",
+      "title": "Design System Conventions in Figma",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.12945",
+      "title": "Stepaudio 3 Technical Report",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs",
+      "title": "Perplexity Portable Computer is Now Available on Windows, Powered by Nvidia Rtx",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available",
+      "title": "Major Updates for Apple's Software Platforms Are Now Available",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/p2qgbx",
+      "title": "Ios 27 is Here. It's Time to Meet the New, Improved Siri",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/xdyvtp",
+      "title": "Openai Buys Startup Developing Smartphone Camera",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2608.25218",
+      "title": "Turnbench: a Multi-domain Benchmark for Turn-taking Dynamics in Spoken Dialogue",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://a16z.news/p/catching-the-venture-bus",
+      "title": "Catching the (venture) Bus",
+      "date": "2026-09-15"
     }
   ],
   "feedback": [
