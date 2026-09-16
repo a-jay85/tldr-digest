@@ -1,136 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://flaviocopes.com/zcode",
-      "title": "A Deep Dive Into Zcode",
-      "date": "2026-09-01"
-    },
-    {
-      "url": "https://newsletter.posthog.com/p/your-agentsmd-is-holding-you-back",
-      "title": "Your Agents.md is Holding You Back",
-      "date": "2026-09-01"
-    },
-    {
-      "url": "https://akashyap.ai/the-future-tech-role-is-the-product-architect",
-      "title": "The Future Tech Role is the Product Architect",
-      "date": "2026-09-01"
-    },
-    {
-      "url": "https://oneusefulthing.org/p/agency-and-agents",
-      "title": "Agency and Agents",
-      "date": "2026-09-01"
-    },
-    {
-      "url": "https://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
-      "title": "The Safest Job From Ai May Be Writing",
-      "date": "2026-09-01"
-    },
-    {
-      "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode",
-      "title": "Breaking Claude Code Opus 5 Auto Mode",
-      "date": "2026-09-01"
-    },
-    {
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/ai-and-employment-what-the-firms-say.html",
-      "title": "Ai and Employment: So Far, So Good",
-      "date": "2026-09-01"
-    },
-    {
-      "url": "https://calpaterson.com/memoryfields.html",
-      "title": "A Portable File Format for Agent Memory",
-      "date": "2026-09-01"
-    },
-    {
-      "url": "https://spin.atomicobject.com/ai-you-need-structure",
-      "title": "In the Age of Ai, You Need Structure",
-      "date": "2026-09-01"
-    },
-    {
-      "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
-      "title": "Openclaw 2.0",
-      "date": "2026-09-01"
-    },
-    {
-      "url": "https://vettedconsumer.com/which-mac-for-local-llms-2026-buyers-guide",
-      "title": "Buyer's Guide",
-      "date": "2026-09-01"
-    },
-    {
-      "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model",
-      "title": "How to Build a Diffusion Language Model",
-      "date": "2026-09-01"
-    },
-    {
-      "url": "https://scrum.org/resources/blog/how-leverage-flow-metrics-accelerate-your-agentic-development-lifecycle",
-      "title": "Lifecycle",
-      "date": "2026-09-01"
-    },
-    {
-      "url": "https://neon.com/blog/autoscaling-lakebase-postgres",
-      "title": "Autoscaling Lakebase Postgres",
-      "date": "2026-09-01"
-    },
-    {
-      "url": "https://allen.hutchison.org/2026/08/31/not-everyone-needs-superintelligence",
-      "title": "Not Everyone Needs Superintelligence",
-      "date": "2026-09-01"
-    },
-    {
-      "url": "https://nervegna.substack.com/p/grok-bot-for-designers-and-product",
-      "title": "Grok Bot for Designers and Product Teams",
-      "date": "2026-09-01"
-    },
-    {
-      "url": "https://runway.com/news/research/introducing-solaris",
-      "title": "Introducing Solaris",
-      "date": "2026-09-01"
-    },
-    {
-      "url": "https://tomtunguz.com/the-great-segmentation",
-      "title": "The Price of Entry to the Frontier",
-      "date": "2026-09-01"
-    },
-    {
-      "url": "https://github.com/waishnav/devspace",
-      "title": "Devspace",
-      "date": "2026-09-01"
-    },
-    {
-      "url": "https://colossus.com/article/invisible-companies",
-      "title": "Invisible Companies",
-      "date": "2026-09-01"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/zai3vj",
-      "title": "What is -1 to 0?",
-      "date": "2026-09-01"
-    },
-    {
-      "url": "https://tanayj.com/p/how-matic-got-robots-into-10000-homes",
-      "title": "How Matic Got Robots Into 10,000 Homes",
-      "date": "2026-09-01"
-    },
-    {
-      "url": "https://github.com/algorithmicresearchgroup/fnscribe",
-      "title": "Fnscribe",
-      "date": "2026-09-01"
-    },
-    {
-      "url": "https://webiterate.dev/google-removed-extensions-ublock-origin-108",
-      "title": "Including Ublock Origin",
-      "date": "2026-09-01"
-    },
-    {
-      "url": "https://benn.substack.com/p/how-to-have-ideas",
-      "title": "How to Have Ideas",
-      "date": "2026-09-01"
-    },
-    {
-      "url": "https://cutlefish.substack.com/p/tbm-438-the-right-but-early-club",
-      "title": "The Right but Early Club",
-      "date": "2026-09-01"
-    },
-    {
       "url": "https://addyo.substack.com/p/agentic-skill-decay",
       "title": "Mastery Still Comes From Doing the Reps",
       "date": "2026-09-02"
@@ -1519,6 +1389,171 @@
       "url": "https://a16z.news/p/catching-the-venture-bus",
       "title": "Catching the (venture) Bus",
       "date": "2026-09-15"
+    },
+    {
+      "url": "https://danluu.com/ai-coding",
+      "title": "Agentic Test Processes, Llm Benchmarks, and Other Notes on Agentic Coding From Galapagos Island",
+      "date": "2026-09-16"
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2099871107226669391.html",
+      "title": "Noam Brown (@polynoamial) Gave a Very Interesting Interview on the Information on Openai's Priorities and What Comes Next",
+      "date": "2026-09-16"
+    },
+    {
+      "url": "https://suganthan.com/blog/x402-pay-per-crawl",
+      "title": "I Made My Website Charge Ai Agents a Penny Per Page. Then I Watched Claude Pay it",
+      "date": "2026-09-16"
+    },
+    {
+      "url": "https://airbnb.tech/ai-ml/beyond-the-model-engineering-ai-infra-with-scientific-judgement",
+      "title": "Beyond the Model: Engineering Ai Infra With Scientific Judgement",
+      "date": "2026-09-16"
+    },
+    {
+      "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
+      "title": "Why I'm Still Bearish on Llms After Navier-stokes",
+      "date": "2026-09-16"
+    },
+    {
+      "url": "https://github.com/pizza-bot-app/pizza-bot",
+      "title": "Pizza Bot",
+      "date": "2026-09-16"
+    },
+    {
+      "url": "https://github.com/ordewell/ordewell",
+      "title": "Ordewell",
+      "date": "2026-09-16"
+    },
+    {
+      "url": "https://workos.com/blog/define-ai-agent-intent",
+      "title": "Who Gets to Define an Ai Agent's Intent?",
+      "date": "2026-09-16"
+    },
+    {
+      "url": "https://yegge.ai/essays/seats-and-sunsets",
+      "title": "Seats and Sunsets",
+      "date": "2026-09-16"
+    },
+    {
+      "url": "https://trpevski.com/blog/image-model-decide-everything",
+      "title": "I Stopped Letting the Image Model Decide Everything",
+      "date": "2026-09-16"
+    },
+    {
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+      "title": "Your Agent Aced the Task. Will it Do it Again?",
+      "date": "2026-09-16"
+    },
+    {
+      "url": "https://strix.ai/blog/baseten-harbor-github-pat-takeover",
+      "title": "We Wanted to Use Baseten for Inference. We Ended up With Admin Access to Baseten Github Repos",
+      "date": "2026-09-16"
+    },
+    {
+      "url": "https://tintotint.eu/whacky-corner/f-droid_slop",
+      "title": "How Much of F-droid is Llm Generated?",
+      "date": "2026-09-16"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/8fg3dv",
+      "title": "Mark Zuckerberg Takes Aim at Anthropic in Debate Over Ai Slowdown",
+      "date": "2026-09-16"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/6tkqpy",
+      "title": "Open the Frontier",
+      "date": "2026-09-16"
+    },
+    {
+      "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers",
+      "title": "Have it Both Ways: Stay Discoverable in Search While Disallowing Ai Training",
+      "date": "2026-09-16"
+    },
+    {
+      "url": "https://g5labs.ai/press",
+      "title": "Programming is Dead. Engineering is Thriving",
+      "date": "2026-09-16"
+    },
+    {
+      "url": "https://spectrum.ieee.org/inference-hardware-revolution",
+      "title": "The Ai Inference Revolution is Here",
+      "date": "2026-09-16"
+    },
+    {
+      "url": "https://periodic.com/news/nature-is-our-learning-environment",
+      "title": "Nature is Our Learning Environment",
+      "date": "2026-09-16"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-real-time-voice-applications-gemini-audio",
+      "title": "Gemini 3.8 Live and 3.5 Transcribe",
+      "date": "2026-09-16"
+    },
+    {
+      "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents",
+      "title": "Early Anthropic Hire, Former Metr Coo Have Found a Way to Rein in Rogue Ai Agents",
+      "date": "2026-09-16"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking",
+      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "date": "2026-09-16"
+    },
+    {
+      "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+      "title": "Introducing System One Models & Jev",
+      "date": "2026-09-16"
+    },
+    {
+      "url": "https://mnoukhov.github.io/posts/ngu",
+      "title": "Learning to Solve Hard Problems in Rl for Llms by Never Giving up",
+      "date": "2026-09-16"
+    },
+    {
+      "url": "https://odyssey.systems/introducing-odyssey-3",
+      "title": "Introducing Odyssey-3: a General-purpose Physical Intelligence",
+      "date": "2026-09-16"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/byhjie",
+      "title": "Recursive Meta-intelligence",
+      "date": "2026-09-16"
+    },
+    {
+      "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
+      "title": "The Ai Graveyard: a Running List of Projects and Startups That Didn't Make it",
+      "date": "2026-09-16"
+    },
+    {
+      "url": "https://github.com/tailscale/tailcat",
+      "title": "Tailcat",
+      "date": "2026-09-16"
+    },
+    {
+      "url": "https://paperswithcode.co/paper/2609.14858",
+      "title": "Dream-rsi: Recursive Self-improvement Through Evolving Worlds",
+      "date": "2026-09-16"
+    },
+    {
+      "url": "https://github.com/enactic/openarm",
+      "title": "Openarm",
+      "date": "2026-09-16"
+    },
+    {
+      "url": "https://vale.rocks/micros/20260915-0135",
+      "title": "Css-tricks in Limbo",
+      "date": "2026-09-16"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/dkzcke",
+      "title": "Openai Considers Pre-ipo Funding Round at More Than $1.2 Trillion Valuation",
+      "date": "2026-09-16"
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2099898254905549220.html",
+      "title": "Openrouter Users Spent More on Openai Models Than on Anthropic Models Last Week",
+      "date": "2026-09-16"
     }
   ],
   "feedback": [
