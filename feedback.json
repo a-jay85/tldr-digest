@@ -1,131 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://addyo.substack.com/p/agentic-skill-decay",
-      "title": "Mastery Still Comes From Doing the Reps",
-      "date": "2026-09-02"
-    },
-    {
-      "url": "https://theaiengineer.substack.com/p/what-is-agentic-testing-fa2",
-      "title": "What is Agentic Testing?",
-      "date": "2026-09-02"
-    },
-    {
-      "url": "https://jx0.ca/building-autonomous-goal-loops-that-deliver",
-      "title": "Building Autonomous Goal Loops That Deliver",
-      "date": "2026-09-02"
-    },
-    {
-      "url": "https://hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
-      "title": "Ai Can Make You Suck Faster Too",
-      "date": "2026-09-02"
-    },
-    {
-      "url": "https://lws.io/blog/my-local-model-setup",
-      "title": "My Local Model Setup on an M4 Pro Mac Mini",
-      "date": "2026-09-02"
-    },
-    {
-      "url": "https://anthropic.com/claude-fable-and-mythos-5-1",
-      "title": "Claude Fable 5.1 and Mythos 5.1",
-      "date": "2026-09-02"
-    },
-    {
-      "url": "https://thezvi.wordpress.com/2026/09/01/huggingface-attack-postmortem-civilizations-reactions-and-next-actions",
-      "title": "Actions",
-      "date": "2026-09-02"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/ts11pi",
-      "title": "Nobody is Talking Seriously About Ai Demand",
-      "date": "2026-09-02"
-    },
-    {
-      "url": "https://venturebeat.com/technology/anthropics-claude-fable-5-1-and-mythos-5-1-arrive-with-a-75-cost-reduction-for-fable-cache-reads",
-      "title": "Reduction for Fable Cache Reads",
-      "date": "2026-09-02"
-    },
-    {
-      "url": "https://hiraditya.github.io/posts/a-type-system-is-a-search-oracle",
-      "title": "A Type System is a Search Oracle",
-      "date": "2026-09-02"
-    },
-    {
-      "url": "https://hyperdimensional.co/p/on-the-loose",
-      "title": "On the Loose",
-      "date": "2026-09-02"
-    },
-    {
-      "url": "https://mercor.com/blog/training-frontier-knowledge-work-agents-a-397b-rl-training-guide-with-skyrl",
-      "title": "With Skyrl",
-      "date": "2026-09-02"
-    },
-    {
-      "url": "https://baseten.co/blog/the-efficient-frontier-of-llm-inference",
-      "title": "The Efficient Frontier of Llm Inference",
-      "date": "2026-09-02"
-    },
-    {
-      "url": "https://mvakde.github.io/blog/44-on-arc-1",
-      "title": "44% on Arc-agi-1 in 67 Cents",
-      "date": "2026-09-02"
-    },
-    {
-      "url": "https://flaviocopes.com/stylex",
-      "title": "A Deep Dive Into Stylex",
-      "date": "2026-09-02"
-    },
-    {
-      "url": "https://anthropic.com/news/improving-alignment-security-efforts",
-      "title": "Improving Our Alignment and Security Practices",
-      "date": "2026-09-02"
-    },
-    {
-      "url": "https://cnbc.com/2026/09/01/open-ai-astra-cyber-model.html",
-      "title": "Cybersecurity Capability",
-      "date": "2026-09-02"
-    },
-    {
-      "url": "https://huggingface.co/blog/webgpu-kernels",
-      "title": "200+ Webgpu Kernels for Local Ai",
-      "date": "2026-09-02"
-    },
-    {
-      "url": "https://blog.dshr.org/2026/09/small-is-beautiful.html",
-      "title": "Small is Beautiful",
-      "date": "2026-09-02"
-    },
-    {
-      "url": "https://vercel.com/blog/fluid-compute-takes-any-shape",
-      "title": "Fluid Compute",
-      "date": "2026-09-02"
-    },
-    {
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini",
-      "title": "Agentic Video Understanding in Gemini",
-      "date": "2026-09-02"
-    },
-    {
-      "url": "https://dbushell.com/2026/09/01/text-editor",
-      "title": "Fine, I'll Build My Own Text Editor!",
-      "date": "2026-09-02"
-    },
-    {
-      "url": "https://worldlabs.ai/blog/atlas",
-      "title": "Atlas: a World Model for Spatial Intelligence",
-      "date": "2026-09-02"
-    },
-    {
-      "url": "https://simonwillison.net/2026/sep/1/codex-libreoffice",
-      "title": "Codex Bundles Libreoffice",
-      "date": "2026-09-02"
-    },
-    {
-      "url": "https://github.com/knockoutez/wigolo",
-      "title": "Wigolo",
-      "date": "2026-09-02"
-    },
-    {
       "url": "https://stencil.so/blog/harness-playbook",
       "title": "How to Build a Reliable Agent Harness",
       "date": "2026-09-03"
@@ -1554,6 +1429,181 @@
       "url": "https://threadreaderapp.com/thread/2099898254905549220.html",
       "title": "Openrouter Users Spent More on Openai Models Than on Anthropic Models Last Week",
       "date": "2026-09-16"
+    },
+    {
+      "url": "https://nousresearch.com/refactoring-hermes-with-1393-agents",
+      "title": "Refactoring Hermes With 1,393 Agents",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://arena.ai/blog/coding-agents-harness-tax",
+      "title": "Harnesstax",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://posthog.com/blog/self-driving-loops",
+      "title": "6-7 Loops We Use Everyday to Make Posthog Self-driving",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://surgehq.ai/learn/evaluations",
+      "title": "Designing Evaluations That Actually Tell You Something",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://bharatsharma.pro/articles/activity-based-engineering-metrics-are-obsolete",
+      "title": "Ai is Making Activity-based Engineering Metrics Obsolete",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://github.com/q00/ouroboros",
+      "title": "Ouroboros",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://lws.io/blog/if-your-tool-isnt-reachable-by-agents-it-doesnt-exist",
+      "title": "If Your Tool Isn't Reachable by Agents, it Doesn't Exist",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://vals.ai/blogs/cheating-on-the-rise",
+      "title": "Ai Cheating is on the Rise",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://transluce.org/embedded-evaluations",
+      "title": "How Embedded Evaluators Could Monitor Frontier Ai",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://thenextweb.com/news/suleyman-anthropic-claude-consciousness-sleepwalk",
+      "title": "Microsoft Ai Chief Says Anthropic is Wrong About Claude",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://will-keleher.com/posts/small-programming-tricks-matter",
+      "title": "Small Programming Tricks",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://rohanbansal.com/qorl",
+      "title": "Training a 4b Model to Produce 81% Faster Query Plans Than Postgres",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://blog.ptidej.net/read-the-history-not-just-the-code",
+      "title": "Read the History, Not Just the Code",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices",
+      "title": "Your Ai Agents Can Now Control Your Google Home Devices",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/qixcbn",
+      "title": "Openai Discloses Six New Incidents of \u2018concerning' Ai Behavior",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://scottaaronson.blog?p=10062",
+      "title": "The Age of Wonders and Terrors",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/jupa5k",
+      "title": "Introducing the Deepmind Institute",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/xhfckh",
+      "title": "Memory in Grok Build",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://accomplish.ai/blog/escaping-the-openai-codex-sandbox-twice",
+      "title": "Escaping the Openai Codex Sandbox, Twice",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html",
+      "title": "Deepseek-v4.1 Flash: Pushing the Limits of Kv Cache Compression",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://support.google.com/googlehome/thread/467705013/introducing-home-mcp-enabling-your-agent-to-interact-with-your-home",
+      "title": "Introducing Home Mcp: Enabling Your Agent to Interact With Your Home",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://planetscale.com/blog/introducing-tin",
+      "title": "Introducing Tin: Full-text Search for Postgres",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://cloud.google.com/blog/products/containers-kubernetes/agent-substrate-available-on-gke",
+      "title": "Agent Substrate Brings High-density, Scalable, Trusted Infrastructure to Gke",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://github.com/makazhanalpamys/soup",
+      "title": "Soup",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://claude.com/blog/cowork-is-now-claude",
+      "title": "Claude Cowork and Chat Are Now One Claude",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://developers.googleblog.com/agent-anomaly-detection-now-in-private-preview-on-the-gemini-enterprise-agent-platform",
+      "title": "Agent Anomaly Detection, Now in Private Preview on the Gemini Enterprise Agent Platform- Google Developers Blog",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://guangyusun.com/flat-website",
+      "title": "Meta's Flat for Multimodal Understanding and Generation",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce",
+      "title": "Anecdotally, Programmers Dislike \"reduce\"",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://mistral.ai/news/mistral-x-mozilla",
+      "title": "Mistral X Mozilla: Private, Multilingual Ai Browsing",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://spyglass.org/metas-amusing-muse",
+      "title": "Meta's Amusing Muse",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://davefriedman.substack.com/p/ai-labs-want-compute-commitments",
+      "title": "Ai Labs Want Compute Commitments, and Their Customers Want Model Choice",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/gtawfm",
+      "title": "How a Chinese Hacking Firm Tapped Ai to Supercharge Cyber-spying",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://artificialanalysis.ai/articles/ant-group-releases-finance-focused-ling-3-0-flash-fin",
+      "title": "Ant Group Released a Finance-focused Model",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://thedeepview.com/articles/why-salesforce-may-be-ai-s-adult-in-the-room",
+      "title": "Why Salesforce May Be Ai's Adult in the Room",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai",
+      "title": "Apple Reportedly Building Server Packed With M-series Ultra Chips for Ai",
+      "date": "2026-09-17"
     }
   ],
   "feedback": [
@@ -2319,6 +2369,20 @@
       "vote": "up",
       "source": "TLDR Product",
       "date": "2026-09-11"
+    },
+    {
+      "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you",
+      "title": "Anthropic's Mythos 5 Spent Hundreds of Pages Fighting Captcha",
+      "vote": "up",
+      "source": "TLDR AI",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic",
+      "title": "Agentic Coding is Straining Ci. Here's How We Scaled Test Impact Analysis at Anthropic",
+      "vote": "up",
+      "source": "TLDR Dev",
+      "date": "2026-09-16"
     }
   ]
 }
