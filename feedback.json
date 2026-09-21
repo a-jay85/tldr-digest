@@ -1,116 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://huggingface.co/blog/funes",
-      "title": "Give Your Coding Agents a Memory You Own",
-      "date": "2026-09-04"
-    },
-    {
-      "url": "https://sjg.io/writing/ai-is-making-us-build-too-much",
-      "title": "Ai is Making Us Build Too Much",
-      "date": "2026-09-04"
-    },
-    {
-      "url": "https://jennywanger.com/articles/burnt-out-on-a-three-day-week",
-      "title": "Burnt Out on a Three-day Week",
-      "date": "2026-09-04"
-    },
-    {
-      "url": "https://ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
-      "title": "Ai, Tools and Transformation",
-      "date": "2026-09-04"
-    },
-    {
-      "url": "https://blog.mastykarz.nl/your-product-didnt-get-worse",
-      "title": "Your Product Didn't Get Worse",
-      "date": "2026-09-04"
-    },
-    {
-      "url": "https://dpereira.substack.com/p/bullshit-management-didnt-die-it",
-      "title": "Bullshit Management Didn't Die. it Got Automated",
-      "date": "2026-09-04"
-    },
-    {
-      "url": "https://theskip.substack.com/p/what-the-past-year-taught-meta",
-      "title": "What the Past Year Taught Meta",
-      "date": "2026-09-04"
-    },
-    {
-      "url": "https://nextjs.org/blog/turbopack-chunking",
-      "title": "How Turbopack Chunks Your Javascript",
-      "date": "2026-09-04"
-    },
-    {
-      "url": "https://kciter.so/posts/the-expensive-main-thread/en",
-      "title": "The Browser's Main Thread is Expensive",
-      "date": "2026-09-04"
-    },
-    {
-      "url": "https://explainanalyze.com/p/a-query-on-a-3-billion-row-table-took-100-minutes-one-added-line-made-it-40ms",
-      "title": "Made it 40ms",
-      "date": "2026-09-04"
-    },
-    {
-      "url": "https://insights.euclid.vc/p/forward-deployed-everything-fde-quinn-litherland-revin-ai",
-      "title": "Forward-deployed Everything",
-      "date": "2026-09-04"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/fxrfb4",
-      "title": "The Incumbents Are Coming",
-      "date": "2026-09-04"
-    },
-    {
-      "url": "https://a16z.news/p/enshittification-isnt-real",
-      "title": "\u201censhittification\u201d Isn't Real",
-      "date": "2026-09-04"
-    },
-    {
-      "url": "https://frontierai.substack.com/p/llms-are-becoming-commodities-de1",
-      "title": "Llms Are Becoming Commodities",
-      "date": "2026-09-04"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/byidgd",
-      "title": "Prediction: Ai Will Collapse",
-      "date": "2026-09-04"
-    },
-    {
-      "url": "https://artificialanalysis.ai/articles/benchmarking-gpt-6-astra",
-      "title": "Benchmarking Gpt-6 Astra",
-      "date": "2026-09-04"
-    },
-    {
-      "url": "https://github.com/mlc-ai/web-llm",
-      "title": "Webllm",
-      "date": "2026-09-04"
-    },
-    {
-      "url": "https://mail.cyberneticforests.com/models-dont-go-rogue",
-      "title": "Models Don't Go Rogue",
-      "date": "2026-09-04"
-    },
-    {
-      "url": "https://cutlefish.substack.com/p/tbm-437-ai-and-the-recontextualization",
-      "title": "Ai and the Recontextualization Tax",
-      "date": "2026-09-04"
-    },
-    {
-      "url": "https://tapoueh.org/blog/2026/09/getting-ready-for-postgresql-19",
-      "title": "Getting Ready for Postgresql 19",
-      "date": "2026-09-04"
-    },
-    {
-      "url": "https://ben3d.ca/blog/running-llms-in-the-browser-with-threejs",
-      "title": "Running Llms in the Browser With Three.js",
-      "date": "2026-09-04"
-    },
-    {
-      "url": "https://gwern.net/xanadu",
-      "title": "Project Xanadu: Even More Hindsight",
-      "date": "2026-09-04"
-    },
-    {
       "url": "https://stratechery.com/2026/an-interview-with-openai-president-greg-brockman-about-astra-and-alignment",
       "title": "Alignment",
       "date": "2026-09-07"
@@ -1719,6 +1609,156 @@
       "url": "https://links.tldrnewsletter.com/hucvjl",
       "title": "Inside the White House Tussle to Sway Trump on Ai",
       "date": "2026-09-18"
+    },
+    {
+      "url": "https://kondasamy.com/blog/2026/how-ai-coding-agents-edit-code",
+      "title": "How Coding Agents Edit Files: Diffs, Snapshots, and Fast Apply",
+      "date": "2026-09-21"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/7d00ok",
+      "title": "The Inference Gap",
+      "date": "2026-09-21"
+    },
+    {
+      "url": "https://blog.mastykarz.nl/eval-lying",
+      "title": "String-matching Evals Can Reward Ai Agents for Fake Compliance",
+      "date": "2026-09-21"
+    },
+    {
+      "url": "https://darkmarc.substack.com/p/hijacking-ai-agents-how-an-agents",
+      "title": "Attackers Can Turn an Ai Agent's Own Tools Against it",
+      "date": "2026-09-21"
+    },
+    {
+      "url": "https://thorstenball.com/blog/2026/09/19/what-i-believe-about-the-future-of-software-development",
+      "title": "What I Believe About the Future of Software Development",
+      "date": "2026-09-21"
+    },
+    {
+      "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write",
+      "title": "I Don't Want to Read What You Didn't Write",
+      "date": "2026-09-21"
+    },
+    {
+      "url": "https://danluu.com/brain-off",
+      "title": "There's No Point at Which Turning Your Brain Off Will Work",
+      "date": "2026-09-21"
+    },
+    {
+      "url": "https://lesswrong.com/posts/xvdngzaqfzfek7kgh/pretraining-data-not-verifiability-is-why-llms-are",
+      "title": "Pretraining Data, Not Verifiability, is Why Llms Are Especially Good at Math (and Coding)",
+      "date": "2026-09-21"
+    },
+    {
+      "url": "https://blog.karthiktadepalli.com/p/internal-model-transparency",
+      "title": "Can Internal Model Transparency Tame the Ai Race?",
+      "date": "2026-09-21"
+    },
+    {
+      "url": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface",
+      "title": "The Death of the Button",
+      "date": "2026-09-21"
+    },
+    {
+      "url": "https://cnbc.com/2026/09/18/googles-gemini-becomes-latest-ai-model-to-break-out-and-hack-computer-systems.html",
+      "title": "Google's Gemini Becomes Latest Ai Model to Break Out and Hack Computer Systems",
+      "date": "2026-09-21"
+    },
+    {
+      "url": "https://borischerny.com/management,/product/2026/09/19/i-am-often-wrong.html",
+      "title": "I Am Often Wrong",
+      "date": "2026-09-21"
+    },
+    {
+      "url": "https://doomslide.substack.com/p/mathematics-is-effectively-dead?r=4d02jh",
+      "title": "Mathematics is Effectively Dead",
+      "date": "2026-09-21"
+    },
+    {
+      "url": "https://sunilpai.dev/posts/the-senior-engineer-death-spiral",
+      "title": "The Senior Engineer Death Spiral",
+      "date": "2026-09-21"
+    },
+    {
+      "url": "https://github.com/google/ax",
+      "title": "Ax",
+      "date": "2026-09-21"
+    },
+    {
+      "url": "https://thezvi.substack.com/p/the-preference-cascade-is-only-getting",
+      "title": "The Preference Cascade is Only Getting Started",
+      "date": "2026-09-21"
+    },
+    {
+      "url": "https://rust-glancer.github.io/blog/why-lsp-is-hard",
+      "title": "Why Building a Rust Lsp is Hard",
+      "date": "2026-09-21"
+    },
+    {
+      "url": "https://lovable.dev/blog/faster-previews-oj",
+      "title": "Faster Previews, Soon Powered by Oj",
+      "date": "2026-09-21"
+    },
+    {
+      "url": "https://surfingcomplexity.blog/2026/09/19/saturation-at-github-the-saga-continues",
+      "title": "Saturation at Github: the Saga Continues",
+      "date": "2026-09-21"
+    },
+    {
+      "url": "https://github.com/bytedtsinghua-sia/dapo",
+      "title": "Dapo",
+      "date": "2026-09-21"
+    },
+    {
+      "url": "https://laya.convaiinnovations.com",
+      "title": "Laya: a Multilingual System 1 Decision Engine",
+      "date": "2026-09-21"
+    },
+    {
+      "url": "https://developer.meta.com/ai/models/sam-3-1",
+      "title": "Segment Anything Model (sam) 3.1",
+      "date": "2026-09-21"
+    },
+    {
+      "url": "https://arenamag.com/articles/forward-deployed",
+      "title": "Forward Deployed",
+      "date": "2026-09-21"
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2101084678640066765.html",
+      "title": "Opening Access for Developers to Build Muse Connectors",
+      "date": "2026-09-21"
+    },
+    {
+      "url": "https://thenextweb.com/news/openai-856bn-compute-vs-600bn-reset-burn-improved",
+      "title": "Openai's Projected Compute Bill Climbed to $856b",
+      "date": "2026-09-21"
+    },
+    {
+      "url": "https://qwen.ai/blog?id=qwen3.8-livetranslate",
+      "title": "Qwen3.8-livetranslate: Names the Speaker. Carries the Meaning",
+      "date": "2026-09-21"
+    },
+    {
+      "url": "https://terrytao.wordpress.com/2026/09/18/sairs-open-math-model-initiative",
+      "title": "Sair's Open Math Model Initiative",
+      "date": "2026-09-21"
+    },
+    {
+      "url": "https://vale.rocks/posts/css-relics",
+      "title": "Css Curiosities of the Past",
+      "date": "2026-09-21"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/jf9vgn",
+      "title": "Apple's \u2018personal Hub' Ai Strategy Hints at Upcoming Home Device",
+      "date": "2026-09-21"
+    },
+    {
+      "url": "https://chinatalk.media/p/how-anthropic-became-chinas-goliath",
+      "title": "How Chinese Ai Radicalizes",
+      "date": "2026-09-21"
     }
   ],
   "feedback": [
