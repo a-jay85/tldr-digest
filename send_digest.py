@@ -50,7 +50,10 @@ def verify_sent(subject: str, since_ts: float) -> bool:
         from gmail_ops import get_service
         service = get_service()
     except Exception as e:  # noqa: BLE001 - verification is best-effort
-        print(f"  could not check Gmail to verify the send: {e}", file=sys.stderr)
+        # Inconclusive, not negative — Gmail itself was unreachable. We still
+        # return False (aborting is the safe default), but log it distinctly so
+        # a postmortem can tell "digest wasn't sent" from "couldn't tell".
+        print(f"  VERIFY INCONCLUSIVE — could not check Gmail: {e}", file=sys.stderr)
         return False
 
     # Gmail's `subject:` operator is unreliable against the emoji in our
@@ -171,12 +174,16 @@ def main():
                        payload["subject"], sent_at)
 
     # A not-yet-redeployed or wrong URL returns HTTP 200 with an HTML login/error
-    # page rather than our JSON — treat that as failure, same as sync_feedback.py.
+    # page rather than our JSON. But Google also serves an HTML error page from
+    # the script.googleusercontent.com redirect target *after* doPost has already
+    # run and sent the mail (seen 2026-09-22), so this is ambiguous like the
+    # 404/timeout cases — check Gmail before calling it a failure.
     if "text/html" in content_type or raw.lstrip().startswith("<!"):
-        print("Send failed: web app returned HTML (doPost not deployed, or access "
-              "not 'Anyone'). Redeploy with bin/deploy-appsscript.",
+        print(f"  HTML response body (first 300 chars): {raw.lstrip()[:300]}",
               file=sys.stderr)
-        sys.exit(1)
+        ambiguous_send("web app returned HTML instead of JSON (doPost not deployed, "
+                       "access not 'Anyone', or a post-send redirect error)",
+                       payload["subject"], sent_at)
 
     try:
         result = json.loads(raw)
