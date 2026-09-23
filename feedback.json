@@ -1,156 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://jonathanc.net/blog/hip-agent?v=2",
-      "title": "Hip-agent: a Harness That Fits in the Prompt",
-      "date": "2026-09-08"
-    },
-    {
-      "url": "https://jimmyhmiller.com/shape-of-unfinished-ai-codebases",
-      "title": "The Chasm: the Shape of Unfinished Ai Codebases",
-      "date": "2026-09-08"
-    },
-    {
-      "url": "https://borretti.me/article/the-education-of-a-doomer",
-      "title": "The Education of a Doomer",
-      "date": "2026-09-08"
-    },
-    {
-      "url": "https://blog.reqproof.com/p/your-ai-can-fix-the-bug-can-it-find",
-      "title": "Your Ai Can Fix the Bug. but Can it Find It?",
-      "date": "2026-09-08"
-    },
-    {
-      "url": "https://voiceinthemachine.com/2026/09/07/four-questions-about-agi",
-      "title": "Four Questions About Agi",
-      "date": "2026-09-08"
-    },
-    {
-      "url": "https://antmurphy.me/newsletter/how-the-leading-ai-companies-do-product-part-1",
-      "title": "How the Leading Ai Companies Do Product",
-      "date": "2026-09-08"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/lhhdij",
-      "title": "Applied Ai Doesn't Work",
-      "date": "2026-09-08"
-    },
-    {
-      "url": "https://armosec.io/blog/untrusted-tool-output-prompt-injection",
-      "title": "Prompt Injection Through Tool Output",
-      "date": "2026-09-08"
-    },
-    {
-      "url": "https://jyn.dev/simple-is-not-the-same-as-small",
-      "title": "Simple is Not Small",
-      "date": "2026-09-08"
-    },
-    {
-      "url": "https://github.com/agricidaniel/claude-ads",
-      "title": "Claude Ads",
-      "date": "2026-09-08"
-    },
-    {
-      "url": "https://bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
-      "title": "Emails, $0 Revenue",
-      "date": "2026-09-08"
-    },
-    {
-      "url": "https://codescan.dev/blog/ruff-mypy-pytest-and-then-what",
-      "title": "Ruff, Mypy, Pytest, and Then What?",
-      "date": "2026-09-08"
-    },
-    {
-      "url": "https://productcompass.pm/p/product-engineering-for-pms-part-2",
-      "title": "Build a Saas App Without Coding",
-      "date": "2026-09-08"
-    },
-    {
-      "url": "https://orchidfiles.com/programming-is-art",
-      "title": "Programming is Art",
-      "date": "2026-09-08"
-    },
-    {
-      "url": "https://github.com/mukul975/cve-mcp-server",
-      "title": "Cve Mcp Server",
-      "date": "2026-09-08"
-    },
-    {
-      "url": "https://github.com/nvidia/personal-ai-router",
-      "title": "Nvidia Personal Ai Router - Pair",
-      "date": "2026-09-08"
-    },
-    {
-      "url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting",
-      "title": "De-brainrot Vacations",
-      "date": "2026-09-08"
-    },
-    {
-      "url": "https://threadreaderapp.com/thread/2096966511974064535.html",
-      "title": "Ai Can Climb the Hill. Humans Pick the Next One",
-      "date": "2026-09-08"
-    },
-    {
-      "url": "https://github.com/ai-hypercomputer/accelerator-agents",
-      "title": "Google Accelerator Agents for Tpu Development",
-      "date": "2026-09-08"
-    },
-    {
-      "url": "http://notes.erlend.sh/3muwdtclths2d",
-      "title": "Making Software Hurts Now",
-      "date": "2026-09-08"
-    },
-    {
-      "url": "https://korbonits.com/blog/2026-09-06-the-question-was-already-written",
-      "title": "The Question Was Already Written",
-      "date": "2026-09-08"
-    },
-    {
-      "url": "https://benn.substack.com/p/how-to-find-insights",
-      "title": "How to Find Insights",
-      "date": "2026-09-08"
-    },
-    {
-      "url": "https://cutlefish.substack.com/p/tbm-438-the-myth-of-workplace-consensus",
-      "title": "Am I the Only Weirdo in This Company?",
-      "date": "2026-09-08"
-    },
-    {
-      "url": "https://github.com/getopenscreen/openscreen",
-      "title": "Openscreen",
-      "date": "2026-09-08"
-    },
-    {
-      "url": "https://seangoedecke.com/deckard",
-      "title": "Automatically Detecting Ai Text in My Browser",
-      "date": "2026-09-08"
-    },
-    {
-      "url": "https://spiraldb.com/blog/from-s3-to-gpu-in-one-copy",
-      "title": "From S3 to Gpu in One Copy",
-      "date": "2026-09-08"
-    },
-    {
-      "url": "https://kolemannix.com/blog/how-to-name-things",
-      "title": "How to Name Things",
-      "date": "2026-09-08"
-    },
-    {
-      "url": "https://blog.zksecurity.xyz/posts/the-year-finding-bugs-became-cheap",
-      "title": "About it",
-      "date": "2026-09-08"
-    },
-    {
-      "url": "https://aminrj.com/posts/cosine-similarity-is-not-a-safety-property",
-      "title": "Cosine Similarity is Not a Safety Property",
-      "date": "2026-09-08"
-    },
-    {
-      "url": "https://testingcatalog.com/openai-prepares-managed-agents-for-devday-2026",
-      "title": "Openai Prepares Managed Agents for Devday 2026",
-      "date": "2026-09-08"
-    },
-    {
       "url": "https://mg-crea.com/blog/the-late-software-developer",
       "title": "The Late Software Developer",
       "date": "2026-09-09"
@@ -1854,6 +1704,181 @@
       "url": "https://cutlefish.substack.com/p/tbm-440-the-problem-with-putting",
       "title": "The Problem With Putting People in Boxes",
       "date": "2026-09-22"
+    },
+    {
+      "url": "https://developer.nvidia.com/blog/how-to-evaluate-ai-agents-from-tool-calls-to-task-completion",
+      "title": "How to Evaluate Ai Agents: From Tool Calls to Task Completion",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/rm8wfx",
+      "title": "Gpt-6 Sol and Luna",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://anthropic.com/claude-opus-5-5",
+      "title": "Claude Opus 5.5",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://simonwillison.net/2026/sep/22/opus-and-sol-and-luna",
+      "title": "Claude Opus 5.5, Gpt-6 Sol, Gpt-6 Luna, and a New Price War",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://labs.scale.com/leaderboard/swe_bench_pro_public_v2",
+      "title": "Swe-bench Pro V2",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://claude.com/blog/what-a-task-costs-on-opus-5-5",
+      "title": "What a Task Costs on Opus 5.5",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://epoch.ai/publications/the-plunging-price-of-thought",
+      "title": "The Plunging Price of Thought",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://perplexity.ai/hub/blog/learning-from-real-world-experience",
+      "title": "Training Ai From Real-world Tool Use",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/mwm2xs",
+      "title": "Better Gpt-6 Prompt Caching",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://blog.sentry.io/debugging-our-ai-search-assistant-with-agent-tracing",
+      "title": "Debugging Our Ai Search Assistant With Agent Tracing",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/zxlk5a",
+      "title": "Vinod Khosla's Two Moats for Personal Ai",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://regularized-rsi.com",
+      "title": "Google Publishes Rrsi for Self-improving Ai Agents",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://engineering.leanix.net/blog/ai-spectrum",
+      "title": "Don't Go All in on Ai",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://astralcodexten.com/p/mysteries-of-ai-generalization",
+      "title": "Mysteries of Ai Generalization",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://policygradients.thefai.org/p/ai-will-worsen-our-estimates-of-gdp",
+      "title": "Ai Will Worsen Our Estimates of Gdp",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://blog.senko.net/analyzing-jev-a-new-ai-model?pk_campaign=rss-feed",
+      "title": "Analyzing Jev, a New Ai Model",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://pytorch.org/blog/hardware-agnostic-models-in-vllm",
+      "title": "Hardware-agnostic Models in Vllm",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://cnbc.com/2026/09/22/altman-amodei-unga-ai-safety.html",
+      "title": "Altman and Amodei Expected to Join Un Security Council Meeting About Ai",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://canva.dev/blog/engineering/worker-backpressure-part-1-how-we-taught-our-queue-workers-to-slow-down",
+      "title": "Worker Backpressure (part 1): Teaching Queue Workers to Slow Down",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://patrickbrosset.com/articles/2026-09-22-blurry-before-beautiful-image-previews-for-the-web",
+      "title": "Blurry Before Beautiful: Image Previews for the Web",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://blog.cloudflare.com/worker-previews",
+      "title": "Introducing Worker Previews",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://github.com/floci-io/floci",
+      "title": "Floci",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://nesbitt.io/2026/09/22/unfinished-work-in-package-security.html",
+      "title": "Unfinished Work in Package Security",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.14306",
+      "title": "Keeping Large Moe Training Within Fixed Gpu Memory",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2102311135441547405.html",
+      "title": "People Need to Start Paying Attention to the Issue of Derived Data in Ai Training",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://blog.cloudflare.com/vary-support",
+      "title": "Cloudflare Adds Vary Support to Cache Rules",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://danluu.com/bug-blind",
+      "title": "Bug Blindness",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://thenextweb.com/news/biological-computing-co-aws-neuron-derived-ai-video-model",
+      "title": "The Biological Computing Co. Partners With Aws to Sell Its Neuron-derived Ai Video Model",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://schneier.com/blog/archives/2026/09/gpt-6-astra-breaks-an-old-enigma-message.html",
+      "title": "Gpt-6 Astra Breaks an Old Enigma Message",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence",
+      "title": "Meta Admits Muse's Likeness to Openclaw Isn't a Coincidence",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://evalapply.org/posts/side-step-secretary-problem-hiring/index.html",
+      "title": "Side-stepping the Secretary Problem, Unwittingly",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://paulbakaus.com/i-gave-my-website-a-boss-fight",
+      "title": "I Gave My Website a Boss Fight",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://therobotreport.com/intrinsic-open-sources-key-parts-platform-easier-development",
+      "title": "Intrinsic Open Sources Key Parts of Its Platform for Easier Development",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://github.com/run-llama/liteparse",
+      "title": "Liteparse",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://probablydance.com/2026/09/22/the-mundanity-of-excellence-small-wins-and-why-you-should-fix-bugs-before-writing-new-features",
+      "title": "The Mundanity of Excellence, Small Wins, and Why You Should Fix Bugs Before Writing New Features",
+      "date": "2026-09-23"
     }
   ],
   "feedback": [
@@ -2633,6 +2658,27 @@
       "vote": "up",
       "source": "TLDR Dev",
       "date": "2026-09-16"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/bsknwq",
+      "title": "Caring Vs. Knowing",
+      "vote": "up",
+      "source": "TLDR Product",
+      "date": "2026-09-22"
+    },
+    {
+      "url": "https://nngroup.com/articles/designing-ai-study-guide",
+      "title": "Designing Ai Products and Features: Study Guide",
+      "vote": "up",
+      "source": "TLDR Product",
+      "date": "2026-09-22"
+    },
+    {
+      "url": "https://thorstenball.com/blog/2026/09/19/what-i-believe-about-the-future-of-software-development",
+      "title": "What I Believe About the Future of Software Development",
+      "vote": "up",
+      "source": "TLDR",
+      "date": "2026-09-22"
     }
   ]
 }
