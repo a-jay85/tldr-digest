@@ -1,86 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://mg-crea.com/blog/the-late-software-developer",
-      "title": "The Late Software Developer",
-      "date": "2026-09-09"
-    },
-    {
-      "url": "https://thexpin.com/p/bill-gates-wrong-about-ai-layoffs",
-      "title": "A Response to Bill Gates's Essay",
-      "date": "2026-09-09"
-    },
-    {
-      "url": "https://katelynlesse.com/blog/cpu-shortage-software-teams",
-      "title": "What the Cpu Shortage Means for Software Teams",
-      "date": "2026-09-09"
-    },
-    {
-      "url": "https://dwarkesh.com/p/pretraining-progress-is-mostly-data",
-      "title": "Pretraining Progress is Mostly Coming From Data",
-      "date": "2026-09-09"
-    },
-    {
-      "url": "https://blog.sshh.io/p/i-asked-100-agents-to-hack-me",
-      "title": "I Asked 100 Agents to Hack Me",
-      "date": "2026-09-09"
-    },
-    {
-      "url": "https://theaiengineer.substack.com/p/what-makes-inference-nondeterministic",
-      "title": "What Makes Inference Nondeterministic?",
-      "date": "2026-09-09"
-    },
-    {
-      "url": "https://packagemain.tech/p/gitignore-everything-by-default",
-      "title": ".gitignore Everything by Default",
-      "date": "2026-09-09"
-    },
-    {
-      "url": "https://ishamf.dev/p/llm-attention-visualizer",
-      "title": "Llm Attention Visualization",
-      "date": "2026-09-09"
-    },
-    {
-      "url": "https://astralcodexten.com/p/god-help-us-lets-try-to-learn-about",
-      "title": "Techniques",
-      "date": "2026-09-09"
-    },
-    {
-      "url": "https://magic.dev/blog/pretraining",
-      "title": ">10x More Efficient Pretraining",
-      "date": "2026-09-09"
-    },
-    {
-      "url": "https://anaconda.com/blog/openai-astra-ai-security",
-      "title": "What Openai's Astra Means for Ai Security Teams",
-      "date": "2026-09-09"
-    },
-    {
-      "url": "https://schneier.com/blog/archives/2026/09/stealing-ai-reasoning-traces.html",
-      "title": "Stealing Ai Reasoning Traces",
-      "date": "2026-09-09"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/lh1qpg",
-      "title": "A Non-renewable Fashion",
-      "date": "2026-09-09"
-    },
-    {
-      "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market",
-      "title": "Is Far From a Winner-take-all Market",
-      "date": "2026-09-09"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/ccembs",
-      "title": "Chatgpt Images 2.5",
-      "date": "2026-09-09"
-    },
-    {
-      "url": "https://prestonfu.com/notes/ppm",
-      "title": "Progressive Point Matching",
-      "date": "2026-09-09"
-    },
-    {
       "url": "https://anthropic.com/institute/econ-scenarios",
       "title": "Scenarios for Our Economic Future",
       "date": "2026-09-10"
@@ -1879,6 +1799,141 @@
       "url": "https://probablydance.com/2026/09/22/the-mundanity-of-excellence-small-wins-and-why-you-should-fix-bugs-before-writing-new-features",
       "title": "The Mundanity of Excellence, Small Wins, and Why You Should Fix Bugs Before Writing New Features",
       "date": "2026-09-23"
+    },
+    {
+      "url": "https://claude.dev/blog/how-we-made-claude-ai-faster",
+      "title": "How We Made Claude.ai 3x Faster in Two Weeks",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://stacksweep.dev/rrsi-regularized-harness-self-improvement",
+      "title": "Self-improving Agent Harnesses Overfit. How Google Fixes it",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://arize.com/blog/building-tools-for-ai-agents",
+      "title": "Building Tools for Ai Agents",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://blog.scotterickson.info/2026-09-23-redistributed-ownership",
+      "title": "A Redistribution of Code Ownership",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://a16z.simplecast.com/episodes/amjad-masad-on-rethinking-college-for-the-ai-era-somumqgq",
+      "title": "Amjad Masad on Rethinking College for the Ai Era",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://robinwieruch.de/agentic-coding-bet-on-primitives",
+      "title": "Agentic Coding: Bet on the Primitives",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://ably.com/blog/websockets-beat-sse-ai-streaming",
+      "title": "Why Websockets Beat Sse for Ai Streaming at Scale",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://muratbuffalo.blogspot.com/2026/09/what-happens-when-model-eats-stack.html",
+      "title": "What Happens When the Model Eats the Stack?",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://perplexity.ai/hub/blog/escaping-space-part-i",
+      "title": "Escaping Space: Part I",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://forecastingresearch.substack.com/p/ai-progress-forecasts-accuracy",
+      "title": "How Accurate Have Ai Progress Forecasts Been So Far?",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app",
+      "title": "Rendering Huge Pull Requests in the Github Copilot App",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://michaelheap.com/i-dont-want-the-details",
+      "title": "I Don't Want the Details",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
+      "title": "Google's New Speech Models Can Design and Direct Voices",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://flaviocopes.com/cloudflare-quick-tunnels",
+      "title": "The Complete Guide to Cloudflare Quick Tunnels",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://notion.com/blog/how-notion-handles-concurrent-editing-with-crdts",
+      "title": "How Notion Handles Concurrent Editing With Crdts",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://fireworks.ai/blog/ember-1",
+      "title": "Introducing Ember-1",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory",
+      "title": "Google Plans Ai Memory That Even Google Cannot Read",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech",
+      "title": "Gemini 3.8 Text-to-speech Says Hello",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://github.com/dream-num/univer",
+      "title": "Univer",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/rv0gyf",
+      "title": "Jensen Huang Thinks Ai Alarmism Has Gone Too Far",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://pd-perry.github.io/posts/post-training.html",
+      "title": "Towards Universal Post-training for Robotics",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/r07eql",
+      "title": "Openai Introduced Mentalhealthbench",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://blog.comfy.org/p/introducing-comfy-router-one-api",
+      "title": "Introducing Comfy Router: One Api for Frontier Media Models",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/0jdv0t",
+      "title": "Openai's Ai Tried Breaching 4 Other Targets, Without Prompting",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "title": "Claude Discovered a Novel Enzyme System",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2102882216950763814.html",
+      "title": "Tev1-4b-experimental",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://bram.us/2026/09/23/show-keystrokes",
+      "title": "Show Keystrokes on a Website With the Show-keystrokes Custom Element",
+      "date": "2026-09-24"
     }
   ],
   "feedback": [
@@ -2679,6 +2734,55 @@
       "vote": "up",
       "source": "TLDR",
       "date": "2026-09-22"
+    },
+    {
+      "url": "https://simonwillison.net/2026/sep/22/opus-and-sol-and-luna",
+      "title": "Claude Opus 5.5, Gpt-6 Sol, Gpt-6 Luna, and a New Price War",
+      "vote": "up",
+      "source": "TLDR",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://claude.com/blog/what-a-task-costs-on-opus-5-5",
+      "title": "What a Task Costs on Opus 5.5",
+      "vote": "up",
+      "source": "TLDR AI",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write",
+      "title": "I Don't Want to Read What You Didn't Write",
+      "vote": "up",
+      "source": "TLDR Dev",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://danluu.com/brain-off",
+      "title": "There's No Point at Which Turning Your Brain Off Will Work",
+      "vote": "up",
+      "source": "TLDR Dev",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface",
+      "title": "The Death of the Button",
+      "vote": "up",
+      "source": "TLDR Dev",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://borischerny.com/management,/product/2026/09/19/i-am-often-wrong.html",
+      "title": "I Am Often Wrong",
+      "vote": "up",
+      "source": "TLDR Dev",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://sunilpai.dev/posts/the-senior-engineer-death-spiral",
+      "title": "The Senior Engineer Death Spiral",
+      "vote": "up",
+      "source": "TLDR Dev",
+      "date": "2026-09-24"
     }
   ]
 }
