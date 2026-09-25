@@ -1,111 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://anthropic.com/institute/econ-scenarios",
-      "title": "Scenarios for Our Economic Future",
-      "date": "2026-09-10"
-    },
-    {
-      "url": "https://chrismdp.com/prompt-evals-are-useless",
-      "title": "Prompt Evals Alone Are Useless",
-      "date": "2026-09-10"
-    },
-    {
-      "url": "https://rubyonrails.org/2026/9/2/agents-on-rails-claude-fable-5-1-and-glm-5-3-flash",
-      "title": "Agents on Rails: Fable 5.1 & Glm 5.3 Flash",
-      "date": "2026-09-10"
-    },
-    {
-      "url": "https://simonwillison.net/2026/sep/8/on-navier-stokes",
-      "title": "On the Navier\u2013stokes Millennium Prize Problem",
-      "date": "2026-09-10"
-    },
-    {
-      "url": "https://riskmusings.substack.com/p/the-llm-architecture-problem",
-      "title": "The Llm Architecture Problem",
-      "date": "2026-09-10"
-    },
-    {
-      "url": "https://react.dev/blog/2026/09/09/react-19-3",
-      "title": "React 19.3",
-      "date": "2026-09-10"
-    },
-    {
-      "url": "https://entropicthoughts.com/better-ai-comment-classifier",
-      "title": "Better Ai Code Comment Detector",
-      "date": "2026-09-10"
-    },
-    {
-      "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
-      "title": "Reasoning Prefills on a Few Open Models, V1.1",
-      "date": "2026-09-10"
-    },
-    {
-      "url": "https://expo.dev/blog/an-early-look-at-expo-modules-2-0",
-      "title": "An Early Look at Expo Modules 2.0",
-      "date": "2026-09-10"
-    },
-    {
-      "url": "https://econlab.substack.com/p/ai-index-sept-2026",
-      "title": "Cracks in the Ai Thesis Part 2",
-      "date": "2026-09-10"
-    },
-    {
-      "url": "https://julien.org/blog/industry-perspectives/2026-09-08_the-cache-is-the-price",
-      "title": "The Cache is the Price",
-      "date": "2026-09-10"
-    },
-    {
-      "url": "https://copperhead.sh",
-      "title": "Copperhead: Cursor for Circuit Boards",
-      "date": "2026-09-10"
-    },
-    {
-      "url": "https://dev.to/jason_gunnells/ai-is-now-out-working-the-people-who-build-it-of0",
-      "title": "Ai is Now Out-working the People Who Build it",
-      "date": "2026-09-10"
-    },
-    {
-      "url": "https://dri.es/the-60-second-procurement-test",
-      "title": "The 60-second Procurement Test",
-      "date": "2026-09-10"
-    },
-    {
-      "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
-      "title": "Tailwind Labs is Joining Shopify",
-      "date": "2026-09-10"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/p8l4kt",
-      "title": "Software is About to Eat the World Much Faster",
-      "date": "2026-09-10"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/yl95iw",
-      "title": "I Never Want to Use Third-party Software Again",
-      "date": "2026-09-10"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/cvsgfp",
-      "title": "Recursive Synthetic Improvement",
-      "date": "2026-09-10"
-    },
-    {
-      "url": "https://langchain.com/blog/connections-managed-credentials-and-per-caller-identity-for-managed-deep-agents",
-      "title": "Deep Agents",
-      "date": "2026-09-10"
-    },
-    {
-      "url": "https://collusion.wiki/additional-findings",
-      "title": "Additional Findings",
-      "date": "2026-09-10"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/yxzpap",
-      "title": "Deepseek-v4.1-flash",
-      "date": "2026-09-10"
-    },
-    {
       "url": "https://checklyhq.com/blog/agentic-rewrite-nodejs-to-go",
       "title": "Rewriting a Node.js Service in Go With Agents",
       "date": "2026-09-14"
@@ -1934,6 +1829,201 @@
       "url": "https://bram.us/2026/09/23/show-keystrokes",
       "title": "Show Keystrokes on a Website With the Show-keystrokes Custom Element",
       "date": "2026-09-24"
+    },
+    {
+      "url": "https://elenaverna.com/p/what-its-like-to-work-at-an-ai-native",
+      "title": "What It's Like to Work at an Ai-native Company",
+      "date": "2026-09-25"
+    },
+    {
+      "url": "https://tomtunguz.com/thinking-in-systems",
+      "title": "Thinking in Systems, Shipping in Loops",
+      "date": "2026-09-25"
+    },
+    {
+      "url": "https://invertedpassion.substack.com/p/modern-llms-have-tiny-gpts-hidden",
+      "title": "Modern Llms Have Tiny Gpts Hidden Inside Them",
+      "date": "2026-09-25"
+    },
+    {
+      "url": "https://astralcodexten.com/p/the-specter-of-neuralese",
+      "title": "Ai May Learn to Reason in Representations People Cannot Read",
+      "date": "2026-09-25"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/lkf1ya",
+      "title": "Are You Ready for Superintelligence",
+      "date": "2026-09-25"
+    },
+    {
+      "url": "https://davekiss.com/blog/eulogy-for-the-software-engineer",
+      "title": "A Eulogy for the Software Engineer",
+      "date": "2026-09-25"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/cymygt",
+      "title": "What We Learned From Being the First Company to Disclose an Agent Cyberattack",
+      "date": "2026-09-25"
+    },
+    {
+      "url": "https://github.com/stepfun-ai/step-code",
+      "title": "Step Code",
+      "date": "2026-09-25"
+    },
+    {
+      "url": "https://cutlefish.substack.com/p/tbm-441-ai-the-loss-of-positive-friction",
+      "title": "Ai, the Loss of Positive Friction, and What to Do About it",
+      "date": "2026-09-25"
+    },
+    {
+      "url": "https://inferact.ai/blog/tpu-megakernels",
+      "title": "700 Tps on Kimi K3: a Case for Tpu Megakernels",
+      "date": "2026-09-25"
+    },
+    {
+      "url": "https://langchain.com/blog/langsmith-managed-deep-agents-whats-new",
+      "title": "Managed Deep Agents V0.8: New Auth, Memory, and Channels",
+      "date": "2026-09-25"
+    },
+    {
+      "url": "https://anthropic.com/research/project-swap",
+      "title": "Anthropic Tested What Happens When Agents Bargain for People",
+      "date": "2026-09-25"
+    },
+    {
+      "url": "https://joulee.medium.com/what-will-make-personal-ai-go-big-e92fbb10aba9",
+      "title": "What Will Make Personal Ai Go Big?",
+      "date": "2026-09-25"
+    },
+    {
+      "url": "https://itamargilad.com/good-ideas",
+      "title": "Why Good Product Ideas Don't Survive",
+      "date": "2026-09-25"
+    },
+    {
+      "url": "https://lukew.com/ff/entry.asp",
+      "title": "Skip the Tools, Make the Outcomes",
+      "date": "2026-09-25"
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2102909376923046020.html",
+      "title": "Avoiding the Agentic Death Spiral in B2b Software Pricing",
+      "date": "2026-09-25"
+    },
+    {
+      "url": "https://contrastive-lm.notion.site",
+      "title": "Contrastive Language Models",
+      "date": "2026-09-25"
+    },
+    {
+      "url": "https://stacksweep.dev/jev-decision-only-llm-judge-cascade",
+      "title": "A Decision-only Judge Matches Gpt-6 on Routine Evals for 0.36% of the Fee",
+      "date": "2026-09-25"
+    },
+    {
+      "url": "https://rudyfaile.com/2026/09/24/the-age-of-the-soft-skill",
+      "title": "The Age of the Soft Skill",
+      "date": "2026-09-25"
+    },
+    {
+      "url": "https://testingcatalog.com/openai-prepares-new-500-month-pro-max-plan-for-chatgpt",
+      "title": "Openai Prepares New $500/month Pro Max Plan for Chatgpt",
+      "date": "2026-09-25"
+    },
+    {
+      "url": "https://github.com/wbopan/tastebench",
+      "title": "How Good Are Llms at Decision Forking?",
+      "date": "2026-09-25"
+    },
+    {
+      "url": "https://trajectory.ai/field-notes/intelligence-density",
+      "title": "Intelligence Density",
+      "date": "2026-09-25"
+    },
+    {
+      "url": "https://ishadeed.com/article/css-detect-overlap",
+      "title": "Detect When Elements Overlap With Css",
+      "date": "2026-09-25"
+    },
+    {
+      "url": "https://davekiss.com/blog/i-opened-a-fake-auto-shop-for-ai-agents",
+      "title": "I Opened a Fake Auto Shop for Ai Agents",
+      "date": "2026-09-25"
+    },
+    {
+      "url": "https://braintrust.dev/blog/nitro",
+      "title": "Faster Queries for Debugging Production Agents With Nitro",
+      "date": "2026-09-25"
+    },
+    {
+      "url": "https://funcall.blogspot.com/2026/09/not-everyone-can-code_01093260948.html",
+      "title": "Not Everyone Can Code",
+      "date": "2026-09-25"
+    },
+    {
+      "url": "https://fastcompany.com/91611398/5-tips-for-building-an-ai-tool-to-address-worker-shortages",
+      "title": "5 Tips for Building an Ai Tool to Address Worker Shortages",
+      "date": "2026-09-25"
+    },
+    {
+      "url": "https://surgehq.ai/benchmarks/dayjob-finance",
+      "title": "A Finance Benchmark Asks Agents to Finish the Whole Assignment",
+      "date": "2026-09-25"
+    },
+    {
+      "url": "https://kettanaito.com/blog/electron-to-pwa-and-back-again",
+      "title": "Electron to Pwa and Back Again",
+      "date": "2026-09-25"
+    },
+    {
+      "url": "https://github.com/alchemy-run/alchemy",
+      "title": "Alchemy",
+      "date": "2026-09-25"
+    },
+    {
+      "url": "https://blog.sentry.io/bfcache-metrics",
+      "title": "Measuring the Back/forward Cache With Application Metrics",
+      "date": "2026-09-25"
+    },
+    {
+      "url": "https://doc.cc/articles/fastest-gun",
+      "title": "The Fastest Gun in Ux: Why Your Team is Telling the Wrong Story",
+      "date": "2026-09-25"
+    },
+    {
+      "url": "https://yeseniaperezcruz.substack.com/p/has-your-product-outgrown-its-floor",
+      "title": "Has Your Product Outgrown Its Floor Plan?",
+      "date": "2026-09-25"
+    },
+    {
+      "url": "https://backblaze.com/blog/why-the-best-ai-clouds-dont-run-on-flash-alone",
+      "title": "Why the Best Ai Clouds Don't Run on Flash Alone",
+      "date": "2026-09-25"
+    },
+    {
+      "url": "https://engineering.fb.com/2026/09/23/security/private-processing-meta-ai-glasses",
+      "title": "Bringing Private Processing to Meta Ai Glasses",
+      "date": "2026-09-25"
+    },
+    {
+      "url": "https://hraness.com/reading/the-limits-of-what-tla-plus-can-verify",
+      "title": "The Limits of What Tla+ Can Verify",
+      "date": "2026-09-25"
+    },
+    {
+      "url": "https://research.meta.ai/blog/bringing-your-muse-to-life",
+      "title": "Bringing Your Muse to Life",
+      "date": "2026-09-25"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar",
+      "title": "Gemini 3.8 Live With Live Avatar",
+      "date": "2026-09-25"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/fikers",
+      "title": "Zuckerberg's \u2018tamagotchi-like' Ai Could Be Meta's Ipod Moment",
+      "date": "2026-09-25"
     }
   ],
   "feedback": [
@@ -2782,6 +2872,34 @@
       "title": "The Senior Engineer Death Spiral",
       "vote": "up",
       "source": "TLDR Dev",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://claude.dev/blog/how-we-made-claude-ai-faster",
+      "title": "How We Made Claude.ai 3x Faster in Two Weeks",
+      "vote": "up",
+      "source": "TLDR Dev",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://seldo.com/posts/we-are-all-product-engineers-now",
+      "title": "We Are All Product Engineers Now",
+      "vote": "up",
+      "source": "TLDR Dev",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://blog.scotterickson.info/2026-09-23-redistributed-ownership",
+      "title": "A Redistribution of Code Ownership",
+      "vote": "up",
+      "source": "TLDR",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://michaelheap.com/i-dont-want-the-details",
+      "title": "I Don't Want the Details",
+      "vote": "up",
+      "source": "TLDR",
       "date": "2026-09-24"
     }
   ]
