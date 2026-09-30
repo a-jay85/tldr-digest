@@ -1,231 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://danluu.com/exercise-7",
-      "title": "Bad Benchmarks and Evals: Senior Swe-bench, Napkin Math, and Winter Tires",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic",
-      "title": "Agentic Coding is Straining Ci. Here's How We Scaled Test Impact Analysis at Anthropic",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://zanlib.dev/blog/do-you-still-read-the-code",
-      "title": "Do You Still Read the Code?",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://newsletter.posthog.com/p/if-ai-writes-all-the-code-whats-left",
-      "title": "What Happens to Engineers When Ai Writes All the Code?",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
-      "title": "Gpt-5.6 Luna vs Gpt-6 Astra: is a $1.20 Model Good Enough for Code Review?",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://taekim.substack.com/p/jensen-huang-on-the-irresponsible",
-      "title": "Jensen Huang on the 'irresponsible' Ai Doomers, Rsi, and Dario's Essay",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://cohere.com/blog/who-gets-to-define-the-rules-for-ai",
-      "title": "Who Gets to Define the Rules for Ai?",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://cline.ghost.io/cline-desktop-an-open-source-app-for-open-weight-models",
-      "title": "Cline Desktop: an Open-source App for Open-weight Models",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://addyo.substack.com/p/brownfield-agentic-engineering",
-      "title": "Brownfield Agentic Engineering",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude",
-      "title": "Apple's Siri Ai Can Be Swapped Out for Claude, Chatgpt, Code Shows",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://tomtunguz.com/what-does-the-pause-mean",
-      "title": "What Does Pacing Mean?",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://github.com/huggingface/tau",
-      "title": "Tau",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/pnz9zw",
-      "title": "Sam Altman Backs Federal Frontier Ai Safety Rules",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://cogito-ergo-sum.dev/frontier-economics",
-      "title": "Frontier Labs Have a Financial Incentive to Pace the Frontier",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/lewlax",
-      "title": "Ai Labs Want Someone to Stop Them",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://lucumr.pocoo.org/2026/9/14/interpreting-pangram",
-      "title": "Interpreting Pangram",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://svpg.com/strong-opinions-loosely-held",
-      "title": "Strong Opinions, Loosely Held",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://jeffgothelf.com/blog/dont-let-ai-automate-the-mess-out-of-product-development",
-      "title": "Don't Let Ai Automate the Mess Out of Product Development",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://shiftmag.dev/ai-speeds-up-prototyping-but-teams-still-need-to-distinguish-decisions-from-assumptions-12049",
-      "title": "Distinguishing Decisions From Assumptions",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://docs.google.com/document/d/e/2pacx-1vqnl3sex5iya6d9qhjjfzn-qzgrznfi6b63g-yu1fy-zykvfcwm7i9wxrxw63m6ydb_auduplyq7jbm/pub",
-      "title": "Personal Statement on Ai Risk",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
-      "title": "Why Machine Learning Research Agents Don't Overfit, and What Compression Has to Do With it",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://amazon.science/blog/when-llm-judges-agree-should-we-believe-them",
-      "title": "When Llm Judges Agree, Should We Believe Them?",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://pop.rdi.sh/dario-please",
-      "title": "Dario, Please!",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://github.com/google/artemis",
-      "title": "Artemis",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc",
-      "title": "How to Write an Effective Software Design Document",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://github.com/shadcn-ui/lint",
-      "title": "@shadcn/lint",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://a16z.news/p/product-management-is-still-all-about",
-      "title": "Product Management is Still All About Telling Stories",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://mindtheproduct.com/beyond-the-canvas-the-process-and-decisions-behind-trade-flow-builder",
-      "title": "The Product Process That Saved Us Weeks of Wasted Development",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://testingcatalog.com/anthropic-prepares-claude-money-for-personal-finance",
-      "title": "Anthropic Prepares Claude Money for Personal Finance",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://dbtcharts.com/blog/charts-built-for-chat",
-      "title": "Charts Built for Chat",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://pub.sakana.ai/pc-alm",
-      "title": "Augmented Lagrangian Predictive Coding",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://andonlabs.com/blog/why-we-built-pion",
-      "title": "Why We Built Pion",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://proofsandprompts.com/2026/09/14/a-beginning-for-mathematics",
-      "title": "A Beginning for Mathematics",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://elenaverna.com/p/congrats-your-sales-problems-in-plg",
-      "title": "Congrats, Your Sales Problems in Plg Are Completely Unoriginal",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://threadreaderapp.com/thread/2098789597530431732.html",
-      "title": "Why Spotify Still Uses Frequentist A/b Testing",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://digiday.com/marketing/openais-next-chatgpt-ad-format-click-to-chat-not-to-site",
-      "title": "Openai's Next Chatgpt Ad Format: Click to Chat, Not to Site",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://threadreaderapp.com/thread/2099530487316553915.html",
-      "title": "Artificial Analysis Capability Indices V1.1",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://nathanacurtis.substack.com/p/design-system-conventions-in-figma",
-      "title": "Design System Conventions in Figma",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.12945",
-      "title": "Stepaudio 3 Technical Report",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs",
-      "title": "Perplexity Portable Computer is Now Available on Windows, Powered by Nvidia Rtx",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available",
-      "title": "Major Updates for Apple's Software Platforms Are Now Available",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/p2qgbx",
-      "title": "Ios 27 is Here. It's Time to Meet the New, Improved Siri",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/xdyvtp",
-      "title": "Openai Buys Startup Developing Smartphone Camera",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://arxiv.org/pdf/2608.25218",
-      "title": "Turnbench: a Multi-domain Benchmark for Turn-taking Dynamics in Spoken Dialogue",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://a16z.news/p/catching-the-venture-bus",
-      "title": "Catching the (venture) Bus",
-      "date": "2026-09-15"
-    },
-    {
       "url": "https://danluu.com/ai-coding",
       "title": "Agentic Test Processes, Llm Benchmarks, and Other Notes on Agentic Coding From Galapagos Island",
       "date": "2026-09-16"
@@ -1999,6 +1774,141 @@
       "url": "https://proofsandprompts.com/2026/09/28/applied-mathematics-has-met-the-machine-before",
       "title": "Applied Mathematics Has Met the Machine Before",
       "date": "2026-09-29"
+    },
+    {
+      "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
+      "title": "Getting the Most Out of Opus 5.5",
+      "date": "2026-09-30"
+    },
+    {
+      "url": "https://dreasays.substack.com/p/claude-55-is-brilliant-confusing",
+      "title": "Claude 5.5 is Brilliant, Confusing, and Very Hungry",
+      "date": "2026-09-30"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/nkigdp",
+      "title": "Adapting for a World of Software Factories",
+      "date": "2026-09-30"
+    },
+    {
+      "url": "https://sujithjay.com/inventing-work",
+      "title": "A Staff Engineer's Guide to Inventing Work",
+      "date": "2026-09-30"
+    },
+    {
+      "url": "https://railcode.dev/blog/vibe-coded-website",
+      "title": "How Our Vibe-coded Website Looks Like a Designer Made it",
+      "date": "2026-09-30"
+    },
+    {
+      "url": "https://lesswrong.com/posts/jbttucf4wfzmxakcj/the-world-s-best-gradual-disempowerment-model-organism",
+      "title": "The World's Best Gradual Disempowerment Model Organism: Frontier Ai Labs",
+      "date": "2026-09-30"
+    },
+    {
+      "url": "https://ma.ttias.be/data-is-the-application",
+      "title": "Data is the Application",
+      "date": "2026-09-30"
+    },
+    {
+      "url": "https://earendil.com/posts/you-said-no-mcp",
+      "title": "You Said No Mcp!",
+      "date": "2026-09-30"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/tuxnmg",
+      "title": "Introducing Dots",
+      "date": "2026-09-30"
+    },
+    {
+      "url": "https://terrytao.wordpress.com/2026/09/29/how-ai-does-and-does-not-change-the-way-i-do-math",
+      "title": "How Ai Does, and Does Not, Change the Way I Do Math",
+      "date": "2026-09-30"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/1yt36q",
+      "title": "Introducing Gpt-6.1 Sol",
+      "date": "2026-09-30"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/c4d8wp",
+      "title": "Devday 2026 Recap",
+      "date": "2026-09-30"
+    },
+    {
+      "url": "https://perplexity.ai/hub/blog/how-we-engineer-safer-agents",
+      "title": "How We Engineer Safer Agents",
+      "date": "2026-09-30"
+    },
+    {
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-a-new-trend-of-cpu-shortages",
+      "title": "The Pulse: a New Trend of Cpu Shortages",
+      "date": "2026-09-30"
+    },
+    {
+      "url": "https://github.com/lemma-work/lemma-platform",
+      "title": "Lemma",
+      "date": "2026-09-30"
+    },
+    {
+      "url": "https://research.meta.ai/blog/security-and-safety-for-ai-agents-our-approach-with-muse",
+      "title": "How We Built Safety Into Muse",
+      "date": "2026-09-30"
+    },
+    {
+      "url": "https://tomtunguz.com/anthropic-repriced-the-enterprise",
+      "title": "Segmentation Drives Market Share Wins in Ai",
+      "date": "2026-09-30"
+    },
+    {
+      "url": "https://vincentschmalbach.com/how-to-make-a-database-migration-backward-compatible",
+      "title": "How to Make a Database Migration Backward Compatible",
+      "date": "2026-09-30"
+    },
+    {
+      "url": "https://developers.openai.com/plugins/build/mcp-events",
+      "title": "Mcp Events",
+      "date": "2026-09-30"
+    },
+    {
+      "url": "https://github.com/ninjahawk/livenerf",
+      "title": "Livenerf",
+      "date": "2026-09-30"
+    },
+    {
+      "url": "https://help.openai.com/en/articles/20001410-sign-in-with-chatgpt",
+      "title": "Sign in With Chatgpt",
+      "date": "2026-09-30"
+    },
+    {
+      "url": "https://devin.ai/blog/more-efficient-devin",
+      "title": "Devin is Now up to 40% More Cost-efficient",
+      "date": "2026-09-30"
+    },
+    {
+      "url": "https://fig.inc/blog/astra-opus-5-5-and-other-frontier-models-demonstrate-jagged-performance-across-sota-agentic-tasks-from-web-browsing-to-robotics",
+      "title": "Astra, Opus 5.5, and Other Frontier Models Demonstrate Jagged Performance Across Sota Agentic Tasks From Web Browsing to Robotics",
+      "date": "2026-09-30"
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2105003318917697873.html",
+      "title": "Decisions Api",
+      "date": "2026-09-30"
+    },
+    {
+      "url": "https://weightythoughts.com/p/when-ai-models-hurt-people-the-labs",
+      "title": "When Ai Models Hurt People, the Labs Should Pay",
+      "date": "2026-09-30"
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2105003472332693869.html",
+      "title": "D1",
+      "date": "2026-09-30"
+    },
+    {
+      "url": "https://mbi-deepdives.com/meta-enterprise",
+      "title": "The Case for Meta Enterprise Platform",
+      "date": "2026-09-30"
     }
   ],
   "feedback": [
