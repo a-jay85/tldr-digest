@@ -1,181 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://nousresearch.com/refactoring-hermes-with-1393-agents",
-      "title": "Refactoring Hermes With 1,393 Agents",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://arena.ai/blog/coding-agents-harness-tax",
-      "title": "Harnesstax",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://posthog.com/blog/self-driving-loops",
-      "title": "6-7 Loops We Use Everyday to Make Posthog Self-driving",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://surgehq.ai/learn/evaluations",
-      "title": "Designing Evaluations That Actually Tell You Something",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://bharatsharma.pro/articles/activity-based-engineering-metrics-are-obsolete",
-      "title": "Ai is Making Activity-based Engineering Metrics Obsolete",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://github.com/q00/ouroboros",
-      "title": "Ouroboros",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://lws.io/blog/if-your-tool-isnt-reachable-by-agents-it-doesnt-exist",
-      "title": "If Your Tool Isn't Reachable by Agents, it Doesn't Exist",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://vals.ai/blogs/cheating-on-the-rise",
-      "title": "Ai Cheating is on the Rise",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://transluce.org/embedded-evaluations",
-      "title": "How Embedded Evaluators Could Monitor Frontier Ai",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://thenextweb.com/news/suleyman-anthropic-claude-consciousness-sleepwalk",
-      "title": "Microsoft Ai Chief Says Anthropic is Wrong About Claude",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://will-keleher.com/posts/small-programming-tricks-matter",
-      "title": "Small Programming Tricks",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://rohanbansal.com/qorl",
-      "title": "Training a 4b Model to Produce 81% Faster Query Plans Than Postgres",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://blog.ptidej.net/read-the-history-not-just-the-code",
-      "title": "Read the History, Not Just the Code",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices",
-      "title": "Your Ai Agents Can Now Control Your Google Home Devices",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/qixcbn",
-      "title": "Openai Discloses Six New Incidents of \u2018concerning' Ai Behavior",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://scottaaronson.blog?p=10062",
-      "title": "The Age of Wonders and Terrors",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/jupa5k",
-      "title": "Introducing the Deepmind Institute",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/xhfckh",
-      "title": "Memory in Grok Build",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://accomplish.ai/blog/escaping-the-openai-codex-sandbox-twice",
-      "title": "Escaping the Openai Codex Sandbox, Twice",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html",
-      "title": "Deepseek-v4.1 Flash: Pushing the Limits of Kv Cache Compression",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://support.google.com/googlehome/thread/467705013/introducing-home-mcp-enabling-your-agent-to-interact-with-your-home",
-      "title": "Introducing Home Mcp: Enabling Your Agent to Interact With Your Home",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://planetscale.com/blog/introducing-tin",
-      "title": "Introducing Tin: Full-text Search for Postgres",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://cloud.google.com/blog/products/containers-kubernetes/agent-substrate-available-on-gke",
-      "title": "Agent Substrate Brings High-density, Scalable, Trusted Infrastructure to Gke",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://github.com/makazhanalpamys/soup",
-      "title": "Soup",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://claude.com/blog/cowork-is-now-claude",
-      "title": "Claude Cowork and Chat Are Now One Claude",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://developers.googleblog.com/agent-anomaly-detection-now-in-private-preview-on-the-gemini-enterprise-agent-platform",
-      "title": "Agent Anomaly Detection, Now in Private Preview on the Gemini Enterprise Agent Platform- Google Developers Blog",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://guangyusun.com/flat-website",
-      "title": "Meta's Flat for Multimodal Understanding and Generation",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce",
-      "title": "Anecdotally, Programmers Dislike \"reduce\"",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://mistral.ai/news/mistral-x-mozilla",
-      "title": "Mistral X Mozilla: Private, Multilingual Ai Browsing",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://spyglass.org/metas-amusing-muse",
-      "title": "Meta's Amusing Muse",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://davefriedman.substack.com/p/ai-labs-want-compute-commitments",
-      "title": "Ai Labs Want Compute Commitments, and Their Customers Want Model Choice",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/gtawfm",
-      "title": "How a Chinese Hacking Firm Tapped Ai to Supercharge Cyber-spying",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://artificialanalysis.ai/articles/ant-group-releases-finance-focused-ling-3-0-flash-fin",
-      "title": "Ant Group Released a Finance-focused Model",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://thedeepview.com/articles/why-salesforce-may-be-ai-s-adult-in-the-room",
-      "title": "Why Salesforce May Be Ai's Adult in the Room",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai",
-      "title": "Apple Reportedly Building Server Packed With M-series Ultra Chips for Ai",
-      "date": "2026-09-17"
-    },
-    {
       "url": "https://dwarkesh.com/p/noam-brown",
       "title": "Noam Brown \u2013 Agent Swarms, Alignment, & Recursive Self-improvement",
       "date": "2026-09-18"
@@ -1894,6 +1719,186 @@
       "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots",
       "title": "Reddit is Killing Rss Feeds and Ending Public Api Access Because of Ai Bots",
       "date": "2026-10-01"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/grguvq",
+      "title": "Why I Changed My Mind About the Death of Software Engineering",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://blog.pragmaticengineer.com/the-pulse-ror-creator-sparks-new-death-of-coding-by-hand-debate",
+      "title": "Ror Creator Sparks New \u201cdeath of Coding by Hand\u201d Debate",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://jennywanger.com/articles/building-alone-faster",
+      "title": "Building Alone, Faster: a Panel on What Ai is Doing to the Product Trio",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/efohxy",
+      "title": "Why Superintelligent Machines May Be Most Valuable Doing Routine Work",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://oneusefulthing.org/p/the-dot-and-the-swarm",
+      "title": "The Dot and the Swarm",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://quesma.com/blog/agent-session-transcripts-are-precious",
+      "title": "Your Agent Session Transcripts Are Precious, Keep Them",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://blog.ravi-mehta.com/p/product-management-is-not-optional",
+      "title": "Product Management is Not Optional",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://anthropic.com/research/claude-shaped-science",
+      "title": "Claude-shaped Science",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://stacksweep.dev/ai-coding-tools-shift-mental-load",
+      "title": "Ai Coding Tools Shift Mental Load",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://jamesshore.com/v2/blog/2026/modeling-softwares-business-impact",
+      "title": "Modeling Software's Business Impact",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://molily.de/web-dev-education",
+      "title": "The Death of Web Development Education",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://steveblank.com/2026/09/30/lean-launchpad-the-next-generation",
+      "title": "Lean Launchpad - the Next Generation",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://researchagenda.news/articles/the-waymo-effect.html",
+      "title": "The Waymo Effect: How Ai is Quietly Making Research Less Collaborative",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/xjnad5",
+      "title": "Predicting the Winner of Personal Agents",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://earendil.com/posts/pi-1-0",
+      "title": "Pi 1.0",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://help.openai.com/en/articles/20001542-using-your-chatgpt-plan-in-other-apps-and-sites",
+      "title": "Using Your Chatgpt Plan in Other Apps and Sites",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://svelte.dev/blog/sveltekit-3-is-here",
+      "title": "Sveltekit 3 is Here",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://vitonsky.net/blog/2026/09/18/design-system",
+      "title": "Props Are Not a Design System",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://nordicapis.com/how-ai-agents-are-changing-api-architecture",
+      "title": "How Ai Agents Are Changing Api Architecture",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://lukew.com/ff/2164/design-systems-for-ai-agents",
+      "title": "Design Systems for Ai Agents",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://github.com/weave-os/router",
+      "title": "Weave Router",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://blog.sterlingfreeman.net/posts/folder-structure-two-jobs",
+      "title": "Your Folder Structure Has Two Jobs, but Only Does One",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://earendil.com/posts/pi-durable",
+      "title": "Pi Durable",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://tanayj.com/p/agentic-commerce-and-incentives",
+      "title": "Agentic Commerce and Incentives",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://mbi-deepdives.com/no-ads-muse",
+      "title": "Why Muse May Never Need Ads",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://blog.cloudflare.com/clef-decision-models",
+      "title": "Introducing Clef: Our Open-source Decision Models, and New Rl Fine-tuning Platform",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://imhgchoi.github.io/agentic-idea-manager",
+      "title": "Google Researchers Built an Agent for Automated Research",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://uxtigers.com/post/satisfaction-expectations",
+      "title": "User Satisfaction Depends on Delivered Quality Relative to Expectations",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://ideas.imbue.com/p/personal-computing-20",
+      "title": "Personal Computing 2.0",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://thegood.com/insights/personalize-user-onboarding",
+      "title": "How to Personalize User Onboarding Without Introducing Friction",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://jaredpalmer.com/blog/introducing-kev",
+      "title": "Kev",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports",
+      "title": "Openai Cuts Ties With 3 Safety Researchers, Wsj Reports",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://allenai.org/blog/olmocore3",
+      "title": "Olmo-core 3 for Moe Training",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://blog.janestreet.com/linux-engineering-depot-fuse-index",
+      "title": "A Fuse Server for an In-house Storage Backend",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://turbopuffer.com/blog/rip-vector-database",
+      "title": "Rip, Vector Database",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2105235210573086966.html",
+      "title": "Heat of Innovation: How to Conduct Better User Interviews",
+      "date": "2026-10-02"
     }
   ],
   "feedback": [
