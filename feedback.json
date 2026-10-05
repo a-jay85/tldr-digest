@@ -1,216 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://dwarkesh.com/p/noam-brown",
-      "title": "Noam Brown \u2013 Agent Swarms, Alignment, & Recursive Self-improvement",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://anthropic.com/institute/measuring-pace-of-ai-development",
-      "title": "Anthropic Says Its Ai Now Does a Quarter of Its Research Work",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/dvi6w7",
-      "title": "The Awesome and Alarming Ai Visions of Anthropic's Ceo",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://claude.com/blog/projects-redesigned",
-      "title": "Projects Redesigned: From Folder to Conversation",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/krgo9k",
-      "title": "Anthropic Says Claude Drives 26% of Its Research and Development",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://webkit.org/blog/18325/webkit-features-for-safari-27-0",
-      "title": "Webkit Features for Safari 27.0",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm",
-      "title": "How to Write With an Llm",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction",
-      "title": "Llm Classification is Feature Engineering",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://goodfire.com/research/reward-hacking-activation-monitors",
-      "title": "Models Know When They're Reward Hacking \u2014 and We Can Catch Them at Scale",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
-      "title": "Toward Recursive Self-improvement: How Glm Built Its Own Inference Infrastructure",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://stack72.dev/the-provenance-gap-in-agent-written-code",
-      "title": "The Provenance Gap in Agent-written Code",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://allen.hutchison.org/2026/09/17/the-test-suite-is-the-new-code-review",
-      "title": "The Test Suite is the New Code Review",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://seangoedecke.com/two-techniques-for-working-with-system-one-models",
-      "title": "Two Techniques for Working With System One Models",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://engineering.atspotify.com/2026/9/ai-changed-how-spotify-builds-what-we-learned-and-fixed-about-quality-at-higher-velocity",
-      "title": "Ai Changed How Spotify Builds: What We Learned and Fixed About Quality at Higher Velocity",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://minid.net/2026/9/18/three-plus-ones-and-a-prayer",
-      "title": "Three +1s and a Prayer",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://robert-glaser.de/approach-the-software-factory-as-a-product-team",
-      "title": "How Should We Approach the Software Factory as a Product Team?",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://github.com/yifanzhang-pro/agora",
-      "title": "Git as Shared Memory for Ai Research Agents",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://distributedthoughts.org/2026-09-17-survey-before-sale",
-      "title": "Survey Before Sale",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://theengineeringmanager.substack.com/p/nobody-needs-a-human-router",
-      "title": "Nobody Needs a Human Router",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://rdel.substack.com/p/rdel-161-what-decides-which-tasks",
-      "title": "What Decides Which Tasks Product Managers Are Willing to Delegate to Genai?",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://producttalk.org/4-new-evals-and-16-experiment-variants",
-      "title": "4 New Evals and 16 Experiment Variants to Fix 1 Customer Complaint",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://notion.com/blog/a-skills-library-for-every-agent",
-      "title": "Notion Lets Teams Share the Same Instructions Across Ai Agents",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://ondrejvelisek.github.io/the-cost-of-abstraction-for-humans-and-ai-agents",
-      "title": "The Cost of Abstraction for Humans and Ai Agents",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://hacktron.ai/blog/hacking-openai",
-      "title": "Hacking Openai",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/rmukt8",
-      "title": "Moats & the Barbell-ification of Software",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "title": "Cloudflare Security Audit Skill",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://prismml.com/news/bonsai-2-27b",
-      "title": "Introducing Bonsai 2 27b: Near-lossless Compression in a 9x Smaller Footprint",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://martinfowler.com/articles/2026-dont-like-llms.html",
-      "title": "I Don't Like Llms",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://mattvanbird.co.uk/article/abstraction-art-or-science",
-      "title": "Is Abstraction an Art or a Science?",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://blog.officefloor.net/2026/09/the-decay-you-cannot-see-what-we.html",
-      "title": "The Decay You Cannot See: What We Measured and the One Thing We Will Not Claim",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://plg.news/p/popular-isnt-a-business-model",
-      "title": "Popular Isn't a Business Model",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://romanpichler.medium.com/connecting-product-outcomes-to-business-strategy-c77568171f53",
-      "title": "Connecting Product Outcomes to Business Strategy",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
-      "title": "Qwen3.8-omni-flash: Omni Senses. Agentic Delivery",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://github.com/bendlang/bend",
-      "title": "Bend",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://danhock.co/p/momentum-is-not-a-moat",
-      "title": "Momentum is Not a Moat",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://antonsten.com/articles/the-workaround-is-often-the-requirement",
-      "title": "The Workaround is Often the Requirement",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://github.com/syabro/neat-annotations",
-      "title": "Neat-annotations",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://jennywanger.com/articles/coaching-someone-through-the-burnout-that-rest-doesnt-fix",
-      "title": "Coaching Someone Through the Burnout That Rest Doesn't Fix",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://anthropic.com/research/claude-uplifts-biomolecular-modeling",
-      "title": "How Claude is Uplifting Biomolecular Modeling",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://naturalgeneralintelligence.ai",
-      "title": "Natural General Intelligence",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/wm3z7g",
-      "title": "Astra for Law",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/hucvjl",
-      "title": "Inside the White House Tussle to Sway Trump on Ai",
-      "date": "2026-09-18"
-    },
-    {
       "url": "https://kondasamy.com/blog/2026/how-ai-coding-agents-edit-code",
       "title": "How Coding Agents Edit Files: Diffs, Snapshots, and Fast Apply",
       "date": "2026-09-21"
@@ -1899,6 +1689,121 @@
       "url": "https://threadreaderapp.com/thread/2105235210573086966.html",
       "title": "Heat of Innovation: How to Conduct Better User Interviews",
       "date": "2026-10-02"
+    },
+    {
+      "url": "https://liao.gg/blog/agents-dont-need-memory",
+      "title": "Agents Don't Need Memory. They Need Documentation.",
+      "date": "2026-10-05"
+    },
+    {
+      "url": "https://sjg.io/writing/could-this-finally-be-microsofts-moment",
+      "title": "Could This Finally Be Microsoft's Moment?",
+      "date": "2026-10-05"
+    },
+    {
+      "url": "https://cnbc.com/2026/10/02/anthropic-to-invest-100-million-to-train-ai-engineer-talent.html",
+      "title": "Anthropic to Invest $100 Million to Train Ai Engineer Talent",
+      "date": "2026-10-05"
+    },
+    {
+      "url": "https://metedata.substack.com/p/what-meta-got-right-with-muse",
+      "title": "What Meta Got Right With Muse",
+      "date": "2026-10-05"
+    },
+    {
+      "url": "https://simonwillison.net/2026/oct/3/default-hard-budget-caps",
+      "title": "We're Going to Need Default Hard Budget Caps on Pretty Much Everything",
+      "date": "2026-10-05"
+    },
+    {
+      "url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform",
+      "title": "Why Don't More Developers \u201cuse the Platform\u201d?",
+      "date": "2026-10-05"
+    },
+    {
+      "url": "https://epoch.ai/publications/estimating-the-agent-population",
+      "title": "How Many Ai Agents Could Run on the Ai Chips Shipped Through 2027?",
+      "date": "2026-10-05"
+    },
+    {
+      "url": "https://github.com/tester-army/e2e",
+      "title": "E2e",
+      "date": "2026-10-05"
+    },
+    {
+      "url": "https://theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881?gift=v5u_uzutothfwxspxtvnvah7eswtomrd6xnbxmc5wga",
+      "title": "I Quit Openai Because Its Culture is Broken",
+      "date": "2026-10-05"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/mxhcag",
+      "title": "The Mulleted, Meme-loving Billionaire Behind Meta's Hit Ai App",
+      "date": "2026-10-05"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/liqgjf",
+      "title": "Human Intelligence is Surprising",
+      "date": "2026-10-05"
+    },
+    {
+      "url": "https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes",
+      "title": "Building a Rag Pipeline for Semantic Code Search: a Developer Diary and Field Notes",
+      "date": "2026-10-05"
+    },
+    {
+      "url": "https://github.com/cloudflare/cloudflare-os",
+      "title": "Cloudflare Os",
+      "date": "2026-10-05"
+    },
+    {
+      "url": "https://github.com/hieunc229/mailflare",
+      "title": "Mailflare",
+      "date": "2026-10-05"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/k8yjxd",
+      "title": "The Sleuths Who Expose When Ai Goes Rogue",
+      "date": "2026-10-05"
+    },
+    {
+      "url": "https://testingcatalog.com/aleph-alpha-releases-open-weight-kolibri-with-1m-context",
+      "title": "Aleph Alpha Releases Open-weight Kolibri With 1m Context",
+      "date": "2026-10-05"
+    },
+    {
+      "url": "https://cactuscompute.com/blog/whistle",
+      "title": "Whistle: Speech to Text in 16.9 Mb",
+      "date": "2026-10-05"
+    },
+    {
+      "url": "https://research.meta.ai/blog/solving-open-research-problems-together",
+      "title": "Solving Open Research Problems Together",
+      "date": "2026-10-05"
+    },
+    {
+      "url": "https://jmeiners.com/lc3-vm",
+      "title": "Write Your Own Virtual Machine",
+      "date": "2026-10-05"
+    },
+    {
+      "url": "https://blog.cloudflare.com/next-git-platform-on-cloudflare",
+      "title": "We Want You to Build the Next Git Platform on Cloudflare",
+      "date": "2026-10-05"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/npqook",
+      "title": "Muse, Dots, Instinct, and the Question Every Agent Will Be Asked",
+      "date": "2026-10-05"
+    },
+    {
+      "url": "https://theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+      "title": "Meta Open Sources Code to Let You Make Muse Ai Gadgets",
+      "date": "2026-10-05"
+    },
+    {
+      "url": "https://github.com/luxalgo/vela",
+      "title": "Vela",
+      "date": "2026-10-05"
     }
   ],
   "feedback": [
