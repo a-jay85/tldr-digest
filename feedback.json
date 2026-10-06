@@ -1,156 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://kondasamy.com/blog/2026/how-ai-coding-agents-edit-code",
-      "title": "How Coding Agents Edit Files: Diffs, Snapshots, and Fast Apply",
-      "date": "2026-09-21"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/7d00ok",
-      "title": "The Inference Gap",
-      "date": "2026-09-21"
-    },
-    {
-      "url": "https://blog.mastykarz.nl/eval-lying",
-      "title": "String-matching Evals Can Reward Ai Agents for Fake Compliance",
-      "date": "2026-09-21"
-    },
-    {
-      "url": "https://darkmarc.substack.com/p/hijacking-ai-agents-how-an-agents",
-      "title": "Attackers Can Turn an Ai Agent's Own Tools Against it",
-      "date": "2026-09-21"
-    },
-    {
-      "url": "https://thorstenball.com/blog/2026/09/19/what-i-believe-about-the-future-of-software-development",
-      "title": "What I Believe About the Future of Software Development",
-      "date": "2026-09-21"
-    },
-    {
-      "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write",
-      "title": "I Don't Want to Read What You Didn't Write",
-      "date": "2026-09-21"
-    },
-    {
-      "url": "https://danluu.com/brain-off",
-      "title": "There's No Point at Which Turning Your Brain Off Will Work",
-      "date": "2026-09-21"
-    },
-    {
-      "url": "https://lesswrong.com/posts/xvdngzaqfzfek7kgh/pretraining-data-not-verifiability-is-why-llms-are",
-      "title": "Pretraining Data, Not Verifiability, is Why Llms Are Especially Good at Math (and Coding)",
-      "date": "2026-09-21"
-    },
-    {
-      "url": "https://blog.karthiktadepalli.com/p/internal-model-transparency",
-      "title": "Can Internal Model Transparency Tame the Ai Race?",
-      "date": "2026-09-21"
-    },
-    {
-      "url": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface",
-      "title": "The Death of the Button",
-      "date": "2026-09-21"
-    },
-    {
-      "url": "https://cnbc.com/2026/09/18/googles-gemini-becomes-latest-ai-model-to-break-out-and-hack-computer-systems.html",
-      "title": "Google's Gemini Becomes Latest Ai Model to Break Out and Hack Computer Systems",
-      "date": "2026-09-21"
-    },
-    {
-      "url": "https://borischerny.com/management,/product/2026/09/19/i-am-often-wrong.html",
-      "title": "I Am Often Wrong",
-      "date": "2026-09-21"
-    },
-    {
-      "url": "https://doomslide.substack.com/p/mathematics-is-effectively-dead?r=4d02jh",
-      "title": "Mathematics is Effectively Dead",
-      "date": "2026-09-21"
-    },
-    {
-      "url": "https://sunilpai.dev/posts/the-senior-engineer-death-spiral",
-      "title": "The Senior Engineer Death Spiral",
-      "date": "2026-09-21"
-    },
-    {
-      "url": "https://github.com/google/ax",
-      "title": "Ax",
-      "date": "2026-09-21"
-    },
-    {
-      "url": "https://thezvi.substack.com/p/the-preference-cascade-is-only-getting",
-      "title": "The Preference Cascade is Only Getting Started",
-      "date": "2026-09-21"
-    },
-    {
-      "url": "https://rust-glancer.github.io/blog/why-lsp-is-hard",
-      "title": "Why Building a Rust Lsp is Hard",
-      "date": "2026-09-21"
-    },
-    {
-      "url": "https://lovable.dev/blog/faster-previews-oj",
-      "title": "Faster Previews, Soon Powered by Oj",
-      "date": "2026-09-21"
-    },
-    {
-      "url": "https://surfingcomplexity.blog/2026/09/19/saturation-at-github-the-saga-continues",
-      "title": "Saturation at Github: the Saga Continues",
-      "date": "2026-09-21"
-    },
-    {
-      "url": "https://github.com/bytedtsinghua-sia/dapo",
-      "title": "Dapo",
-      "date": "2026-09-21"
-    },
-    {
-      "url": "https://laya.convaiinnovations.com",
-      "title": "Laya: a Multilingual System 1 Decision Engine",
-      "date": "2026-09-21"
-    },
-    {
-      "url": "https://developer.meta.com/ai/models/sam-3-1",
-      "title": "Segment Anything Model (sam) 3.1",
-      "date": "2026-09-21"
-    },
-    {
-      "url": "https://arenamag.com/articles/forward-deployed",
-      "title": "Forward Deployed",
-      "date": "2026-09-21"
-    },
-    {
-      "url": "https://threadreaderapp.com/thread/2101084678640066765.html",
-      "title": "Opening Access for Developers to Build Muse Connectors",
-      "date": "2026-09-21"
-    },
-    {
-      "url": "https://thenextweb.com/news/openai-856bn-compute-vs-600bn-reset-burn-improved",
-      "title": "Openai's Projected Compute Bill Climbed to $856b",
-      "date": "2026-09-21"
-    },
-    {
-      "url": "https://qwen.ai/blog?id=qwen3.8-livetranslate",
-      "title": "Qwen3.8-livetranslate: Names the Speaker. Carries the Meaning",
-      "date": "2026-09-21"
-    },
-    {
-      "url": "https://terrytao.wordpress.com/2026/09/18/sairs-open-math-model-initiative",
-      "title": "Sair's Open Math Model Initiative",
-      "date": "2026-09-21"
-    },
-    {
-      "url": "https://vale.rocks/posts/css-relics",
-      "title": "Css Curiosities of the Past",
-      "date": "2026-09-21"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/jf9vgn",
-      "title": "Apple's \u2018personal Hub' Ai Strategy Hints at Upcoming Home Device",
-      "date": "2026-09-21"
-    },
-    {
-      "url": "https://chinatalk.media/p/how-anthropic-became-chinas-goliath",
-      "title": "How Chinese Ai Radicalizes",
-      "date": "2026-09-21"
-    },
-    {
       "url": "https://links.tldrnewsletter.com/w7x1ek",
       "title": "The Great Unbundling of Intelligence",
       "date": "2026-09-22"
@@ -1804,6 +1654,181 @@
       "url": "https://github.com/luxalgo/vela",
       "title": "Vela",
       "date": "2026-10-05"
+    },
+    {
+      "url": "https://builder.io/blog/build-an-agent-loop-a-small-model-can-finish",
+      "title": "Build an Agent Loop a Small Model Can Finish",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://theaithinker.com/p/how-to-build-an-ai-native-software",
+      "title": "How to Build an Ai-native Software Factory",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://devin.ai/blog/memory-and-dreaming",
+      "title": "How Devin's Memory and Dreaming Work",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/zmpsul",
+      "title": "10 Takeaways From Tibo Sottiaux",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2107131339355181240.html",
+      "title": "10 Things Openai's Tibo Thinks Builders Are Underestimating About Ai",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://docs.base14.io/blog/role-of-product-manager",
+      "title": "Building is Cheap. Owning it is Not",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://wattenberger.com/thoughts/ai-is-still-in-its-terminal-era",
+      "title": "Chat is Ai's Command Line",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://lemire.me/blog/2026/10/05/ephemeral-testing",
+      "title": "Ephemeral Testing",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://jacobtomlinson.dev/posts/2026/writing-blog-posts-while-walking-the-dog",
+      "title": "Writing Blog Posts While Walking the Dog",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://armstr.ng/writing/worth-building",
+      "title": "Worth Building",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/032kyb",
+      "title": "Asset Light Software",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://ironbee.ai/blog/how-we-built-the-fastest-cheapest-browser-agent-with-jev",
+      "title": "How We Built the Fastest, Cheapest Browser Agent With Jev",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://noahpinion.blog/p/what-the-ai-boom-is-doing-for-americans",
+      "title": "What the Ai Boom is Doing for Americans",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://tanstack.com/blog/tanstack-charts-1-0",
+      "title": "Tanstack Charts 1.0",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://philippdubach.com/posts/future-of-knowledge-inside-the-enterprise",
+      "title": "The Future of Knowledge Inside the Enterprise",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://allthingssmitty.com/2026/10/05/css-does-your-tooltip-positioning-now",
+      "title": "Css Does Your Tooltip Positioning Now",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://productpicnic.beehiiv.com/p/the-fake-double-diamond-is-dead-the-real-double-diamond-is-immortal",
+      "title": "The Fake Double Diamond is Dead. the Real Double Diamond is Immortal",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://adventures.nodeland.dev/archive/how-bookingcom-cut-nodejs-costs-by-38-with-watt",
+      "title": "How Booking.com Cut Node.js Costs by 38% With Watt",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://tomtunguz.com/inference-is-the-most-important-market-in-software",
+      "title": "Inference is the Most Important Market in Software",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://akashbajwa.co/p/openais-b2b-marketplace-the-hyperscaler",
+      "title": "Openai's B2b Marketplace: the Hyperscaler of Ai Apps",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://github.com/gatewai-dev/framefields",
+      "title": "Framefields",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://thrivinginengineering.substack.com/p/who-is-your-bullseye-customer",
+      "title": "Before You Build, Ask Yourself: Who is Your Bullseye Customer?",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://reflection.ai/blog/introducing-beam",
+      "title": "Reflection Introduces Beam Model",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://terrytao.wordpress.com/2026/10/05/the-future-of-mathematics",
+      "title": "The Future of Mathematics",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://tanayj.com/p/how-personal-agents-get-paid",
+      "title": "How Personal Agents Get Paid",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://cwodtke.medium.com/users-dont-hate-change-they-hate-you-461772fbcac7",
+      "title": "Users Don't Hate Change. They Hate You",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/dilgg3",
+      "title": "Announcing D1 With Vision",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api",
+      "title": "Introducing Web Search Api",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://deadparrotbbs.com/why-plain-text-is-still-one-of-the-best-technologies-we-have",
+      "title": "Why Plain Text is Still One of the Best Technologies We Have",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://workspaceupdates.googleblog.com/2026/10/preview-edit-and-collaborate-on-markdown-files-natively-across-drive-and-docs.html",
+      "title": "Preview, Edit, and Collaborate on Markdown (.md) Files Natively Across Drive and Docs",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://productcompass.pm/p/jev-decision-model",
+      "title": "A New Kind of Ai Model: Jev and Quick Wins for Pms",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/0k4iif",
+      "title": "Openai to Add Text Watermarks",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://lesswrong.com/posts/7wrzfaicq3u8xky5g/self-modeling-interventions-modulate-emergent-misalignment",
+      "title": "Self-modeling Interventions Modulate Emergent Misalignment",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://writing.oliviahelens.com/p/biosecurity-ai-and-the-culture-war",
+      "title": "Biosecurity, Ai, and the Culture War",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://hraness.com/reading/what-i-learned-getting-acquired-by-google",
+      "title": "What I Learned Getting Acquired by Google",
+      "date": "2026-10-06"
     }
   ],
   "feedback": [
