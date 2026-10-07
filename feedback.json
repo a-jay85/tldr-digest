@@ -1,221 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://links.tldrnewsletter.com/w7x1ek",
-      "title": "The Great Unbundling of Intelligence",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://interconnects.ai/p/the-current-balance-of-power-in-open",
-      "title": "The Current Balance of Power in Open Models",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://tobyord.com/writing/swarm-scaling",
-      "title": "Swarm Scaling",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://htmx.org/essays/markdown-in-src",
-      "title": "Markdown in /src",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://docs.google.com/document/d/1g61uub0fifunmmrpzfqojz3kpczykmxgpgexdj2l_zg/edit",
-      "title": "Why Yet Another Agent?",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/0xk7id",
-      "title": "Introducing Grok 4.7",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://strangeloopcanon.com/p/the-business-of-building-god",
-      "title": "The Business of Building God",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://linear.app/now/ci-bottleneck-reworked",
-      "title": "Ai Coding Has Made Ci a Bottleneck, So We Reworked Ours to Keep up",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://testingcatalog.com/spacexai-releases-grok-4-7-for-coding-and-knowledge-work",
-      "title": "Spacexai Releases Grok 4.7 for Coding and Knowledge Work",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://convivastage.wpengine.com/resource/i-gave-two-talks-at-dreamforce-a-show-where-the-stakeholder-who-matters-most-never-came-up",
-      "title": "The Stakeholder Who Matters Most",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://testingcatalog.com/anthropic-tests-fable-5-2-and-opus-5-5-ahead-of-the-release",
-      "title": "Anthropic Tests Fable 5.2 and Opus 5.5 Ahead of the Release",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://archestra.ai/blog/we-tested-jev-on-100-real-agent-calls",
-      "title": "We Tested Jev on 100 Real Agent Calls. How Easy is it to Beat a Constant?",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://tomtunguz.com/ai-comes-for-the-if-statement",
-      "title": "Ai Comes for the If Statement",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://jeffgothelf.com/blog/how-to-write-an-outcome-based-okr-when-your-user-is-an-ai-agent",
-      "title": "How to Write an Outcome-based Okr When Your User is an Ai Agent",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://thelettertwo.com/2026/09/21/aws-strands-harness",
-      "title": "Aws Launches Strands Harness, an Agent That Brings Its Own Everything but the Model",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://lemire.me/blog/2026/09/22/a-summer-of-ai-optimization",
-      "title": "A Summer of Ai Optimization",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://devin.ai/blog/devin-cloud-in-your-terminal",
-      "title": "Bringing Devin Cloud to Your Terminal",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://brookslybrand.com/posts/do-frameworks-matter-anymore",
-      "title": "Do Frameworks Matter Anymore?",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://simonwillison.net/2026/sep/21/jev",
-      "title": "Jev Introduces a New Shape of Llm\u2014system One, Aka Decision Models",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://scrum.org/resources/blog/ai-top-dysfunctional-system-1-product-backlog",
-      "title": "Ai on Top of a Dysfunctional System (1): the Product Backlog",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://testingcatalog.com/xiaomi-open-sources-mimo-v2-6-pro-and-flash-models",
-      "title": "Xiaomi Open-sources Mimo-v2.6 Pro and Flash Models",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://alphaxiv.org/abs/2609.mimo-scaling-reinforcement-learning",
-      "title": "Mimo-v2.6: Scaling Reinforcement Learning Towards Self-improvement",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://archerhume.com/posts/jevs-architecture-unmasked",
-      "title": "Jev's Architecture Unmasked",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://github.com/zzet/gortex",
-      "title": "Gortex",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/bsknwq",
-      "title": "Caring Vs. Knowing",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://nngroup.com/articles/designing-ai-study-guide",
-      "title": "Designing Ai Products and Features: Study Guide",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://threadreaderapp.com/thread/2101627512757596578.html",
-      "title": "Extracting Product Design Decisions and Domain Models Using Ai Browser Tools",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://github.com/qwenlm/recreationworld",
-      "title": "Qwen's Recreationworld Trains Agents to Rebuild Apps",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/ygwjov",
-      "title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://github.com/jaredpalmer/kev",
-      "title": "Kev",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week",
-      "title": "Dlab Open Source Week: Frontier Ai on Your Own Hardware",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://stratechery.com/2026/frontier-overhangs",
-      "title": "Frontier Overhangs",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://revenuecat.com/blog/growth/not-enough-usage-churn",
-      "title": "\u2018not Enough Usage': Your Biggest Churn Reason is a Broken Habit Loop",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://thevoiceofuser.com/not-every-question-deserves-a-study",
-      "title": "Not Every Question Deserves a Study",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://devfra.me/posts/pluggable-extensible-playful-devtools",
-      "title": "Pluggable, Extensible, and Playful Devtools",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://cnbc.com/2026/09/21/meta-muse-personal-ai-agent-downloads.html",
-      "title": "Meta's Muse Personal Ai Agent Tops Chatgpt, Grok and Claude for Post-launch Downloads",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://threadreaderapp.com/thread/2102213621963243704.html",
-      "title": "Stepfun's Step 5 Preview",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://aikido.dev/blog/aikido-altar-open-weight-ai-sovereign-security",
-      "title": "Aikido Altar: Open-weight Ai for Sovereign Security",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://github.com/confident-ai/deepteam",
-      "title": "Deepteam",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://spyglass.org/why-didnt-google-build-muse",
-      "title": "Why Didn't Google Build Muse?",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang",
-      "title": "An Undercover Google Analyst Infiltrated a Notorious Supply-chain Hacking Gang",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch",
-      "title": "Meta's Muse is Outpacing Chatgpt's Early Mobile Launch",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://cutlefish.substack.com/p/tbm-440-the-problem-with-putting",
-      "title": "The Problem With Putting People in Boxes",
-      "date": "2026-09-22"
-    },
-    {
       "url": "https://developer.nvidia.com/blog/how-to-evaluate-ai-agents-from-tool-calls-to-task-completion",
       "title": "How to Evaluate Ai Agents: From Tool Calls to Task Completion",
       "date": "2026-09-23"
@@ -1829,6 +1614,171 @@
       "url": "https://hraness.com/reading/what-i-learned-getting-acquired-by-google",
       "title": "What I Learned Getting Acquired by Google",
       "date": "2026-10-06"
+    },
+    {
+      "url": "https://newsletter.pragmaticengineer.com/p/the-state-of-the-tech-industry-in",
+      "title": "The State of the Tech Industry in 2026",
+      "date": "2026-10-07"
+    },
+    {
+      "url": "https://engineering.atspotify.com/2026/9/ai-changed-how-spotify-builds-what-we-learned-and-fixed-about-quality-at-higher-velocity",
+      "title": "Ai Changed How Spotify Builds: What We Learned About Quality at Higher Velocity",
+      "date": "2026-10-07"
+    },
+    {
+      "url": "https://ogzhanolguncu.com/blog/how-to-keep-learning-in-the-age-of-llms",
+      "title": "How to Keep Learning in the Age of Llms",
+      "date": "2026-10-07"
+    },
+    {
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "title": "The Agent Said it Was Done. the Database Disagreed",
+      "date": "2026-10-07"
+    },
+    {
+      "url": "https://lucumr.pocoo.org/2026/10/6/codemode",
+      "title": "What is Codemode",
+      "date": "2026-10-07"
+    },
+    {
+      "url": "https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides",
+      "title": "Claude Now Works With Google Docs, Sheets, and Slides",
+      "date": "2026-10-07"
+    },
+    {
+      "url": "https://dev.to/playfulprogramming/the-grand-unifying-architecture-of-frontend-bhk",
+      "title": "The Grand Unifying Architecture of Frontend",
+      "date": "2026-10-07"
+    },
+    {
+      "url": "https://zohaib.cc/blog/smartest-claude-code-feature",
+      "title": "The Smartest Claude Code Feature is Not for Its Users",
+      "date": "2026-10-07"
+    },
+    {
+      "url": "https://survey.stackoverflow.co/2026",
+      "title": "Stack Overflow Developer Survey 2026",
+      "date": "2026-10-07"
+    },
+    {
+      "url": "https://community.openai.com/t/decisions-api-is-now-available-in-public-beta/1403877",
+      "title": "Decisions Api is Now Available in Public Beta",
+      "date": "2026-10-07"
+    },
+    {
+      "url": "https://seangoedecke.com/how-to-read-code",
+      "title": "How to Read Code",
+      "date": "2026-10-07"
+    },
+    {
+      "url": "https://nextjs.org/blog/next-16-4",
+      "title": "Next.js 16.4",
+      "date": "2026-10-07"
+    },
+    {
+      "url": "https://github.com/dzhng/jevgrep",
+      "title": "Jevgrep",
+      "date": "2026-10-07"
+    },
+    {
+      "url": "https://ghuntley.com/lisp",
+      "title": "An Application in Lisp You Grow by Talking to it",
+      "date": "2026-10-07"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/igdcy2",
+      "title": "Sharing Ai Progress in Mathematics",
+      "date": "2026-10-07"
+    },
+    {
+      "url": "https://vaughanhilts.me/2026/10/05/llms-immensely-helped-my-rsi.html",
+      "title": "Llms May Have Immensely Helped My Rsi",
+      "date": "2026-10-07"
+    },
+    {
+      "url": "https://developers.openai.com/api/docs/guides/decisions",
+      "title": "Decisions",
+      "date": "2026-10-07"
+    },
+    {
+      "url": "https://interconnects.ai/p/the-cyber-risk-discourse-is-broken",
+      "title": "The Cyber Risk Discourse is Broken",
+      "date": "2026-10-07"
+    },
+    {
+      "url": "https://sierra.ai/blog/introducing-personal-agent-protocol",
+      "title": "Introducing Personal Agent Protocol",
+      "date": "2026-10-07"
+    },
+    {
+      "url": "https://blog.logrocket.com/vibe-coding-failures",
+      "title": "Vibe Coding Gone Wrong: 5 of the Biggest Failures",
+      "date": "2026-10-07"
+    },
+    {
+      "url": "https://swapniltalekar.substack.com/p/the-decision-model-gold-rush",
+      "title": "The Decision Model Gold Rush",
+      "date": "2026-10-07"
+    },
+    {
+      "url": "https://vlt.io/blog/registry-metadata-70-percent-smaller",
+      "title": "How We Made Registry Metadata 70% Smaller",
+      "date": "2026-10-07"
+    },
+    {
+      "url": "https://github.com/ai/size-limit",
+      "title": "Size Limit",
+      "date": "2026-10-07"
+    },
+    {
+      "url": "https://mitchellh.com/writing/program-status-osc7501",
+      "title": "A Terminal Protocol for Program Status (osc 7501)",
+      "date": "2026-10-07"
+    },
+    {
+      "url": "https://techtimes.com/articles/328620/20261006/us-china-ai-gap-hits-3-deepseek-v41-flash-now-leads-agentic-coding-benchmarks.htm",
+      "title": "Us-china Ai Gap Hits 3%, and Deepseek V4.1 Flash Now Leads on Agentic Coding Benchmarks",
+      "date": "2026-10-07"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/u1bslr",
+      "title": "Openai Releases Findings on 377 Math Problems, Further Roiling Field",
+      "date": "2026-10-07"
+    },
+    {
+      "url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
+      "title": "Shipping Jpeg Xl in Chrome",
+      "date": "2026-10-07"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2",
+      "title": "Embeddinggemma 2",
+      "date": "2026-10-07"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/akquvh",
+      "title": "In Race With Us, China Struggles to Recruit Foreign Ai Researchers",
+      "date": "2026-10-07"
+    },
+    {
+      "url": "https://anthropic.com/news/cyber-verification-program",
+      "title": "Anthropic Expands Verified Access to Cyber Capabilities",
+      "date": "2026-10-07"
+    },
+    {
+      "url": "https://airbnb.tech/infrastructure/beyond-synthetic-testing-capturing-and-replaying-real-database-workloads-at-airbnb",
+      "title": "Beyond Synthetic Testing: Capturing and Replaying Real Database Workloads at Airbnb",
+      "date": "2026-10-07"
+    },
+    {
+      "url": "https://mistral.ai/news/mistral-large-4",
+      "title": "Mistral Large 4",
+      "date": "2026-10-07"
+    },
+    {
+      "url": "https://thenextweb.com/news/hark-pro-agent-hardware-europe",
+      "title": "Hark Debuts an Ai Agent a Year Before Its First Devices",
+      "date": "2026-10-07"
     }
   ],
   "feedback": [
