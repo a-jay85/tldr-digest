@@ -1,201 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://elenaverna.com/p/what-its-like-to-work-at-an-ai-native",
-      "title": "What It's Like to Work at an Ai-native Company",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://tomtunguz.com/thinking-in-systems",
-      "title": "Thinking in Systems, Shipping in Loops",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://invertedpassion.substack.com/p/modern-llms-have-tiny-gpts-hidden",
-      "title": "Modern Llms Have Tiny Gpts Hidden Inside Them",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://astralcodexten.com/p/the-specter-of-neuralese",
-      "title": "Ai May Learn to Reason in Representations People Cannot Read",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/lkf1ya",
-      "title": "Are You Ready for Superintelligence",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://davekiss.com/blog/eulogy-for-the-software-engineer",
-      "title": "A Eulogy for the Software Engineer",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/cymygt",
-      "title": "What We Learned From Being the First Company to Disclose an Agent Cyberattack",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://github.com/stepfun-ai/step-code",
-      "title": "Step Code",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://cutlefish.substack.com/p/tbm-441-ai-the-loss-of-positive-friction",
-      "title": "Ai, the Loss of Positive Friction, and What to Do About it",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://inferact.ai/blog/tpu-megakernels",
-      "title": "700 Tps on Kimi K3: a Case for Tpu Megakernels",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://langchain.com/blog/langsmith-managed-deep-agents-whats-new",
-      "title": "Managed Deep Agents V0.8: New Auth, Memory, and Channels",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://anthropic.com/research/project-swap",
-      "title": "Anthropic Tested What Happens When Agents Bargain for People",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://joulee.medium.com/what-will-make-personal-ai-go-big-e92fbb10aba9",
-      "title": "What Will Make Personal Ai Go Big?",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://itamargilad.com/good-ideas",
-      "title": "Why Good Product Ideas Don't Survive",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://lukew.com/ff/entry.asp",
-      "title": "Skip the Tools, Make the Outcomes",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://threadreaderapp.com/thread/2102909376923046020.html",
-      "title": "Avoiding the Agentic Death Spiral in B2b Software Pricing",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://contrastive-lm.notion.site",
-      "title": "Contrastive Language Models",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://stacksweep.dev/jev-decision-only-llm-judge-cascade",
-      "title": "A Decision-only Judge Matches Gpt-6 on Routine Evals for 0.36% of the Fee",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://rudyfaile.com/2026/09/24/the-age-of-the-soft-skill",
-      "title": "The Age of the Soft Skill",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://testingcatalog.com/openai-prepares-new-500-month-pro-max-plan-for-chatgpt",
-      "title": "Openai Prepares New $500/month Pro Max Plan for Chatgpt",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://github.com/wbopan/tastebench",
-      "title": "How Good Are Llms at Decision Forking?",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://trajectory.ai/field-notes/intelligence-density",
-      "title": "Intelligence Density",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://ishadeed.com/article/css-detect-overlap",
-      "title": "Detect When Elements Overlap With Css",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://davekiss.com/blog/i-opened-a-fake-auto-shop-for-ai-agents",
-      "title": "I Opened a Fake Auto Shop for Ai Agents",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://braintrust.dev/blog/nitro",
-      "title": "Faster Queries for Debugging Production Agents With Nitro",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://funcall.blogspot.com/2026/09/not-everyone-can-code_01093260948.html",
-      "title": "Not Everyone Can Code",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://fastcompany.com/91611398/5-tips-for-building-an-ai-tool-to-address-worker-shortages",
-      "title": "5 Tips for Building an Ai Tool to Address Worker Shortages",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://surgehq.ai/benchmarks/dayjob-finance",
-      "title": "A Finance Benchmark Asks Agents to Finish the Whole Assignment",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://kettanaito.com/blog/electron-to-pwa-and-back-again",
-      "title": "Electron to Pwa and Back Again",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://github.com/alchemy-run/alchemy",
-      "title": "Alchemy",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://blog.sentry.io/bfcache-metrics",
-      "title": "Measuring the Back/forward Cache With Application Metrics",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://doc.cc/articles/fastest-gun",
-      "title": "The Fastest Gun in Ux: Why Your Team is Telling the Wrong Story",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://yeseniaperezcruz.substack.com/p/has-your-product-outgrown-its-floor",
-      "title": "Has Your Product Outgrown Its Floor Plan?",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://backblaze.com/blog/why-the-best-ai-clouds-dont-run-on-flash-alone",
-      "title": "Why the Best Ai Clouds Don't Run on Flash Alone",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://engineering.fb.com/2026/09/23/security/private-processing-meta-ai-glasses",
-      "title": "Bringing Private Processing to Meta Ai Glasses",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://hraness.com/reading/the-limits-of-what-tla-plus-can-verify",
-      "title": "The Limits of What Tla+ Can Verify",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://research.meta.ai/blog/bringing-your-muse-to-life",
-      "title": "Bringing Your Muse to Life",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar",
-      "title": "Gemini 3.8 Live With Live Avatar",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/fikers",
-      "title": "Zuckerberg's \u2018tamagotchi-like' Ai Could Be Meta's Ipod Moment",
-      "date": "2026-09-25"
-    },
-    {
       "url": "https://aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
       "title": "Plan Mode is Dead",
       "date": "2026-09-28"
@@ -1814,6 +1619,156 @@
       "url": "https://raminmousavi.dev/blog/the-bug-only-my-screen-could-see",
       "title": "The Bug Only My Screen Could See",
       "date": "2026-10-09"
+    },
+    {
+      "url": "https://copyconstruct.medium.com/how-to-effectively-debug-when-you-no-longer-understand-the-code-bd3dcb2c5f7b",
+      "title": "How to Effectively Debug When You No Longer Understand the Code",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://cockroachlabs.com/blog/experiment-running-hospital-code",
+      "title": "Five Months Treating Bugs Like Patients and Coding Agents Like a Medical Team",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://vals.ai/blogs/multi-agent-vibe-code-bench",
+      "title": "Do Agent Teams Pay Off? a Case Study on Vibe Code Bench",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://dgt.is/blog/2026-10-07-deepseek-freek-out",
+      "title": "Why Isn't the Industry Freaking Out About Deepseek 4.1 Flash?",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://ghuntley.com/replaced",
+      "title": "If Your Team is Too Busy Doing Their 'normal Job' to Experiment With Ai, You're Preparing Them to Be Replaced",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://seangoedecke.com/softwares-centaur-age-may-last-decades",
+      "title": "Software's Centaur Age May Last Decades",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think",
+      "title": "I'm Sorry, but You Still Have to Think",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://purplesyringa.moe/blog/grieving-the-loss-of-details",
+      "title": "Grieving the Loss of Details",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://tobyord.com/writing/ai-scaling-vs-human-scaling",
+      "title": "Ai Scaling vs Human Scaling",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://eastwind.substack.com/p/below-the-frontier-the-battle-for",
+      "title": "Below the Frontier: the Battle for Good-enough Ai",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2108621476538781878.html",
+      "title": "Anthropic Just Let in Every Pro and Max User From the Claude Code Projects Waitlist",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://anthropic.com/research/investigating-unintended-model-actions",
+      "title": "Investigating Unintended Model Actions in Our Evaluations and Internal Use",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+      "title": "Big Arrow on the Screen",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/e7wi27",
+      "title": "Inside Mark Zuckerberg's Decision to Pull the Trigger on Meta's Ai Agent",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://theregister.com/devops/2026/10/09/so-long-spokes-github-rewrites-storage-to-restore-reliability-just-in-time-for-agentic-hordes/5302148",
+      "title": "So Long, Spokes: Github Rewrites Storage to Restore Reliability, Just in Time for Agentic Hordes",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://deno.com/blog/cloudflare",
+      "title": "Deno is Joining Cloudflare",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://cnbc.com/2026/10/10/microsoft-satya-nadella-ai-emergency-brake-safety.html",
+      "title": "Microsoft's Nadella Says Ai Needs an \u2018emergency Brake' That Humans Control",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://nibzard.com/hiring",
+      "title": "We Don't Know How to Hire. We're Just Very Confident",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://science.org/content/article/problems-22-scientific-fields-had-solutions-hiding-plain-sight-ai-has-found-them",
+      "title": "Problems in 22 Scientific Fields Had Solutions Hiding in Plain Sight. an Ai Has Found Them",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://nishtahir.com/build-your-own-decision-model",
+      "title": "Build Your Own Decision Model",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://github.com/rociiu/talorys",
+      "title": "Talorys",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/c3i3lj",
+      "title": "The Ai Computing Crunch is Making Rivals Into Partners",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://testingcatalog.com/gemini-4-argon-hints-emerge-as-google-tests-carbon-checkpoint",
+      "title": "Gemini 4 Argon Hints Emerge as Google Tests Carbon Checkpoint",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218",
+      "title": "Anthropic Asks Users to Stop Being Mean to Claude",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
+      "title": "Math 2.0",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://swingbit.github.io/dirty_pages",
+      "title": "The Dirty Pages Surprise: When a Read-only Query Writes Terabytes",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/iwacv3",
+      "title": "Nvidia Discusses Boosting Reflection Investment, Computing Deal",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/viastc",
+      "title": "Openai Responds to Departed Safety Researchers",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://cnbc.com/2026/10/11/ais-quiet-safety-gatekeepers-are-stepping-into-the-spotlight.html",
+      "title": "Who Funds the Independent Ai Evaluators?",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://importstatic.com/databases/postgres-uuidv7-vs-uuidv4-bigint",
+      "title": "Postgresql Uuidv7 Keys Load Like Bigint, Uuidv4 Took Twice as Long",
+      "date": "2026-10-12"
     }
   ],
   "feedback": [
@@ -2726,6 +2681,27 @@
       "vote": "up",
       "source": "TLDR Dev",
       "date": "2026-09-30"
+    },
+    {
+      "url": "https://swizec.com/blog/when-code-is-cheap-judgement-becomes-the-job",
+      "title": "When Code is Cheap, Judgement Becomes the Job",
+      "vote": "up",
+      "source": "TLDR Dev",
+      "date": "2026-10-09"
+    },
+    {
+      "url": "https://ivokund.com/first-look-at-claude-code-mods-spoiler-yes-use-one-now",
+      "title": "First Look at Claude Code Mods (spoiler: Yes, Use One Now!)",
+      "vote": "up",
+      "source": "TLDR",
+      "date": "2026-10-09"
+    },
+    {
+      "url": "https://techfounderstack.com/p/your-moat-is-dead-anyone-can-rebuild",
+      "title": "Your Moat is Dead. Anyone Can Rebuild Your Product",
+      "vote": "up",
+      "source": "TLDR Product",
+      "date": "2026-10-09"
     }
   ]
 }
