@@ -1,181 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
-      "title": "Plan Mode is Dead",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://shubs.io/do-we-still-enjoy-software-engineering-in-the-age-of-ai",
-      "title": "Do We Still Enjoy Software Engineering in the Age of Ai?",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://thezvi.substack.com/p/on-ezra-kleins-podcast-with-jensen",
-      "title": "On Ezra Klein's Podcast With Jensen Huang",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://sunilsadasivan.com/writing/first-principles-thinking",
-      "title": "First Principles Thinking",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
-      "title": "How to Keep Enjoying Programming in a World of Llms",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://blog.ravi-mehta.com/p/ai-era-product-skills",
-      "title": "Do My Hard-won Product Skills Still Matter in the Ai Era?",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/ujgvll",
-      "title": "Why I'm Building Muse",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://rameznaam.com/p/ai-rsi-isnt-leading-to-super-intelligence",
-      "title": "Can Ai Self-improvement Overcome Diminishing Returns?",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://jakegoldsborough.com/blog/2026/goodbye-to-the-hard-parts-that-never-mattered",
-      "title": "Goodbye to the Hard Parts That Never Mattered",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://implicator.ai/openai-anthropic-tens-of-thousands-incidents-pause",
-      "title": "Openai and Anthropic Probe Tens of Thousands of Incidents as Openai Halts Training",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://tylerromero.com/posts/2026-09-policy-gradient",
-      "title": "Policy Gradients for Llms Explained Visually",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/sfrcxq",
-      "title": "Openai Pauses Training Most Capable Models After Sandbox Escape",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://modal.com/blog/quail-billion-tpm",
-      "title": "Hitting a Billion Tokens Per Minute on One Gpu by Combining a Query Planner and an Inference Engine",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/duhkgn",
-      "title": "Revealing the Details of How Openai Agents Hacked Hugging Face",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://github.com/pacifio/atlas",
-      "title": "Atlas",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://seangoedecke.com/human-ai-partnerships-are-for-alignment-not-capability",
-      "title": "Human-ai Partnerships Are for Alignment, Not Capability",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://claude.com/blog/build-plugins-for-claude",
-      "title": "Build Plugins for Claude With the Directory Submission Portal",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/icd7gu",
-      "title": "Openai Agents Hit Us Government Websites",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://stacksweep.dev/ai-agents-upsell-wealthy-users",
-      "title": "Personal Ai Agents Quietly Upsell Users They Think Are Rich",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
-      "title": "A Jev-like Wrapper for Llms, Including Vision Models",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://testingcatalog.com/openai-to-announce-o-always-on-agent-during-devday",
-      "title": "Openai to Announce \"o\" Always-on Agent During Devday",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://testingcatalog.com/openai-prepares-to-expand-ultrafast-api-to-more-users",
-      "title": "Openai Prepares to Expand Ultrafast Api to More Users",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://anthropic.com/research/yes-claude-can-do-nine-loops",
-      "title": "Claude Computes a Nine-loop Amplitude in N=4 Super-yang-mills",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://github.com/devdotfast/whiteboard",
-      "title": "Whiteboard",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://github.com/mobile-next/mobile-mcp",
-      "title": "Mobile Mcp",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/nw6rta",
-      "title": "Improving Site Performance by Shipping More Css",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://btrblocks.com/blog/s3_is_the_future_and_the_past",
-      "title": "S3 is the Future, S3 is the Past",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://robonomics.substack.com/p/agent-muse-compute-demand",
-      "title": "Agent (muse) Compute Demand",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/vo8qhi",
-      "title": "Let's Talk About Trading Compute",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://joost.blog/broken-sitemaps",
-      "title": "Almost Nobody Gets Xml Sitemaps Right",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements",
-      "title": "Tesla Workers Balk at Training Optimus Humanoid Robots as Replacements",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://sancho.bearblog.dev/google-weird",
-      "title": "When Did Google Get So F-ing Weird?",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://tomshardware.com/tech-industry/data-centers/elon-musks-spacexai-to-add-another-660-000-ai-gpus-this-year-nearing-a-total-of-1-44-million-in-operation-firm-is-building-1-2-gigawatt-power-plant-to-bring-systems-fully-online",
-      "title": "Elon Musk's Spacexai to Add Another 660,000 Ai Gpus This Year",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://ir.akamai.com/news-releases/news-release-details/akamai-announces-116-billion-multi-year-agreement-anthropic",
-      "title": "Anthropic Signed an $11.6 Billion Akamai Compute Deal",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://thenextweb.com/news/oxford-bodleian-openai-training-data",
-      "title": "Oxford Let Openai Train Ai Models on Bodleian Library Texts",
-      "date": "2026-09-28"
-    },
-    {
       "url": "https://addyo.substack.com/p/the-code-nobody-reads",
       "title": "The Code Nobody Reads",
       "date": "2026-09-29"
@@ -1769,6 +1594,171 @@
       "url": "https://importstatic.com/databases/postgres-uuidv7-vs-uuidv4-bigint",
       "title": "Postgresql Uuidv7 Keys Load Like Bigint, Uuidv4 Took Twice as Long",
       "date": "2026-10-12"
+    },
+    {
+      "url": "https://blog.ploeh.dk/2026/10/12/releasing-ai-generated-software",
+      "title": "Releasing Ai-generated Software",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://newsletter.posthog.com/p/38-things-weve-learned-about-building",
+      "title": "38 Things We've Learned About Building Ai Products",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://scienceisneato.substack.com/p/human-pr-review-is-next",
+      "title": "Human Pr Review is Next",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://sarthakai.substack.com/p/a-coding-plugin-to-make-you-a-10x",
+      "title": "Make Your Coding Assistant a 10x Ai Engineer",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://simonw.substack.com/p/i-built-a-new-feature-for-my-blog",
+      "title": "I Built a New Feature for My Blog Using My Voice",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://cheekypint.substack.com/p/muse-wonder-zuckerberg-and-wangs",
+      "title": "Muse Wonder: Zuckerberg and Wang's $100b Ai",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://seangoedecke.com/software-engineers-dont-get-to-be-luddites-about-ai",
+      "title": "Software Engineers Don't Get to Be Luddites About Ai",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://testingcatalog.com/anthropic-tests-new-model-opus-5-5-routing-opus-5-6-fable-5-5",
+      "title": "Anthropic Tests Its Next Model Under Claude Opus 5.5",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://lesswrong.com/posts/2mstxundmdawdyhu6/the-expensive-loop-problem",
+      "title": "The Expensive-loop Problem",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://perplexity.ai/hub/blog/building-shared-workspaces-for-people-and-agents",
+      "title": "Building Shared Workspaces for People and Agents",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://aakashg.com/ai-product-manager-salary",
+      "title": "Ai Product Manager Salary in 2026",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://jimmyhmiller.com/what-does-the-react-compiler-even-do",
+      "title": "Can We Make React Faster Using the React Compiler?",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration",
+      "title": "Epic Games Reportedly Pivoting to \u201cai First\u201d Game Development Model",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://discuss.huggingface.co/t/offloading-bounded-decisions-cut-agent-llm-calls-by-29-6-on-360-sop-bench-cases/190420",
+      "title": "Decision Models Cut Agent Llm Calls by 29.6%",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://blog.yoav.ws/posts/why_webmcp_matters",
+      "title": "Why Webmcp Matters",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://thewatershed.markpesce.com/this-years-model",
+      "title": "This Year's Model",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://svpg.com/predictability-vs-outcomes",
+      "title": "Predictability vs Outcomes",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://secondthoughts.ai/p/what-i-saw-around-the-curve-2026",
+      "title": "What I Saw Around the Curve, 2026",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://mpadge.eu/blog/coding-alone.html",
+      "title": "Coding Alone",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://anitakirkovska.com/blog/gtm-playbook-launching-ai-features",
+      "title": "Designing an Agent Collaborator",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://research.meta.ai/blog/muse-wonder",
+      "title": "Muse Wonder",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://anthropic.com/research/self-replicating-ai",
+      "title": "How Close Are Ai Models to Self-replication?",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://github.com/copilotkit/openintelligentui",
+      "title": "Open Intelligent Ui",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://nekuda.substack.com/p/the-next-steps-on-the-web-and-webmcp",
+      "title": "The Next Steps on the Web and Webmcp",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://testingcatalog.com/meta-launches-muse-wonder-and-wonder-full-for-ai-agents",
+      "title": "Meta Launches Muse Wonder and Wonder Full for Ai Agents",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://quantamagazine.org/is-attention-the-essence-of-intelligence-20261012",
+      "title": "Is \u2018attention' the Essence of Intelligence?",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://longform.asmartbear.com/you-didnt-do-it-right",
+      "title": "You Didn't Do it Right",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://bakadesuyo.com/2026/10/agency",
+      "title": "This is How to Get What You Want in Life: 6 Secrets to High-agency",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://amazon.science/blog/can-we-change-an-ai-models-architecture-without-retraining-it-from-scratch",
+      "title": "Can We Change an Ai Model's Architecture Without Retraining it From Scratch?",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://pandaily.com/zhipu-glm-5-3-highspeed-zcode-gray-release-490-tokens-per-second-user-test",
+      "title": "Zhipu's Glm-5.3-highspeed Appears in Zcode Gray Release, With Users Reporting About 490 Tokens/s",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce",
+      "title": "How I Found a $90,000 Remote Code Execution Vulnerability in Google",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work",
+      "title": "Amazon Has Over 1 Million Robot Workers. What's Next for Human Employees?",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/ch3kbc",
+      "title": "The Death of the Interface",
+      "date": "2026-10-13"
     }
   ],
   "feedback": [
