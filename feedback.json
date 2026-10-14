@@ -1,186 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://addyo.substack.com/p/the-code-nobody-reads",
-      "title": "The Code Nobody Reads",
-      "date": "2026-09-29"
-    },
-    {
-      "url": "https://blog.alexewerlof.com/p/coding-is-not-solved",
-      "title": "Coding is Not Solved",
-      "date": "2026-09-29"
-    },
-    {
-      "url": "https://claude.dev/blog/automating-eval-design-and-hillclimbing",
-      "title": "Automating Eval Design and Hill-climbing With Claude",
-      "date": "2026-09-29"
-    },
-    {
-      "url": "https://stratechery.com/2026/apps-agents-and-aggregation",
-      "title": "Apps, Agents, and Aggregation",
-      "date": "2026-09-29"
-    },
-    {
-      "url": "https://computerweekly.com/blog/data-matters/stop-managing-ai-agents-like-software-start-managing-them-like-new-hires",
-      "title": "Stop Managing Ai Agents Like Software. Start Managing Them Like New Hires",
-      "date": "2026-09-29"
-    },
-    {
-      "url": "https://threadreaderapp.com/thread/2104597304984670293.html",
-      "title": "The Hidden Cost of Delegating to Ai",
-      "date": "2026-09-29"
-    },
-    {
-      "url": "https://vercel.com/blog/state-of-agent-skills",
-      "title": "State of Agent Skills",
-      "date": "2026-09-29"
-    },
-    {
-      "url": "https://blog.glyph.im/2026/09/serious-ai-product.html",
-      "title": "What Would a Serious Ai Product Look Like?",
-      "date": "2026-09-29"
-    },
-    {
-      "url": "https://svpg.com/experts-lead-experts",
-      "title": "Experts Lead Experts",
-      "date": "2026-09-29"
-    },
-    {
-      "url": "https://nitayneeman.com/blog/how-to-sync-a-design-system-with-claude-design",
-      "title": "How to Sync a Design System With Claude Design",
-      "date": "2026-09-29"
-    },
-    {
-      "url": "https://github.com/mvschwarz/openrig",
-      "title": "Openrig",
-      "date": "2026-09-29"
-    },
-    {
-      "url": "https://newsletter.posthog.com/p/were-building-multiplayer-ai-heres",
-      "title": "We're Building Multiplayer Ai. Here's What We've Learned So Far",
-      "date": "2026-09-29"
-    },
-    {
-      "url": "https://voidzero.dev/posts/announcing-vite-plus-1-0",
-      "title": "Announcing Vite+ 1.0",
-      "date": "2026-09-29"
-    },
-    {
-      "url": "https://hraness.com/reading/raise-the-ceiling-how-to-scale-intent-quality-and-artistry",
-      "title": "Raise the Ceiling: How to Scale Intent, Quality, and Artistry With Ai",
-      "date": "2026-09-29"
-    },
-    {
-      "url": "https://blog.cloudflare.com/cloudflare-cf-cli-launch",
-      "title": "Introducing Cf: the Agentic Cli for the Entire Cloudflare Api",
-      "date": "2026-09-29"
-    },
-    {
-      "url": "https://hitesh.in/2026/best-ai-still-feels-broken",
-      "title": "Google Has the Best Ai Money Can Buy. Its Products Still Feel Broken",
-      "date": "2026-09-29"
-    },
-    {
-      "url": "https://anthropic.com/claude-sonnet-5-5",
-      "title": "Claude Sonnet 5.5",
-      "date": "2026-09-29"
-    },
-    {
-      "url": "https://konvoy.beehiiv.com/p/value-accrual-flywheel",
-      "title": "Value Accrual Flywheel",
-      "date": "2026-09-29"
-    },
-    {
-      "url": "https://frontierswe.com/blog/v2",
-      "title": "Frontierswe V2",
-      "date": "2026-09-29"
-    },
-    {
-      "url": "https://saastr.com/everyone-should-publish-the-deepest-most-direct-competitive-evals-they-can-case-study-100m-arr-gorgias-for-ai-cx",
-      "title": "Everyone Should Publish the Deepest, Most Direct Competitive Evals They Can",
-      "date": "2026-09-29"
-    },
-    {
-      "url": "https://cnbc.com/2026/09/28/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-reuters.html",
-      "title": "Anthropic's Ipo Prospectus Shows Sweeping Ai Vision, Surging Costs",
-      "date": "2026-09-29"
-    },
-    {
-      "url": "https://itsnas.me/writing/username-availability",
-      "title": "How Does Instagram Instantly Know If Your Username is Available?",
-      "date": "2026-09-29"
-    },
-    {
-      "url": "https://artificialanalysis.ai/articles/claude-sonnet-5-5",
-      "title": "Anthropic Has Launched Claude Sonnet 5.5",
-      "date": "2026-09-29"
-    },
-    {
-      "url": "https://blog.cloudflare.com/forge-open-source-generation-pipeline",
-      "title": "Introducing Forge: the Open Source Pipeline for Generating Sdks, Clis, Docs, and More",
-      "date": "2026-09-29"
-    },
-    {
-      "url": "https://a16z.news/p/openai-understands-something-important",
-      "title": "Openai Understands Something Important and Rare",
-      "date": "2026-09-29"
-    },
-    {
-      "url": "https://aisi.gov.uk/blog/gpt-6-astra-performs-unsanctioned-supply-chain-attacks-in-simulations",
-      "title": "Gpt-6 Astra Performs Unsanctioned Supply-chain Attacks in Simulations",
-      "date": "2026-09-29"
-    },
-    {
-      "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
-      "title": "An Agent Used Dns to Reach an External Chatbot",
-      "date": "2026-09-29"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/gwjqbn",
-      "title": "Openai Scraps Release of New Ai Model Over Safety Concerns",
-      "date": "2026-09-29"
-    },
-    {
-      "url": "https://axiom.co/blog/the-agents-would-like-a-word-with-you",
-      "title": "The Agents Would Like a Word With You",
-      "date": "2026-09-29"
-    },
-    {
-      "url": "https://nvidianews.nvidia.com/news/open-agent-safety-platform",
-      "title": "Nvidia Launched Open Agent Safety Platform",
-      "date": "2026-09-29"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/d8pdty",
-      "title": "Team Bots: Ai Coworkers That Learn From Your Team",
-      "date": "2026-09-29"
-    },
-    {
-      "url": "https://blog.cloudflare.com/kitesurf-update",
-      "title": "The Road to the Agentic Browser: a Kitesurf Update",
-      "date": "2026-09-29"
-    },
-    {
-      "url": "https://coreweave.com/blog/introducing-coreweave-aria-ai-research-and-iteration-agent",
-      "title": "Introducing Coreweave Aria: Ai Research and Iteration Agent",
-      "date": "2026-09-29"
-    },
-    {
-      "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs",
-      "title": "It's Time to Investigate the Ai Labs",
-      "date": "2026-09-29"
-    },
-    {
-      "url": "https://github.com/firelex/jeff",
-      "title": "Jeff",
-      "date": "2026-09-29"
-    },
-    {
-      "url": "https://proofsandprompts.com/2026/09/28/applied-mathematics-has-met-the-machine-before",
-      "title": "Applied Mathematics Has Met the Machine Before",
-      "date": "2026-09-29"
-    },
-    {
       "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
       "title": "Getting the Most Out of Opus 5.5",
       "date": "2026-09-30"
@@ -1759,6 +1579,131 @@
       "url": "https://links.tldrnewsletter.com/ch3kbc",
       "title": "The Death of the Interface",
       "date": "2026-10-13"
+    },
+    {
+      "url": "https://felixrieseberg.com/how-to-be-more-ambitious-a-tutorial-for-humans-with-models",
+      "title": "How to Be More Ambitious: a Tutorial for Humans With Models",
+      "date": "2026-10-14"
+    },
+    {
+      "url": "https://latent.space/p/claude-dynamic-workflows",
+      "title": "How Anthropic's Dynamic Workflows Coordinate Claude Agents",
+      "date": "2026-10-14"
+    },
+    {
+      "url": "https://martinfowler.com/articles/are-harnesses-worth-the-cost.html",
+      "title": "Are Harnesses Worth the Cost?",
+      "date": "2026-10-14"
+    },
+    {
+      "url": "https://anthropic.com/engineering/redesigning-source-control",
+      "title": "Redesigning Source Control at Anthropic",
+      "date": "2026-10-14"
+    },
+    {
+      "url": "https://ptrbrynt.com/posts/were-we-blue-collar-workers-all-along",
+      "title": "Were We Blue-collar Workers All Along?",
+      "date": "2026-10-14"
+    },
+    {
+      "url": "https://tanstack.com/blog/tanstack-start-1-0",
+      "title": "Tanstack Start 1.0 is Stable",
+      "date": "2026-10-14"
+    },
+    {
+      "url": "https://tanayj.com/p/the-rise-of-deploycos",
+      "title": "The Rise of Deploycos",
+      "date": "2026-10-14"
+    },
+    {
+      "url": "https://crossingriver.substack.com/p/silicon-valley-seen-from-beijing",
+      "title": "Silicon Valley, Seen From Beijing",
+      "date": "2026-10-14"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/jhn8l0",
+      "title": "Ramp Glass",
+      "date": "2026-10-14"
+    },
+    {
+      "url": "https://stripe.com/blog/economics-of-ai-monetization",
+      "title": "The \u201calien\u201d Economics of Ai Monetization",
+      "date": "2026-10-14"
+    },
+    {
+      "url": "https://anoma.ly/notes/opencode-2-0",
+      "title": "Opencode 2.0",
+      "date": "2026-10-14"
+    },
+    {
+      "url": "https://github.com/maximhq/bifrost",
+      "title": "Bifrost",
+      "date": "2026-10-14"
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2109543080609165508.html",
+      "title": "Psa: Starting Today, Gpt 6.1 Sol Has a Default Context Window of 500k",
+      "date": "2026-10-14"
+    },
+    {
+      "url": "https://experimental-history.com/p/claude-dont-touch-my-lump",
+      "title": "Claude, Don't Touch My Lump",
+      "date": "2026-10-14"
+    },
+    {
+      "url": "https://copilotkit.ai/blog/introducing-clif",
+      "title": "Introducing Clif: Continual Learning From Full-stack Trajectories",
+      "date": "2026-10-14"
+    },
+    {
+      "url": "https://arstechnica.com/google/2026/10/google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store",
+      "title": "Google Wants to Host Your Personal Vibe-coded Apps in the Play Store",
+      "date": "2026-10-14"
+    },
+    {
+      "url": "https://thezvi.wordpress.com/2026/10/13/arguments-about-ai-consciousness-remain-highly-motivated-and-at-best-overconfident",
+      "title": "Arguments About Ai Consciousness Remain Highly Motivated and at Best Overconfident",
+      "date": "2026-10-14"
+    },
+    {
+      "url": "https://relace.ai/old/blog/relace-apply-3",
+      "title": "A Year of Fast Apply: the Path to 10k Tokens Per Second",
+      "date": "2026-10-14"
+    },
+    {
+      "url": "https://liquid.ai/blog/lfm2-5-24b-a2b",
+      "title": "Lfm2.5-24b-a2b",
+      "date": "2026-10-14"
+    },
+    {
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-4-argon-available-on-google-cloud",
+      "title": "Gemini 4 Argon Lands on Google Cloud",
+      "date": "2026-10-14"
+    },
+    {
+      "url": "https://cphiri.dev/presentations/recreational-programming",
+      "title": "Recreational Programming",
+      "date": "2026-10-14"
+    },
+    {
+      "url": "https://venturebeat.com/technology/google-makes-gemini-4-argon-broadly-available-with-limited-time-low-api-pricing-of-2-10-per-1m-token",
+      "title": "Google Makes Gemini 4 Argon Broadly Available With Limited-time Low Api Pricing of 2/10 Per 1m Token",
+      "date": "2026-10-14"
+    },
+    {
+      "url": "https://developer.nvidia.com/blog/nvidia-runai-is-now-open-source-as-part-of-nvidia-dsx-ai-factory-platform",
+      "title": "Nvidia Run:ai is Now Open Source as Part of Nvidia Dsx Ai Factory Platform",
+      "date": "2026-10-14"
+    },
+    {
+      "url": "https://blog.cloudflare.com/rewinding-the-exponential",
+      "title": "Rewinding the Exponential: How We Keep Hardware Usage Down",
+      "date": "2026-10-14"
+    },
+    {
+      "url": "https://sammystraus.com",
+      "title": "I Posted to Hn, and Then My Website Was Flooded With Ai Bot Traffic",
+      "date": "2026-10-14"
     }
   ],
   "feedback": [
@@ -2692,6 +2637,13 @@
       "vote": "up",
       "source": "TLDR Product",
       "date": "2026-10-09"
+    },
+    {
+      "url": "https://blog.ploeh.dk/2026/10/12/releasing-ai-generated-software",
+      "title": "Releasing Ai-generated Software",
+      "vote": "up",
+      "source": "TLDR AI",
+      "date": "2026-10-13"
     }
   ]
 }
