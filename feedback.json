@@ -1,156 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://yedhu.me/posts/commit-description-as-a-thinking-tool",
-      "title": "Commit Description as a Thinking Tool",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://blog.curiosity.ai/blog/2026-09-design-language-in-three-days",
-      "title": "How We Rebuilt Our Design Language in Three Days With Ai",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/kaqwst",
-      "title": "Why Instinct Feels Magical",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/ba1g3p",
-      "title": "Tech Ceos Privately Questioned Amodei for Sounding Ai Alarm Bells",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://lukascampos.com/blog/router-economy",
-      "title": "The Router Economy",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://anthropic.com/research/what-work-can-robots-do",
-      "title": "Can We Predict the Jobs Robots Will Do?",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://hraness.com/reading/you-said-no-mcp",
-      "title": "You Said No Mcp!",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://arrangeactassert.com/posts/convention-based-design-for-docs",
-      "title": "Convention-based Design for Docs",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://tanstack.com/blog/intent-0.5-skills-you-can-maintain",
-      "title": "Intent 0.5: Skills You Can Maintain",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents",
-      "title": "Is Sandboxing Sufficient to Contain Rogue Agents?",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://buf.build/blog/grpc-vs-rest-is-the-wrong-question",
-      "title": "Grpc vs Rest is the Wrong Question",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://github.com/openai/mcp-extensions",
-      "title": "Openai Mcp Extensions",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://github.com/nvidia/openshell",
-      "title": "Nvidia Openshell Secures Autonomous Ai Agents",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon",
-      "title": "Gemini 4 Argon",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/vmbjcj",
-      "title": "The Ai Safety Community is Unfortunately Doing More Harm Than Good",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://blog.jim-nielsen.com/2026/dear-software-makers",
-      "title": "Dear Software Makers",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://netlify.com/blog/edge-functions-firecracker-microvms",
-      "title": "Edge Functions Move to Firecracker Microvms",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://goodfire.com/blog/we-can-and-must-solve-alignment",
-      "title": "We Can and Must Solve Alignment",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://matthenry.fyi/posts/a-system-is-what-it-does",
-      "title": "A Design System is What it Does",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records",
-      "title": "How I Could've Accessed 17 Trillion Microsoft Records",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet",
-      "title": "Google Announces Gemini 4 Argon Ai Model, but You Can't Use it Yet",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai",
-      "title": "The Ugly Economics of Consumer Ai",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://claude.com/blog/claude-for-government-is-now-generally-available",
-      "title": "Claude for Government is Now Generally Available",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://workspaceupdates.googleblog.com/2026/09/programmatic-comment-and-suggestion.html",
-      "title": "Programmatic Comment and Suggestion Support Now Available in the Google Docs, Sheets, and Slides Apis",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://bonnycode.com/posts/a-four-year-reflection-on-not-being-retired",
-      "title": "A Four-year Reflection on Not Being Retired",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://geopolitechs.org/p/deepseek-builds-for-huawei-ascend",
-      "title": "Deepseek Builds for Huawei Ascend",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.38149",
-      "title": "A New Transformer Passes Its Hidden State to the Next Token Instead of Recomputing it",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition",
-      "title": "Factory Ceo Just Accused His Vc Board Adviser of Spying for Cognition",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/vfhse4",
-      "title": "How Openai Disrupted a Model-distillation Campaign",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots",
-      "title": "Reddit is Killing Rss Feeds and Ending Public Api Access Because of Ai Bots",
-      "date": "2026-10-01"
-    },
-    {
       "url": "https://links.tldrnewsletter.com/grguvq",
       "title": "Why I Changed My Mind About the Death of Software Engineering",
       "date": "2026-10-02"
@@ -1679,6 +1529,161 @@
       "url": "https://thenewstack.io/rogue-ai-agent-fleet-tencent",
       "title": "Researchers Left a Hidden Message for Rogue Ai Agents. Then the Agents Wrote Back.",
       "date": "2026-10-15"
+    },
+    {
+      "url": "https://engineering.fb.com/2026/10/15/ml-applications/how-meta-built-forum-ai-native-engineering",
+      "title": "How Meta Built Forum With Ai-native Engineering",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://cutler.sg/blog/2026-10-measure-agent-review-time",
+      "title": "How to Measure the Human Cost of Agent Work",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://efp.asia/blog/2026/10/15/code-is-a-commodity-now",
+      "title": "Code is a Commodity Now",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://blog.pragmaticengineer.com/the-pulse-new-trend-of-building-internal-vibe-coding-apps-at-tech-companies",
+      "title": "New Trend of Building \u201cinternal Vibe-coding Apps\u201d at Tech Companies",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://caseyaccidental.com/p/how-pm-work-is-changing-in-the-ai",
+      "title": "How Pm Work is Changing in the Ai Era",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware",
+      "title": "Using Artificial Intelligence to Reverse Engineer Hardware",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://every.to/p/how-codex-happened",
+      "title": "How Codex Happened",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/hw2jk2",
+      "title": "Human in the Loop Means Making Sure the Human is Not Out of the Loop",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://weli.dev/blog/the-cost-of-getting-a-job-today",
+      "title": "The Cost of Getting a Job Today",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://nibzard.com/agent-computer",
+      "title": "Build the Agent. Don't Build Its Computer",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://blog.ravi-mehta.com/p/prd-or-prototype-which-should-you",
+      "title": "Should You Start With a Prd or a Prototype?",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://cutlefish.substack.com/p/tbm-445-the-feature-factory-a-10",
+      "title": "The Feature Factory: a 10-year Retrospective",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://blog.staysaasy.com/p/management-in-the-age-of-ai-44f",
+      "title": "Management in the Age of Ai",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://marcabraham.com/2026/10/15/personal-agents-are-getting-their-own-computers",
+      "title": "Personal Agents Are Getting Their Own Computers",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://roark.ai/blog/voice-model-swap-pm-playbook",
+      "title": "The Voice Model Refresh is Faster Than Your Qa Cycle",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://karrisaarinen.com/posts/someone-behind-the-software",
+      "title": "Someone Behind the Software",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://perplexity.ai/hub/blog/open-sourcing-space",
+      "title": "Perplexity Open-sourced Its Agent Sandbox",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://devin.ai/blog/introducing-devin-oncall",
+      "title": "Introducing Devin Oncall",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://ianbarber.blog/2026/10/15/mo-turns-mo-problems",
+      "title": "Mo' Turns, Mo' Problems",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://blog.cloudflare.com/deploy-with-void",
+      "title": "Deploy With Void",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://bra31k.dev/en/blog/same-bytes-17-percent-faster",
+      "title": "How We Made a 9 Mb Webassembly Module Feel Faster Without Removing a Single Byte",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://dainemawer.com/shared-typescript-nextjs-expo-monorepo",
+      "title": "Sharing a Typescript Domain Layer Between Next.js and Expo",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://vercel.com/blog/ai-gateway-production-index-october-2026",
+      "title": "Open Weight Takes 71.5% of Tokens and 23% of Spend",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://digitalocean.com/blog/microvm-architecture",
+      "title": "Building a Computer That Can Pause and Resume in Milliseconds: Inside the Microvm Architecture Behind Managed Agents",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://research.meta.ai/blog/muse-spark-open",
+      "title": "Muse Spark Open",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://anthropic.com/news/an-update-on-independent-evaluators",
+      "title": "Anthropic Expanded Independent Access to Its Ai Safety Work",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://planetscale.com/blog/leaky-buckets-in-software-explained",
+      "title": "What Today's Software Owes to Bronze Age Clocks",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://venturebeat.com/technology/meta-unveils-muse-spark-open-the-new-top-u-s-open-weights-model-and-it-runs-on-two-paired-mac-desktops",
+      "title": "Meta Unveils Muse Spark Open, the New Top Us Open Weights Model \u2014 and it Runs on Two Paired Mac Desktops",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai",
+      "title": "Inside Microsoft's Frontier Pre-training Stack",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://semiengineering.com/how-close-are-we-to-fully-autonomous-chip-design",
+      "title": "How Close Are We to Fully Autonomous Chip Design?",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://avdi.codes/lies-damn-lies-and-github-stars",
+      "title": "Lies, Damn Lies, and Github Stars",
+      "date": "2026-10-16"
     }
   ],
   "feedback": [
