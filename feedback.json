@@ -1,186 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://links.tldrnewsletter.com/grguvq",
-      "title": "Why I Changed My Mind About the Death of Software Engineering",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://blog.pragmaticengineer.com/the-pulse-ror-creator-sparks-new-death-of-coding-by-hand-debate",
-      "title": "Ror Creator Sparks New \u201cdeath of Coding by Hand\u201d Debate",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://jennywanger.com/articles/building-alone-faster",
-      "title": "Building Alone, Faster: a Panel on What Ai is Doing to the Product Trio",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/efohxy",
-      "title": "Why Superintelligent Machines May Be Most Valuable Doing Routine Work",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://oneusefulthing.org/p/the-dot-and-the-swarm",
-      "title": "The Dot and the Swarm",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://quesma.com/blog/agent-session-transcripts-are-precious",
-      "title": "Your Agent Session Transcripts Are Precious, Keep Them",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://blog.ravi-mehta.com/p/product-management-is-not-optional",
-      "title": "Product Management is Not Optional",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://anthropic.com/research/claude-shaped-science",
-      "title": "Claude-shaped Science",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://stacksweep.dev/ai-coding-tools-shift-mental-load",
-      "title": "Ai Coding Tools Shift Mental Load",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://jamesshore.com/v2/blog/2026/modeling-softwares-business-impact",
-      "title": "Modeling Software's Business Impact",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://molily.de/web-dev-education",
-      "title": "The Death of Web Development Education",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://steveblank.com/2026/09/30/lean-launchpad-the-next-generation",
-      "title": "Lean Launchpad - the Next Generation",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://researchagenda.news/articles/the-waymo-effect.html",
-      "title": "The Waymo Effect: How Ai is Quietly Making Research Less Collaborative",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/xjnad5",
-      "title": "Predicting the Winner of Personal Agents",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://earendil.com/posts/pi-1-0",
-      "title": "Pi 1.0",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://help.openai.com/en/articles/20001542-using-your-chatgpt-plan-in-other-apps-and-sites",
-      "title": "Using Your Chatgpt Plan in Other Apps and Sites",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://svelte.dev/blog/sveltekit-3-is-here",
-      "title": "Sveltekit 3 is Here",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://vitonsky.net/blog/2026/09/18/design-system",
-      "title": "Props Are Not a Design System",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://nordicapis.com/how-ai-agents-are-changing-api-architecture",
-      "title": "How Ai Agents Are Changing Api Architecture",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://lukew.com/ff/2164/design-systems-for-ai-agents",
-      "title": "Design Systems for Ai Agents",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://github.com/weave-os/router",
-      "title": "Weave Router",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://blog.sterlingfreeman.net/posts/folder-structure-two-jobs",
-      "title": "Your Folder Structure Has Two Jobs, but Only Does One",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://earendil.com/posts/pi-durable",
-      "title": "Pi Durable",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://tanayj.com/p/agentic-commerce-and-incentives",
-      "title": "Agentic Commerce and Incentives",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://mbi-deepdives.com/no-ads-muse",
-      "title": "Why Muse May Never Need Ads",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://blog.cloudflare.com/clef-decision-models",
-      "title": "Introducing Clef: Our Open-source Decision Models, and New Rl Fine-tuning Platform",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://imhgchoi.github.io/agentic-idea-manager",
-      "title": "Google Researchers Built an Agent for Automated Research",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://uxtigers.com/post/satisfaction-expectations",
-      "title": "User Satisfaction Depends on Delivered Quality Relative to Expectations",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://ideas.imbue.com/p/personal-computing-20",
-      "title": "Personal Computing 2.0",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://thegood.com/insights/personalize-user-onboarding",
-      "title": "How to Personalize User Onboarding Without Introducing Friction",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://jaredpalmer.com/blog/introducing-kev",
-      "title": "Kev",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports",
-      "title": "Openai Cuts Ties With 3 Safety Researchers, Wsj Reports",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://allenai.org/blog/olmocore3",
-      "title": "Olmo-core 3 for Moe Training",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://blog.janestreet.com/linux-engineering-depot-fuse-index",
-      "title": "A Fuse Server for an In-house Storage Backend",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://turbopuffer.com/blog/rip-vector-database",
-      "title": "Rip, Vector Database",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://threadreaderapp.com/thread/2105235210573086966.html",
-      "title": "Heat of Innovation: How to Conduct Better User Interviews",
-      "date": "2026-10-02"
-    },
-    {
       "url": "https://liao.gg/blog/agents-dont-need-memory",
       "title": "Agents Don't Need Memory. They Need Documentation.",
       "date": "2026-10-05"
@@ -1684,6 +1504,116 @@
       "url": "https://avdi.codes/lies-damn-lies-and-github-stars",
       "title": "Lies, Damn Lies, and Github Stars",
       "date": "2026-10-16"
+    },
+    {
+      "url": "https://anthropic.com/research/employment-at-anthropic",
+      "title": "How Ai is Reshaping Anthropic's Workforce",
+      "date": "2026-10-19"
+    },
+    {
+      "url": "https://claude.dev/blog/solving-code-review-at-anthropic",
+      "title": "How the Claude Code Team Does Code Review",
+      "date": "2026-10-19"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/vt4hho",
+      "title": "How to Trust Your Coding Agents More",
+      "date": "2026-10-19"
+    },
+    {
+      "url": "https://jovidecroock.com/blog/gittifacts",
+      "title": "Humans Approve Intent, Machines Prove Conformance",
+      "date": "2026-10-19"
+    },
+    {
+      "url": "https://pinecoder.dev/blog/2026-10-15/my-old-job-is-distant",
+      "title": "My Old Job Feels Very Distant Now",
+      "date": "2026-10-19"
+    },
+    {
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-new-trend-of-building-internal-aeb",
+      "title": "New Trend of Building \"internal Vibe-coding Apps\" at Tech Companies",
+      "date": "2026-10-19"
+    },
+    {
+      "url": "https://seangoedecke.com/what-requirements-dont-you-have",
+      "title": "What Requirements Don't You Have?",
+      "date": "2026-10-19"
+    },
+    {
+      "url": "https://maevyn.codes/decoherence",
+      "title": "Decoherence",
+      "date": "2026-10-19"
+    },
+    {
+      "url": "https://tech.dirkjonker.nl/does-ruby-on-rails-make-sense",
+      "title": "Does Ruby on Rails Still Make Sense?",
+      "date": "2026-10-19"
+    },
+    {
+      "url": "https://anthropic.com/news/public-benefit-fund",
+      "title": "Anthropic Commits Equity to Public Benefit",
+      "date": "2026-10-19"
+    },
+    {
+      "url": "https://mercor.com/research/labor-index/benchmark-map",
+      "title": "A Benchmark Map of the Us Economy",
+      "date": "2026-10-19"
+    },
+    {
+      "url": "https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science",
+      "title": "Will it Be a Golden Age or a Dark Age for Mathematics (and Science)?",
+      "date": "2026-10-19"
+    },
+    {
+      "url": "https://thenewstack.io/gemini-argon-claude-opus",
+      "title": "Gemini 4 Argon Vs. Claude Opus 5.5",
+      "date": "2026-10-19"
+    },
+    {
+      "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on",
+      "title": "If You Don't Run Your Own Llm Proxy, How the Fuck Do You Even Know What's Going On?",
+      "date": "2026-10-19"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/5zpbog",
+      "title": "Why One of the World's Greatest Mathematicians is on a \u2018war Footing'",
+      "date": "2026-10-19"
+    },
+    {
+      "url": "https://github.com/elie222/rakazo",
+      "title": "Rakazo",
+      "date": "2026-10-19"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/compute/exploring-aws-lambda-web-functions-for-building-web-applications",
+      "title": "Exploring Aws Lambda Web Functions for Building Web Applications",
+      "date": "2026-10-19"
+    },
+    {
+      "url": "https://api-docs.deepseek.com/guides/search",
+      "title": "Search & Fetch",
+      "date": "2026-10-19"
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says",
+      "title": "Replit Switches Its Default Ai Provider to Openai",
+      "date": "2026-10-19"
+    },
+    {
+      "url": "https://anthropic.com/research/ecdsa-curve-origins",
+      "title": "Claude Reveals Ecdsa Curve Origins",
+      "date": "2026-10-19"
+    },
+    {
+      "url": "https://stacksweep.dev/hybridagent-latent-reasoning-text-tool-use",
+      "title": "Hybridagent Thinks in Latent Space and Acts in Text",
+      "date": "2026-10-19"
+    },
+    {
+      "url": "https://blog.picheta.me/post/killswitch-lang",
+      "title": "I Built a Programming Language That Llms Can't Use",
+      "date": "2026-10-19"
     }
   ],
   "feedback": [
