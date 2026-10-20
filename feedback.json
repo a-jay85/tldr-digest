@@ -1,121 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://liao.gg/blog/agents-dont-need-memory",
-      "title": "Agents Don't Need Memory. They Need Documentation.",
-      "date": "2026-10-05"
-    },
-    {
-      "url": "https://sjg.io/writing/could-this-finally-be-microsofts-moment",
-      "title": "Could This Finally Be Microsoft's Moment?",
-      "date": "2026-10-05"
-    },
-    {
-      "url": "https://cnbc.com/2026/10/02/anthropic-to-invest-100-million-to-train-ai-engineer-talent.html",
-      "title": "Anthropic to Invest $100 Million to Train Ai Engineer Talent",
-      "date": "2026-10-05"
-    },
-    {
-      "url": "https://metedata.substack.com/p/what-meta-got-right-with-muse",
-      "title": "What Meta Got Right With Muse",
-      "date": "2026-10-05"
-    },
-    {
-      "url": "https://simonwillison.net/2026/oct/3/default-hard-budget-caps",
-      "title": "We're Going to Need Default Hard Budget Caps on Pretty Much Everything",
-      "date": "2026-10-05"
-    },
-    {
-      "url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform",
-      "title": "Why Don't More Developers \u201cuse the Platform\u201d?",
-      "date": "2026-10-05"
-    },
-    {
-      "url": "https://epoch.ai/publications/estimating-the-agent-population",
-      "title": "How Many Ai Agents Could Run on the Ai Chips Shipped Through 2027?",
-      "date": "2026-10-05"
-    },
-    {
-      "url": "https://github.com/tester-army/e2e",
-      "title": "E2e",
-      "date": "2026-10-05"
-    },
-    {
-      "url": "https://theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881?gift=v5u_uzutothfwxspxtvnvah7eswtomrd6xnbxmc5wga",
-      "title": "I Quit Openai Because Its Culture is Broken",
-      "date": "2026-10-05"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/mxhcag",
-      "title": "The Mulleted, Meme-loving Billionaire Behind Meta's Hit Ai App",
-      "date": "2026-10-05"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/liqgjf",
-      "title": "Human Intelligence is Surprising",
-      "date": "2026-10-05"
-    },
-    {
-      "url": "https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes",
-      "title": "Building a Rag Pipeline for Semantic Code Search: a Developer Diary and Field Notes",
-      "date": "2026-10-05"
-    },
-    {
-      "url": "https://github.com/cloudflare/cloudflare-os",
-      "title": "Cloudflare Os",
-      "date": "2026-10-05"
-    },
-    {
-      "url": "https://github.com/hieunc229/mailflare",
-      "title": "Mailflare",
-      "date": "2026-10-05"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/k8yjxd",
-      "title": "The Sleuths Who Expose When Ai Goes Rogue",
-      "date": "2026-10-05"
-    },
-    {
-      "url": "https://testingcatalog.com/aleph-alpha-releases-open-weight-kolibri-with-1m-context",
-      "title": "Aleph Alpha Releases Open-weight Kolibri With 1m Context",
-      "date": "2026-10-05"
-    },
-    {
-      "url": "https://cactuscompute.com/blog/whistle",
-      "title": "Whistle: Speech to Text in 16.9 Mb",
-      "date": "2026-10-05"
-    },
-    {
-      "url": "https://research.meta.ai/blog/solving-open-research-problems-together",
-      "title": "Solving Open Research Problems Together",
-      "date": "2026-10-05"
-    },
-    {
-      "url": "https://jmeiners.com/lc3-vm",
-      "title": "Write Your Own Virtual Machine",
-      "date": "2026-10-05"
-    },
-    {
-      "url": "https://blog.cloudflare.com/next-git-platform-on-cloudflare",
-      "title": "We Want You to Build the Next Git Platform on Cloudflare",
-      "date": "2026-10-05"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/npqook",
-      "title": "Muse, Dots, Instinct, and the Question Every Agent Will Be Asked",
-      "date": "2026-10-05"
-    },
-    {
-      "url": "https://theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
-      "title": "Meta Open Sources Code to Let You Make Muse Ai Gadgets",
-      "date": "2026-10-05"
-    },
-    {
-      "url": "https://github.com/luxalgo/vela",
-      "title": "Vela",
-      "date": "2026-10-05"
-    },
-    {
       "url": "https://builder.io/blog/build-an-agent-loop-a-small-model-can-finish",
       "title": "Build an Agent Loop a Small Model Can Finish",
       "date": "2026-10-06"
@@ -1614,6 +1499,186 @@
       "url": "https://blog.picheta.me/post/killswitch-lang",
       "title": "I Built a Programming Language That Llms Can't Use",
       "date": "2026-10-19"
+    },
+    {
+      "url": "https://seangoedecke.com/writing-is-no-longer-proof-of-work",
+      "title": "Writing is No Longer Proof of Work",
+      "date": "2026-10-20"
+    },
+    {
+      "url": "https://swizec.com/blog/no-more-tech-debt",
+      "title": "No More Tech Debt",
+      "date": "2026-10-20"
+    },
+    {
+      "url": "https://blog.cloudflare.com/obsessive-inference-optimization",
+      "title": "Cutting Our Inference Bill by 68% by Being Obsessive About Optimization",
+      "date": "2026-10-20"
+    },
+    {
+      "url": "https://apeatling.com/2026/10/19/your-product-is-not-the-center-of-the-universe",
+      "title": "Your Product is Not the Center of the Universe",
+      "date": "2026-10-20"
+    },
+    {
+      "url": "https://productmindset.substack.com/p/mental-models-in-the-agentic-era",
+      "title": "Mental Models in the Agentic Era",
+      "date": "2026-10-20"
+    },
+    {
+      "url": "https://medium.muz.li/product-design-with-ai-building-it-was-never-the-hard-part-05159682106d?gi=cf83b1f0730d&source=rss----5969bf7021a3---4",
+      "title": "Product Design With Ai: Building it Was Never the Hard Part",
+      "date": "2026-10-20"
+    },
+    {
+      "url": "https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture",
+      "title": "The Thin Orchestrator: How We Made Our Ai Agents More Reliable by Giving the Router Less to Do",
+      "date": "2026-10-20"
+    },
+    {
+      "url": "https://albertodenia.com/writing/code-is-clay-now",
+      "title": "Code is Clay Now",
+      "date": "2026-10-20"
+    },
+    {
+      "url": "https://importai.substack.com/p/import-ai-477-in-which-i-tell-the",
+      "title": "Import Ai 477: in Which I Tell the Imf the Singularity Has Begun",
+      "date": "2026-10-20"
+    },
+    {
+      "url": "https://emilkowal.ski/ui/developing-taste",
+      "title": "Developing Taste",
+      "date": "2026-10-20"
+    },
+    {
+      "url": "https://jasonwei.net/blog/ai-will-not-automate-radiologists-like-you-think",
+      "title": "Ai Will Not Automate Radiologists Like You Think",
+      "date": "2026-10-20"
+    },
+    {
+      "url": "https://substack.com/app-link/post?publication_id=1435249&post_id=220656521",
+      "title": "What on Earth is Going on With Ai Pricing and Packaging?",
+      "date": "2026-10-20"
+    },
+    {
+      "url": "https://siddhantkhare.com/writing/agentic-inference-field-guide",
+      "title": "Your Coding Agent Loses Its Cache While it Waits for You",
+      "date": "2026-10-20"
+    },
+    {
+      "url": "https://mindtheproduct.com/what-is-a-forward-deployed-product-manager-anyway",
+      "title": "What is a Forward Deployed Product Manager, Anyway?",
+      "date": "2026-10-20"
+    },
+    {
+      "url": "https://benjamincongdon.me/blog/2026/10/19/agentic-monitoring",
+      "title": "Agentic Monitoring",
+      "date": "2026-10-20"
+    },
+    {
+      "url": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming",
+      "title": "It's Still Ok to Enjoy Programming",
+      "date": "2026-10-20"
+    },
+    {
+      "url": "https://research.contrary.com/report/ai-benchmarks-climbing-the-wrong-hills",
+      "title": "Ai Benchmarks: Climbing the Wrong Hills",
+      "date": "2026-10-20"
+    },
+    {
+      "url": "https://kael.tech.blog/2026/10/17/my-experience-running-local-llms",
+      "title": "My Experience Running Local Llms",
+      "date": "2026-10-20"
+    },
+    {
+      "url": "https://agent-skills.market/skills/product-management-skills-by-pawel-huryn-customer-journey-map",
+      "title": "Customer Journey Map",
+      "date": "2026-10-20"
+    },
+    {
+      "url": "https://wendelladriel.com/blog/when-retries-make-things-worse-protecting-your-system-from-overload",
+      "title": "When Retries Make Things Worse: Protecting Your System From Overload",
+      "date": "2026-10-20"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/8ywzqn",
+      "title": "Improving Ai Coding in Older Programming Languages",
+      "date": "2026-10-20"
+    },
+    {
+      "url": "https://jayfreestone.com/writing/the-generic-circular-dependency-problem",
+      "title": "The Generic Circular Dependency Problem",
+      "date": "2026-10-20"
+    },
+    {
+      "url": "https://hugovk.dev/blog/2026/releasing-python-3-15-0",
+      "title": "Releasing Python 3.15.0",
+      "date": "2026-10-20"
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2111960517161931257.html",
+      "title": "Build Fast, Validate Faster",
+      "date": "2026-10-20"
+    },
+    {
+      "url": "https://officeintelligence.github.io",
+      "title": "Office Intelligence for Long-running Ai Work",
+      "date": "2026-10-20"
+    },
+    {
+      "url": "https://pournasserian.com/writing/ai-friendly-website-2026",
+      "title": "Making a Website Ai Friendly: What the Bots Actually Fetched From Mine",
+      "date": "2026-10-20"
+    },
+    {
+      "url": "https://hacdias.com/2026/10/17/mcp",
+      "title": "Adding an Mcp Server to a Personal Website",
+      "date": "2026-10-20"
+    },
+    {
+      "url": "https://inceptionlabs.ai/blog/introducing-mercury-3",
+      "title": "Mercury 3",
+      "date": "2026-10-20"
+    },
+    {
+      "url": "https://itsnas.me/writing/use-overflow",
+      "title": "Useoverflow",
+      "date": "2026-10-20"
+    },
+    {
+      "url": "https://jeffgothelf.com/blog/how-to-determine-how-much-project-management-work-a-product-manager-should-handle",
+      "title": "How to Determine How Much Project Management Work a Pm Should Handle",
+      "date": "2026-10-20"
+    },
+    {
+      "url": "https://minimax.io/blog/minimax-m31f",
+      "title": "Minimax M3.1 Flash: Redefining Agent Performance and Cost",
+      "date": "2026-10-20"
+    },
+    {
+      "url": "https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium",
+      "title": "Introducing Torchneuron: Native Pytorch Backend for Aws Trainium",
+      "date": "2026-10-20"
+    },
+    {
+      "url": "https://quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019",
+      "title": "Ai Proved the Quasi-riemann Hypothesis. What Happens Now?",
+      "date": "2026-10-20"
+    },
+    {
+      "url": "https://blog.cloudflare.com/clairic-extraction-model",
+      "title": "Introducing Clairic, a New System One Class of Extraction Models",
+      "date": "2026-10-20"
+    },
+    {
+      "url": "https://tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning",
+      "title": "Ai Lab Offers Free Plumbing and Hvac Repairs Across Three Cities to Train Ai Robots",
+      "date": "2026-10-20"
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again",
+      "title": "People Are Using Ai to Make Their Smart Tvs Dumb Again",
+      "date": "2026-10-20"
     }
   ],
   "feedback": [
@@ -2554,6 +2619,41 @@
       "vote": "up",
       "source": "TLDR AI",
       "date": "2026-10-13"
+    },
+    {
+      "url": "https://anthropic.com/research/employment-at-anthropic",
+      "title": "How Ai is Reshaping Anthropic's Workforce",
+      "vote": "up",
+      "source": "TLDR AI",
+      "date": "2026-10-19"
+    },
+    {
+      "url": "https://claude.dev/blog/solving-code-review-at-anthropic",
+      "title": "How the Claude Code Team Does Code Review",
+      "vote": "up",
+      "source": "TLDR AI",
+      "date": "2026-10-19"
+    },
+    {
+      "url": "https://pinecoder.dev/blog/2026-10-15/my-old-job-is-distant",
+      "title": "My Old Job Feels Very Distant Now",
+      "vote": "up",
+      "source": "TLDR",
+      "date": "2026-10-20"
+    },
+    {
+      "url": "https://seangoedecke.com/what-requirements-dont-you-have",
+      "title": "What Requirements Don't You Have?",
+      "vote": "up",
+      "source": "TLDR Dev",
+      "date": "2026-10-20"
+    },
+    {
+      "url": "https://maevyn.codes/decoherence",
+      "title": "Decoherence",
+      "vote": "up",
+      "source": "TLDR",
+      "date": "2026-10-20"
     }
   ]
 }
