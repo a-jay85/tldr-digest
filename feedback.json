@@ -1,181 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://builder.io/blog/build-an-agent-loop-a-small-model-can-finish",
-      "title": "Build an Agent Loop a Small Model Can Finish",
-      "date": "2026-10-06"
-    },
-    {
-      "url": "https://theaithinker.com/p/how-to-build-an-ai-native-software",
-      "title": "How to Build an Ai-native Software Factory",
-      "date": "2026-10-06"
-    },
-    {
-      "url": "https://devin.ai/blog/memory-and-dreaming",
-      "title": "How Devin's Memory and Dreaming Work",
-      "date": "2026-10-06"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/zmpsul",
-      "title": "10 Takeaways From Tibo Sottiaux",
-      "date": "2026-10-06"
-    },
-    {
-      "url": "https://threadreaderapp.com/thread/2107131339355181240.html",
-      "title": "10 Things Openai's Tibo Thinks Builders Are Underestimating About Ai",
-      "date": "2026-10-06"
-    },
-    {
-      "url": "https://docs.base14.io/blog/role-of-product-manager",
-      "title": "Building is Cheap. Owning it is Not",
-      "date": "2026-10-06"
-    },
-    {
-      "url": "https://wattenberger.com/thoughts/ai-is-still-in-its-terminal-era",
-      "title": "Chat is Ai's Command Line",
-      "date": "2026-10-06"
-    },
-    {
-      "url": "https://lemire.me/blog/2026/10/05/ephemeral-testing",
-      "title": "Ephemeral Testing",
-      "date": "2026-10-06"
-    },
-    {
-      "url": "https://jacobtomlinson.dev/posts/2026/writing-blog-posts-while-walking-the-dog",
-      "title": "Writing Blog Posts While Walking the Dog",
-      "date": "2026-10-06"
-    },
-    {
-      "url": "https://armstr.ng/writing/worth-building",
-      "title": "Worth Building",
-      "date": "2026-10-06"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/032kyb",
-      "title": "Asset Light Software",
-      "date": "2026-10-06"
-    },
-    {
-      "url": "https://ironbee.ai/blog/how-we-built-the-fastest-cheapest-browser-agent-with-jev",
-      "title": "How We Built the Fastest, Cheapest Browser Agent With Jev",
-      "date": "2026-10-06"
-    },
-    {
-      "url": "https://noahpinion.blog/p/what-the-ai-boom-is-doing-for-americans",
-      "title": "What the Ai Boom is Doing for Americans",
-      "date": "2026-10-06"
-    },
-    {
-      "url": "https://tanstack.com/blog/tanstack-charts-1-0",
-      "title": "Tanstack Charts 1.0",
-      "date": "2026-10-06"
-    },
-    {
-      "url": "https://philippdubach.com/posts/future-of-knowledge-inside-the-enterprise",
-      "title": "The Future of Knowledge Inside the Enterprise",
-      "date": "2026-10-06"
-    },
-    {
-      "url": "https://allthingssmitty.com/2026/10/05/css-does-your-tooltip-positioning-now",
-      "title": "Css Does Your Tooltip Positioning Now",
-      "date": "2026-10-06"
-    },
-    {
-      "url": "https://productpicnic.beehiiv.com/p/the-fake-double-diamond-is-dead-the-real-double-diamond-is-immortal",
-      "title": "The Fake Double Diamond is Dead. the Real Double Diamond is Immortal",
-      "date": "2026-10-06"
-    },
-    {
-      "url": "https://adventures.nodeland.dev/archive/how-bookingcom-cut-nodejs-costs-by-38-with-watt",
-      "title": "How Booking.com Cut Node.js Costs by 38% With Watt",
-      "date": "2026-10-06"
-    },
-    {
-      "url": "https://tomtunguz.com/inference-is-the-most-important-market-in-software",
-      "title": "Inference is the Most Important Market in Software",
-      "date": "2026-10-06"
-    },
-    {
-      "url": "https://akashbajwa.co/p/openais-b2b-marketplace-the-hyperscaler",
-      "title": "Openai's B2b Marketplace: the Hyperscaler of Ai Apps",
-      "date": "2026-10-06"
-    },
-    {
-      "url": "https://github.com/gatewai-dev/framefields",
-      "title": "Framefields",
-      "date": "2026-10-06"
-    },
-    {
-      "url": "https://thrivinginengineering.substack.com/p/who-is-your-bullseye-customer",
-      "title": "Before You Build, Ask Yourself: Who is Your Bullseye Customer?",
-      "date": "2026-10-06"
-    },
-    {
-      "url": "https://reflection.ai/blog/introducing-beam",
-      "title": "Reflection Introduces Beam Model",
-      "date": "2026-10-06"
-    },
-    {
-      "url": "https://terrytao.wordpress.com/2026/10/05/the-future-of-mathematics",
-      "title": "The Future of Mathematics",
-      "date": "2026-10-06"
-    },
-    {
-      "url": "https://tanayj.com/p/how-personal-agents-get-paid",
-      "title": "How Personal Agents Get Paid",
-      "date": "2026-10-06"
-    },
-    {
-      "url": "https://cwodtke.medium.com/users-dont-hate-change-they-hate-you-461772fbcac7",
-      "title": "Users Don't Hate Change. They Hate You",
-      "date": "2026-10-06"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/dilgg3",
-      "title": "Announcing D1 With Vision",
-      "date": "2026-10-06"
-    },
-    {
-      "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api",
-      "title": "Introducing Web Search Api",
-      "date": "2026-10-06"
-    },
-    {
-      "url": "https://deadparrotbbs.com/why-plain-text-is-still-one-of-the-best-technologies-we-have",
-      "title": "Why Plain Text is Still One of the Best Technologies We Have",
-      "date": "2026-10-06"
-    },
-    {
-      "url": "https://workspaceupdates.googleblog.com/2026/10/preview-edit-and-collaborate-on-markdown-files-natively-across-drive-and-docs.html",
-      "title": "Preview, Edit, and Collaborate on Markdown (.md) Files Natively Across Drive and Docs",
-      "date": "2026-10-06"
-    },
-    {
-      "url": "https://productcompass.pm/p/jev-decision-model",
-      "title": "A New Kind of Ai Model: Jev and Quick Wins for Pms",
-      "date": "2026-10-06"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/0k4iif",
-      "title": "Openai to Add Text Watermarks",
-      "date": "2026-10-06"
-    },
-    {
-      "url": "https://lesswrong.com/posts/7wrzfaicq3u8xky5g/self-modeling-interventions-modulate-emergent-misalignment",
-      "title": "Self-modeling Interventions Modulate Emergent Misalignment",
-      "date": "2026-10-06"
-    },
-    {
-      "url": "https://writing.oliviahelens.com/p/biosecurity-ai-and-the-culture-war",
-      "title": "Biosecurity, Ai, and the Culture War",
-      "date": "2026-10-06"
-    },
-    {
-      "url": "https://hraness.com/reading/what-i-learned-getting-acquired-by-google",
-      "title": "What I Learned Getting Acquired by Google",
-      "date": "2026-10-06"
-    },
-    {
       "url": "https://newsletter.pragmaticengineer.com/p/the-state-of-the-tech-industry-in",
       "title": "The State of the Tech Industry in 2026",
       "date": "2026-10-07"
@@ -1679,6 +1504,171 @@
       "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again",
       "title": "People Are Using Ai to Make Their Smart Tvs Dumb Again",
       "date": "2026-10-20"
+    },
+    {
+      "url": "https://oneusefulthing.org/p/30-months-on-the-exponential-in-charts",
+      "title": "30 Months on the Exponential (in Charts)",
+      "date": "2026-10-21"
+    },
+    {
+      "url": "https://newsletter.pragmaticengineer.com/p/whats-the-roi-of-software-engineers",
+      "title": "What's the Roi of Software Engineers' Spending on Ai?",
+      "date": "2026-10-21"
+    },
+    {
+      "url": "https://builders.ramp.com/post/building-laminar",
+      "title": "Building Laminar: Ramp's Managed Agents Platform",
+      "date": "2026-10-21"
+    },
+    {
+      "url": "https://bigtechnology.com/p/sundar-pichai-googles-frontier-imperative",
+      "title": "Sundar Pichai on Google's Ai Strategy and Compute Tradeoffs",
+      "date": "2026-10-21"
+    },
+    {
+      "url": "https://jgunnink.substack.com/p/gemini-4-argon-early-access-review",
+      "title": "Gemini 4: Argon, Early Access Review",
+      "date": "2026-10-21"
+    },
+    {
+      "url": "https://kiro.dev/blog/how-kiro-fixes-itself",
+      "title": "How Kiro Fixes Itself, and How We Keep the Fixes Honest",
+      "date": "2026-10-21"
+    },
+    {
+      "url": "https://rameznaam.com/p/can-a-million-ai-agents-create-superintelligence",
+      "title": "Can a Million Ai Agents Create Superintelligence",
+      "date": "2026-10-21"
+    },
+    {
+      "url": "https://nolanlawson.com/2026/10/19/do-web-components-have-a-future-if-nobody-is-writing-them",
+      "title": "Do Web Components Have a Future If Nobody is Writing Them?",
+      "date": "2026-10-21"
+    },
+    {
+      "url": "https://vercel.com/blog/making-every-harness-durable",
+      "title": "Making Every Harness Durable",
+      "date": "2026-10-21"
+    },
+    {
+      "url": "https://vikramsingh.me/increase-your-slope",
+      "title": "Increase Your Slope",
+      "date": "2026-10-21"
+    },
+    {
+      "url": "https://blog.cloudflare.com/typescript-rust-port",
+      "title": "Introducing Tsrs: a Port of Typescript to Rust",
+      "date": "2026-10-21"
+    },
+    {
+      "url": "https://databricks.com/blog/memcurrent-designing-persistent-memory-production-agents",
+      "title": "Memcurrent: Designing Persistent Memory for Production Agents",
+      "date": "2026-10-21"
+    },
+    {
+      "url": "https://joshwcomeau.com/css/interop-2027",
+      "title": "The Future of Css: My Top 10 Picks for Interop 2027",
+      "date": "2026-10-21"
+    },
+    {
+      "url": "https://magiroux.com/posts/from-use-case-to-graphql-operation",
+      "title": "From Use Case to Graphql Operation: a Layered Approach for Agents",
+      "date": "2026-10-21"
+    },
+    {
+      "url": "https://thenewcritic.com/p/coxon-day",
+      "title": "Coxon Day",
+      "date": "2026-10-21"
+    },
+    {
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-1-beta",
+      "title": "Announcing Typescript 7.1 Beta",
+      "date": "2026-10-21"
+    },
+    {
+      "url": "https://mixtureofexperts.co/p/the-next-bottleneck-in-ai-for-science",
+      "title": "The Next Bottleneck in Ai for Science",
+      "date": "2026-10-21"
+    },
+    {
+      "url": "https://fratepietro.com/2026/how-to-build-a-decision-model-like-jev",
+      "title": "How to Build a Decision Model Like Jev",
+      "date": "2026-10-21"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/7b18rv",
+      "title": "Anthropic S-1 Shows Red-hot Growth, Risks, and Massive Computing Costs",
+      "date": "2026-10-21"
+    },
+    {
+      "url": "https://metr.org/blog/2026-10-20-misalignment-risk-report-august-2026-review",
+      "title": "Review of the \"misalignment in High-stakes Settings\" Section in Anthropic's Risk Report",
+      "date": "2026-10-21"
+    },
+    {
+      "url": "https://a16z.news/p/superhuman-hardware-design-is-the",
+      "title": "Superhuman Hardware Design is the Easy Part",
+      "date": "2026-10-21"
+    },
+    {
+      "url": "https://karlkoch.me/writing/on-alignment-that-looks-wrong",
+      "title": "On Alignment That Looks Wrong",
+      "date": "2026-10-21"
+    },
+    {
+      "url": "https://pytorch.org/blog/introducing-torchtpu",
+      "title": "Google and Meta Bring Native Pytorch Support to Tpus",
+      "date": "2026-10-21"
+    },
+    {
+      "url": "https://metisreasoning.ai/whitepaper/the-age-of-reasoning-2026-10.pdf",
+      "title": "The Age of Reasoning",
+      "date": "2026-10-21"
+    },
+    {
+      "url": "https://zhuanlan.zhihu.com/p/2095560295930508953",
+      "title": "Deepseek V4.1 Flash: Large-scale Inference Deployment",
+      "date": "2026-10-21"
+    },
+    {
+      "url": "https://teendrama.substack.com/p/some-final-words-on-foursquare",
+      "title": "Some Final Words on Foursquare",
+      "date": "2026-10-21"
+    },
+    {
+      "url": "https://github.com/deepseek-ai/deepinfer",
+      "title": "Deepinfer",
+      "date": "2026-10-21"
+    },
+    {
+      "url": "https://mistral.ai/news/voxtral-3",
+      "title": "Voxtral 3: Voice Agent Sdk & Speech Models in 50+ Languages",
+      "date": "2026-10-21"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/gj3yyx",
+      "title": "The Gap Between Gpus and Compute",
+      "date": "2026-10-21"
+    },
+    {
+      "url": "https://huggingface.co/xhtoken/spark-x2.6-4b",
+      "title": "Spark-x2.6-4b: Stronger On-device Ai Agents",
+      "date": "2026-10-21"
+    },
+    {
+      "url": "https://github.com/google-pytorch/torch_tpu",
+      "title": "Torchtpu",
+      "date": "2026-10-21"
+    },
+    {
+      "url": "https://read.corematter.com/p/tau-robotics-humanoid-house-cleaning-review-san-francisco",
+      "title": "I Paid $60 for Two Humanoids to Clean My Home in San Francisco",
+      "date": "2026-10-21"
+    },
+    {
+      "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+      "title": "Publish Stats, Get Cited: the Tactic That Put My Data All Over the Web",
+      "date": "2026-10-21"
     }
   ],
   "feedback": [
