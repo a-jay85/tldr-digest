@@ -1,171 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://newsletter.pragmaticengineer.com/p/the-state-of-the-tech-industry-in",
-      "title": "The State of the Tech Industry in 2026",
-      "date": "2026-10-07"
-    },
-    {
-      "url": "https://engineering.atspotify.com/2026/9/ai-changed-how-spotify-builds-what-we-learned-and-fixed-about-quality-at-higher-velocity",
-      "title": "Ai Changed How Spotify Builds: What We Learned About Quality at Higher Velocity",
-      "date": "2026-10-07"
-    },
-    {
-      "url": "https://ogzhanolguncu.com/blog/how-to-keep-learning-in-the-age-of-llms",
-      "title": "How to Keep Learning in the Age of Llms",
-      "date": "2026-10-07"
-    },
-    {
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-      "title": "The Agent Said it Was Done. the Database Disagreed",
-      "date": "2026-10-07"
-    },
-    {
-      "url": "https://lucumr.pocoo.org/2026/10/6/codemode",
-      "title": "What is Codemode",
-      "date": "2026-10-07"
-    },
-    {
-      "url": "https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides",
-      "title": "Claude Now Works With Google Docs, Sheets, and Slides",
-      "date": "2026-10-07"
-    },
-    {
-      "url": "https://dev.to/playfulprogramming/the-grand-unifying-architecture-of-frontend-bhk",
-      "title": "The Grand Unifying Architecture of Frontend",
-      "date": "2026-10-07"
-    },
-    {
-      "url": "https://zohaib.cc/blog/smartest-claude-code-feature",
-      "title": "The Smartest Claude Code Feature is Not for Its Users",
-      "date": "2026-10-07"
-    },
-    {
-      "url": "https://survey.stackoverflow.co/2026",
-      "title": "Stack Overflow Developer Survey 2026",
-      "date": "2026-10-07"
-    },
-    {
-      "url": "https://community.openai.com/t/decisions-api-is-now-available-in-public-beta/1403877",
-      "title": "Decisions Api is Now Available in Public Beta",
-      "date": "2026-10-07"
-    },
-    {
-      "url": "https://seangoedecke.com/how-to-read-code",
-      "title": "How to Read Code",
-      "date": "2026-10-07"
-    },
-    {
-      "url": "https://nextjs.org/blog/next-16-4",
-      "title": "Next.js 16.4",
-      "date": "2026-10-07"
-    },
-    {
-      "url": "https://github.com/dzhng/jevgrep",
-      "title": "Jevgrep",
-      "date": "2026-10-07"
-    },
-    {
-      "url": "https://ghuntley.com/lisp",
-      "title": "An Application in Lisp You Grow by Talking to it",
-      "date": "2026-10-07"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/igdcy2",
-      "title": "Sharing Ai Progress in Mathematics",
-      "date": "2026-10-07"
-    },
-    {
-      "url": "https://vaughanhilts.me/2026/10/05/llms-immensely-helped-my-rsi.html",
-      "title": "Llms May Have Immensely Helped My Rsi",
-      "date": "2026-10-07"
-    },
-    {
-      "url": "https://developers.openai.com/api/docs/guides/decisions",
-      "title": "Decisions",
-      "date": "2026-10-07"
-    },
-    {
-      "url": "https://interconnects.ai/p/the-cyber-risk-discourse-is-broken",
-      "title": "The Cyber Risk Discourse is Broken",
-      "date": "2026-10-07"
-    },
-    {
-      "url": "https://sierra.ai/blog/introducing-personal-agent-protocol",
-      "title": "Introducing Personal Agent Protocol",
-      "date": "2026-10-07"
-    },
-    {
-      "url": "https://blog.logrocket.com/vibe-coding-failures",
-      "title": "Vibe Coding Gone Wrong: 5 of the Biggest Failures",
-      "date": "2026-10-07"
-    },
-    {
-      "url": "https://swapniltalekar.substack.com/p/the-decision-model-gold-rush",
-      "title": "The Decision Model Gold Rush",
-      "date": "2026-10-07"
-    },
-    {
-      "url": "https://vlt.io/blog/registry-metadata-70-percent-smaller",
-      "title": "How We Made Registry Metadata 70% Smaller",
-      "date": "2026-10-07"
-    },
-    {
-      "url": "https://github.com/ai/size-limit",
-      "title": "Size Limit",
-      "date": "2026-10-07"
-    },
-    {
-      "url": "https://mitchellh.com/writing/program-status-osc7501",
-      "title": "A Terminal Protocol for Program Status (osc 7501)",
-      "date": "2026-10-07"
-    },
-    {
-      "url": "https://techtimes.com/articles/328620/20261006/us-china-ai-gap-hits-3-deepseek-v41-flash-now-leads-agentic-coding-benchmarks.htm",
-      "title": "Us-china Ai Gap Hits 3%, and Deepseek V4.1 Flash Now Leads on Agentic Coding Benchmarks",
-      "date": "2026-10-07"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/u1bslr",
-      "title": "Openai Releases Findings on 377 Math Problems, Further Roiling Field",
-      "date": "2026-10-07"
-    },
-    {
-      "url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
-      "title": "Shipping Jpeg Xl in Chrome",
-      "date": "2026-10-07"
-    },
-    {
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2",
-      "title": "Embeddinggemma 2",
-      "date": "2026-10-07"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/akquvh",
-      "title": "In Race With Us, China Struggles to Recruit Foreign Ai Researchers",
-      "date": "2026-10-07"
-    },
-    {
-      "url": "https://anthropic.com/news/cyber-verification-program",
-      "title": "Anthropic Expands Verified Access to Cyber Capabilities",
-      "date": "2026-10-07"
-    },
-    {
-      "url": "https://airbnb.tech/infrastructure/beyond-synthetic-testing-capturing-and-replaying-real-database-workloads-at-airbnb",
-      "title": "Beyond Synthetic Testing: Capturing and Replaying Real Database Workloads at Airbnb",
-      "date": "2026-10-07"
-    },
-    {
-      "url": "https://mistral.ai/news/mistral-large-4",
-      "title": "Mistral Large 4",
-      "date": "2026-10-07"
-    },
-    {
-      "url": "https://thenextweb.com/news/hark-pro-agent-hardware-europe",
-      "title": "Hark Debuts an Ai Agent a Year Before Its First Devices",
-      "date": "2026-10-07"
-    },
-    {
       "url": "https://haydenbleasel.com/writing/ultracite",
       "title": "The Agentic Development Loop",
       "date": "2026-10-08"
@@ -1669,6 +1504,161 @@
       "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
       "title": "Publish Stats, Get Cited: the Tactic That Put My Data All Over the Web",
       "date": "2026-10-21"
+    },
+    {
+      "url": "https://latent.space/p/claude-mods",
+      "title": "Claude Mods: Flipping the Harness Inside Out",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/zrr06x",
+      "title": "Why Ai's Deepest Mind Believes the World is About to Change Radically",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://claude.com/resources/articles/claude-duet",
+      "title": "Claude Duet",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://blog.exe.dev/topology",
+      "title": "The Topology of an Llm Agent Loop With Tool Use",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://theregister.com/ai-and-ml/2026/10/21/openclaw-creator-says-he-spent-10-million-in-tokens-last-month/5304573",
+      "title": "Openclaw Creator Says He Spent $10 Million in Tokens Last Month",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://hrih.si/articles/the-compiler-was-supposed-to-end-programming",
+      "title": "The Compiler Was Supposed to End Programming Too",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/dmzqkd",
+      "title": "If Intelligence is Getting Cheap, What Remains Expensive?",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
+      "title": "Asking Llm for Confidence",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://agentready.org",
+      "title": "The Open Standard for Agent Readiness",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://aboard.com/the-web-is-more-than-enough",
+      "title": "The Web is More Than Enough",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://cameronrwolfe.substack.com/p/subjective-evals",
+      "title": "Evaluating Agents on Highly Subjective Tasks",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2112732230124818891.html",
+      "title": "A Response From Dario Amodei",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/0l3esc",
+      "title": "Anthropic Joins the Ai Agent Race With Claude Duet",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://github.com/omnara-ai/omnara",
+      "title": "Omnara",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://recursive.com/updates/introducing-recursive-flint",
+      "title": "Introducing Flint",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2113013247209021918.html",
+      "title": "Claude Api Version 2026-10-21 is Now Available",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://clickhouse.com/blog/openreplay-front-end-observability-at-scale-clickhouse",
+      "title": "Front-end Observability at Scale With Clickhouse",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://boristhebrave.com/2026/10/18/chain-of-thought-for-humans",
+      "title": "Chain of Thought for Humans",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://terrytao.wordpress.com/2026/10/21/mathematics-is-a-subject-for-the-young",
+      "title": "Mathematics is a Subject for the Young",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure",
+      "title": "The Bridge to Agent-scale Git Infrastructure",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://lesswrong.com/posts/wheqps5pk8lrrctab/how-does-fable-5-1-hide-messages-in-images",
+      "title": "How Does Fable 5.1 Hide Messages in Images?",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/uzpgw1",
+      "title": "How Chatgpt's Ad Stack Works",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://docs.litellm.ai/blog/security-incident-oct-21-2026",
+      "title": "Contained: Oct 21, 2026 Litellm Release V1.107.0 Compromised",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://tldraw.dev/blog/computing-bounding-boxes",
+      "title": "Computing Bounding Boxes",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/esr8z4",
+      "title": "Openai's Php Patcher",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://github.com/openai/openai-cli",
+      "title": "Openai Cli",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+      "title": "Railway Security Disclosure",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/21/the-internet-is-having-a-very-bad-cybersecurity-day",
+      "title": "The Internet is Having a Very Bad Cybersecurity Day",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/yf7u8t",
+      "title": "Openai Models Are Coming to Google Cloud",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://getopposable.com/blog/computer-use-on-the-phone",
+      "title": "Computer Use on the Phone Itself: a 2b Model That Operates Android Apps",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security",
+      "title": "Today's Php Security Release, and How We're Strengthening Php Security",
+      "date": "2026-10-22"
     }
   ],
   "feedback": [
@@ -2644,6 +2634,13 @@
       "vote": "up",
       "source": "TLDR",
       "date": "2026-10-20"
+    },
+    {
+      "url": "https://vikramsingh.me/increase-your-slope",
+      "title": "Increase Your Slope",
+      "vote": "up",
+      "source": "TLDR",
+      "date": "2026-10-21"
     }
   ]
 }
