@@ -1,151 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://haydenbleasel.com/writing/ultracite",
-      "title": "The Agentic Development Loop",
-      "date": "2026-10-08"
-    },
-    {
-      "url": "https://refactoringenglish.com/blog/anti-patterns-software-blogging",
-      "title": "Anti-patterns in Software Blogging",
-      "date": "2026-10-08"
-    },
-    {
-      "url": "https://sicpers.info/2026/10/reasons-to-dislike-ai-coding",
-      "title": "Reasons to Dislike Ai Coding",
-      "date": "2026-10-08"
-    },
-    {
-      "url": "https://gabrielvaldivia.com/notes/influence-without-authority",
-      "title": "Influence Without Authority",
-      "date": "2026-10-08"
-    },
-    {
-      "url": "https://upstash.com/blog/i-gave-grok-bot-a-remote-computer",
-      "title": "I Gave Grok Bot a Remote Computer",
-      "date": "2026-10-08"
-    },
-    {
-      "url": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones",
-      "title": "\u201csoftware is Over\u201d: Bold Ai Developer Takes Aim at Adobe With Open Source Clones",
-      "date": "2026-10-08"
-    },
-    {
-      "url": "https://ciphertalk.substack.com/p/when-hypotheses-become-cheap",
-      "title": "When Hypotheses Become Cheap",
-      "date": "2026-10-08"
-    },
-    {
-      "url": "https://tomtunguz.com/what-if-the-models-are-commoditized",
-      "title": "A Change in Ai Strategy",
-      "date": "2026-10-08"
-    },
-    {
-      "url": "https://anthropic.com/claude-haiku-5-5",
-      "title": "Introducing Claude Haiku 5.5",
-      "date": "2026-10-08"
-    },
-    {
-      "url": "https://ably.com/blog/store-streamed-ai-responses",
-      "title": "A Token is Not a Message: Stop Storing Ai Responses Like Event Logs",
-      "date": "2026-10-08"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/jzr1ot",
-      "title": "Gpt-6 and Intelligent Ui for Everyone",
-      "date": "2026-10-08"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/6x0fxh",
-      "title": "Fired Openai Researchers Ask Company to Preserve Visibility Into Ai Reasoning",
-      "date": "2026-10-08"
-    },
-    {
-      "url": "https://github.com/docker/docker-agent",
-      "title": "Docker Agent",
-      "date": "2026-10-08"
-    },
-    {
-      "url": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next",
-      "title": "Tony Fadell on Why the First Wave of Ai Gadgets Failed \u2014 and What Comes Next",
-      "date": "2026-10-08"
-    },
-    {
-      "url": "https://builders.cortex.io/blog/a-hitchhikers-guide-to-postgres-text-search",
-      "title": "A Hitchhiker's Guide to Postgres Text Search",
-      "date": "2026-10-08"
-    },
-    {
-      "url": "https://github.com/morluto/rea",
-      "title": "Rea",
-      "date": "2026-10-08"
-    },
-    {
-      "url": "https://scottaaronson.blog?p=10169",
-      "title": "The Mathocalypse",
-      "date": "2026-10-08"
-    },
-    {
-      "url": "https://lesswrong.com/posts/hb5acftluhc5uvagx/anthropic-s-corporate-structure",
-      "title": "Anthropic's Corporate Structure",
-      "date": "2026-10-08"
-    },
-    {
-      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event",
-      "title": "Nvidia, Microsoft Kick Off a New Beginning for Windows Pcs With Rtx Spark and Ai Agents",
-      "date": "2026-10-08"
-    },
-    {
-      "url": "https://tonisagrista.com/blog/2026/chrome-jpegxl",
-      "title": "Jpeg Xl Finally Lands in Chrome!",
-      "date": "2026-10-08"
-    },
-    {
-      "url": "https://julesblom.com/writing/react-visual-notation",
-      "title": "A Visual Notation for React's Parent and Owner Trees",
-      "date": "2026-10-08"
-    },
-    {
-      "url": "https://jasmi.news/p/ai-polls",
-      "title": "\ud83c\udf3b Notes on Ai & Popular Politics",
-      "date": "2026-10-08"
-    },
-    {
-      "url": "https://microsoft.ai/news/mai-code-1-1-flash-br-better-faster-at-a-quarter-of-the-cost",
-      "title": "Mai-code-1.1-flash: Better, Faster, at a Quarter of the Cost",
-      "date": "2026-10-08"
-    },
-    {
-      "url": "https://techhub.iodigital.com/articles/migrating-from-firestore-to-firebase-sql-connect",
-      "title": "We Moved Off Firestore. the Slow Page Stayed Slow",
-      "date": "2026-10-08"
-    },
-    {
-      "url": "https://thenextweb.com/news/grok-bot-claude-opus-midjourney-suno-musk",
-      "title": "Grok Bot Will Use Claude Opus 5.5, Midjourney, and Suno, Says Musk",
-      "date": "2026-10-08"
-    },
-    {
-      "url": "https://perplexity.ai/hub/blog/multimodal-embeddings-beyond-a-single-vector",
-      "title": "Multimodal Embeddings Beyond a Single Vector",
-      "date": "2026-10-08"
-    },
-    {
-      "url": "https://llamaindex.ai/blog/introducing-opendocrouter",
-      "title": "Introducing Opendocrouter: Every Document Model Under One Api",
-      "date": "2026-10-08"
-    },
-    {
-      "url": "https://tanin.nanakorn.com/input-type-password-maxlength-20-is-considered-harmful-and-why-i-couldnt-login-into-vanguard",
-      "title": "Input Type=\"password\" Maxlength=\"20\" Prevents Me From Logging Into Vanguard",
-      "date": "2026-10-08"
-    },
-    {
-      "url": "https://liquid.ai/blog/d1-open",
-      "title": "Open D1: Edge Decision Models for Text, Vision, and Audio",
-      "date": "2026-10-08"
-    },
-    {
       "url": "https://swizec.com/blog/when-code-is-cheap-judgement-becomes-the-job",
       "title": "When Code is Cheap, Judgement Becomes the Job",
       "date": "2026-10-09"
@@ -1659,6 +1514,196 @@
       "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security",
       "title": "Today's Php Security Release, and How We're Strengthening Php Security",
       "date": "2026-10-22"
+    },
+    {
+      "url": "https://usecaddie.app/blog/agents",
+      "title": "Practical Principles for Building With Agents",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop",
+      "title": "Building Agents: When to Fold Subagents Into Your Main Agent Loop",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://annievella.com/posts/supervisory-engineering-work",
+      "title": "Supervisory Engineering Work",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://thoughtworks.com/en-us/insights/blog/generative-ai/dont-ask-ai-to-write-the-user-story-yet",
+      "title": "Don't Ask Ai to Write the User Story Yet",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://getstream.io/blog/ai-agent-production-investigation",
+      "title": "We Built an Ai Agent to Investigate Production Issues",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://elenaverna.com/p/im-not-doing-996",
+      "title": "I'm Not Doing 996",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://lethain.com/small-changes",
+      "title": "Speeding up Code Review With Small-change",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/nxqg5a",
+      "title": "Buy Vs. Build is Now Also a Ux Decision, Especially in Enterprise",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://blog.pragmaticengineer.com/the-pulse-anthropic-builds-its-own-source-control-system",
+      "title": "Anthropic Builds Its Own Source Control System",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption",
+      "title": "Is Your Organization Messing up Ai Adoption?",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://ai21.com/blog/gitlab-case-study",
+      "title": "How We Cut Gitlab Duo Code Review's Cost by 98%",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://blog.ravi-mehta.com/p/product-quality",
+      "title": "Product Quality",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://anthropic.com/research/formal-verification",
+      "title": "Llms Are Making Formal Software Verification Feasible at a Much Larger Scale",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://tanstack.com/blog/tanstack-ai-1-0",
+      "title": "Tanstack Ai 1.0: Still Your Ai, Still Your Way",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://github.com/nvidia/openshell",
+      "title": "Nvidia Openshell",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+      "title": "Anthropic Donates Agent Skills to Linux Foundation",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://fintechbrainfood.com/p/finance-in-the-intelligence-era",
+      "title": "Finance in the Intelligence Era",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://dpereira.substack.com/p/the-same-old-bullshit",
+      "title": "The Same Old Bs",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://avivbenyosef.com/shipping-the-roadmap-is-the-minimum",
+      "title": "Shipping the Roadmap is the Minimum",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://brycewatson.com/research/inside-the-box",
+      "title": "David Epstein on Why Constraints Beat Goals",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://metr.org/blog/2026-10-22-red-teaming-openai-agent-monitoring",
+      "title": "How Researchers Tested Openai's Internal Agent Monitoring",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://oreilly.com/radar/the-latest-anthropic-claude-models-contain-ai-text-watermarks-what-does-this-mean-for-you",
+      "title": "Claude's Text Output Now Carries an Invisible Watermark",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages",
+      "title": "Software is Slow Because of Bad Design, Not Slow Languages",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://3blue1brown.substack.com/p/an-artists-take-on-ai-in-math",
+      "title": "An Artist's Take on Ai in Math",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://1password.com/blog/1password-for-ai-agents",
+      "title": "Introducing 1password for Agents",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2113398193614655594.html",
+      "title": "What Happened to the Missing Gemini 3.5 Pro Model That Never Shipped?",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://theatlantic.com/technology/2026/10/man-who-saved-internet-php-vulnerability/689123?gift=iwa_ib9lkw4uuiwbibrwgx0s2escp28ju-louxzfg5i",
+      "title": "\u2018if Anything Happens to This Guy \u2026 Everyone is Screwed'",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://jennywanger.com/articles/get-your-hair-wet",
+      "title": "Get Your Hair Wet",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://taekim.substack.com/p/an-interview-with-openais-richard",
+      "title": "An Interview With Openai's Richard Ho on Why Jalape\u00f1o is a Groundbreaking Ai Chip",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://claude.com/resources/articles/claude-models-on-google-cloud-anthropic-managed",
+      "title": "The Full Claude Platform, Available on Google Cloud",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+      "title": "Docker is Weird",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/le4yvp",
+      "title": "The Signal Chats That Cost Openai Researchers Their Jobs",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://cgicoffee.com/blog/2026/10/jpeg-xl-welcome-to-the-web-chrome-firefox",
+      "title": "Jpeg Xl, Welcome to the Web!",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://media.deliveringvalue.co/p/if-you-hired-me-to-lead-growth-tomorrow",
+      "title": "If You Hired Me to Lead Growth Tomorrow",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://simedw.com/2026/10/21/world-model-terminal",
+      "title": "Worldtui: I Trained a 360m Model to Pretend to Be a Terminal",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/7mtpvw",
+      "title": "Does Flapping Airplanes Mean Short Timelines and Hard Treaty Enforcement?",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://perplexity.ai/hub/blog/a-good-teacher-meets-the-student-where-they-are",
+      "title": "A Novel Self-distillation Method",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://ngrok.com/blog/public-suffix-list",
+      "title": "What the Heck is the Public Suffix List?",
+      "date": "2026-10-23"
     }
   ],
   "feedback": [
