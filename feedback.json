@@ -1,206 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://swizec.com/blog/when-code-is-cheap-judgement-becomes-the-job",
-      "title": "When Code is Cheap, Judgement Becomes the Job",
-      "date": "2026-10-09"
-    },
-    {
-      "url": "https://withruntime.com/blog/test-gate-for-agent-written-code",
-      "title": "Don't Merge What You Didn't Run: a Test Gate for Agent-written Code",
-      "date": "2026-10-09"
-    },
-    {
-      "url": "https://expo.dev/blog/your-skills-need-an-evaluation-mechanism",
-      "title": "Your Skills Need an Evaluation Mechanism",
-      "date": "2026-10-09"
-    },
-    {
-      "url": "https://ivokund.com/first-look-at-claude-code-mods-spoiler-yes-use-one-now",
-      "title": "First Look at Claude Code Mods (spoiler: Yes, Use One Now!)",
-      "date": "2026-10-09"
-    },
-    {
-      "url": "https://stack72.dev/why-agent-written-code-needs-product-verification",
-      "title": "Why Agent-written Code Needs Product Verification",
-      "date": "2026-10-09"
-    },
-    {
-      "url": "https://techfounderstack.com/p/your-moat-is-dead-anyone-can-rebuild",
-      "title": "Your Moat is Dead. Anyone Can Rebuild Your Product",
-      "date": "2026-10-09"
-    },
-    {
-      "url": "https://blog.ravi-mehta.com/p/product-definition",
-      "title": "Product Definition",
-      "date": "2026-10-09"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/j1ocpg",
-      "title": "Tesler's Law: Complexity Moved to a Different Part of the Journey",
-      "date": "2026-10-09"
-    },
-    {
-      "url": "https://epoch.ai/publications/can-ai-automate-epoch",
-      "title": "Can Ai Automate Epoch?",
-      "date": "2026-10-09"
-    },
-    {
-      "url": "https://posthog.com/blog/cloud-agents-runtime",
-      "title": "We Built Our Own Cloud Agents Runtime. Here's What We Learned",
-      "date": "2026-10-09"
-    },
-    {
-      "url": "https://stripeeconomics.com/p/an-empirical-agenda-for-ai",
-      "title": "An Empirical Agenda for Ai",
-      "date": "2026-10-09"
-    },
-    {
-      "url": "https://github.com/backnotprop/plannotator",
-      "title": "Plannotator",
-      "date": "2026-10-09"
-    },
-    {
-      "url": "https://andrewchen.substack.com/p/will-agents-have-network-effects",
-      "title": "Will Agents Have Network Effects?",
-      "date": "2026-10-09"
-    },
-    {
-      "url": "https://openui.com/blog/how-chatgpt-intelligent-ui-works",
-      "title": "How Chatgpt Intelligent Ui Works",
-      "date": "2026-10-09"
-    },
-    {
-      "url": "https://simonkoeck.com/writeups/react-rsc-formdata-event-loop-dos",
-      "title": "A Single Post Freezes Any Next.js Server",
-      "date": "2026-10-09"
-    },
-    {
-      "url": "https://langchain.com/blog/how-snyk-turned-an-internal-support-agent-into-a-customer-feature",
-      "title": "How Snyk Turned an Internal Support Agent Into a Customer Feature",
-      "date": "2026-10-09"
-    },
-    {
-      "url": "https://newsletter.dancohen.org/archive/the-slow-formation-of-durable-software",
-      "title": "The Slow Formation of Durable Software",
-      "date": "2026-10-09"
-    },
-    {
-      "url": "https://nathanbenaich.substack.com/p/state-of-ai-2026",
-      "title": "The State of Ai Report 2026",
-      "date": "2026-10-09"
-    },
-    {
-      "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
-      "title": "Gemini Agent",
-      "date": "2026-10-09"
-    },
-    {
-      "url": "https://github.com/superdesigndev/treg",
-      "title": "Treg",
-      "date": "2026-10-09"
-    },
-    {
-      "url": "https://blog.getbootstrap.com/2026/10/08/bootstrap-6-alpha",
-      "title": "Bootstrap 6 Alpha",
-      "date": "2026-10-09"
-    },
-    {
-      "url": "https://threadreaderapp.com/thread/2107530654741348354.html",
-      "title": "The Most Common Reasons Why Ai Pilots Fail, Even at the 'best' Companies",
-      "date": "2026-10-09"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/7rgi56",
-      "title": "The Return of Wake-sleep",
-      "date": "2026-10-09"
-    },
-    {
-      "url": "https://kwokchain.com/2026/10/09/abstract-warfare-how-tsmc-made-its-own-market",
-      "title": "Abstract Warfare: How Tsmc Made Its Own Market",
-      "date": "2026-10-09"
-    },
-    {
-      "url": "https://github.com/microsoft/quicksand",
-      "title": "Quicksand",
-      "date": "2026-10-09"
-    },
-    {
-      "url": "https://threadreaderapp.com/thread/2108287358374482381.html",
-      "title": "Icymi We've Cut the Price of Sonnet 5.5 Cache Reads in Half",
-      "date": "2026-10-09"
-    },
-    {
-      "url": "https://docs.devin.ai/work-with-devin/security-swarm",
-      "title": "Security Swarm",
-      "date": "2026-10-09"
-    },
-    {
-      "url": "https://flaviocopes.com/agent-checkout",
-      "title": "What Happens When Ai Agents Shop for Us",
-      "date": "2026-10-09"
-    },
-    {
-      "url": "https://mikitabalesni.com/letter/letter.pdf",
-      "title": "Openai Cannot Make Ai Safe on Its Own",
-      "date": "2026-10-09"
-    },
-    {
-      "url": "https://opensource.googleblog.com/2026/10/how-much-does-it-cost-to-use-open-source-software.html",
-      "title": "How Much Does it Cost to Use Open Source Software?",
-      "date": "2026-10-09"
-    },
-    {
-      "url": "https://github.com/vincentwei1021/video-shotcraft",
-      "title": "Video-shotcraft",
-      "date": "2026-10-09"
-    },
-    {
-      "url": "https://amycmitchell.substack.com/p/product-management-developer-experience",
-      "title": "When Does Onboarding Become a Product Problem?",
-      "date": "2026-10-09"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/xcgaml",
-      "title": "Former Cognition, Ramp Staffers Want Ai Agents Running Businesses",
-      "date": "2026-10-09"
-    },
-    {
-      "url": "https://exa.ai/blog/atlas-benchmark",
-      "title": "Atlas: Evaluating Agents on Search-intensive Tasks",
-      "date": "2026-10-09"
-    },
-    {
-      "url": "https://bram.us/2026/10/08/calc-input-a-custom-input-element-that-accepts-mathematical-formulas",
-      "title": "Calc-input, a Custom Input Element That Accepts Mathematical Formulas",
-      "date": "2026-10-09"
-    },
-    {
-      "url": "https://github.com/zerobrewhq/zerobrew",
-      "title": "Zerobrew",
-      "date": "2026-10-09"
-    },
-    {
-      "url": "https://threadreaderapp.com/thread/2108262812489531498.html",
-      "title": "Ultrafast is Rolling Out Today for Gpt-6.1 Sol in the Api, Codex, and Chatgpt Work",
-      "date": "2026-10-09"
-    },
-    {
-      "url": "https://jbarrow.ai/2026-10-08-why-is-speculative-decoding-fast",
-      "title": "Why is Speculative Decoding Fast?",
-      "date": "2026-10-09"
-    },
-    {
-      "url": "https://dejan.ai/blog/chrome-decisions-api-decisionmodel",
-      "title": "Chrome Decisions Api: the Prompts, Limits, Engines and Code Reviews Behind Decisionmodel",
-      "date": "2026-10-09"
-    },
-    {
-      "url": "https://raminmousavi.dev/blog/the-bug-only-my-screen-could-see",
-      "title": "The Bug Only My Screen Could See",
-      "date": "2026-10-09"
-    },
-    {
       "url": "https://copyconstruct.medium.com/how-to-effectively-debug-when-you-no-longer-understand-the-code-bd3dcb2c5f7b",
       "title": "How to Effectively Debug When You No Longer Understand the Code",
       "date": "2026-10-12"
@@ -1704,6 +1504,151 @@
       "url": "https://ngrok.com/blog/public-suffix-list",
       "title": "What the Heck is the Public Suffix List?",
       "date": "2026-10-23"
+    },
+    {
+      "url": "https://dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
+      "title": "The State of Context Engineering",
+      "date": "2026-10-26"
+    },
+    {
+      "url": "https://maggieappleton.com/planning-agents",
+      "title": "Planning With Agents: Divided Worlds, Boundary Objects, and Thicker Interfaces",
+      "date": "2026-10-26"
+    },
+    {
+      "url": "https://benjamintodd.substack.com/p/almost-every-ai-forecast-of-the-last",
+      "title": "Ai Wasn't Overhyped. in the Last 18 Months, Almost Everyone Underestimated it",
+      "date": "2026-10-26"
+    },
+    {
+      "url": "https://builder.io/blog/grokbot-review",
+      "title": "Grokbot is Amazing. Here's Why I Stopped Using it",
+      "date": "2026-10-26"
+    },
+    {
+      "url": "https://danluu.com/ambitious",
+      "title": "We Should Be More Ambitious With the Software We Build",
+      "date": "2026-10-26"
+    },
+    {
+      "url": "https://essays.johnloeber.com/p/34-bitter-lessoned-in-automated-theorem",
+      "title": "Bitter Lessoned in Automated Theorem Proving",
+      "date": "2026-10-26"
+    },
+    {
+      "url": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism",
+      "title": "Cognitive Mercantilism",
+      "date": "2026-10-26"
+    },
+    {
+      "url": "https://dropbox.tech/machine-learning/evolving-calendar-assistant-reclaim-to-be-ai-native",
+      "title": "Reclaim Goes Ai-native Without Starting Over",
+      "date": "2026-10-26"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/9vozh9",
+      "title": "Cursor Can Now Control Your Computer",
+      "date": "2026-10-26"
+    },
+    {
+      "url": "https://tkdodo.eu/blog/dead-code-shouldnt-exist",
+      "title": "Dead Code Shouldn't Exist",
+      "date": "2026-10-26"
+    },
+    {
+      "url": "https://claude.com/resources/articles/unified-claude-enterprise?open_in_browser=1",
+      "title": "Claude Cowork and Chat Come Together for Enterprise",
+      "date": "2026-10-26"
+    },
+    {
+      "url": "https://tamagui.dev/blog/version-three",
+      "title": "Tamagui 3",
+      "date": "2026-10-26"
+    },
+    {
+      "url": "https://minimaxir.com/2026/10/cheap-llms",
+      "title": "Openai and Anthropic Cut Their Llm Prices by up to 80% Within a Few Months. Why?",
+      "date": "2026-10-26"
+    },
+    {
+      "url": "https://layers.engineering/shipping-103-802-dots-in-82-kb-b4f7d3a89779",
+      "title": "Shipping 103,802 Dots in 82 Kb",
+      "date": "2026-10-26"
+    },
+    {
+      "url": "https://tempertemper.net/blog/fully-customise-your-select-elements",
+      "title": "Fully Customise Your Select Elements",
+      "date": "2026-10-26"
+    },
+    {
+      "url": "https://cap.so/blog/rebuilding-cap-in-gpui",
+      "title": "A Technical Deep Dive Into Cap's Migration to Gpui",
+      "date": "2026-10-26"
+    },
+    {
+      "url": "https://algoroxyolo.github.io/blog/2026/knowing-how-is-not-knowing-what",
+      "title": "Knowing How is Not Knowing What",
+      "date": "2026-10-26"
+    },
+    {
+      "url": "https://github.com/jackskip22/rapier-jxl",
+      "title": "Rapier Jxl",
+      "date": "2026-10-26"
+    },
+    {
+      "url": "https://databricks.com/blog/how-our-ai-research-team-uses-ai-runtime",
+      "title": "How Databricks Uses Ai Runtime for Research",
+      "date": "2026-10-26"
+    },
+    {
+      "url": "https://github.com/stencil-hq/dquickts",
+      "title": "Dquickts",
+      "date": "2026-10-26"
+    },
+    {
+      "url": "https://longnow.org/ideas/attention-ai-pace-layers",
+      "title": "Attention is All You Need",
+      "date": "2026-10-26"
+    },
+    {
+      "url": "https://airealist.ai/p/exploring-apple-on-device-model",
+      "title": "Apple's 20b On-device Model Uses Just 2gb of Memory",
+      "date": "2026-10-26"
+    },
+    {
+      "url": "https://kimi.ai/blog/kimi-k3-1-pro",
+      "title": "Kimi K3.1 Pro",
+      "date": "2026-10-26"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/c2d8gg",
+      "title": "Securing Our Frontier Model Training Environment",
+      "date": "2026-10-26"
+    },
+    {
+      "url": "https://blog.discourse.org/2026/10/markdown-endpoints-your-community-in-a-format-that-ai-agents-can-read",
+      "title": "Discourse Adds Markdown Endpoints",
+      "date": "2026-10-26"
+    },
+    {
+      "url": "https://buildingslack.com/salesforce-part-two",
+      "title": "Salesforce \u2013 Part Two",
+      "date": "2026-10-26"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/ezm7g9",
+      "title": "Dessa - the Conversation Model Trained Only on Speech",
+      "date": "2026-10-26"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/kdapvs",
+      "title": "The Personal Agent Protocol Map",
+      "date": "2026-10-26"
+    },
+    {
+      "url": "https://testingcatalog.com/gemini-4-carbon-early-test-results",
+      "title": "Gemini 4 Carbon Early Test Results Are in Ahead of Release",
+      "date": "2026-10-26"
     }
   ],
   "feedback": [
@@ -2686,6 +2631,13 @@
       "vote": "up",
       "source": "TLDR",
       "date": "2026-10-21"
+    },
+    {
+      "url": "https://elenaverna.com/p/im-not-doing-996",
+      "title": "I'm Not Doing 996",
+      "vote": "up",
+      "source": "TLDR",
+      "date": "2026-10-23"
     }
   ]
 }
