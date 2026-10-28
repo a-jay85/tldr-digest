@@ -1,171 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://blog.ploeh.dk/2026/10/12/releasing-ai-generated-software",
-      "title": "Releasing Ai-generated Software",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://newsletter.posthog.com/p/38-things-weve-learned-about-building",
-      "title": "38 Things We've Learned About Building Ai Products",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://scienceisneato.substack.com/p/human-pr-review-is-next",
-      "title": "Human Pr Review is Next",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://sarthakai.substack.com/p/a-coding-plugin-to-make-you-a-10x",
-      "title": "Make Your Coding Assistant a 10x Ai Engineer",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://simonw.substack.com/p/i-built-a-new-feature-for-my-blog",
-      "title": "I Built a New Feature for My Blog Using My Voice",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://cheekypint.substack.com/p/muse-wonder-zuckerberg-and-wangs",
-      "title": "Muse Wonder: Zuckerberg and Wang's $100b Ai",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://seangoedecke.com/software-engineers-dont-get-to-be-luddites-about-ai",
-      "title": "Software Engineers Don't Get to Be Luddites About Ai",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://testingcatalog.com/anthropic-tests-new-model-opus-5-5-routing-opus-5-6-fable-5-5",
-      "title": "Anthropic Tests Its Next Model Under Claude Opus 5.5",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://lesswrong.com/posts/2mstxundmdawdyhu6/the-expensive-loop-problem",
-      "title": "The Expensive-loop Problem",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://perplexity.ai/hub/blog/building-shared-workspaces-for-people-and-agents",
-      "title": "Building Shared Workspaces for People and Agents",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://aakashg.com/ai-product-manager-salary",
-      "title": "Ai Product Manager Salary in 2026",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://jimmyhmiller.com/what-does-the-react-compiler-even-do",
-      "title": "Can We Make React Faster Using the React Compiler?",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration",
-      "title": "Epic Games Reportedly Pivoting to \u201cai First\u201d Game Development Model",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://discuss.huggingface.co/t/offloading-bounded-decisions-cut-agent-llm-calls-by-29-6-on-360-sop-bench-cases/190420",
-      "title": "Decision Models Cut Agent Llm Calls by 29.6%",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://blog.yoav.ws/posts/why_webmcp_matters",
-      "title": "Why Webmcp Matters",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://thewatershed.markpesce.com/this-years-model",
-      "title": "This Year's Model",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://svpg.com/predictability-vs-outcomes",
-      "title": "Predictability vs Outcomes",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://secondthoughts.ai/p/what-i-saw-around-the-curve-2026",
-      "title": "What I Saw Around the Curve, 2026",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://mpadge.eu/blog/coding-alone.html",
-      "title": "Coding Alone",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://anitakirkovska.com/blog/gtm-playbook-launching-ai-features",
-      "title": "Designing an Agent Collaborator",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://research.meta.ai/blog/muse-wonder",
-      "title": "Muse Wonder",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://anthropic.com/research/self-replicating-ai",
-      "title": "How Close Are Ai Models to Self-replication?",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://github.com/copilotkit/openintelligentui",
-      "title": "Open Intelligent Ui",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://nekuda.substack.com/p/the-next-steps-on-the-web-and-webmcp",
-      "title": "The Next Steps on the Web and Webmcp",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://testingcatalog.com/meta-launches-muse-wonder-and-wonder-full-for-ai-agents",
-      "title": "Meta Launches Muse Wonder and Wonder Full for Ai Agents",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://quantamagazine.org/is-attention-the-essence-of-intelligence-20261012",
-      "title": "Is \u2018attention' the Essence of Intelligence?",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://longform.asmartbear.com/you-didnt-do-it-right",
-      "title": "You Didn't Do it Right",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://bakadesuyo.com/2026/10/agency",
-      "title": "This is How to Get What You Want in Life: 6 Secrets to High-agency",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://amazon.science/blog/can-we-change-an-ai-models-architecture-without-retraining-it-from-scratch",
-      "title": "Can We Change an Ai Model's Architecture Without Retraining it From Scratch?",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://pandaily.com/zhipu-glm-5-3-highspeed-zcode-gray-release-490-tokens-per-second-user-test",
-      "title": "Zhipu's Glm-5.3-highspeed Appears in Zcode Gray Release, With Users Reporting About 490 Tokens/s",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce",
-      "title": "How I Found a $90,000 Remote Code Execution Vulnerability in Google",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work",
-      "title": "Amazon Has Over 1 Million Robot Workers. What's Next for Human Employees?",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/ch3kbc",
-      "title": "The Death of the Interface",
-      "date": "2026-10-13"
-    },
-    {
       "url": "https://felixrieseberg.com/how-to-be-more-ambitious-a-tutorial-for-humans-with-models",
       "title": "How to Be More Ambitious: a Tutorial for Humans With Models",
       "date": "2026-10-14"
@@ -1674,6 +1509,121 @@
       "url": "https://links.tldrnewsletter.com/yowlba",
       "title": "Working With Academic Communities to Build Scientific Understanding",
       "date": "2026-10-27"
+    },
+    {
+      "url": "https://langchain.com/blog/components-building-company-harness",
+      "title": "The Five Components of Building a \"company Harness\"",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://dev.to/aiworkspacebuilder/claude-code-skills-for-teams-what-to-move-out-of-claudemd-4f6o",
+      "title": "Claude Code Skills for Teams: What to Move Out of Claude.md",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work",
+      "title": "Here Be Monsters: What Do You Still Need to Know When Agents Do the Work?",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://oioannou.com/blog/ai-promised-less-work",
+      "title": "Ai Promised Less Work. I Have Never Worked More",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://cnbc.com/2026/10/27/amazon-ai-coding-tokenmaxxing.html",
+      "title": "Amazon's Anti-tokenmaxxing Memo Says Engineers Should Be Pickier About Using Ai",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://newsletter.drorpoleg.com/p/ai-doesnt-have-to-replace-you-to",
+      "title": "Your Job Can Survive Ai. Your Salary Might Not",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://github.com/nutlope/hallmark",
+      "title": "Hallmark",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://debuff.jp/research/what-agents-need-from-cli-failures",
+      "title": "What a Coding Agent Needs From a Cli Failure",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://thezvi.wordpress.com/2026/10/27/anthropic-versus-anthropic",
+      "title": "Anthropic Versus Anthropic",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://blog.logrocket.com/ux-design/intent-driven-ux-dynamic-user-flows",
+      "title": "Are Fixed User Flows Becoming Obsolete?",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://tinfoil.sh/blog/2026-10-25-less-is-more",
+      "title": "Less is More: From 1m Lines of Firmware to 300 of Assembly",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://expo.dev/blog/introducing-expo-agent-cli",
+      "title": "Expo Agent Cli",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://nothinghuman.substack.com/p/some-memories-of-early-anthropic",
+      "title": "Some Memories of Early Anthropic",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning",
+      "title": "The Sleep Framework: a New Way for Llms to Retain Knowledge in Continual Learning",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers",
+      "title": "Hunger Beats Tenure: Advice for Junior Engineers",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/jglpbk",
+      "title": "Anthropic Raises Concerns",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://github.com/anthropics/formal-math/tree/main/eth",
+      "title": "Anthropic's Claude Refutes the Exponential Time Hypothesis, With a Lean Proof",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://axiommath.ai/research/the-enormous-theorem-formalized",
+      "title": "Formalizing the Enormous Theorem",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://cognition.com/blog/frontier-code-2.0",
+      "title": "Frontiercode 2.0",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://liquid.ai/blog/lfm3",
+      "title": "Liquid Ai Launches Lfm3 Models for on Device Ai",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://devblogs.microsoft.com/visualstudio/visual-studio-october-update-compare-commits-to-your-code-resolve-conflicts-in-bulk-keep-coding",
+      "title": "Compare Commits to Your Code, Resolve Conflicts in Bulk, Keep Coding",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://nextjs.org/blog/upcoming-nextjs-security-release-november-2026",
+      "title": "Upcoming Next.js November Security Release",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://testingcatalog.com/glasser-now-lets-ai-agents-buy-premium-data-per-api-call",
+      "title": "Glasser Now Lets Ai Agents Buy Premium Data Per Api Call",
+      "date": "2026-10-28"
     }
   ],
   "feedback": [
@@ -2663,6 +2613,20 @@
       "vote": "up",
       "source": "TLDR",
       "date": "2026-10-23"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/eezcyw",
+      "title": "How the Claude Code Team Does Code Review",
+      "vote": "up",
+      "source": "TLDR Dev",
+      "date": "2026-10-27"
+    },
+    {
+      "url": "https://kiro.dev/blog/software-factory-stability",
+      "title": "Keeping a Software Factory Stable at 1,000 Prs a Week",
+      "vote": "up",
+      "source": "TLDR",
+      "date": "2026-10-27"
     }
   ]
 }
