@@ -1,116 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://addyo.substack.com/p/agentic-verification",
-      "title": "Agentic Verification",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/caghqc",
-      "title": "More Agents, Same Mythical Month",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://jaredpalmer.com/blog/code-you-didnt-write",
-      "title": "Code You Didn't Write",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/refrxw",
-      "title": "A Hybrid, Multi-model Ai Future",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://langchain.com/blog/common-questions-about-agent-evals",
-      "title": "The Most Common Questions About Agent Evals, Answered",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://github.com/google-research/harness2",
-      "title": "Google Harness\u00b2 for Recursive Self Improvement",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/rlopt9",
-      "title": "Netflix Eliminates About 1,000 Jobs in Biggest Cuts Since 2022",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://mattrothenberg.com/notes/pure-ui-agentic-era",
-      "title": "Pure Ui in the Agentic Era",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://corbt.com/posts/it-aint-agi-until-h100s-go-for-30-an-hour",
-      "title": "It Ain't Agi Until H100s Go for $30 an Hour",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://claude.com/resources/articles/agent-observability-on-the-claude-platform",
-      "title": "Agent Observability on the Claude Platform",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://econlab.substack.com/p/ai-index-oct-2026",
-      "title": "Cracks in the Ai Thesis Part 3",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://calibreapp.com/blog/native-lazy-loading",
-      "title": "Lazy Loading Images and Media: How Far Ahead Browsers Fetch",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://vals.ai/blogs/routers-new-ai-primitive",
-      "title": "Routers Are a New Ai Primitive",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://cassidoo.co/post/accessibility-and-the-internet",
-      "title": "Accessibility and the New Model of the Internet",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary",
-      "title": "Ai is Mass Decompiling Games. That's Both Awesome and Scary",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://research.google/blog/analyzing-technical-documents-with-deep-review",
-      "title": "Analyzing Technical Documents With Deep Review",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://github.com/timescale/pg_vectorsearch",
-      "title": "Pg_vectorsearch",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
-      "title": "Has Ai Tells",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/v9fie7",
-      "title": "Anthropic Says Revenue Jumped 45% to $16.8 Billion in Third Quarter",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers",
-      "title": "From 2,500 Requests to 24: Rebuilding Star History Without the Stargazers",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://metr.org/blog/2026-10-14-better-informing-the-public-about-loss-of-control-risks",
-      "title": "A Proposal for Better Informing the Public About Loss-of-control Risks From Frontier Ai Development",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://thenewstack.io/rogue-ai-agent-fleet-tencent",
-      "title": "Researchers Left a Hidden Message for Rogue Ai Agents. Then the Agents Wrote Back.",
-      "date": "2026-10-15"
-    },
-    {
       "url": "https://engineering.fb.com/2026/10/15/ml-applications/how-meta-built-forum-ai-native-engineering",
       "title": "How Meta Built Forum With Ai-native Engineering",
       "date": "2026-10-16"
@@ -1634,6 +1524,181 @@
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon",
       "title": "Gemini 4 Carbon",
       "date": "2026-10-29"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/v3skha",
+      "title": "How I Built the Most Ai-pilled Company in the World",
+      "date": "2026-10-30"
+    },
+    {
+      "url": "https://cheekypint.substack.com/p/why-sam-altman-is-against-a-single",
+      "title": "Why Sam Altman is Against a Single Superintelligence",
+      "date": "2026-10-30"
+    },
+    {
+      "url": "https://martinalderson.com/posts/making-agents-fast",
+      "title": "Making Agents Fast - What I've Learnt Over the Last 12 Months",
+      "date": "2026-10-30"
+    },
+    {
+      "url": "https://factory.com/news/frontier-harness",
+      "title": "Droid 1.0: Building a Frontier Harness",
+      "date": "2026-10-30"
+    },
+    {
+      "url": "https://institute.deepmind.com/essays/the-economics-of-intelligence",
+      "title": "The Economics of Intelligence: How and When Does Agi Lead to Economic Transformation?",
+      "date": "2026-10-30"
+    },
+    {
+      "url": "https://cra.mr/a-little-determinism",
+      "title": "A Little Determinism",
+      "date": "2026-10-30"
+    },
+    {
+      "url": "https://seangoedecke.com/you-can-just-ask-ai-to-do-things",
+      "title": "You Can Just Ask Ai to Do Things",
+      "date": "2026-10-30"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/ssziuo",
+      "title": "How to Build an Ai Writing System That Actually Sounds Like You",
+      "date": "2026-10-30"
+    },
+    {
+      "url": "https://amycmitchell.substack.com/p/just-in-time-requirements",
+      "title": "Just-in-time Requirements",
+      "date": "2026-10-30"
+    },
+    {
+      "url": "https://shailesh-sharma.medium.com/the-8-ai-pm-skills-self-check-256ef2297692",
+      "title": "The 8 Ai Pm Skills Self-check",
+      "date": "2026-10-30"
+    },
+    {
+      "url": "https://blog.julik.nl/2026/10/thanks-but-i-prefer-it-my-way",
+      "title": "Thank You, but I Prefer it My Way",
+      "date": "2026-10-30"
+    },
+    {
+      "url": "https://danielmiessler.com/blog/general-hill-climbing",
+      "title": "General Hill-climbing: the One Main Loop in Ai",
+      "date": "2026-10-30"
+    },
+    {
+      "url": "https://martinfowler.com/bliki/llm-voice.html",
+      "title": "Llm Voice",
+      "date": "2026-10-30"
+    },
+    {
+      "url": "https://newsletter.techworld-with-milan.com/p/why-most-of-what-you-build-creates",
+      "title": "Why Most of What You Build Creates No Value",
+      "date": "2026-10-30"
+    },
+    {
+      "url": "https://raindrop.ai/blog/agent-swarm-leadership",
+      "title": "The Surprising Leadership Dynamics in Agent Swarms",
+      "date": "2026-10-30"
+    },
+    {
+      "url": "https://engineering.fb.com/2026/10/29/security/catching-bugs-before-they-land-jittestings-human-on-the-loop-approach-at-full-scale",
+      "title": "How Meta Catches Bugs Before Code Ships",
+      "date": "2026-10-30"
+    },
+    {
+      "url": "https://sarthakmishra.com/blog/optimizing-tanstack-start",
+      "title": "Optimizing the Sh*t Out of Tanstack Start",
+      "date": "2026-10-30"
+    },
+    {
+      "url": "https://noahpinion.blog/p/a-golden-age-of-science-is-coming",
+      "title": "A Golden Age of Science is Coming",
+      "date": "2026-10-30"
+    },
+    {
+      "url": "https://blog.ravi-mehta.com/p/fluency-with-data",
+      "title": "Fluency With Data",
+      "date": "2026-10-30"
+    },
+    {
+      "url": "https://blog.sentry.io/measuring-soft-navigation-web-vitals",
+      "title": "Measuring Soft Navigation Web Vitals",
+      "date": "2026-10-30"
+    },
+    {
+      "url": "https://building.owner.com/project-speed",
+      "title": "Project Speed",
+      "date": "2026-10-30"
+    },
+    {
+      "url": "https://borretti.me/article/we-wont-just-hang-out",
+      "title": "We Won't \u201cjust Hang Out\u201d",
+      "date": "2026-10-30"
+    },
+    {
+      "url": "https://lesswrong.com/posts/kthse2vpzw4zn7f8w/great-but-painful",
+      "title": "Great but Painful",
+      "date": "2026-10-30"
+    },
+    {
+      "url": "https://leadinginproduct.com/p/sabotage-manual-product-management",
+      "title": "The Cia Sabotage Manual for Product Organizations",
+      "date": "2026-10-30"
+    },
+    {
+      "url": "https://redmonk.com/kholterhoff/2026/10/27/js-runtime-monoculture",
+      "title": "The Web Can't Afford a Javascript Runtime Monoculture",
+      "date": "2026-10-30"
+    },
+    {
+      "url": "https://epoch.ai/publications/open-weight-models-patch-gap",
+      "title": "Ai Can Turn Security Fixes Into Working Exploits Before Users Receive an Update",
+      "date": "2026-10-30"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/154wlh",
+      "title": "Openai Updates Its Model Spec Around Five Core Values",
+      "date": "2026-10-30"
+    },
+    {
+      "url": "https://tempertemper.net/blog/a-better-way-to-handle-select-behaviour",
+      "title": "A Better Way to Handle Select Behaviour",
+      "date": "2026-10-30"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/5pxhvw",
+      "title": "The Escape Room Economy",
+      "date": "2026-10-30"
+    },
+    {
+      "url": "https://figma.com/blog/training-a-figma-fluent-editing-model",
+      "title": "How We're Training a Figma-fluent Editing Model",
+      "date": "2026-10-30"
+    },
+    {
+      "url": "https://mistral.ai/news/mistral-large-4-oss",
+      "title": "Mistral Releases Weights for Its Trillion-parameter Model",
+      "date": "2026-10-30"
+    },
+    {
+      "url": "https://lesswrong.com/posts/tjgpl5fak9sciopbe/leaking-muse-s-charter-meta-s-model-spec",
+      "title": "Leaking Muse's Charter, Meta's Model Spec",
+      "date": "2026-10-30"
+    },
+    {
+      "url": "https://github.com/picocss/pico/discussions/754",
+      "title": "Pico Css is No Longer Maintained",
+      "date": "2026-10-30"
+    },
+    {
+      "url": "https://constellationr.com/insights/news/outcome-based-pricing-pros-cons-and-nuances",
+      "title": "Outcome-based Pricing",
+      "date": "2026-10-30"
+    },
+    {
+      "url": "https://paagman.dev/how-fast-can-you-patch-ruby",
+      "title": "How Fast Can You Actually Patch Ruby?",
+      "date": "2026-10-30"
     }
   ],
   "feedback": [
@@ -2637,6 +2702,41 @@
       "vote": "up",
       "source": "TLDR",
       "date": "2026-10-27"
+    },
+    {
+      "url": "https://thomasjiralerspong.substack.com/p/chasing-the-karpathy-peak",
+      "title": "Confessions From Slopaholics Anonymous",
+      "vote": "up",
+      "source": "TLDR",
+      "date": "2026-10-29"
+    },
+    {
+      "url": "https://colossus.com/article/sane-asylum-turbopuffer",
+      "title": "The Sane Asylum",
+      "vote": "up",
+      "source": "TLDR",
+      "date": "2026-10-29"
+    },
+    {
+      "url": "https://oioannou.com/blog/ai-promised-less-work",
+      "title": "Ai Promised Less Work. I Have Never Worked More",
+      "vote": "up",
+      "source": "TLDR Dev",
+      "date": "2026-10-29"
+    },
+    {
+      "url": "https://newsletter.drorpoleg.com/p/ai-doesnt-have-to-replace-you-to",
+      "title": "Your Job Can Survive Ai. Your Salary Might Not",
+      "vote": "up",
+      "source": "TLDR",
+      "date": "2026-10-29"
+    },
+    {
+      "url": "https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers",
+      "title": "Hunger Beats Tenure: Advice for Junior Engineers",
+      "vote": "up",
+      "source": "TLDR Dev",
+      "date": "2026-10-29"
     }
   ]
 }
