@@ -1,116 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://anthropic.com/research/employment-at-anthropic",
-      "title": "How Ai is Reshaping Anthropic's Workforce",
-      "date": "2026-10-19"
-    },
-    {
-      "url": "https://claude.dev/blog/solving-code-review-at-anthropic",
-      "title": "How the Claude Code Team Does Code Review",
-      "date": "2026-10-19"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/vt4hho",
-      "title": "How to Trust Your Coding Agents More",
-      "date": "2026-10-19"
-    },
-    {
-      "url": "https://jovidecroock.com/blog/gittifacts",
-      "title": "Humans Approve Intent, Machines Prove Conformance",
-      "date": "2026-10-19"
-    },
-    {
-      "url": "https://pinecoder.dev/blog/2026-10-15/my-old-job-is-distant",
-      "title": "My Old Job Feels Very Distant Now",
-      "date": "2026-10-19"
-    },
-    {
-      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-new-trend-of-building-internal-aeb",
-      "title": "New Trend of Building \"internal Vibe-coding Apps\" at Tech Companies",
-      "date": "2026-10-19"
-    },
-    {
-      "url": "https://seangoedecke.com/what-requirements-dont-you-have",
-      "title": "What Requirements Don't You Have?",
-      "date": "2026-10-19"
-    },
-    {
-      "url": "https://maevyn.codes/decoherence",
-      "title": "Decoherence",
-      "date": "2026-10-19"
-    },
-    {
-      "url": "https://tech.dirkjonker.nl/does-ruby-on-rails-make-sense",
-      "title": "Does Ruby on Rails Still Make Sense?",
-      "date": "2026-10-19"
-    },
-    {
-      "url": "https://anthropic.com/news/public-benefit-fund",
-      "title": "Anthropic Commits Equity to Public Benefit",
-      "date": "2026-10-19"
-    },
-    {
-      "url": "https://mercor.com/research/labor-index/benchmark-map",
-      "title": "A Benchmark Map of the Us Economy",
-      "date": "2026-10-19"
-    },
-    {
-      "url": "https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science",
-      "title": "Will it Be a Golden Age or a Dark Age for Mathematics (and Science)?",
-      "date": "2026-10-19"
-    },
-    {
-      "url": "https://thenewstack.io/gemini-argon-claude-opus",
-      "title": "Gemini 4 Argon Vs. Claude Opus 5.5",
-      "date": "2026-10-19"
-    },
-    {
-      "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on",
-      "title": "If You Don't Run Your Own Llm Proxy, How the Fuck Do You Even Know What's Going On?",
-      "date": "2026-10-19"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/5zpbog",
-      "title": "Why One of the World's Greatest Mathematicians is on a \u2018war Footing'",
-      "date": "2026-10-19"
-    },
-    {
-      "url": "https://github.com/elie222/rakazo",
-      "title": "Rakazo",
-      "date": "2026-10-19"
-    },
-    {
-      "url": "https://aws.amazon.com/blogs/compute/exploring-aws-lambda-web-functions-for-building-web-applications",
-      "title": "Exploring Aws Lambda Web Functions for Building Web Applications",
-      "date": "2026-10-19"
-    },
-    {
-      "url": "https://api-docs.deepseek.com/guides/search",
-      "title": "Search & Fetch",
-      "date": "2026-10-19"
-    },
-    {
-      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says",
-      "title": "Replit Switches Its Default Ai Provider to Openai",
-      "date": "2026-10-19"
-    },
-    {
-      "url": "https://anthropic.com/research/ecdsa-curve-origins",
-      "title": "Claude Reveals Ecdsa Curve Origins",
-      "date": "2026-10-19"
-    },
-    {
-      "url": "https://stacksweep.dev/hybridagent-latent-reasoning-text-tool-use",
-      "title": "Hybridagent Thinks in Latent Space and Acts in Text",
-      "date": "2026-10-19"
-    },
-    {
-      "url": "https://blog.picheta.me/post/killswitch-lang",
-      "title": "I Built a Programming Language That Llms Can't Use",
-      "date": "2026-10-19"
-    },
-    {
       "url": "https://seangoedecke.com/writing-is-no-longer-proof-of-work",
       "title": "Writing is No Longer Proof of Work",
       "date": "2026-10-20"
@@ -1664,6 +1554,176 @@
       "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents",
       "title": "Doordash Said It's Only Received 'several Hundred' Orders From Ai Agents",
       "date": "2026-11-02"
+    },
+    {
+      "url": "https://maple.dev/blog/react-to-foldkit",
+      "title": "Porting 287,000 Lines of React in 3 Days. the Hard Part Was Proving Nothing Changed.",
+      "date": "2026-11-03"
+    },
+    {
+      "url": "https://knlb.dev/essays/surrender",
+      "title": "Resisting Cognitive Surrender",
+      "date": "2026-11-03"
+    },
+    {
+      "url": "https://karrisaarinen.com/posts/our-organizations-are-being-ddosed-from-the-inside",
+      "title": "Our Organizations Are Being Ddosed From the Inside",
+      "date": "2026-11-03"
+    },
+    {
+      "url": "https://medium.productcoalition.com/you-can-ship-anything-now-can-you-kill-anything-a12ca5636c16?source=rss----384859bd8e6d---4",
+      "title": "When Building Gets Easier, Decisions Get Harder",
+      "date": "2026-11-03"
+    },
+    {
+      "url": "https://commandline.microsoft.com/how-we-built-copilot-cowork-python-to-rust-migration",
+      "title": "Lessons From Building Copilot Cowork",
+      "date": "2026-11-03"
+    },
+    {
+      "url": "https://philschmid.de/code-mode",
+      "title": "Why Agents Are Soon Only Going to Have 1 Tool",
+      "date": "2026-11-03"
+    },
+    {
+      "url": "https://elliotmorris.net/prototypes-are-not-that-helpful-anymore",
+      "title": "Prototypes Are Not That Helpful Anymore",
+      "date": "2026-11-03"
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai",
+      "title": "Anthropic Warns it May Be Close to Self-improving Ai",
+      "date": "2026-11-03"
+    },
+    {
+      "url": "https://haydenbleasel.com/writing/open-source",
+      "title": "The Value of Open Source",
+      "date": "2026-11-03"
+    },
+    {
+      "url": "https://framer.com/blog/harness-2",
+      "title": "Harness 2: Executing Agent Code as it Streams",
+      "date": "2026-11-03"
+    },
+    {
+      "url": "https://firesidepm.substack.com/p/what-product-manager-hiring-looks",
+      "title": "What Product Manager Hiring Looks Like From the Hiring Manager's Side in 2026",
+      "date": "2026-11-03"
+    },
+    {
+      "url": "https://launchdarkly.com/blog/making-ai-measurable",
+      "title": "Making Ai Measurable",
+      "date": "2026-11-03"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/architecture/automating-agentic-ai-well-architected-reviews-with-the-aws-agentic-ai-lens",
+      "title": "Automating Agentic Ai Well-architected Reviews With the Aws Agentic Ai Lens",
+      "date": "2026-11-03"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/sn4iqp",
+      "title": "Scaling Git at Openai",
+      "date": "2026-11-03"
+    },
+    {
+      "url": "https://thevoiceofuser.com/the-frame-how-to-build-a-knowledge-layer-for-what-your-company-knows-about-its-users",
+      "title": "The Frame: How to Build a Knowledge Layer for What Your Company Knows About Its Users",
+      "date": "2026-11-03"
+    },
+    {
+      "url": "https://jeffgothelf.com/blog/how-to-build-a-deployment-path-for-an-ai-product-manager",
+      "title": "How to Build a Deployment Path for an Ai Product Manager",
+      "date": "2026-11-03"
+    },
+    {
+      "url": "https://claude.com/resources/articles/message-threads",
+      "title": "Claude Introduces Message Threads",
+      "date": "2026-11-03"
+    },
+    {
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-time-to-rethink-software",
+      "title": "Time to Rethink Software Security Because of Ai?",
+      "date": "2026-11-03"
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2116956471195730402.html",
+      "title": "The Most Critical Qualities for Pms",
+      "date": "2026-11-03"
+    },
+    {
+      "url": "https://testingcatalog.com/gpt-6-2-astra-appears-codex-usage",
+      "title": "Gpt-6.2 Astra Appears in Codex Usage Ahead of Possible Launch",
+      "date": "2026-11-03"
+    },
+    {
+      "url": "https://blog.cloudflare.com/dns-targeted-zone-builds",
+      "title": "How We Halved Dns Build Delay and Cut Memory Use by 85%",
+      "date": "2026-11-03"
+    },
+    {
+      "url": "https://github.com/kgoedecke/doop",
+      "title": "Doop",
+      "date": "2026-11-03"
+    },
+    {
+      "url": "https://rogerpielkejr.substack.com/p/the-coming-replication-revolution",
+      "title": "The Coming Replication Revolution",
+      "date": "2026-11-03"
+    },
+    {
+      "url": "https://gr.inc/blog/how-to-train-a-swarm",
+      "title": "How to Train a Swarm",
+      "date": "2026-11-03"
+    },
+    {
+      "url": "https://githubnext.com/posts/enclaves",
+      "title": "Limit What Agents Learn About Private Repos With Enclaves",
+      "date": "2026-11-03"
+    },
+    {
+      "url": "https://expressjs.com/en/blog/2026-10-31-security-releases",
+      "title": "October 2026 Express Security Releases",
+      "date": "2026-11-03"
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs",
+      "title": "Openai is Finally Merging Chatgpt's Chat and Work Tabs",
+      "date": "2026-11-03"
+    },
+    {
+      "url": "https://github.com/vercel-labs/scriptc",
+      "title": "Scriptc",
+      "date": "2026-11-03"
+    },
+    {
+      "url": "https://seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights",
+      "title": "Llms Are Not Superhuman at Reading and Writing Neural Network Weights",
+      "date": "2026-11-03"
+    },
+    {
+      "url": "https://allenai.org/blog/novelty-bench",
+      "title": "Can We Trust Llms to Judge Whether a Research Idea is Novel?",
+      "date": "2026-11-03"
+    },
+    {
+      "url": "https://sarthakmishra.com/blog/scoping-a-saas-project",
+      "title": "How to Scope a Saas Project You Can Afford to Finish",
+      "date": "2026-11-03"
+    },
+    {
+      "url": "https://cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
+      "title": "Anthropic Releases Amended Ipo Prospectus With Third-quarter Financials",
+      "date": "2026-11-03"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/ksbdoe",
+      "title": "Openai Introduces Lifeval to Measure Ai Performance on Everyday Tasks",
+      "date": "2026-11-03"
+    },
+    {
+      "url": "https://github.com/beenuar/aisoc",
+      "title": "Aisoc",
+      "date": "2026-11-03"
     }
   ],
   "feedback": [
@@ -2723,6 +2783,20 @@
       "vote": "up",
       "source": "TLDR Product",
       "date": "2026-10-30"
+    },
+    {
+      "url": "https://seldo.com/posts/a-proposal-how-to-hire-junior-engineers-in-the-age-of-ai",
+      "title": "A Proposal: How to Hire Junior Engineers in the Age of Ai",
+      "vote": "up",
+      "source": "TLDR",
+      "date": "2026-11-02"
+    },
+    {
+      "url": "https://ianmccrystal.com/posts/the-age-of-frivolous-software",
+      "title": "The Age of Frivolous Software",
+      "vote": "up",
+      "source": "TLDR Dev",
+      "date": "2026-11-02"
     }
   ]
 }
