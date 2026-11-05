@@ -1,171 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://oneusefulthing.org/p/30-months-on-the-exponential-in-charts",
-      "title": "30 Months on the Exponential (in Charts)",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://newsletter.pragmaticengineer.com/p/whats-the-roi-of-software-engineers",
-      "title": "What's the Roi of Software Engineers' Spending on Ai?",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://builders.ramp.com/post/building-laminar",
-      "title": "Building Laminar: Ramp's Managed Agents Platform",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://bigtechnology.com/p/sundar-pichai-googles-frontier-imperative",
-      "title": "Sundar Pichai on Google's Ai Strategy and Compute Tradeoffs",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://jgunnink.substack.com/p/gemini-4-argon-early-access-review",
-      "title": "Gemini 4: Argon, Early Access Review",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://kiro.dev/blog/how-kiro-fixes-itself",
-      "title": "How Kiro Fixes Itself, and How We Keep the Fixes Honest",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://rameznaam.com/p/can-a-million-ai-agents-create-superintelligence",
-      "title": "Can a Million Ai Agents Create Superintelligence",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://nolanlawson.com/2026/10/19/do-web-components-have-a-future-if-nobody-is-writing-them",
-      "title": "Do Web Components Have a Future If Nobody is Writing Them?",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://vercel.com/blog/making-every-harness-durable",
-      "title": "Making Every Harness Durable",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://vikramsingh.me/increase-your-slope",
-      "title": "Increase Your Slope",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://blog.cloudflare.com/typescript-rust-port",
-      "title": "Introducing Tsrs: a Port of Typescript to Rust",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://databricks.com/blog/memcurrent-designing-persistent-memory-production-agents",
-      "title": "Memcurrent: Designing Persistent Memory for Production Agents",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://joshwcomeau.com/css/interop-2027",
-      "title": "The Future of Css: My Top 10 Picks for Interop 2027",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://magiroux.com/posts/from-use-case-to-graphql-operation",
-      "title": "From Use Case to Graphql Operation: a Layered Approach for Agents",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://thenewcritic.com/p/coxon-day",
-      "title": "Coxon Day",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-1-beta",
-      "title": "Announcing Typescript 7.1 Beta",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://mixtureofexperts.co/p/the-next-bottleneck-in-ai-for-science",
-      "title": "The Next Bottleneck in Ai for Science",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://fratepietro.com/2026/how-to-build-a-decision-model-like-jev",
-      "title": "How to Build a Decision Model Like Jev",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/7b18rv",
-      "title": "Anthropic S-1 Shows Red-hot Growth, Risks, and Massive Computing Costs",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://metr.org/blog/2026-10-20-misalignment-risk-report-august-2026-review",
-      "title": "Review of the \"misalignment in High-stakes Settings\" Section in Anthropic's Risk Report",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://a16z.news/p/superhuman-hardware-design-is-the",
-      "title": "Superhuman Hardware Design is the Easy Part",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://karlkoch.me/writing/on-alignment-that-looks-wrong",
-      "title": "On Alignment That Looks Wrong",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://pytorch.org/blog/introducing-torchtpu",
-      "title": "Google and Meta Bring Native Pytorch Support to Tpus",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://metisreasoning.ai/whitepaper/the-age-of-reasoning-2026-10.pdf",
-      "title": "The Age of Reasoning",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://zhuanlan.zhihu.com/p/2095560295930508953",
-      "title": "Deepseek V4.1 Flash: Large-scale Inference Deployment",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://teendrama.substack.com/p/some-final-words-on-foursquare",
-      "title": "Some Final Words on Foursquare",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://github.com/deepseek-ai/deepinfer",
-      "title": "Deepinfer",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://mistral.ai/news/voxtral-3",
-      "title": "Voxtral 3: Voice Agent Sdk & Speech Models in 50+ Languages",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/gj3yyx",
-      "title": "The Gap Between Gpus and Compute",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://huggingface.co/xhtoken/spark-x2.6-4b",
-      "title": "Spark-x2.6-4b: Stronger On-device Ai Agents",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://github.com/google-pytorch/torch_tpu",
-      "title": "Torchtpu",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://read.corematter.com/p/tau-robotics-humanoid-house-cleaning-review-san-francisco",
-      "title": "I Paid $60 for Two Humanoids to Clean My Home in San Francisco",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
-      "title": "Publish Stats, Get Cited: the Tactic That Put My Data All Over the Web",
-      "date": "2026-10-21"
-    },
-    {
       "url": "https://latent.space/p/claude-mods",
       "title": "Claude Mods: Flipping the Harness Inside Out",
       "date": "2026-10-22"
@@ -1654,6 +1489,121 @@
       "url": "https://github.com/google/three-live",
       "title": "Three-live",
       "date": "2026-11-04"
+    },
+    {
+      "url": "https://gonzoml.substack.com/p/nobody-here-writes-code-by-hand-any",
+      "title": "Nobody Here Writes Code by Hand Anymore",
+      "date": "2026-11-05"
+    },
+    {
+      "url": "https://blog.x.com/en/engineering/rebuilding-the-global-town-square-from-scratch",
+      "title": "Rebuilding the Global Town Square From Scratch",
+      "date": "2026-11-05"
+    },
+    {
+      "url": "https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents",
+      "title": "You'll Need Nerves of Steel to Work With Ai Agents",
+      "date": "2026-11-05"
+    },
+    {
+      "url": "https://benjamincongdon.me/blog/2026/11/03/voice-is-underutilized",
+      "title": "Voice is Underutilized",
+      "date": "2026-11-05"
+    },
+    {
+      "url": "https://kai-waehner.de/blog/2026/11/03/agentic-technical-debt-and-where-orchestration-belongs-in-ai-agent-architecture",
+      "title": "Agentic Technical Debt and Where Orchestration Belongs in Ai Agent Architecture",
+      "date": "2026-11-05"
+    },
+    {
+      "url": "https://github.com/zeke/faster-chrome-devtools-skill",
+      "title": "Faster-chrome-devtools-skill",
+      "date": "2026-11-05"
+    },
+    {
+      "url": "https://maggieappleton.com/fortune-telling",
+      "title": "Fortune Telling and Speculative Design",
+      "date": "2026-11-05"
+    },
+    {
+      "url": "https://github.com/graphify-labs/graphify",
+      "title": "Graphify",
+      "date": "2026-11-05"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/zvwofz",
+      "title": "A Thousand Fewer Paths to Root",
+      "date": "2026-11-05"
+    },
+    {
+      "url": "https://alperenkeles.com/posts/bug-finding-considered-harmful",
+      "title": "Bug Finding Considered Harmful?",
+      "date": "2026-11-05"
+    },
+    {
+      "url": "https://bloomberg.com/news/articles/2026-11-04/apple-cuts-internal-ai-usage-budgets-in-move-to-reduce-spending?accesstoken=eyjhbgcioijiuzi1niisinr5cci6ikpxvcj9.eyjzb3vyy2uioijtdwjzy3jpymvyr2lmdgvkqxj0awnszsisimlhdci6mtc5mzg1mje3ocwizxhwijoxnzk0ndu2otc4lcjhcnrpy2xlswqioijutlhpmzdlsznowtkwmcisimjjb25uzwn0swqioijcmzzenue5qzixmdq0nju4otfbmtc1mtvdrdnbqkzfnij9.dhbva6zpzhhyqxx1e0_hol8by7dozz6s91xnvxnd9n4",
+      "title": "Apple Cuts Internal Ai Usage Budgets in Move to Reduce Spending",
+      "date": "2026-11-05"
+    },
+    {
+      "url": "https://v3.parceljs.org/blog/v3-alpha",
+      "title": "Announcing Parcel 3 Alpha",
+      "date": "2026-11-05"
+    },
+    {
+      "url": "https://go.dev/blog/jsonv2",
+      "title": "A New Go Api for Json",
+      "date": "2026-11-05"
+    },
+    {
+      "url": "https://fintechbrainfood.com/p/payments-new-ads",
+      "title": "Payments Are the New Ads",
+      "date": "2026-11-05"
+    },
+    {
+      "url": "https://ricursive.com/ripple",
+      "title": "Introducing Ripple-65b Preview",
+      "date": "2026-11-05"
+    },
+    {
+      "url": "https://stratechery.com/2026/ai-on-the-ballot",
+      "title": "Ai on the Ballot",
+      "date": "2026-11-05"
+    },
+    {
+      "url": "https://saastr.com/the-top-1-of-ai-spenders-stalled-in-q3-so-did-anthropics-dollar-growth",
+      "title": "The Top 1% of Ai Spenders Stalled in Q3. So Did Anthropic's Dollar Growth",
+      "date": "2026-11-05"
+    },
+    {
+      "url": "https://clarity.microsoft.com/blog/how-we-made-clarity-js-smaller",
+      "title": "How We Made Clarity.js 4.5% Smaller Without Sacrificing Compatibility",
+      "date": "2026-11-05"
+    },
+    {
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "title": "The Php2shell Vulnerability Heralds Cybersecurity Hell",
+      "date": "2026-11-05"
+    },
+    {
+      "url": "https://tomtunguz.com/watts-in-store-for-2027-inference",
+      "title": "Watts in Store for 2027: the Ai Ceiling",
+      "date": "2026-11-05"
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion",
+      "title": "Sequoia Hits Rewind, Undoing 20 Years of Expansion",
+      "date": "2026-11-05"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/1laj0w",
+      "title": "Introducing Images 2.6",
+      "date": "2026-11-05"
+    },
+    {
+      "url": "https://testingcatalog.com/openai-launches-images-2-6-with-gifs-and-image-reference",
+      "title": "Openai Launches Images 2.6 With Gifs and Image Reference",
+      "date": "2026-11-05"
     }
   ],
   "feedback": [
@@ -2741,6 +2691,34 @@
       "vote": "up",
       "source": "TLDR",
       "date": "2026-11-03"
+    },
+    {
+      "url": "https://vals.ai/blogs/reasoning-effort",
+      "title": "How Much Does Reasoning Effort Affect Score and Cost?",
+      "vote": "up",
+      "source": "TLDR AI",
+      "date": "2026-11-04"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/gljtvf",
+      "title": "Agent State Machines: Building Deterministic Scaffolding for Agents",
+      "vote": "up",
+      "source": "TLDR AI",
+      "date": "2026-11-04"
+    },
+    {
+      "url": "https://autodidacts.io/curiosity-traps",
+      "title": "Curiosity Traps",
+      "vote": "up",
+      "source": "TLDR Dev",
+      "date": "2026-11-04"
+    },
+    {
+      "url": "https://newsletter.pragmaticengineer.com/p/how-software-engineering-is-changing",
+      "title": "How Software Engineering is Changing: a Tale of Two Eras",
+      "vote": "up",
+      "source": "TLDR",
+      "date": "2026-11-04"
     }
   ]
 }
