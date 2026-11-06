@@ -1,161 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://latent.space/p/claude-mods",
-      "title": "Claude Mods: Flipping the Harness Inside Out",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/zrr06x",
-      "title": "Why Ai's Deepest Mind Believes the World is About to Change Radically",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://claude.com/resources/articles/claude-duet",
-      "title": "Claude Duet",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://blog.exe.dev/topology",
-      "title": "The Topology of an Llm Agent Loop With Tool Use",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://theregister.com/ai-and-ml/2026/10/21/openclaw-creator-says-he-spent-10-million-in-tokens-last-month/5304573",
-      "title": "Openclaw Creator Says He Spent $10 Million in Tokens Last Month",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://hrih.si/articles/the-compiler-was-supposed-to-end-programming",
-      "title": "The Compiler Was Supposed to End Programming Too",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/dmzqkd",
-      "title": "If Intelligence is Getting Cheap, What Remains Expensive?",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
-      "title": "Asking Llm for Confidence",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://agentready.org",
-      "title": "The Open Standard for Agent Readiness",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://aboard.com/the-web-is-more-than-enough",
-      "title": "The Web is More Than Enough",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://cameronrwolfe.substack.com/p/subjective-evals",
-      "title": "Evaluating Agents on Highly Subjective Tasks",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://threadreaderapp.com/thread/2112732230124818891.html",
-      "title": "A Response From Dario Amodei",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/0l3esc",
-      "title": "Anthropic Joins the Ai Agent Race With Claude Duet",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://github.com/omnara-ai/omnara",
-      "title": "Omnara",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://recursive.com/updates/introducing-recursive-flint",
-      "title": "Introducing Flint",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://threadreaderapp.com/thread/2113013247209021918.html",
-      "title": "Claude Api Version 2026-10-21 is Now Available",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://clickhouse.com/blog/openreplay-front-end-observability-at-scale-clickhouse",
-      "title": "Front-end Observability at Scale With Clickhouse",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://boristhebrave.com/2026/10/18/chain-of-thought-for-humans",
-      "title": "Chain of Thought for Humans",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://terrytao.wordpress.com/2026/10/21/mathematics-is-a-subject-for-the-young",
-      "title": "Mathematics is a Subject for the Young",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure",
-      "title": "The Bridge to Agent-scale Git Infrastructure",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://lesswrong.com/posts/wheqps5pk8lrrctab/how-does-fable-5-1-hide-messages-in-images",
-      "title": "How Does Fable 5.1 Hide Messages in Images?",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/uzpgw1",
-      "title": "How Chatgpt's Ad Stack Works",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://docs.litellm.ai/blog/security-incident-oct-21-2026",
-      "title": "Contained: Oct 21, 2026 Litellm Release V1.107.0 Compromised",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://tldraw.dev/blog/computing-bounding-boxes",
-      "title": "Computing Bounding Boxes",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/esr8z4",
-      "title": "Openai's Php Patcher",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://github.com/openai/openai-cli",
-      "title": "Openai Cli",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
-      "title": "Railway Security Disclosure",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://techcrunch.com/2026/10/21/the-internet-is-having-a-very-bad-cybersecurity-day",
-      "title": "The Internet is Having a Very Bad Cybersecurity Day",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/yf7u8t",
-      "title": "Openai Models Are Coming to Google Cloud",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://getopposable.com/blog/computer-use-on-the-phone",
-      "title": "Computer Use on the Phone Itself: a 2b Model That Operates Android Apps",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security",
-      "title": "Today's Php Security Release, and How We're Strengthening Php Security",
-      "date": "2026-10-22"
-    },
-    {
       "url": "https://usecaddie.app/blog/agents",
       "title": "Practical Principles for Building With Agents",
       "date": "2026-10-23"
@@ -1604,6 +1449,211 @@
       "url": "https://testingcatalog.com/openai-launches-images-2-6-with-gifs-and-image-reference",
       "title": "Openai Launches Images 2.6 With Gifs and Image Reference",
       "date": "2026-11-05"
+    },
+    {
+      "url": "https://scrum.org/resources/blog/bottleneck-has-moved",
+      "title": "The Bottleneck Has Moved",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://tailscale.com/blog/100x-more-programmers",
+      "title": "100x More Programmers",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://thoughtworks.com/en-us/insights/blog/generative-ai/harness-is-a-product",
+      "title": "The Harness is a Product",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html?unlocked_article_code=1.ove.0w5y.yvhwxuxoa-ll&smid=url-share",
+      "title": "The Making of Dario Amodei",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://elenaverna.com/p/the-end-of-feature-discovery-as-we",
+      "title": "The End of Feature Discovery as We Know it",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://uxforai.com/p/dr-productlove-or-how-i-learned-to-stop-worrying-and-love-the-ai",
+      "title": "How I Learned to Stop Worrying and Love the Ai",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://cdevroe.com/2026/11/05/if-x-then-y",
+      "title": "If X, Then Y",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment",
+      "title": "Independent Assessment of Ai R&d Acceleration at Anthropic in October 2026",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://tabwidgets.com/blog/react-lazy-suspense-delay",
+      "title": "React.lazy, Suspense and the Hidden 300 Ms Delay",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://blog.ravi-mehta.com/p/voice-of-the-customer",
+      "title": "Voice of the Customer",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://jennywanger.com/articles/your-fancy-ai-demo-might-be-backfiring",
+      "title": "Your Fancy Ai Demo Might Be Backfiring",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/eaviiw",
+      "title": "You Can Now Build Live Apps in Cursor and Share Them With a Link",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://airbnb.tech/ai-ml/frontier-quality-at-1-of-the-cost-a-production-benchmark-of-llm-classifiers",
+      "title": "Frontier Quality at 1% of the Cost: a Production Benchmark of Llm Classifiers",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://stackoverflow.blog/2026/11/05/don-t-build-the-reusable-component-yet",
+      "title": "Don't Build the Reusable Component Yet",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://medium.productcoalition.com/theres-a-60-chance-of-rain-02cff811027c",
+      "title": "There's a 60% Chance of Rain",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://devin.ai/blog/devin-review-2",
+      "title": "Devin Review 2.0",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://seangoedecke.com/a-database-is-a-store-for-global-variables",
+      "title": "A Database is a Store for Global Variables",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://retention.blog/p/activation-metric-or-motivation-detector",
+      "title": "Activation Metric or Motivation Detector?",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://expo.dev/blog/purrkour-webgpu-typegpu-game-expo-three-days",
+      "title": "A Webgpu Cat Puzzle Game Shipped in Three Days on Expo, With an Ai Agent as the Qa Team",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://dwarkesh.com/p/clocktower",
+      "title": "The Benchmark Where Ais Have to Lie to Win",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture",
+      "title": "Inside Github's New Git Storage Architecture",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://github.com/kenkaiii/gg-framework",
+      "title": "Gg Coder",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://github.com/flyfish-dev/file-viewer",
+      "title": "File Viewer",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://theverge.com/news/1027379/discord-ditching-electron-web-app",
+      "title": "Discord is Ditching Electron and Its New App Uses Less Ram",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://developer.nvidia.com/blog/how-nvidia-uses-ai-agents-to-streamline-ai-factory-operations",
+      "title": "How Nvidia Uses Ai Agents to Streamline Ai Factory Operations",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/zbeweq",
+      "title": "Cat Wu Joins Openai",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://thinkingmachines.ai/news/inkling-2-small",
+      "title": "Introducing Inkling 2 Small",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://blog.cloudflare.com/trusted-agent-delegation",
+      "title": "Cloudflare's Trust Framework for Ai Agents",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/6phjwa",
+      "title": "How a Split Webfont Slowed Down My Text Layout, and How I Fixed it",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/ilb5lf",
+      "title": "I Wish Tech Companies Knew More About Me",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b?st=hnx9my&reflink=desktopwebshare_permalink",
+      "title": "Major Investors Are Skeptical Anthropic Ipo Can Achieve $1.5 Trillion Valuation",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://wsj.com/tech/ai/the-election-day-revolt-that-threatens-americas-ai-boom-03a53b52?st=f62maw&reflink=desktopwebshare_permalink",
+      "title": "The Election Day Revolt That Threatens America's Ai Boom",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://a16z.com/the-exploit-was-the-bottleneck",
+      "title": "The Exploit Was the Bottleneck",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/kghh6y",
+      "title": "How Openai Patched 948 Linux Vulnerabilities",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://github.com/google-deepmind/alphaevolve",
+      "title": "Alphaevolve",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://conductor.build/changelog/0.93.0-conductor-is-joining-meta",
+      "title": "Meta Acquires Ai Coding Startup Conductor",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.05306",
+      "title": "You Don't Need Long Context",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://huggingface.co/spaces/huggingface/moe-blogpost",
+      "title": "The Ultimate Moe Training Handbook",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://pangram.com/blog/introducing-pangram-image-1-0",
+      "title": "Introducing Pangram Image 1.0",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://cognition.com/blog/swe-2-flash",
+      "title": "Cognition Introduces Swe-2 Flash",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/7jjxod",
+      "title": "Openai to Acquire Pierre Computer Company, Inc.",
+      "date": "2026-11-06"
     }
   ],
   "feedback": [
@@ -2719,6 +2769,20 @@
       "vote": "up",
       "source": "TLDR",
       "date": "2026-11-04"
+    },
+    {
+      "url": "https://benjamincongdon.me/blog/2026/11/03/voice-is-underutilized",
+      "title": "Voice is Underutilized",
+      "vote": "up",
+      "source": "TLDR",
+      "date": "2026-11-05"
+    },
+    {
+      "url": "https://alperenkeles.com/posts/bug-finding-considered-harmful",
+      "title": "Bug Finding Considered Harmful?",
+      "vote": "up",
+      "source": "TLDR",
+      "date": "2026-11-05"
     }
   ]
 }
