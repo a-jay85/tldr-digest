@@ -1,196 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://usecaddie.app/blog/agents",
-      "title": "Practical Principles for Building With Agents",
-      "date": "2026-10-23"
-    },
-    {
-      "url": "https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop",
-      "title": "Building Agents: When to Fold Subagents Into Your Main Agent Loop",
-      "date": "2026-10-23"
-    },
-    {
-      "url": "https://annievella.com/posts/supervisory-engineering-work",
-      "title": "Supervisory Engineering Work",
-      "date": "2026-10-23"
-    },
-    {
-      "url": "https://thoughtworks.com/en-us/insights/blog/generative-ai/dont-ask-ai-to-write-the-user-story-yet",
-      "title": "Don't Ask Ai to Write the User Story Yet",
-      "date": "2026-10-23"
-    },
-    {
-      "url": "https://getstream.io/blog/ai-agent-production-investigation",
-      "title": "We Built an Ai Agent to Investigate Production Issues",
-      "date": "2026-10-23"
-    },
-    {
-      "url": "https://elenaverna.com/p/im-not-doing-996",
-      "title": "I'm Not Doing 996",
-      "date": "2026-10-23"
-    },
-    {
-      "url": "https://lethain.com/small-changes",
-      "title": "Speeding up Code Review With Small-change",
-      "date": "2026-10-23"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/nxqg5a",
-      "title": "Buy Vs. Build is Now Also a Ux Decision, Especially in Enterprise",
-      "date": "2026-10-23"
-    },
-    {
-      "url": "https://blog.pragmaticengineer.com/the-pulse-anthropic-builds-its-own-source-control-system",
-      "title": "Anthropic Builds Its Own Source Control System",
-      "date": "2026-10-23"
-    },
-    {
-      "url": "https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption",
-      "title": "Is Your Organization Messing up Ai Adoption?",
-      "date": "2026-10-23"
-    },
-    {
-      "url": "https://ai21.com/blog/gitlab-case-study",
-      "title": "How We Cut Gitlab Duo Code Review's Cost by 98%",
-      "date": "2026-10-23"
-    },
-    {
-      "url": "https://blog.ravi-mehta.com/p/product-quality",
-      "title": "Product Quality",
-      "date": "2026-10-23"
-    },
-    {
-      "url": "https://anthropic.com/research/formal-verification",
-      "title": "Llms Are Making Formal Software Verification Feasible at a Much Larger Scale",
-      "date": "2026-10-23"
-    },
-    {
-      "url": "https://tanstack.com/blog/tanstack-ai-1-0",
-      "title": "Tanstack Ai 1.0: Still Your Ai, Still Your Way",
-      "date": "2026-10-23"
-    },
-    {
-      "url": "https://github.com/nvidia/openshell",
-      "title": "Nvidia Openshell",
-      "date": "2026-10-23"
-    },
-    {
-      "url": "https://anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
-      "title": "Anthropic Donates Agent Skills to Linux Foundation",
-      "date": "2026-10-23"
-    },
-    {
-      "url": "https://fintechbrainfood.com/p/finance-in-the-intelligence-era",
-      "title": "Finance in the Intelligence Era",
-      "date": "2026-10-23"
-    },
-    {
-      "url": "https://dpereira.substack.com/p/the-same-old-bullshit",
-      "title": "The Same Old Bs",
-      "date": "2026-10-23"
-    },
-    {
-      "url": "https://avivbenyosef.com/shipping-the-roadmap-is-the-minimum",
-      "title": "Shipping the Roadmap is the Minimum",
-      "date": "2026-10-23"
-    },
-    {
-      "url": "https://brycewatson.com/research/inside-the-box",
-      "title": "David Epstein on Why Constraints Beat Goals",
-      "date": "2026-10-23"
-    },
-    {
-      "url": "https://metr.org/blog/2026-10-22-red-teaming-openai-agent-monitoring",
-      "title": "How Researchers Tested Openai's Internal Agent Monitoring",
-      "date": "2026-10-23"
-    },
-    {
-      "url": "https://oreilly.com/radar/the-latest-anthropic-claude-models-contain-ai-text-watermarks-what-does-this-mean-for-you",
-      "title": "Claude's Text Output Now Carries an Invisible Watermark",
-      "date": "2026-10-23"
-    },
-    {
-      "url": "https://seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages",
-      "title": "Software is Slow Because of Bad Design, Not Slow Languages",
-      "date": "2026-10-23"
-    },
-    {
-      "url": "https://3blue1brown.substack.com/p/an-artists-take-on-ai-in-math",
-      "title": "An Artist's Take on Ai in Math",
-      "date": "2026-10-23"
-    },
-    {
-      "url": "https://1password.com/blog/1password-for-ai-agents",
-      "title": "Introducing 1password for Agents",
-      "date": "2026-10-23"
-    },
-    {
-      "url": "https://threadreaderapp.com/thread/2113398193614655594.html",
-      "title": "What Happened to the Missing Gemini 3.5 Pro Model That Never Shipped?",
-      "date": "2026-10-23"
-    },
-    {
-      "url": "https://theatlantic.com/technology/2026/10/man-who-saved-internet-php-vulnerability/689123?gift=iwa_ib9lkw4uuiwbibrwgx0s2escp28ju-louxzfg5i",
-      "title": "\u2018if Anything Happens to This Guy \u2026 Everyone is Screwed'",
-      "date": "2026-10-23"
-    },
-    {
-      "url": "https://jennywanger.com/articles/get-your-hair-wet",
-      "title": "Get Your Hair Wet",
-      "date": "2026-10-23"
-    },
-    {
-      "url": "https://taekim.substack.com/p/an-interview-with-openais-richard",
-      "title": "An Interview With Openai's Richard Ho on Why Jalape\u00f1o is a Groundbreaking Ai Chip",
-      "date": "2026-10-23"
-    },
-    {
-      "url": "https://claude.com/resources/articles/claude-models-on-google-cloud-anthropic-managed",
-      "title": "The Full Claude Platform, Available on Google Cloud",
-      "date": "2026-10-23"
-    },
-    {
-      "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
-      "title": "Docker is Weird",
-      "date": "2026-10-23"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/le4yvp",
-      "title": "The Signal Chats That Cost Openai Researchers Their Jobs",
-      "date": "2026-10-23"
-    },
-    {
-      "url": "https://cgicoffee.com/blog/2026/10/jpeg-xl-welcome-to-the-web-chrome-firefox",
-      "title": "Jpeg Xl, Welcome to the Web!",
-      "date": "2026-10-23"
-    },
-    {
-      "url": "https://media.deliveringvalue.co/p/if-you-hired-me-to-lead-growth-tomorrow",
-      "title": "If You Hired Me to Lead Growth Tomorrow",
-      "date": "2026-10-23"
-    },
-    {
-      "url": "https://simedw.com/2026/10/21/world-model-terminal",
-      "title": "Worldtui: I Trained a 360m Model to Pretend to Be a Terminal",
-      "date": "2026-10-23"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/7mtpvw",
-      "title": "Does Flapping Airplanes Mean Short Timelines and Hard Treaty Enforcement?",
-      "date": "2026-10-23"
-    },
-    {
-      "url": "https://perplexity.ai/hub/blog/a-good-teacher-meets-the-student-where-they-are",
-      "title": "A Novel Self-distillation Method",
-      "date": "2026-10-23"
-    },
-    {
-      "url": "https://ngrok.com/blog/public-suffix-list",
-      "title": "What the Heck is the Public Suffix List?",
-      "date": "2026-10-23"
-    },
-    {
       "url": "https://dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
       "title": "The State of Context Engineering",
       "date": "2026-10-26"
@@ -1654,6 +1464,181 @@
       "url": "https://links.tldrnewsletter.com/7jjxod",
       "title": "Openai to Acquire Pierre Computer Company, Inc.",
       "date": "2026-11-06"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/sus5ld",
+      "title": "Your Coding Agents Made You a Manager",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://hrih.si/articles/the-jevons-paradox-has-a-second-half",
+      "title": "The Jevons Paradox Has a Second Half",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+      "title": "Ai is Dramatically Accelerating Ai Research Right Now",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://natemeyvis.com/programming-and-fatigue",
+      "title": "Programming and Fatigue",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+      "title": "How I'm Fighting the Ai Brain Fry",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://wsj.com/economy/jobs/is-ai-taking-white-collar-jobs-what-the-latest-numbers-tell-us-dd31b115?st=uyjbrf&reflink=desktopwebshare_permalink",
+      "title": "Is Ai Taking White-collar Jobs? What the Latest Numbers Tell Us",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://anthropic.com/research/components-of-agent-memory",
+      "title": "How Anthropic Builds Agent Memory",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/xi3cjf",
+      "title": "What Does a Positive Ai Future Look Like?",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/qranzu",
+      "title": "A Year as a Research Engineer Working on Rsi at Meta",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://worldnote.substack.com/p/we-already-know-how-to-work-with",
+      "title": "We Already Know How to Work With Agents",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://thelastsoftwareengineer.substack.com/p/ai-is-causing-signal-collapse-everywhere",
+      "title": "Ai is Causing Signal Collapse Everywhere All at Once",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2119541238856663473.html",
+      "title": "What the Heck is Going on With Openai Internal Ai R&d Time Horizons",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/k6n86g",
+      "title": "Symbiotic Firms Built Around Humans and Ai",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://seangoedecke.com/llms-are-terrible-at-designing-ai-systems",
+      "title": "Llms Are Terrible at Designing Ai Systems",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://martinalderson.com/posts/the-great-software-ip-writedown",
+      "title": "The Great Software Ip Writedown",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
+      "title": "Writing as a Thinking Tool",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://smashingmagazine.com/2026/11/modern-css-might-make-your-front-end-more-complex",
+      "title": "Modern Css Might Make Your Front-end More Complex",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://openrouter.ai/blog/announcements/auto-and-auto-code-routers",
+      "title": "Introducing the New Auto and Auto Code Routers",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/kdktnp",
+      "title": "Securing Ai Agents: Lessons From Real-world Deployment",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://github.com/github/spec-kit",
+      "title": "Spec Kit",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://developer.nvidia.com/blog/use-nvidia-nemo-to-turn-agent-failures-into-tests-and-harness-fixes",
+      "title": "Use Nvidia Nemo to Turn Agent Failures Into Tests and Harness Fixes",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+      "title": "Ai Broke the Cybersecurity World. What's Next?",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://alfy.blog/2026/11/08/webmcp-explained-with-a-to-do-app.html",
+      "title": "Webmcp, Explained With a To-do App",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://ftrain.com/aboard-the-web-is-more-than-enough",
+      "title": "The Web is More Than Enough",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://doubleai.com/research/can-llms-redesign-themselves-as-they-train",
+      "title": "Can Llms Redesign Themselves as They Train?",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://anthropic.com/research/project-eve-claude-plays-mmorpgs",
+      "title": "Project Eve: Claude Plays Mmorpgs",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://seangoedecke.com/working-with-designers",
+      "title": "Working With Designers",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://github.com/vastsa/pi-desktop",
+      "title": "Pi-desktop",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview",
+      "title": "Github's New Pull Request Overview",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up?accesstoken=eyjhbgcioijiuzi1niisinr5cci6ikpxvcj9.eyjzb3vyy2uioijtdwjzy3jpymvyr2lmdgvkqxj0awnszsisimlhdci6mtc5nde5otuwocwizxhwijoxnzk0oda0mza4lcjhcnrpy2xlswqioijutzzwmdflsupioekwmcisimjjb25uzwn0swqioijcmzzenue5qzixmdq0nju4otfbmtc1mtvdrdnbqkzfnij9.bcf3cnbb6gwvbirkgfolbgxt6xqiilyjagdovzuholw",
+      "title": "Apple Ceo Presses Software Chief to Pursue More Ambitious Ai Strategy",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://psi.inc/research/aaronson-ambainis",
+      "title": "A Proof of the Aaronson-ambainis Conjecture",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://scottaaronson.blog?p=10295",
+      "title": "Aaronson-ambainis Conjecture Proved! (by Ai, of Course)",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://hunch.net?p=13764006",
+      "title": "The End of Ai Frontiers",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation",
+      "title": "Openai Reportedly Raises $11 Billion at $1.25 Trillion Valuation",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://github.com/arcsin1/oh-my-ppt",
+      "title": "Oh My Ppt",
+      "date": "2026-11-09"
     }
   ],
   "feedback": [
@@ -2783,6 +2768,34 @@
       "vote": "up",
       "source": "TLDR",
       "date": "2026-11-05"
+    },
+    {
+      "url": "https://tailscale.com/blog/100x-more-programmers",
+      "title": "100x More Programmers",
+      "vote": "up",
+      "source": "TLDR",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://elenaverna.com/p/the-end-of-feature-discovery-as-we",
+      "title": "The End of Feature Discovery as We Know it",
+      "vote": "up",
+      "source": "TLDR Product",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://cdevroe.com/2026/11/05/if-x-then-y",
+      "title": "If X, Then Y",
+      "vote": "up",
+      "source": "TLDR Product",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://seangoedecke.com/a-database-is-a-store-for-global-variables",
+      "title": "A Database is a Store for Global Variables",
+      "vote": "up",
+      "source": "TLDR",
+      "date": "2026-11-09"
     }
   ]
 }
