@@ -1,151 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
-      "title": "The State of Context Engineering",
-      "date": "2026-10-26"
-    },
-    {
-      "url": "https://maggieappleton.com/planning-agents",
-      "title": "Planning With Agents: Divided Worlds, Boundary Objects, and Thicker Interfaces",
-      "date": "2026-10-26"
-    },
-    {
-      "url": "https://benjamintodd.substack.com/p/almost-every-ai-forecast-of-the-last",
-      "title": "Ai Wasn't Overhyped. in the Last 18 Months, Almost Everyone Underestimated it",
-      "date": "2026-10-26"
-    },
-    {
-      "url": "https://builder.io/blog/grokbot-review",
-      "title": "Grokbot is Amazing. Here's Why I Stopped Using it",
-      "date": "2026-10-26"
-    },
-    {
-      "url": "https://danluu.com/ambitious",
-      "title": "We Should Be More Ambitious With the Software We Build",
-      "date": "2026-10-26"
-    },
-    {
-      "url": "https://essays.johnloeber.com/p/34-bitter-lessoned-in-automated-theorem",
-      "title": "Bitter Lessoned in Automated Theorem Proving",
-      "date": "2026-10-26"
-    },
-    {
-      "url": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism",
-      "title": "Cognitive Mercantilism",
-      "date": "2026-10-26"
-    },
-    {
-      "url": "https://dropbox.tech/machine-learning/evolving-calendar-assistant-reclaim-to-be-ai-native",
-      "title": "Reclaim Goes Ai-native Without Starting Over",
-      "date": "2026-10-26"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/9vozh9",
-      "title": "Cursor Can Now Control Your Computer",
-      "date": "2026-10-26"
-    },
-    {
-      "url": "https://tkdodo.eu/blog/dead-code-shouldnt-exist",
-      "title": "Dead Code Shouldn't Exist",
-      "date": "2026-10-26"
-    },
-    {
-      "url": "https://claude.com/resources/articles/unified-claude-enterprise?open_in_browser=1",
-      "title": "Claude Cowork and Chat Come Together for Enterprise",
-      "date": "2026-10-26"
-    },
-    {
-      "url": "https://tamagui.dev/blog/version-three",
-      "title": "Tamagui 3",
-      "date": "2026-10-26"
-    },
-    {
-      "url": "https://minimaxir.com/2026/10/cheap-llms",
-      "title": "Openai and Anthropic Cut Their Llm Prices by up to 80% Within a Few Months. Why?",
-      "date": "2026-10-26"
-    },
-    {
-      "url": "https://layers.engineering/shipping-103-802-dots-in-82-kb-b4f7d3a89779",
-      "title": "Shipping 103,802 Dots in 82 Kb",
-      "date": "2026-10-26"
-    },
-    {
-      "url": "https://tempertemper.net/blog/fully-customise-your-select-elements",
-      "title": "Fully Customise Your Select Elements",
-      "date": "2026-10-26"
-    },
-    {
-      "url": "https://cap.so/blog/rebuilding-cap-in-gpui",
-      "title": "A Technical Deep Dive Into Cap's Migration to Gpui",
-      "date": "2026-10-26"
-    },
-    {
-      "url": "https://algoroxyolo.github.io/blog/2026/knowing-how-is-not-knowing-what",
-      "title": "Knowing How is Not Knowing What",
-      "date": "2026-10-26"
-    },
-    {
-      "url": "https://github.com/jackskip22/rapier-jxl",
-      "title": "Rapier Jxl",
-      "date": "2026-10-26"
-    },
-    {
-      "url": "https://databricks.com/blog/how-our-ai-research-team-uses-ai-runtime",
-      "title": "How Databricks Uses Ai Runtime for Research",
-      "date": "2026-10-26"
-    },
-    {
-      "url": "https://github.com/stencil-hq/dquickts",
-      "title": "Dquickts",
-      "date": "2026-10-26"
-    },
-    {
-      "url": "https://longnow.org/ideas/attention-ai-pace-layers",
-      "title": "Attention is All You Need",
-      "date": "2026-10-26"
-    },
-    {
-      "url": "https://airealist.ai/p/exploring-apple-on-device-model",
-      "title": "Apple's 20b On-device Model Uses Just 2gb of Memory",
-      "date": "2026-10-26"
-    },
-    {
-      "url": "https://kimi.ai/blog/kimi-k3-1-pro",
-      "title": "Kimi K3.1 Pro",
-      "date": "2026-10-26"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/c2d8gg",
-      "title": "Securing Our Frontier Model Training Environment",
-      "date": "2026-10-26"
-    },
-    {
-      "url": "https://blog.discourse.org/2026/10/markdown-endpoints-your-community-in-a-format-that-ai-agents-can-read",
-      "title": "Discourse Adds Markdown Endpoints",
-      "date": "2026-10-26"
-    },
-    {
-      "url": "https://buildingslack.com/salesforce-part-two",
-      "title": "Salesforce \u2013 Part Two",
-      "date": "2026-10-26"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/ezm7g9",
-      "title": "Dessa - the Conversation Model Trained Only on Speech",
-      "date": "2026-10-26"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/kdapvs",
-      "title": "The Personal Agent Protocol Map",
-      "date": "2026-10-26"
-    },
-    {
-      "url": "https://testingcatalog.com/gemini-4-carbon-early-test-results",
-      "title": "Gemini 4 Carbon Early Test Results Are in Ahead of Release",
-      "date": "2026-10-26"
-    },
-    {
       "url": "https://links.tldrnewsletter.com/eezcyw",
       "title": "How the Claude Code Team Does Code Review",
       "date": "2026-10-27"
@@ -1639,6 +1494,176 @@
       "url": "https://github.com/arcsin1/oh-my-ppt",
       "title": "Oh My Ppt",
       "date": "2026-11-09"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/dpz3wh",
+      "title": "On Being an Engineer in 2026: Are We Still Needed?",
+      "date": "2026-11-10"
+    },
+    {
+      "url": "https://jeffgothelf.com/blog/how-to-turn-1000-pull-requests-a-day-into-the-few-your-customers-need",
+      "title": "How to Turn 1000 Pull Requests a Day Into the Few Your Customers Need",
+      "date": "2026-11-10"
+    },
+    {
+      "url": "https://research.oguzbilgic.com/theses/maximum-viable-product",
+      "title": "The Mvp Was a Hack Around a Constraint That No Longer Exists",
+      "date": "2026-11-10"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/ykwxuw",
+      "title": "The New Bottleneck is Intent",
+      "date": "2026-11-10"
+    },
+    {
+      "url": "https://oneusefulthing.org/p/fable-52-and-jagged-agi",
+      "title": "Fable 5.2 and Jagged Agi",
+      "date": "2026-11-10"
+    },
+    {
+      "url": "https://dropbox.tech/machine-learning/how-aiassisted-development-helped-us-build-the-new-dropbox-experience",
+      "title": "How Ai-assisted Development Helped Us Build the New Dropbox Experience",
+      "date": "2026-11-10"
+    },
+    {
+      "url": "https://aakashg.com/how-to-talk-to-every-one-of-your-customers-with-ai",
+      "title": "How to Talk to Every One of Your Customers With Ai",
+      "date": "2026-11-10"
+    },
+    {
+      "url": "https://craft.faire.com/accelerating-product-development-in-the-ai-age-how-faire-developed-product-builders-fe70044854b5?gi=77c51f5ece11&source=rss----4af981bb79f---4",
+      "title": "Accelerating Product Development in the Ai Age: How Faire Developed Product Builders",
+      "date": "2026-11-10"
+    },
+    {
+      "url": "https://claude.dev/blog/which-claude-model-should-you-build-with",
+      "title": "Which Claude Model Should You Build With? Fable, Opus, Sonnet, or Haiku",
+      "date": "2026-11-10"
+    },
+    {
+      "url": "https://engineering.atspotify.com/2026/11/ai-product-management-at-spotify-a-view-from-three-angles",
+      "title": "Ai Product Management at Spotify: a View From Three Angles",
+      "date": "2026-11-10"
+    },
+    {
+      "url": "https://thezvi.substack.com/p/ai-r-and-d-is-accelerating-towards",
+      "title": "Ai R&d is Accelerating Towards Potential Rsi in 2027",
+      "date": "2026-11-10"
+    },
+    {
+      "url": "https://zonderlabs.com/slop",
+      "title": "Why is Ai Slop So Frustrating to Read?",
+      "date": "2026-11-10"
+    },
+    {
+      "url": "https://anthropic.com/claude-fable-and-mythos-5-2",
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "date": "2026-11-10"
+    },
+    {
+      "url": "https://claude.dev/blog/safely-scaling-multi-agent-teams-with-fable-5-2",
+      "title": "Safely Scaling Multi-agent Teams With Claude Fable 5.2",
+      "date": "2026-11-10"
+    },
+    {
+      "url": "https://kevinkelly.substack.com/p/new-units-of-knowledge",
+      "title": "New Units of Knowledge",
+      "date": "2026-11-10"
+    },
+    {
+      "url": "https://johnnunemaker.com/dont-make-a-human-do-what-ai-is-amazing-at",
+      "title": "Don't Make a Human Do What Ai is Amazing at",
+      "date": "2026-11-10"
+    },
+    {
+      "url": "https://thomwolf.substack.com/p/the-future-of-software",
+      "title": "The Future of Software",
+      "date": "2026-11-10"
+    },
+    {
+      "url": "https://newsletter.posthog.com/p/decision-models",
+      "title": "Not Everything Needs an Llm",
+      "date": "2026-11-10"
+    },
+    {
+      "url": "https://storybook.js.org/blog/storybook-11-beta",
+      "title": "Storybook 11 Beta",
+      "date": "2026-11-10"
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2119192075505893695.html",
+      "title": "Is Opus 5.5 Nerfed?",
+      "date": "2026-11-10"
+    },
+    {
+      "url": "https://github.com/reticlehq/reticle",
+      "title": "Reticle",
+      "date": "2026-11-10"
+    },
+    {
+      "url": "https://davesresearch.com/enter-the-game",
+      "title": "Enter the Game",
+      "date": "2026-11-10"
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2119842075298656316.html",
+      "title": "Freedom Within Structure",
+      "date": "2026-11-10"
+    },
+    {
+      "url": "https://huntersoftwareconsulting.com/posts/2026-11-08-product-works-did-you-ship",
+      "title": "The Product Works, Did You Ship?",
+      "date": "2026-11-10"
+    },
+    {
+      "url": "https://alexwang.ai/posts/reasoning-as-pathfinding",
+      "title": "What Objective is Reasoning Solving?",
+      "date": "2026-11-10"
+    },
+    {
+      "url": "https://anthropic.com/research/claude-electronics-design",
+      "title": "Testing Claude on Real-world Electronics Design",
+      "date": "2026-11-10"
+    },
+    {
+      "url": "https://forethought.org/research/two-kinds-of-test-time-scaling",
+      "title": "Two Kinds of Test-time Scaling",
+      "date": "2026-11-10"
+    },
+    {
+      "url": "https://towardsdatascience.com/how-to-prioritize-product-feedback-by-revenue-at-risk",
+      "title": "Prioritize Product Feedback by Revenue at Risk",
+      "date": "2026-11-10"
+    },
+    {
+      "url": "https://github.com/lochie/skullet",
+      "title": "Skullet",
+      "date": "2026-11-10"
+    },
+    {
+      "url": "https://research.meta.ai/blog/muse-ember",
+      "title": "Introducing Meta Ember",
+      "date": "2026-11-10"
+    },
+    {
+      "url": "https://github.com/expo/exact",
+      "title": "Exact",
+      "date": "2026-11-10"
+    },
+    {
+      "url": "https://ryanhoover.me/post/how-product-hunt-almost-died",
+      "title": "How Product Hunt Almost Died",
+      "date": "2026-11-10"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/zm8i7b",
+      "title": "Will Anthropic Grow Into Its Compute Bill?",
+      "date": "2026-11-10"
+    },
+    {
+      "url": "https://mbi-deepdives.com/ant-vs-meta",
+      "title": "Anthropic vs Meta: Room to Be Wrong",
+      "date": "2026-11-10"
     }
   ],
   "feedback": [
