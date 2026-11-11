@@ -1,181 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://links.tldrnewsletter.com/eezcyw",
-      "title": "How the Claude Code Team Does Code Review",
-      "date": "2026-10-27"
-    },
-    {
-      "url": "https://kiro.dev/blog/software-factory-stability",
-      "title": "Keeping a Software Factory Stable at 1,000 Prs a Week",
-      "date": "2026-10-27"
-    },
-    {
-      "url": "https://jeffgothelf.com/blog/how-to-manage-the-inevitable-mess-of-running-a-company-where-everyone-is-a-builder",
-      "title": "How to Manage the Inevitable Mess of Running a Company Where Everyone is a Builder",
-      "date": "2026-10-27"
-    },
-    {
-      "url": "https://britemind.io/blog/product-manager-architect-of-possibility",
-      "title": "Ai is Turning Product Managers Into Architects. Nobody Asked Them",
-      "date": "2026-10-27"
-    },
-    {
-      "url": "https://a16z.news/p/let-chaos-reign-and-then-rein-in",
-      "title": "Let Chaos Reign, and Then Rein in Chaos",
-      "date": "2026-10-27"
-    },
-    {
-      "url": "https://yegge.ai/essays/the-counting-house",
-      "title": "The Counting House",
-      "date": "2026-10-27"
-    },
-    {
-      "url": "https://scrum.org/resources/blog/stop-demoing-your-ai-rollout-find-unavoidable-project",
-      "title": "Stop Demoing Your Ai Rollout. Find the Unavoidable Project",
-      "date": "2026-10-27"
-    },
-    {
-      "url": "https://ben.balter.com/2026/10/26/documentation-quality-is-ai-quality",
-      "title": "Your Documentation Quality is Your Ai Quality Now",
-      "date": "2026-10-27"
-    },
-    {
-      "url": "https://tanstack.com/blog/introducing-tanstack-redact",
-      "title": "Introducing Tanstack Redact",
-      "date": "2026-10-27"
-    },
-    {
-      "url": "https://docs.google.com/document/d/1bo9n52j_m4nx094tobzqvaq1htlb6h9xlyslgfsh710/edit?tab=t.0",
-      "title": "The Early Access Playbook",
-      "date": "2026-10-27"
-    },
-    {
-      "url": "https://entire.com/blog/the-git-forge-for-agent-human-collaboration",
-      "title": "The Git Forge for Agent-human Collaboration",
-      "date": "2026-10-27"
-    },
-    {
-      "url": "https://highimpactengineering.substack.com/p/are-we-living-in-the-golden-age-of",
-      "title": "Are We Living in the Golden Age of Agile?",
-      "date": "2026-10-27"
-    },
-    {
-      "url": "https://denodell.com/blog/design-systems-should-be-fast-by-default",
-      "title": "Design Systems Should Be Fast by Default",
-      "date": "2026-10-27"
-    },
-    {
-      "url": "https://github.com/jetbrains/thinkrail",
-      "title": "Thinkrail",
-      "date": "2026-10-27"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/zjmbnx",
-      "title": "Microsoft Will Offer Buyouts to 60,000 Employees",
-      "date": "2026-10-27"
-    },
-    {
-      "url": "https://davesresearch.com/exploring-the-game",
-      "title": "Exploring the Game",
-      "date": "2026-10-27"
-    },
-    {
-      "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-      "title": "Concerning Behavior From a Popular Open-weight Ai Model",
-      "date": "2026-10-27"
-    },
-    {
-      "url": "https://github.com/nightly-labs/openbot",
-      "title": "Openbot",
-      "date": "2026-10-27"
-    },
-    {
-      "url": "https://whitneyzim.medium.com/the-power-of-the-strategic-initiative-postmortem-1c9350607002",
-      "title": "The Power of the Strategic Initiative Postmortem",
-      "date": "2026-10-27"
-    },
-    {
-      "url": "https://mindtheproduct.com/what-we-learned-from-kathy-phams-keynote-at-mind-the-product-chicago-2026",
-      "title": "Trust as a Feature",
-      "date": "2026-10-27"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/oue7xh",
-      "title": "Introducing Gpt-6.1 Terra",
-      "date": "2026-10-27"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/31prkg",
-      "title": "Gpt-6.1 Terra",
-      "date": "2026-10-27"
-    },
-    {
-      "url": "https://thezvi.wordpress.com/2026/10/26/gemini-4-argon-the-model-and-safety-cards",
-      "title": "Gemini 4 Argon: the Model and Safety Cards",
-      "date": "2026-10-27"
-    },
-    {
-      "url": "https://ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
-      "title": "Fixing Tool-call Accuracy in Vllm",
-      "date": "2026-10-27"
-    },
-    {
-      "url": "https://stratechery.com/2026/the-end-of-the-internet",
-      "title": "The End of the Internet",
-      "date": "2026-10-27"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.32770",
-      "title": "Google's Self-improvements in Llms",
-      "date": "2026-10-27"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/nbudoz",
-      "title": "Openai Says Its Models Disproved the Exponential Time Hypothesis",
-      "date": "2026-10-27"
-    },
-    {
-      "url": "https://lwn.net/subscriberlink/1102102/489e41d80e4966aa",
-      "title": "Python's Experimental Jit to Be Removed",
-      "date": "2026-10-27"
-    },
-    {
-      "url": "https://anthropic.com/news/s1-sec",
-      "title": "Anthropic Files for an Ipo",
-      "date": "2026-10-27"
-    },
-    {
-      "url": "https://lesswrong.com/posts/nds9xn8qx5ppphj3q/the-ability-of-frontier-models-to-control-robots-is-rapidly",
-      "title": "Frontier Models' Ability to Control Robot Arms is Doubling Every 54 Days",
-      "date": "2026-10-27"
-    },
-    {
-      "url": "https://developers.cloudflare.com/changelog/post/2026-10-26-computer-durable-javascript",
-      "title": "Cloudflare Computer Now Helps Agents Recover From Interruptions and Wait for Approval",
-      "date": "2026-10-27"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/uagnbm",
-      "title": "The Biggest Takeaways From Anthropic's Ipo Prospectus",
-      "date": "2026-10-27"
-    },
-    {
-      "url": "https://turbopuffer.com/blog/fully-vectorized-search-engine",
-      "title": "The First Search Engine With Fully Vectorized Query Execution",
-      "date": "2026-10-27"
-    },
-    {
-      "url": "https://mirendil.com/news/introducing-fern",
-      "title": "Fern",
-      "date": "2026-10-27"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/yowlba",
-      "title": "Working With Academic Communities to Build Scientific Understanding",
-      "date": "2026-10-27"
-    },
-    {
       "url": "https://langchain.com/blog/components-building-company-harness",
       "title": "The Five Components of Building a \"company Harness\"",
       "date": "2026-10-28"
@@ -1664,6 +1489,136 @@
       "url": "https://mbi-deepdives.com/ant-vs-meta",
       "title": "Anthropic vs Meta: Room to Be Wrong",
       "date": "2026-11-10"
+    },
+    {
+      "url": "https://blog.aifutures.org/p/q35-timelines-update-looks-like-the",
+      "title": "Q3.5 Timelines Update: Looks Like the Intelligence Explosion Will Happen in 2027 After All",
+      "date": "2026-11-11"
+    },
+    {
+      "url": "https://read.engineerscodex.com/p/the-codebase-rewrite-is-back",
+      "title": "The Codebase Rewrite is Back",
+      "date": "2026-11-11"
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2120209025099043286.html",
+      "title": "Swarm Riders and Swarm-native Companies",
+      "date": "2026-11-11"
+    },
+    {
+      "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase",
+      "title": "Ai Usage Generates a Fragile Codebase",
+      "date": "2026-11-11"
+    },
+    {
+      "url": "https://generalintelligencecompany.com/writing/the-era-of-fully-autonomous-companies",
+      "title": "The Era of Fully Autonomous Companies",
+      "date": "2026-11-11"
+    },
+    {
+      "url": "https://antigravity.google/docs/swarm",
+      "title": "Swarm (/swarm)",
+      "date": "2026-11-11"
+    },
+    {
+      "url": "https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html",
+      "title": "Life on Claude Nine",
+      "date": "2026-11-11"
+    },
+    {
+      "url": "https://developer.chrome.com/blog/modern-web-guidance-v1",
+      "title": "Modern Web Guidance 1.0",
+      "date": "2026-11-11"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/jlgapb",
+      "title": "Mcp or Cli? Yes",
+      "date": "2026-11-11"
+    },
+    {
+      "url": "https://claude.com/resources/articles/more-ways-to-work-with-claude-sheets-whiteboards-and-interactive-connectors",
+      "title": "Working With Claude Sheets, Whiteboards, and Interactive Connectors",
+      "date": "2026-11-11"
+    },
+    {
+      "url": "https://seangoedecke.com/glue-work-is-still-harmful-in-the-age-of-ai",
+      "title": "Glue Work is Still Harmful in the Age of Ai",
+      "date": "2026-11-11"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available",
+      "title": "Gemini 4 Carbon is Now Available",
+      "date": "2026-11-11"
+    },
+    {
+      "url": "https://carta.com/blog/microapp-architecture-tradeoffs",
+      "title": "Building a Microapp Inside a Plugin: Architecture and Tradeoffs",
+      "date": "2026-11-11"
+    },
+    {
+      "url": "https://github.com/paulirish/chrome-capture",
+      "title": "Chrome-capture",
+      "date": "2026-11-11"
+    },
+    {
+      "url": "https://github.com/ranxianglei/billion-context",
+      "title": "Billion-context",
+      "date": "2026-11-11"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/ujset6",
+      "title": "Why Instinct Feels Like a Personal Assistant",
+      "date": "2026-11-11"
+    },
+    {
+      "url": "https://github.com/facebookresearch/faiss/tree/main/contrib/e_means",
+      "title": "Meta Releases Faster K-means Alternative",
+      "date": "2026-11-11"
+    },
+    {
+      "url": "https://blog.claroc.io/ghostshares-grok-build-apps",
+      "title": "More Than 35,000 Grok-built Apps Were Open to Anyone With the Link, Including Spacexsi's Own",
+      "date": "2026-11-11"
+    },
+    {
+      "url": "https://pytorch.org/blog/executorch-webgpu-pytorch-models-on-the-gpu-in-the-browser",
+      "title": "Executorch Webgpu: Pytorch Models on the Gpu, in the Browser",
+      "date": "2026-11-11"
+    },
+    {
+      "url": "https://pietromiotti.com/latest/maya-site",
+      "title": "My Ai Agents Found an Unmapped Maya Site",
+      "date": "2026-11-11"
+    },
+    {
+      "url": "https://github.com/mintlify/agent-traffic",
+      "title": "Agent-traffic",
+      "date": "2026-11-11"
+    },
+    {
+      "url": "https://anthropic.com/news/roadshow-launch",
+      "title": "Anthropic's Ipo Roadshow",
+      "date": "2026-11-11"
+    },
+    {
+      "url": "https://goodfire.com/research/neurons-as-an-interpretable-basis",
+      "title": "Neurons as an Interpretable Basis",
+      "date": "2026-11-11"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/fvvvl5",
+      "title": "Suppressing Reward Hacking Through Model Weight Arithmetic",
+      "date": "2026-11-11"
+    },
+    {
+      "url": "https://macrumors.com/2026/11/10/apple-claris-harbor-app",
+      "title": "Apple's Claris Testing 'harbor' App for Local Ai on Macs",
+      "date": "2026-11-11"
+    },
+    {
+      "url": "https://wsj.com/finance/stocks/anthropic-ipo-valuation-8337b669?st=ttkkwn&reflink=desktopwebshare_permalink",
+      "title": "Anthropic to Seek $1.3 Trillion Valuation in Ipo",
+      "date": "2026-11-11"
     }
   ],
   "feedback": [
@@ -2821,6 +2776,27 @@
       "vote": "up",
       "source": "TLDR",
       "date": "2026-11-09"
+    },
+    {
+      "url": "https://jeffgothelf.com/blog/how-to-turn-1000-pull-requests-a-day-into-the-few-your-customers-need",
+      "title": "How to Turn 1000 Pull Requests a Day Into the Few Your Customers Need",
+      "vote": "up",
+      "source": "TLDR Product",
+      "date": "2026-11-10"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/ykwxuw",
+      "title": "The New Bottleneck is Intent",
+      "vote": "up",
+      "source": "TLDR Dev",
+      "date": "2026-11-10"
+    },
+    {
+      "url": "https://zonderlabs.com/slop",
+      "title": "Why is Ai Slop So Frustrating to Read?",
+      "vote": "up",
+      "source": "TLDR Dev",
+      "date": "2026-11-10"
     }
   ]
 }
