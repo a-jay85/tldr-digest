@@ -1,121 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://langchain.com/blog/components-building-company-harness",
-      "title": "The Five Components of Building a \"company Harness\"",
-      "date": "2026-10-28"
-    },
-    {
-      "url": "https://dev.to/aiworkspacebuilder/claude-code-skills-for-teams-what-to-move-out-of-claudemd-4f6o",
-      "title": "Claude Code Skills for Teams: What to Move Out of Claude.md",
-      "date": "2026-10-28"
-    },
-    {
-      "url": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work",
-      "title": "Here Be Monsters: What Do You Still Need to Know When Agents Do the Work?",
-      "date": "2026-10-28"
-    },
-    {
-      "url": "https://oioannou.com/blog/ai-promised-less-work",
-      "title": "Ai Promised Less Work. I Have Never Worked More",
-      "date": "2026-10-28"
-    },
-    {
-      "url": "https://cnbc.com/2026/10/27/amazon-ai-coding-tokenmaxxing.html",
-      "title": "Amazon's Anti-tokenmaxxing Memo Says Engineers Should Be Pickier About Using Ai",
-      "date": "2026-10-28"
-    },
-    {
-      "url": "https://newsletter.drorpoleg.com/p/ai-doesnt-have-to-replace-you-to",
-      "title": "Your Job Can Survive Ai. Your Salary Might Not",
-      "date": "2026-10-28"
-    },
-    {
-      "url": "https://github.com/nutlope/hallmark",
-      "title": "Hallmark",
-      "date": "2026-10-28"
-    },
-    {
-      "url": "https://debuff.jp/research/what-agents-need-from-cli-failures",
-      "title": "What a Coding Agent Needs From a Cli Failure",
-      "date": "2026-10-28"
-    },
-    {
-      "url": "https://thezvi.wordpress.com/2026/10/27/anthropic-versus-anthropic",
-      "title": "Anthropic Versus Anthropic",
-      "date": "2026-10-28"
-    },
-    {
-      "url": "https://blog.logrocket.com/ux-design/intent-driven-ux-dynamic-user-flows",
-      "title": "Are Fixed User Flows Becoming Obsolete?",
-      "date": "2026-10-28"
-    },
-    {
-      "url": "https://tinfoil.sh/blog/2026-10-25-less-is-more",
-      "title": "Less is More: From 1m Lines of Firmware to 300 of Assembly",
-      "date": "2026-10-28"
-    },
-    {
-      "url": "https://expo.dev/blog/introducing-expo-agent-cli",
-      "title": "Expo Agent Cli",
-      "date": "2026-10-28"
-    },
-    {
-      "url": "https://nothinghuman.substack.com/p/some-memories-of-early-anthropic",
-      "title": "Some Memories of Early Anthropic",
-      "date": "2026-10-28"
-    },
-    {
-      "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning",
-      "title": "The Sleep Framework: a New Way for Llms to Retain Knowledge in Continual Learning",
-      "date": "2026-10-28"
-    },
-    {
-      "url": "https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers",
-      "title": "Hunger Beats Tenure: Advice for Junior Engineers",
-      "date": "2026-10-28"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/jglpbk",
-      "title": "Anthropic Raises Concerns",
-      "date": "2026-10-28"
-    },
-    {
-      "url": "https://github.com/anthropics/formal-math/tree/main/eth",
-      "title": "Anthropic's Claude Refutes the Exponential Time Hypothesis, With a Lean Proof",
-      "date": "2026-10-28"
-    },
-    {
-      "url": "https://axiommath.ai/research/the-enormous-theorem-formalized",
-      "title": "Formalizing the Enormous Theorem",
-      "date": "2026-10-28"
-    },
-    {
-      "url": "https://cognition.com/blog/frontier-code-2.0",
-      "title": "Frontiercode 2.0",
-      "date": "2026-10-28"
-    },
-    {
-      "url": "https://liquid.ai/blog/lfm3",
-      "title": "Liquid Ai Launches Lfm3 Models for on Device Ai",
-      "date": "2026-10-28"
-    },
-    {
-      "url": "https://devblogs.microsoft.com/visualstudio/visual-studio-october-update-compare-commits-to-your-code-resolve-conflicts-in-bulk-keep-coding",
-      "title": "Compare Commits to Your Code, Resolve Conflicts in Bulk, Keep Coding",
-      "date": "2026-10-28"
-    },
-    {
-      "url": "https://nextjs.org/blog/upcoming-nextjs-security-release-november-2026",
-      "title": "Upcoming Next.js November Security Release",
-      "date": "2026-10-28"
-    },
-    {
-      "url": "https://testingcatalog.com/glasser-now-lets-ai-agents-buy-premium-data-per-api-call",
-      "title": "Glasser Now Lets Ai Agents Buy Premium Data Per Api Call",
-      "date": "2026-10-28"
-    },
-    {
       "url": "https://nextjs.org/blog/ship-less-javascript-with-ai",
       "title": "Ship Less Javascript in Next.js With Your Ai Agent",
       "date": "2026-10-29"
@@ -1619,6 +1504,151 @@
       "url": "https://wsj.com/finance/stocks/anthropic-ipo-valuation-8337b669?st=ttkkwn&reflink=desktopwebshare_permalink",
       "title": "Anthropic to Seek $1.3 Trillion Valuation in Ipo",
       "date": "2026-11-11"
+    },
+    {
+      "url": "https://openrouter.ai/blog/insights/mcp-vs-cli-vs-skills",
+      "title": "Mcp vs Cli vs Skills: What Each Costs in Context",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html",
+      "title": "Aws Emulator and the Engineer's Job When Agents Write the Code",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://zachwills.net/levels-of-agentic-engineering",
+      "title": "The Levels of Agentic Engineering",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://jasonwei.net/blog/the-fall-of-what-you-can-do-and-the-rise-of-who-you-know",
+      "title": "Why Connections Matter More in Ai",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://nikvdp.com/notes/subagents-considered-harmful",
+      "title": "Subagents Considered Harmful?",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://commandlinesystems.com/magic.txt",
+      "title": "Emacs in the Age of Magic",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://writingruxandrabio.com/p/handing-over-humanity",
+      "title": "Handing Over Humanity",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://wsj.com/tech/ai/companies-dole-out-mega-paydays-and-luxury-trips-to-compete-for-ai-talent-3b3a7792?st=s1fldz&reflink=desktopwebshare_permalink",
+      "title": "Companies Dole Out Mega Paydays and Luxury Trips to Compete for Ai Talent",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://notboring.co/p/of-miracles-and-moats",
+      "title": "Of Miracles and Moats",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/sbdtuz",
+      "title": "How We Cut Next.js Memory From ~5gb to ~1gb: the React-query Timer Holding Every Ssr Request",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://langchain.com/blog/what-is-eval-driven-development",
+      "title": "What is Eval-driven Development? How to Improve Ai Agents",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://github.com/shadcn/improve",
+      "title": "Improve",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://ghuntley.com/answer",
+      "title": "The Answer to Ai is Engineering",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://github.com/aws/aws-emulator",
+      "title": "Aws Emulator",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://a16z.news/p/welcome-to-the-b2a-economy",
+      "title": "Welcome to the B2a Economy",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://rutgerbregman.substack.com/p/yes-you-should-panic-about-ai",
+      "title": "Yes, You Should Panic About Ai",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://dropbox.tech/machine-learning/how-two-engineer-side-projects-became-the-agent-taking-action-inside-dropbox",
+      "title": "How Two Engineer Side Projects Became the Agent Taking Action Inside Dropbox",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://hugovk.dev/blog/2026/lock-github-actions",
+      "title": "Lock Your Github Actions",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://blog.gaborkoos.com/posts/2026-11-12-your-js-error-is-lying-to-you",
+      "title": "Your Js Error is Lying to You",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences",
+      "title": "A2ui 1.0: Build Delightful, Fast, Reliable, Agentic Experiences",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://blog.kizu.dev/partial-html-includes",
+      "title": "My Html Wishlist: Partial Html Includes",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://github.com/openai/mcp-extensions",
+      "title": "Openai Open-sources Mcp Extensions for Chatgpt-native Plugins",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://tomtunguz.com/who-captures-the-most-margin-in-ai",
+      "title": "Who Captures the Most Margin in Ai?",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://flaviocopes.com/grok-bot-1-0",
+      "title": "What's New in Grok Bot 1.0",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://perplexity.ai/hub/blog/escaping-space-part-ii",
+      "title": "Escaping Space: Part Ii",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2120556423474028576.html",
+      "title": "Browser Use Has Been Rolling Out in Antigravity",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://lesswrong.com/posts/ehkwcdamhwpawezim/llms-can-learn-some-multi-step-reasoning-on-filler-tokens-2",
+      "title": "Llms Can Learn Some Multi-step Reasoning on Filler Tokens Instead of Visible Cot",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://joost.blog/agents-sharing-user-signals",
+      "title": "Openai Wants Agents to Tell Websites Where You Are",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://customerexperiencedive.com/news/airbnb-reduces-customer-support-cost-per-booking-17/874307",
+      "title": "Airbnb's Ai Assistant Cut Support Cost Per Booking 17%",
+      "date": "2026-11-12"
     }
   ],
   "feedback": [
@@ -2797,6 +2827,62 @@
       "vote": "up",
       "source": "TLDR Dev",
       "date": "2026-11-10"
+    },
+    {
+      "url": "https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html",
+      "title": "Life on Claude Nine",
+      "vote": "up",
+      "source": "TLDR Dev",
+      "date": "2026-11-11"
+    },
+    {
+      "url": "https://seangoedecke.com/glue-work-is-still-harmful-in-the-age-of-ai",
+      "title": "Glue Work is Still Harmful in the Age of Ai",
+      "vote": "up",
+      "source": "TLDR",
+      "date": "2026-11-11"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/ujset6",
+      "title": "Why Instinct Feels Like a Personal Assistant",
+      "vote": "up",
+      "source": "TLDR AI",
+      "date": "2026-11-11"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/sus5ld",
+      "title": "Your Coding Agents Made You a Manager",
+      "vote": "up",
+      "source": "TLDR Dev",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://hrih.si/articles/the-jevons-paradox-has-a-second-half",
+      "title": "The Jevons Paradox Has a Second Half",
+      "vote": "up",
+      "source": "TLDR",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://thelastsoftwareengineer.substack.com/p/ai-is-causing-signal-collapse-everywhere",
+      "title": "Ai is Causing Signal Collapse Everywhere All at Once",
+      "vote": "up",
+      "source": "TLDR",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://ftrain.com/aboard-the-web-is-more-than-enough",
+      "title": "The Web is More Than Enough",
+      "vote": "up",
+      "source": "TLDR Dev",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://seangoedecke.com/working-with-designers",
+      "title": "Working With Designers",
+      "vote": "up",
+      "source": "TLDR",
+      "date": "2026-11-12"
     }
   ]
 }
