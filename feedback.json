@@ -1,141 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://nextjs.org/blog/ship-less-javascript-with-ai",
-      "title": "Ship Less Javascript in Next.js With Your Ai Agent",
-      "date": "2026-10-29"
-    },
-    {
-      "url": "https://thomasjiralerspong.substack.com/p/chasing-the-karpathy-peak",
-      "title": "Confessions From Slopaholics Anonymous",
-      "date": "2026-10-29"
-    },
-    {
-      "url": "https://colossus.com/article/sane-asylum-turbopuffer",
-      "title": "The Sane Asylum",
-      "date": "2026-10-29"
-    },
-    {
-      "url": "https://vercel.com/blog/introducing-vercel-ci",
-      "title": "Introducing Vercel Ci",
-      "date": "2026-10-29"
-    },
-    {
-      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying",
-      "title": "Anthropic Just Launched Tools to Show Companies What Their Ai Spending is Buying",
-      "date": "2026-10-29"
-    },
-    {
-      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks",
-      "title": "The Ai Cost of Javascript Frameworks",
-      "date": "2026-10-29"
-    },
-    {
-      "url": "https://armincat.com/articles/ai-agent-executed-same-query-254-times",
-      "title": "Our Ai Agent Executed the Same Successful Sql Query 254 Times",
-      "date": "2026-10-29"
-    },
-    {
-      "url": "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work",
-      "title": "Introducing the Microsoft Copilot Harness: Unlocking the Potential of Truly Multi-model Agentic Work",
-      "date": "2026-10-29"
-    },
-    {
-      "url": "https://dri.es/website-migration-costs-are-going-to-zero",
-      "title": "Website Migration Costs Are Going to Zero",
-      "date": "2026-10-29"
-    },
-    {
-      "url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion",
-      "title": "Route and Orchestrate Models With Github Copilot Fusion",
-      "date": "2026-10-29"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/3vhagx",
-      "title": "Building an Inference Stack That Improves Itself",
-      "date": "2026-10-29"
-    },
-    {
-      "url": "https://simonwillison.net/2026/oct/28/vibe-game-development",
-      "title": "The October Inflection Point for Vibe Game Development",
-      "date": "2026-10-29"
-    },
-    {
-      "url": "https://nuxt.com/blog/devtools-v4",
-      "title": "Nuxt Devtools V4",
-      "date": "2026-10-29"
-    },
-    {
-      "url": "https://interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
-      "title": "Artificial Analysis V5 and the Benchmarker's Dilemma",
-      "date": "2026-10-29"
-    },
-    {
-      "url": "https://venturebeat.com/technology/google-unveils-gemini-4-carbon-retaking-the-worlds-no-1-spot-on-updated-harder-benchmarks-but-access-is-limited",
-      "title": "Google Unveils Gemini 4 Carbon, Retaking the World's No. 1 Spot on Updated, Harder Benchmarks \u2014 but Access is Limited",
-      "date": "2026-10-29"
-    },
-    {
-      "url": "https://evilmartians.com/chronicles/how-to-make-postmessage-type-safe-in-under-350-bytes",
-      "title": "How to Make Postmessage Type-safe in Under 350 Bytes",
-      "date": "2026-10-29"
-    },
-    {
-      "url": "https://hologram.page/blog/local-first-means-three-different-things",
-      "title": "Local-first Means Three Different Things",
-      "date": "2026-10-29"
-    },
-    {
-      "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack",
-      "title": "Github Universe 2026: Evolving Every Layer of the Stack",
-      "date": "2026-10-29"
-    },
-    {
-      "url": "https://divagr.com/blog/qwenputer",
-      "title": "Qwenputer: a Fully Functioning, Deterministic Risc-v Cpu Inside Qwen3.5",
-      "date": "2026-10-29"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/gjr8ev",
-      "title": "Mirendil Introduces Lor for Ai Research Automation",
-      "date": "2026-10-29"
-    },
-    {
-      "url": "https://slack.com/blog/developers/slack-code-api",
-      "title": "Introducing the Slack Code Api: Your Agents, Your Team, One Code Channel",
-      "date": "2026-10-29"
-    },
-    {
-      "url": "https://engadget.com/2300235/openai-now-lets-you-text-your-dot-agent",
-      "title": "Openai Now Lets You Text Your Dot Agent",
-      "date": "2026-10-29"
-    },
-    {
-      "url": "https://yavashark.dev/blog/announcing-yavashark",
-      "title": "Yavashark: a New Embeddable Javascript Engine in Rust",
-      "date": "2026-10-29"
-    },
-    {
-      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-      "title": "Nvidia Nemotron 3.5 Transcribe and Granary V2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-      "date": "2026-10-29"
-    },
-    {
-      "url": "https://github.blog/changelog/2026-10-28-copilot-automations-now-learn-from-outcomes-and-self-improve",
-      "title": "Copilot Automations Now Learn From Outcomes and Self-improve",
-      "date": "2026-10-29"
-    },
-    {
-      "url": "https://nodejs.org/en/blog/release/v26.13.0",
-      "title": "Node.js 26.13.0 Enters Lts",
-      "date": "2026-10-29"
-    },
-    {
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon",
-      "title": "Gemini 4 Carbon",
-      "date": "2026-10-29"
-    },
-    {
       "url": "https://links.tldrnewsletter.com/v3skha",
       "title": "How I Built the Most Ai-pilled Company in the World",
       "date": "2026-10-30"
@@ -1649,6 +1514,156 @@
       "url": "https://customerexperiencedive.com/news/airbnb-reduces-customer-support-cost-per-booking-17/874307",
       "title": "Airbnb's Ai Assistant Cut Support Cost Per Booking 17%",
       "date": "2026-11-12"
+    },
+    {
+      "url": "https://gabeorlanski.github.io/posts/slop-moves-up",
+      "title": "Slop is Moving up the Stack",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://blog.pragmaticengineer.com/the-pulse-details-of-incident-ios-ai-spend",
+      "title": "Details of Incident.io's Ai Spend",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://craft.faire.com/accelerating-product-development-in-the-ai-age-how-faire-developed-product-builders-fe70044854b5",
+      "title": "Accelerating Product Development in the Ai Age: How Faire Developed Product Builders",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://devonestes.com/bad-ideas-that-arent-bad-anymore",
+      "title": "Bad Ideas That Aren't Bad Anymore",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://blog.karthiktadepalli.com/p/hugging-face",
+      "title": "Everyone is Learning the Wrong Lesson From Hugging Face",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://lesswrong.com/posts/bifhydjnmscmw9xou/orienting-to-1-year-agi-timelines",
+      "title": "Orienting to 1 Year Agi Timelines",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams",
+      "title": "Should You Actually Add Ai to That? a Four-question Audit for Product Teams",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://support.claude.com/en/articles/18325154-use-claude-meetings",
+      "title": "Use Claude Meetings",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://astralcodexten.com/p/ai-company-employees-should-unionize",
+      "title": "Ai Company Employees Should Unionize",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://github.com/qwenlm/qwen-code",
+      "title": "Qwen Code",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://marmelab.com/blog/2026/11/12/remix-v3-fast-pages-thin-ecosystem.html",
+      "title": "Remix V3: Fast Pages, Thin Ecosystem",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://forrester.com/blogs/cheaper-ai-wont-save-a-product-built-on-the-wrong-problem",
+      "title": "Cheaper Ai Won't Save a Product Built on the Wrong Problem",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2119999748086362466.html",
+      "title": "Using Ai to Deepen the Product Manager Lifecycle",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://naftiko.io/blog/put-mcp-next-to-your-api-not-on-top",
+      "title": "Put Mcp Next to Your Api, Not on Top of it",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://claude.com/resources/articles/self-hosted-claude-managed-agents",
+      "title": "Operate Claude Managed Agents Inside Your Security Perimeter",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://resend.com/blog/migrating-our-email-api-to-go",
+      "title": "Migrating Our Email Api to Go",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://amycmitchell.substack.com/p/product-manager-business-case",
+      "title": "Why Do the Business Case If Nobody Asks You To?",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://robotgirlgang.com/2026/11/11/good-product-development-teams-have-messy-boundaries",
+      "title": "Good Product Development Teams Have Messy Boundaries",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://aha.io/blog/best-ai-prototyping-tools-product-managers-2027",
+      "title": "Best Ai Prototyping Tools for Product Managers in 2027",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://blog.dnsimple.com/2026/11/rails-8-1-vue-and-jquery-to-stimulus",
+      "title": "The Path to Rails 8.1: From Vue and Jquery to Stimulus",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://dpereira.substack.com/p/the-data-driven-illusion",
+      "title": "The Data Driven Illusion",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://blog.ravi-mehta.com/p/user-experience-design",
+      "title": "User Experience Design",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen",
+      "title": "Gemini 4 Hydrogen",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://graphql.org/blog/2026-11-12-announcing-the-graphql-over-http-spec",
+      "title": "Announcing the Graphql Over Http Specification",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://nathan.rs/posts/detllm",
+      "title": "Eliminating Nondeterminism in Llm Inference With Integer-only Arithmetic",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://blog.rust-lang.org/2026/11/12/rust-1.100.0",
+      "title": "Rust 1.100.0",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://herecomesthemoon.net/2026/11/age-and-accelerationism/index.html",
+      "title": "Age and Accelerationism",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://replit.com/blog/replit-agent-ads-commerce",
+      "title": "Replit Agent Can Now Buy for Your Business and Help You Reach Customers",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://developers.googleblog.com/how-agent-anomaly-detection-scores-on-benchmarks-we-didnt-write",
+      "title": "How Agent Anomaly Detection Scores on Benchmarks We Didn't Write",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://folklore.org/switcher.html",
+      "title": "Switcher",
+      "date": "2026-11-13"
     }
   ],
   "feedback": [
@@ -2882,6 +2897,20 @@
       "title": "Working With Designers",
       "vote": "up",
       "source": "TLDR",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://zachwills.net/levels-of-agentic-engineering",
+      "title": "The Levels of Agentic Engineering",
+      "vote": "up",
+      "source": "TLDR",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://jasonwei.net/blog/the-fall-of-what-you-can-do-and-the-rise-of-who-you-know",
+      "title": "Why Connections Matter More in Ai",
+      "vote": "up",
+      "source": "TLDR AI",
       "date": "2026-11-12"
     }
   ]
