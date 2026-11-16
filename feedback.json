@@ -1,181 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://links.tldrnewsletter.com/v3skha",
-      "title": "How I Built the Most Ai-pilled Company in the World",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://cheekypint.substack.com/p/why-sam-altman-is-against-a-single",
-      "title": "Why Sam Altman is Against a Single Superintelligence",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://martinalderson.com/posts/making-agents-fast",
-      "title": "Making Agents Fast - What I've Learnt Over the Last 12 Months",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://factory.com/news/frontier-harness",
-      "title": "Droid 1.0: Building a Frontier Harness",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://institute.deepmind.com/essays/the-economics-of-intelligence",
-      "title": "The Economics of Intelligence: How and When Does Agi Lead to Economic Transformation?",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://cra.mr/a-little-determinism",
-      "title": "A Little Determinism",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://seangoedecke.com/you-can-just-ask-ai-to-do-things",
-      "title": "You Can Just Ask Ai to Do Things",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/ssziuo",
-      "title": "How to Build an Ai Writing System That Actually Sounds Like You",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://amycmitchell.substack.com/p/just-in-time-requirements",
-      "title": "Just-in-time Requirements",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://shailesh-sharma.medium.com/the-8-ai-pm-skills-self-check-256ef2297692",
-      "title": "The 8 Ai Pm Skills Self-check",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://blog.julik.nl/2026/10/thanks-but-i-prefer-it-my-way",
-      "title": "Thank You, but I Prefer it My Way",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://danielmiessler.com/blog/general-hill-climbing",
-      "title": "General Hill-climbing: the One Main Loop in Ai",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://martinfowler.com/bliki/llm-voice.html",
-      "title": "Llm Voice",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://newsletter.techworld-with-milan.com/p/why-most-of-what-you-build-creates",
-      "title": "Why Most of What You Build Creates No Value",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://raindrop.ai/blog/agent-swarm-leadership",
-      "title": "The Surprising Leadership Dynamics in Agent Swarms",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://engineering.fb.com/2026/10/29/security/catching-bugs-before-they-land-jittestings-human-on-the-loop-approach-at-full-scale",
-      "title": "How Meta Catches Bugs Before Code Ships",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://sarthakmishra.com/blog/optimizing-tanstack-start",
-      "title": "Optimizing the Sh*t Out of Tanstack Start",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://noahpinion.blog/p/a-golden-age-of-science-is-coming",
-      "title": "A Golden Age of Science is Coming",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://blog.ravi-mehta.com/p/fluency-with-data",
-      "title": "Fluency With Data",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://blog.sentry.io/measuring-soft-navigation-web-vitals",
-      "title": "Measuring Soft Navigation Web Vitals",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://building.owner.com/project-speed",
-      "title": "Project Speed",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://borretti.me/article/we-wont-just-hang-out",
-      "title": "We Won't \u201cjust Hang Out\u201d",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://lesswrong.com/posts/kthse2vpzw4zn7f8w/great-but-painful",
-      "title": "Great but Painful",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://leadinginproduct.com/p/sabotage-manual-product-management",
-      "title": "The Cia Sabotage Manual for Product Organizations",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://redmonk.com/kholterhoff/2026/10/27/js-runtime-monoculture",
-      "title": "The Web Can't Afford a Javascript Runtime Monoculture",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://epoch.ai/publications/open-weight-models-patch-gap",
-      "title": "Ai Can Turn Security Fixes Into Working Exploits Before Users Receive an Update",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/154wlh",
-      "title": "Openai Updates Its Model Spec Around Five Core Values",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://tempertemper.net/blog/a-better-way-to-handle-select-behaviour",
-      "title": "A Better Way to Handle Select Behaviour",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/5pxhvw",
-      "title": "The Escape Room Economy",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://figma.com/blog/training-a-figma-fluent-editing-model",
-      "title": "How We're Training a Figma-fluent Editing Model",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://mistral.ai/news/mistral-large-4-oss",
-      "title": "Mistral Releases Weights for Its Trillion-parameter Model",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://lesswrong.com/posts/tjgpl5fak9sciopbe/leaking-muse-s-charter-meta-s-model-spec",
-      "title": "Leaking Muse's Charter, Meta's Model Spec",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://github.com/picocss/pico/discussions/754",
-      "title": "Pico Css is No Longer Maintained",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://constellationr.com/insights/news/outcome-based-pricing-pros-cons-and-nuances",
-      "title": "Outcome-based Pricing",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://paagman.dev/how-fast-can-you-patch-ruby",
-      "title": "How Fast Can You Actually Patch Ruby?",
-      "date": "2026-10-30"
-    },
-    {
       "url": "https://seldo.com/posts/a-proposal-how-to-hire-junior-engineers-in-the-age-of-ai",
       "title": "A Proposal: How to Hire Junior Engineers in the Age of Ai",
       "date": "2026-11-02"
@@ -1664,6 +1489,116 @@
       "url": "https://folklore.org/switcher.html",
       "title": "Switcher",
       "date": "2026-11-13"
+    },
+    {
+      "url": "https://stripeeconomics.com/p/ai-work-from-home-and-the-young-graduate",
+      "title": "Ai, Work From Home, and the Young-graduate Job Market",
+      "date": "2026-11-16"
+    },
+    {
+      "url": "https://freecodecamp.org/news/speed-up-ci-in-the-age-of-ai-written-code",
+      "title": "How to Speed up Ci in the Age of Ai-written Code",
+      "date": "2026-11-16"
+    },
+    {
+      "url": "https://bosoncutter.substack.com/p/on-the-brutality-of-amdahls-law",
+      "title": "On the Brutality of Amdahl's Law",
+      "date": "2026-11-16"
+    },
+    {
+      "url": "https://langchain.com/blog/goal-engineering",
+      "title": "Goal Engineering: How to Design Goals",
+      "date": "2026-11-16"
+    },
+    {
+      "url": "https://blog.logrocket.com/teach-ai-assistants-design-system",
+      "title": "Teach Ai Coding Assistants Your Design System With Markdown",
+      "date": "2026-11-16"
+    },
+    {
+      "url": "https://claude.com/resources/articles/building-always-on-agents",
+      "title": "Building Always-on Agents",
+      "date": "2026-11-16"
+    },
+    {
+      "url": "https://johnhempton.substack.com/p/ai-and-hiring-bad-for-employees-bad",
+      "title": "Ai and Hiring: Bad for Employees, Bad for Employers",
+      "date": "2026-11-16"
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2121375309287301360.html",
+      "title": "We've Made Some Big Updates to Projects in Claude Code!",
+      "date": "2026-11-16"
+    },
+    {
+      "url": "https://benjamintodd.substack.com/p/ai-trend-extrapolation",
+      "title": "Trend Extrapolation Gets Us to Agi in 1-4 Years",
+      "date": "2026-11-16"
+    },
+    {
+      "url": "https://devin.ai/blog/devin-apps",
+      "title": "Devin Apps",
+      "date": "2026-11-16"
+    },
+    {
+      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source",
+      "title": "All Ai-generated Code Should Be Open Source",
+      "date": "2026-11-16"
+    },
+    {
+      "url": "https://ui-sdk.dev/docs/core/changelog/introducing-ui-sdk",
+      "title": "Introducing Ui Sdk",
+      "date": "2026-11-16"
+    },
+    {
+      "url": "https://dwarkesh.com/p/rsi",
+      "title": "The Avalanche That Hit Math is Coming for Ai Development",
+      "date": "2026-11-16"
+    },
+    {
+      "url": "https://blog.cosmos-institute.org/p/recursive-self-improvement",
+      "title": "Recursive, Self, Improvement",
+      "date": "2026-11-16"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/975adv",
+      "title": "Chatgpt Wallet",
+      "date": "2026-11-16"
+    },
+    {
+      "url": "https://empero.org/writing/quark",
+      "title": "Quark: Our Whole Training Stack, End to End, for $4,200",
+      "date": "2026-11-16"
+    },
+    {
+      "url": "https://sierra.ai/blog/releasing-poppy",
+      "title": "Releasing Personal Agent Protocol 1.0",
+      "date": "2026-11-16"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/txex1x",
+      "title": "Gpt-6 Astra Tackles a Fundamental Physics Problem",
+      "date": "2026-11-16"
+    },
+    {
+      "url": "https://anthropic.com/research/building-strong-safety-evaluations",
+      "title": "Building Strong Safety Evaluations",
+      "date": "2026-11-16"
+    },
+    {
+      "url": "https://thinkingmachines.ai/blog/end-to-end-4-bit-training",
+      "title": "End-to-end 4-bit Ai Training",
+      "date": "2026-11-16"
+    },
+    {
+      "url": "https://beyondloom.com/blog/postscript.html",
+      "title": "Let's Write a Postscript Interpreter",
+      "date": "2026-11-16"
+    },
+    {
+      "url": "https://alfonsocampodonico.com/posts/making-a-programming-language",
+      "title": "Making a Programming Language",
+      "date": "2026-11-16"
     }
   ],
   "feedback": [
@@ -2912,6 +2847,13 @@
       "vote": "up",
       "source": "TLDR AI",
       "date": "2026-11-12"
+    },
+    {
+      "url": "https://gabeorlanski.github.io/posts/slop-moves-up",
+      "title": "Slop is Moving up the Stack",
+      "vote": "up",
+      "source": "TLDR",
+      "date": "2026-11-13"
     }
   ]
 }
