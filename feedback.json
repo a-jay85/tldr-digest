@@ -1,176 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://maple.dev/blog/react-to-foldkit",
-      "title": "Porting 287,000 Lines of React in 3 Days. the Hard Part Was Proving Nothing Changed.",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://knlb.dev/essays/surrender",
-      "title": "Resisting Cognitive Surrender",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://karrisaarinen.com/posts/our-organizations-are-being-ddosed-from-the-inside",
-      "title": "Our Organizations Are Being Ddosed From the Inside",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://medium.productcoalition.com/you-can-ship-anything-now-can-you-kill-anything-a12ca5636c16?source=rss----384859bd8e6d---4",
-      "title": "When Building Gets Easier, Decisions Get Harder",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://commandline.microsoft.com/how-we-built-copilot-cowork-python-to-rust-migration",
-      "title": "Lessons From Building Copilot Cowork",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://philschmid.de/code-mode",
-      "title": "Why Agents Are Soon Only Going to Have 1 Tool",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://elliotmorris.net/prototypes-are-not-that-helpful-anymore",
-      "title": "Prototypes Are Not That Helpful Anymore",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai",
-      "title": "Anthropic Warns it May Be Close to Self-improving Ai",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://haydenbleasel.com/writing/open-source",
-      "title": "The Value of Open Source",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://framer.com/blog/harness-2",
-      "title": "Harness 2: Executing Agent Code as it Streams",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://firesidepm.substack.com/p/what-product-manager-hiring-looks",
-      "title": "What Product Manager Hiring Looks Like From the Hiring Manager's Side in 2026",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://launchdarkly.com/blog/making-ai-measurable",
-      "title": "Making Ai Measurable",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://aws.amazon.com/blogs/architecture/automating-agentic-ai-well-architected-reviews-with-the-aws-agentic-ai-lens",
-      "title": "Automating Agentic Ai Well-architected Reviews With the Aws Agentic Ai Lens",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/sn4iqp",
-      "title": "Scaling Git at Openai",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://thevoiceofuser.com/the-frame-how-to-build-a-knowledge-layer-for-what-your-company-knows-about-its-users",
-      "title": "The Frame: How to Build a Knowledge Layer for What Your Company Knows About Its Users",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://jeffgothelf.com/blog/how-to-build-a-deployment-path-for-an-ai-product-manager",
-      "title": "How to Build a Deployment Path for an Ai Product Manager",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://claude.com/resources/articles/message-threads",
-      "title": "Claude Introduces Message Threads",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-time-to-rethink-software",
-      "title": "Time to Rethink Software Security Because of Ai?",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://threadreaderapp.com/thread/2116956471195730402.html",
-      "title": "The Most Critical Qualities for Pms",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://testingcatalog.com/gpt-6-2-astra-appears-codex-usage",
-      "title": "Gpt-6.2 Astra Appears in Codex Usage Ahead of Possible Launch",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://blog.cloudflare.com/dns-targeted-zone-builds",
-      "title": "How We Halved Dns Build Delay and Cut Memory Use by 85%",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://github.com/kgoedecke/doop",
-      "title": "Doop",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://rogerpielkejr.substack.com/p/the-coming-replication-revolution",
-      "title": "The Coming Replication Revolution",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://gr.inc/blog/how-to-train-a-swarm",
-      "title": "How to Train a Swarm",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://githubnext.com/posts/enclaves",
-      "title": "Limit What Agents Learn About Private Repos With Enclaves",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://expressjs.com/en/blog/2026-10-31-security-releases",
-      "title": "October 2026 Express Security Releases",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs",
-      "title": "Openai is Finally Merging Chatgpt's Chat and Work Tabs",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://github.com/vercel-labs/scriptc",
-      "title": "Scriptc",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights",
-      "title": "Llms Are Not Superhuman at Reading and Writing Neural Network Weights",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://allenai.org/blog/novelty-bench",
-      "title": "Can We Trust Llms to Judge Whether a Research Idea is Novel?",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://sarthakmishra.com/blog/scoping-a-saas-project",
-      "title": "How to Scope a Saas Project You Can Afford to Finish",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
-      "title": "Anthropic Releases Amended Ipo Prospectus With Third-quarter Financials",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/ksbdoe",
-      "title": "Openai Introduces Lifeval to Measure Ai Performance on Everyday Tasks",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://github.com/beenuar/aisoc",
-      "title": "Aisoc",
-      "date": "2026-11-03"
-    },
-    {
       "url": "https://newsletter.pragmaticengineer.com/p/how-software-engineering-is-changing",
       "title": "How Software Engineering is Changing: a Tale of Two Eras",
       "date": "2026-11-04"
@@ -1624,6 +1454,141 @@
       "url": "https://blog.startifact.com/posts/how-rust-changed-me",
       "title": "How Rust Changed Me as a Developer",
       "date": "2026-11-17"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/k8o6qc",
+      "title": "How the Claude Code Team Thinks About Verification",
+      "date": "2026-11-18"
+    },
+    {
+      "url": "https://naildrivin5.com/blog/2026/11/11/how-can-you-be-responsible-for-code-you-don-t-understand.html",
+      "title": "How Can You Be Responsible for Code You Don't Understand?",
+      "date": "2026-11-18"
+    },
+    {
+      "url": "https://invertedpassion.substack.com/p/making-sense-of-recursive-self-improvement",
+      "title": "Making Sense of Recursive Self Improvement",
+      "date": "2026-11-18"
+    },
+    {
+      "url": "https://itsmeduncan.com/2026/11/17/only-the-human-merges",
+      "title": "Only the Human Merges",
+      "date": "2026-11-18"
+    },
+    {
+      "url": "https://claude.dev/blog/chaos-loop-claude-docs-launch",
+      "title": "Using a \"chaos Loop\" to Harden the Claude Docs Launch: 60 Server Errors Across Billions of Requests",
+      "date": "2026-11-18"
+    },
+    {
+      "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1",
+      "title": "Frontierharness Eval V1.1",
+      "date": "2026-11-18"
+    },
+    {
+      "url": "https://approachwithalacrity.com/p/how-do-you-become-known-as-a-good",
+      "title": "How Do You Become Known as a Good Engineer?",
+      "date": "2026-11-18"
+    },
+    {
+      "url": "https://playfulprogramming.com/posts/writable-derived-state",
+      "title": "Writable Derived State: Stop Synchronizing State",
+      "date": "2026-11-18"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/hdkuer",
+      "title": "Introducing Gpt-6.2 Astra and Sol",
+      "date": "2026-11-18"
+    },
+    {
+      "url": "https://replit.com/blog/introducing-replit-missions",
+      "title": "Introducing Replit Missions",
+      "date": "2026-11-18"
+    },
+    {
+      "url": "https://vercel.com/blog/eve-is-now-generally-available",
+      "title": "Vercel's Eve 1.0",
+      "date": "2026-11-18"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/dxhykt",
+      "title": "My Empire of Sunshine and Roses",
+      "date": "2026-11-18"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/k1wucr",
+      "title": "Introducing Eve 1.0",
+      "date": "2026-11-18"
+    },
+    {
+      "url": "https://oxc.rs/blog/2026-11-17-faster-type-aware-linting-with-tsrs",
+      "title": "Faster Type-aware Linting With Tsrs",
+      "date": "2026-11-18"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/wod7bn",
+      "title": "Solid 2.0: the Long Hold",
+      "date": "2026-11-18"
+    },
+    {
+      "url": "https://horizon-labs.ai",
+      "title": "Horizon Labs",
+      "date": "2026-11-18"
+    },
+    {
+      "url": "https://microsoft.ai/news/microsoft-ignite-2026",
+      "title": "Microsoft's Seven New Models",
+      "date": "2026-11-18"
+    },
+    {
+      "url": "https://notesbylex.com/weight-space-programming-1990s.html",
+      "title": "Weight-space Programming Builds Neural Networks Like a 1990s Researcher",
+      "date": "2026-11-18"
+    },
+    {
+      "url": "https://blog.redwoodresearch.org/p/how-should-we-define-capabilities",
+      "title": "How Should We Define \u201ccapabilities Activities\u201d for the Purpose of Pacing?",
+      "date": "2026-11-18"
+    },
+    {
+      "url": "https://perplexity.ai/hub/blog/introducing-computer-multiagent",
+      "title": "Introducing Computer's Multiagent Effort Level",
+      "date": "2026-11-18"
+    },
+    {
+      "url": "https://jacobstrauss.bearblog.dev/experiments-in-weight-space-programming",
+      "title": "Experiments in Weight-space Programming",
+      "date": "2026-11-18"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/yyipxe",
+      "title": "Accelerating Development for Massive Git Repositories",
+      "date": "2026-11-18"
+    },
+    {
+      "url": "https://simonwillison.net/2026/nov/17/datasette-lite",
+      "title": "Running Datasette in the Browser With Service Workers and Pyodide",
+      "date": "2026-11-18"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/ofgrlv",
+      "title": "Inside Microsoft's Outage: a Latent Bug, Not Ai-written Code",
+      "date": "2026-11-18"
+    },
+    {
+      "url": "https://blog.jquery.com/2026/11/17/jquery-4-1-0-and-3-8-0-released-passing-the-torch",
+      "title": "Jquery 4.1.0 and 3.8.0 Released",
+      "date": "2026-11-18"
+    },
+    {
+      "url": "https://testingcatalog.com/openai-launches-gpt-6-2-astra-and-sol-on-chatgpt-and-apis",
+      "title": "Openai Launches Gpt-6.2 Astra and Sol on Chatgpt and Apis",
+      "date": "2026-11-18"
+    },
+    {
+      "url": "https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust",
+      "title": "Actual Curl Rewrites in Rust",
+      "date": "2026-11-18"
     }
   ],
   "feedback": [
@@ -2900,6 +2865,27 @@
       "vote": "up",
       "source": "TLDR AI",
       "date": "2026-11-16"
+    },
+    {
+      "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification",
+      "title": "How the Claude Code Team Thinks About Verification",
+      "vote": "up",
+      "source": "TLDR AI",
+      "date": "2026-11-17"
+    },
+    {
+      "url": "https://marcusoft.net/2026/11/what-if-the-team-was-two-people.html",
+      "title": "What If the Team Consisted of Two People?",
+      "vote": "up",
+      "source": "TLDR Product",
+      "date": "2026-11-17"
+    },
+    {
+      "url": "https://langchain.com/blog/from-tasks-to-goals",
+      "title": "From Tasks to Goals",
+      "vote": "up",
+      "source": "TLDR Dev",
+      "date": "2026-11-17"
     }
   ]
 }
