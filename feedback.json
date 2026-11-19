@@ -1,116 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://newsletter.pragmaticengineer.com/p/how-software-engineering-is-changing",
-      "title": "How Software Engineering is Changing: a Tale of Two Eras",
-      "date": "2026-11-04"
-    },
-    {
-      "url": "https://tech.wmg.com/auditioning-engineering-4ca3d48bf457",
-      "title": "Auditioning Engineering: Software Engineering Interviews in the Age of Ai",
-      "date": "2026-11-04"
-    },
-    {
-      "url": "https://benjamincongdon.me/blog/2026/11/02/interpolative-software",
-      "title": "Interpolative Software",
-      "date": "2026-11-04"
-    },
-    {
-      "url": "https://vals.ai/blogs/reasoning-effort",
-      "title": "How Much Does Reasoning Effort Affect Score and Cost?",
-      "date": "2026-11-04"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/gljtvf",
-      "title": "Agent State Machines: Building Deterministic Scaffolding for Agents",
-      "date": "2026-11-04"
-    },
-    {
-      "url": "https://theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345",
-      "title": "British Fintech Revolut Slashes Ai Coding Costs 10x by Cutting Out Claude and Going Self-hosted",
-      "date": "2026-11-04"
-    },
-    {
-      "url": "https://substack.hadley.nz/p/how-much-do-tokens-really-cost",
-      "title": "How Much Do Tokens Really Cost?",
-      "date": "2026-11-04"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/8ttrpd",
-      "title": "Scaling Git at Openai",
-      "date": "2026-11-04"
-    },
-    {
-      "url": "https://rikiyat.github.io/blog/weight-space-programming",
-      "title": "Sparks of Weight-space Programming",
-      "date": "2026-11-04"
-    },
-    {
-      "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles",
-      "title": "A Family Tree of Software Job Titles",
-      "date": "2026-11-04"
-    },
-    {
-      "url": "https://bigtechnology.com/p/openai-chatgpt-search-is-about-20",
-      "title": "Openai: Chatgpt Search is About 20% of Google's, 250 Million People Speak With Chatgpt, and Chat is Merging With Work",
-      "date": "2026-11-04"
-    },
-    {
-      "url": "https://honnibal.dev/blog/astra-read-write-misleading",
-      "title": "The 'astra Can Read and Write Weights to Improve Qwen' Post is Misleading",
-      "date": "2026-11-04"
-    },
-    {
-      "url": "https://github.com/p10node/office-engine",
-      "title": "Office Engine",
-      "date": "2026-11-04"
-    },
-    {
-      "url": "https://github.com/earendil-works/djs",
-      "title": "Djs",
-      "date": "2026-11-04"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/vor8sd",
-      "title": "Accelerating Engineering for the Physical World",
-      "date": "2026-11-04"
-    },
-    {
-      "url": "https://planetscale.com/blog/the-hidden-latency-inside-your-database",
-      "title": "The Hidden Latency Inside Your Database",
-      "date": "2026-11-04"
-    },
-    {
-      "url": "https://mackgrenfell.com/writing/saas-growth-2026",
-      "title": "The Saas Apocalypse Started in October",
-      "date": "2026-11-04"
-    },
-    {
-      "url": "https://developers.google.com/notebook/docs",
-      "title": "Gemini Notebook Api",
-      "date": "2026-11-04"
-    },
-    {
-      "url": "https://autodidacts.io/curiosity-traps",
-      "title": "Curiosity Traps",
-      "date": "2026-11-04"
-    },
-    {
-      "url": "https://primeintellect.ai/blog/auditing-public-evaluations",
-      "title": "Learnings From Auditing Public Evaluations",
-      "date": "2026-11-04"
-    },
-    {
-      "url": "https://blog.nns.ee/2026/11/02/renault-hack",
-      "title": "Jailbreaking My Car's Navigation System Just So I Can Change the Time",
-      "date": "2026-11-04"
-    },
-    {
-      "url": "https://github.com/google/three-live",
-      "title": "Three-live",
-      "date": "2026-11-04"
-    },
-    {
       "url": "https://gonzoml.substack.com/p/nobody-here-writes-code-by-hand-any",
       "title": "Nobody Here Writes Code by Hand Anymore",
       "date": "2026-11-05"
@@ -1589,6 +1479,166 @@
       "url": "https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust",
       "title": "Actual Curl Rewrites in Rust",
       "date": "2026-11-18"
+    },
+    {
+      "url": "https://jonathannen.com/codebase-is-the-harness",
+      "title": "The Codebase is the Harness",
+      "date": "2026-11-19"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/hoylwl",
+      "title": "An Update on the State of Research Acceleration at Openai",
+      "date": "2026-11-19"
+    },
+    {
+      "url": "https://slowchronicle.com/posts/llm-assisted-reverse-engineering",
+      "title": "Llm-assisted Reverse Engineering",
+      "date": "2026-11-19"
+    },
+    {
+      "url": "https://asubedi.com.np/blog/why-antigravity-eats-weekly-quota-fast",
+      "title": "Why Antigravity Eats Weekly Quota Fast - and What I Measured",
+      "date": "2026-11-19"
+    },
+    {
+      "url": "https://clemsau.com/posts/agents-are-here-to-stay-what-does-that-means-for-tech-companies",
+      "title": "Agents Are Here to Stay. How Can Companies Really Go Faster?",
+      "date": "2026-11-19"
+    },
+    {
+      "url": "https://thezvi.substack.com/p/quickly-theres-no-time",
+      "title": "Quickly, There's No Time",
+      "date": "2026-11-19"
+    },
+    {
+      "url": "https://breakingchange.blog/p/fewer-slides-more-dragons",
+      "title": "Fewer Slides, More Dragons",
+      "date": "2026-11-19"
+    },
+    {
+      "url": "https://cloud.google.com/blog/products/application-development/lessons-from-building-sashiko-an-agentic-code-review-system",
+      "title": "Sashiko: Lessons From Building an Agentic Code Review System for Linux",
+      "date": "2026-11-19"
+    },
+    {
+      "url": "https://aifoc.us/my-chrome-extensions-are-just-prompts",
+      "title": "My Chrome Extensions Are Just Prompts",
+      "date": "2026-11-19"
+    },
+    {
+      "url": "https://hyperdimensional.co/p/the-silent-consensus",
+      "title": "The Silent Consensus",
+      "date": "2026-11-19"
+    },
+    {
+      "url": "https://jacobtomlinson.dev/posts/2026/foundation-software",
+      "title": "Foundation Software",
+      "date": "2026-11-19"
+    },
+    {
+      "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long",
+      "title": "Why is Gemini 4 Carbon Taking So Long?",
+      "date": "2026-11-19"
+    },
+    {
+      "url": "https://edgee.ai/blog/posts/switching-llms-mid-conversation-is-a-ski-rental-problem",
+      "title": "Switching Llms Mid-conversation is a Ski-rental Problem",
+      "date": "2026-11-19"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/zjoc5s",
+      "title": "Inside the Codex Sandbox",
+      "date": "2026-11-19"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/nfzwxw",
+      "title": "Scarcity Migration",
+      "date": "2026-11-19"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon",
+      "title": "Gemini 4 Neon",
+      "date": "2026-11-19"
+    },
+    {
+      "url": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit",
+      "title": "We Need Smart People Who Give a Shit",
+      "date": "2026-11-19"
+    },
+    {
+      "url": "https://engineering.fb.com/2026/11/18/ml-applications/ai-agents-to-scale-ml-innovations-across-ads-ranking-models",
+      "title": "How Meta Uses Ai Agents to Scale Ml Innovations Across Ads Ranking Models",
+      "date": "2026-11-19"
+    },
+    {
+      "url": "https://piccalil.li/blog/understanding-css-random",
+      "title": "Understanding Css Random()",
+      "date": "2026-11-19"
+    },
+    {
+      "url": "https://developers.cloudflare.com/changelog/post/2026-11-17-release-candidate",
+      "title": "Cloudflare Cli 1.0 Release Candidate",
+      "date": "2026-11-19"
+    },
+    {
+      "url": "https://perplexity.ai/hub/blog/context-api-extracts-full-context-from-any-web-page",
+      "title": "Context Api Extracts Full Context From Any Web Page",
+      "date": "2026-11-19"
+    },
+    {
+      "url": "https://polypane.app/blog/polypane-32-automation-webmcp-panel-speculation-rule-insights-and-chromium-160",
+      "title": "Polypane 32",
+      "date": "2026-11-19"
+    },
+    {
+      "url": "https://testingcatalog.com/google-launches-gemini-4-neon-on-gemini-antigravity-and-apis",
+      "title": "Google Launches Gemini 4 Neon on Gemini, Antigravity, and Apis",
+      "date": "2026-11-19"
+    },
+    {
+      "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model",
+      "title": "Gemini 4 Neon Looks Like an Opus 5.5 Competitor",
+      "date": "2026-11-19"
+    },
+    {
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-extenddb-1-0",
+      "title": "Aws Announces Extenddb 1.0",
+      "date": "2026-11-19"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/ztq6lw",
+      "title": "Advancing Chip Design With Openai Models",
+      "date": "2026-11-19"
+    },
+    {
+      "url": "https://cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
+      "title": "Anthropic Ipo Raises Over $81 Billion in Largest Offering on Record, Topping Spacex",
+      "date": "2026-11-19"
+    },
+    {
+      "url": "https://unchartedterritories.tomaspueyo.com/p/hardware-is-software",
+      "title": "Hardware is Software",
+      "date": "2026-11-19"
+    },
+    {
+      "url": "https://epoch.ai/data-insights/anthropic-openai-compute-spend-growth",
+      "title": "Anthropic's Compute Spending is Increasing by 4x Per Year, Outpacing Openai's 3x",
+      "date": "2026-11-19"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-loop",
+      "title": "Introducing Stitch Loop: a New Way to Build and Evolve Products",
+      "date": "2026-11-19"
+    },
+    {
+      "url": "https://brooker.co.za/blog/2026/11/18/workload-mix.html",
+      "title": "Traffic Mix Matters",
+      "date": "2026-11-19"
+    },
+    {
+      "url": "https://wiz.io/blog/nginx-http2-rce-vulnerabilities",
+      "title": "Unauthenticated Remote Code Execution in Nginx",
+      "date": "2026-11-19"
     }
   ],
   "feedback": [
@@ -2886,6 +2936,41 @@
       "vote": "up",
       "source": "TLDR Dev",
       "date": "2026-11-17"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/k8o6qc",
+      "title": "How the Claude Code Team Thinks About Verification",
+      "vote": "up",
+      "source": "TLDR Dev",
+      "date": "2026-11-18"
+    },
+    {
+      "url": "https://naildrivin5.com/blog/2026/11/11/how-can-you-be-responsible-for-code-you-don-t-understand.html",
+      "title": "How Can You Be Responsible for Code You Don't Understand?",
+      "vote": "up",
+      "source": "TLDR Dev",
+      "date": "2026-11-18"
+    },
+    {
+      "url": "https://invertedpassion.substack.com/p/making-sense-of-recursive-self-improvement",
+      "title": "Making Sense of Recursive Self Improvement",
+      "vote": "up",
+      "source": "TLDR",
+      "date": "2026-11-18"
+    },
+    {
+      "url": "https://claude.dev/blog/chaos-loop-claude-docs-launch",
+      "title": "Using a \"chaos Loop\" to Harden the Claude Docs Launch: 60 Server Errors Across Billions of Requests",
+      "vote": "up",
+      "source": "TLDR",
+      "date": "2026-11-18"
+    },
+    {
+      "url": "https://approachwithalacrity.com/p/how-do-you-become-known-as-a-good",
+      "title": "How Do You Become Known as a Good Engineer?",
+      "vote": "up",
+      "source": "TLDR",
+      "date": "2026-11-18"
     }
   ]
 }
