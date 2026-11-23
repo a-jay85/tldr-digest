@@ -1,211 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://scrum.org/resources/blog/bottleneck-has-moved",
-      "title": "The Bottleneck Has Moved",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://tailscale.com/blog/100x-more-programmers",
-      "title": "100x More Programmers",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://thoughtworks.com/en-us/insights/blog/generative-ai/harness-is-a-product",
-      "title": "The Harness is a Product",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html?unlocked_article_code=1.ove.0w5y.yvhwxuxoa-ll&smid=url-share",
-      "title": "The Making of Dario Amodei",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://elenaverna.com/p/the-end-of-feature-discovery-as-we",
-      "title": "The End of Feature Discovery as We Know it",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://uxforai.com/p/dr-productlove-or-how-i-learned-to-stop-worrying-and-love-the-ai",
-      "title": "How I Learned to Stop Worrying and Love the Ai",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://cdevroe.com/2026/11/05/if-x-then-y",
-      "title": "If X, Then Y",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment",
-      "title": "Independent Assessment of Ai R&d Acceleration at Anthropic in October 2026",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://tabwidgets.com/blog/react-lazy-suspense-delay",
-      "title": "React.lazy, Suspense and the Hidden 300 Ms Delay",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://blog.ravi-mehta.com/p/voice-of-the-customer",
-      "title": "Voice of the Customer",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://jennywanger.com/articles/your-fancy-ai-demo-might-be-backfiring",
-      "title": "Your Fancy Ai Demo Might Be Backfiring",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/eaviiw",
-      "title": "You Can Now Build Live Apps in Cursor and Share Them With a Link",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://airbnb.tech/ai-ml/frontier-quality-at-1-of-the-cost-a-production-benchmark-of-llm-classifiers",
-      "title": "Frontier Quality at 1% of the Cost: a Production Benchmark of Llm Classifiers",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://stackoverflow.blog/2026/11/05/don-t-build-the-reusable-component-yet",
-      "title": "Don't Build the Reusable Component Yet",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://medium.productcoalition.com/theres-a-60-chance-of-rain-02cff811027c",
-      "title": "There's a 60% Chance of Rain",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://devin.ai/blog/devin-review-2",
-      "title": "Devin Review 2.0",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://seangoedecke.com/a-database-is-a-store-for-global-variables",
-      "title": "A Database is a Store for Global Variables",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://retention.blog/p/activation-metric-or-motivation-detector",
-      "title": "Activation Metric or Motivation Detector?",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://expo.dev/blog/purrkour-webgpu-typegpu-game-expo-three-days",
-      "title": "A Webgpu Cat Puzzle Game Shipped in Three Days on Expo, With an Ai Agent as the Qa Team",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://dwarkesh.com/p/clocktower",
-      "title": "The Benchmark Where Ais Have to Lie to Win",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture",
-      "title": "Inside Github's New Git Storage Architecture",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://github.com/kenkaiii/gg-framework",
-      "title": "Gg Coder",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://github.com/flyfish-dev/file-viewer",
-      "title": "File Viewer",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://theverge.com/news/1027379/discord-ditching-electron-web-app",
-      "title": "Discord is Ditching Electron and Its New App Uses Less Ram",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://developer.nvidia.com/blog/how-nvidia-uses-ai-agents-to-streamline-ai-factory-operations",
-      "title": "How Nvidia Uses Ai Agents to Streamline Ai Factory Operations",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/zbeweq",
-      "title": "Cat Wu Joins Openai",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://thinkingmachines.ai/news/inkling-2-small",
-      "title": "Introducing Inkling 2 Small",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://blog.cloudflare.com/trusted-agent-delegation",
-      "title": "Cloudflare's Trust Framework for Ai Agents",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/6phjwa",
-      "title": "How a Split Webfont Slowed Down My Text Layout, and How I Fixed it",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/ilb5lf",
-      "title": "I Wish Tech Companies Knew More About Me",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b?st=hnx9my&reflink=desktopwebshare_permalink",
-      "title": "Major Investors Are Skeptical Anthropic Ipo Can Achieve $1.5 Trillion Valuation",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://wsj.com/tech/ai/the-election-day-revolt-that-threatens-americas-ai-boom-03a53b52?st=f62maw&reflink=desktopwebshare_permalink",
-      "title": "The Election Day Revolt That Threatens America's Ai Boom",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://a16z.com/the-exploit-was-the-bottleneck",
-      "title": "The Exploit Was the Bottleneck",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/kghh6y",
-      "title": "How Openai Patched 948 Linux Vulnerabilities",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://github.com/google-deepmind/alphaevolve",
-      "title": "Alphaevolve",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://conductor.build/changelog/0.93.0-conductor-is-joining-meta",
-      "title": "Meta Acquires Ai Coding Startup Conductor",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2611.05306",
-      "title": "You Don't Need Long Context",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://huggingface.co/spaces/huggingface/moe-blogpost",
-      "title": "The Ultimate Moe Training Handbook",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://pangram.com/blog/introducing-pangram-image-1-0",
-      "title": "Introducing Pangram Image 1.0",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://cognition.com/blog/swe-2-flash",
-      "title": "Cognition Introduces Swe-2 Flash",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/7jjxod",
-      "title": "Openai to Acquire Pierre Computer Company, Inc.",
-      "date": "2026-11-06"
-    },
-    {
       "url": "https://links.tldrnewsletter.com/sus5ld",
       "title": "Your Coding Agents Made You a Manager",
       "date": "2026-11-09"
@@ -1714,6 +1509,151 @@
       "url": "https://blog.google/security/mirror-dimension-for-agents",
       "title": "Mirror Dimension for Agents: Evaluating Browser-use Agents Without the Web",
       "date": "2026-11-20"
+    },
+    {
+      "url": "https://revyl.com/blog/pattern-engineering",
+      "title": "Pattern Engineering",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://lethain.com/passing-100-prs-in-a-week",
+      "title": "Shipping 100+ Prs to Production in a Week",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://wsj.com/tech/ai/anthropic-dario-daniela-amodei-siblings-ipo-be84ad11?st=7jdmay&reflink=desktopwebshare_permalink",
+      "title": "The Brother-sister Duo Who Want to Keep Anthropic Weird",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://newsletter.chainofthought.show/p/the-state-of-agent-memory-how-it",
+      "title": "Your Ai Agent Remembers Everything. That's the Problem",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://blog.karthiktadepalli.com/p/asi-2027",
+      "title": "I Don't Expect Superintelligence in 2027",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://rameznaam.com/p/the-most-important-charts-in-ai-are",
+      "title": "The Most Important Charts in Ai Are Wrong",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://nikolasgoebel.com/2026/11/22/informal-verification.html",
+      "title": "Informal Verification",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://metr.org/blog/2026-11-20-q4-2026-capability-update",
+      "title": "Ai R&d-relevant Model Capabilities Are Improving Rapidly",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://danholloran.me/posts/streaming-llm-responses-tokens-arrive-faster-than-you-should-render-them",
+      "title": "Streaming Llm Responses Without Rendering Every Token",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "title": "A Beginner's Guide to Local Ai With Inkling, Qwen, and Unsloth",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://ankitg.me/blog/vibecoding-inference-chip",
+      "title": "Vibecoding an Inference Chip",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/gunbre",
+      "title": "Superintelligence is Arriving",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/m0lfkp",
+      "title": "It's a Plan",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://kamathhrishi.substack.com/p/i-analyzed-the-ai-stack-used-by-40000",
+      "title": "I Analyzed the Ai Stack Used by 40,000+ Companies",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/rmvr1x",
+      "title": "Anthropic Mathematician Says Ai Has Solved the Most Famous Problem in Math",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://thinkingmachines.ai/news/inkling-2-mini",
+      "title": "Inkling 2 Mini",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "title": "Introducing Harness Adapters: Adapt Your Favorite Model to Your Harness to Improve Performance and Cost",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://huggingface.co/tencent/hy4",
+      "title": "Tencent Releases Hy4 With Multimodal Input and Million-token Context",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post",
+      "title": "Assume People Are Not Interested in Your Blog Post",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://lesswrong.com/posts/corj9saddvsxti4m2/post-training-is-fundamentally-dangerous",
+      "title": "Why Post-training Could Teach Models to Evade Monitoring",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://research.nvidia.com/labs/genair/sigma",
+      "title": "Nvidia Releases Nemotron-labs-sigma Continuous Diffusion Language Models",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis",
+      "title": "What We Learned Operating Auth for 1,000+ Apis",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/umg1zq",
+      "title": "Perplexity and Intelligence",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://manassaloi.com/2026/11/21/why-china-won-ai-video.html",
+      "title": "Why China Won Ai Video",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://danielmiessler.com/blog/autonomous-media-2027",
+      "title": "Autonomous Media in 2027?",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
+      "title": "Researchers Plant 2m Canaries Into the Ai Supply Chain. a Privacy Disaster Surfaced",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis",
+      "title": "Lean Verification of the Riemann Hypothesis",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://dennisforbes.ca/blog/2026/11/reading_a_chess_board_from_a_picture",
+      "title": "Teaching a Web Page to Read a Chess Board",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://bloomberg.com/news/articles/2026-11-20/microsoft-to-pay-top-cloud-workers-more-crack-down-on-others?srnd=phx-technology",
+      "title": "Microsoft to Pay Top Cloud Workers More, Crack Down on Others",
+      "date": "2026-11-23"
     }
   ],
   "feedback": [
