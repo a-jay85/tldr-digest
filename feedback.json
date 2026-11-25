@@ -1,176 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://links.tldrnewsletter.com/dpz3wh",
-      "title": "On Being an Engineer in 2026: Are We Still Needed?",
-      "date": "2026-11-10"
-    },
-    {
-      "url": "https://jeffgothelf.com/blog/how-to-turn-1000-pull-requests-a-day-into-the-few-your-customers-need",
-      "title": "How to Turn 1000 Pull Requests a Day Into the Few Your Customers Need",
-      "date": "2026-11-10"
-    },
-    {
-      "url": "https://research.oguzbilgic.com/theses/maximum-viable-product",
-      "title": "The Mvp Was a Hack Around a Constraint That No Longer Exists",
-      "date": "2026-11-10"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/ykwxuw",
-      "title": "The New Bottleneck is Intent",
-      "date": "2026-11-10"
-    },
-    {
-      "url": "https://oneusefulthing.org/p/fable-52-and-jagged-agi",
-      "title": "Fable 5.2 and Jagged Agi",
-      "date": "2026-11-10"
-    },
-    {
-      "url": "https://dropbox.tech/machine-learning/how-aiassisted-development-helped-us-build-the-new-dropbox-experience",
-      "title": "How Ai-assisted Development Helped Us Build the New Dropbox Experience",
-      "date": "2026-11-10"
-    },
-    {
-      "url": "https://aakashg.com/how-to-talk-to-every-one-of-your-customers-with-ai",
-      "title": "How to Talk to Every One of Your Customers With Ai",
-      "date": "2026-11-10"
-    },
-    {
-      "url": "https://craft.faire.com/accelerating-product-development-in-the-ai-age-how-faire-developed-product-builders-fe70044854b5?gi=77c51f5ece11&source=rss----4af981bb79f---4",
-      "title": "Accelerating Product Development in the Ai Age: How Faire Developed Product Builders",
-      "date": "2026-11-10"
-    },
-    {
-      "url": "https://claude.dev/blog/which-claude-model-should-you-build-with",
-      "title": "Which Claude Model Should You Build With? Fable, Opus, Sonnet, or Haiku",
-      "date": "2026-11-10"
-    },
-    {
-      "url": "https://engineering.atspotify.com/2026/11/ai-product-management-at-spotify-a-view-from-three-angles",
-      "title": "Ai Product Management at Spotify: a View From Three Angles",
-      "date": "2026-11-10"
-    },
-    {
-      "url": "https://thezvi.substack.com/p/ai-r-and-d-is-accelerating-towards",
-      "title": "Ai R&d is Accelerating Towards Potential Rsi in 2027",
-      "date": "2026-11-10"
-    },
-    {
-      "url": "https://zonderlabs.com/slop",
-      "title": "Why is Ai Slop So Frustrating to Read?",
-      "date": "2026-11-10"
-    },
-    {
-      "url": "https://anthropic.com/claude-fable-and-mythos-5-2",
-      "title": "Claude Fable 5.2 and Mythos 5.2",
-      "date": "2026-11-10"
-    },
-    {
-      "url": "https://claude.dev/blog/safely-scaling-multi-agent-teams-with-fable-5-2",
-      "title": "Safely Scaling Multi-agent Teams With Claude Fable 5.2",
-      "date": "2026-11-10"
-    },
-    {
-      "url": "https://kevinkelly.substack.com/p/new-units-of-knowledge",
-      "title": "New Units of Knowledge",
-      "date": "2026-11-10"
-    },
-    {
-      "url": "https://johnnunemaker.com/dont-make-a-human-do-what-ai-is-amazing-at",
-      "title": "Don't Make a Human Do What Ai is Amazing at",
-      "date": "2026-11-10"
-    },
-    {
-      "url": "https://thomwolf.substack.com/p/the-future-of-software",
-      "title": "The Future of Software",
-      "date": "2026-11-10"
-    },
-    {
-      "url": "https://newsletter.posthog.com/p/decision-models",
-      "title": "Not Everything Needs an Llm",
-      "date": "2026-11-10"
-    },
-    {
-      "url": "https://storybook.js.org/blog/storybook-11-beta",
-      "title": "Storybook 11 Beta",
-      "date": "2026-11-10"
-    },
-    {
-      "url": "https://threadreaderapp.com/thread/2119192075505893695.html",
-      "title": "Is Opus 5.5 Nerfed?",
-      "date": "2026-11-10"
-    },
-    {
-      "url": "https://github.com/reticlehq/reticle",
-      "title": "Reticle",
-      "date": "2026-11-10"
-    },
-    {
-      "url": "https://davesresearch.com/enter-the-game",
-      "title": "Enter the Game",
-      "date": "2026-11-10"
-    },
-    {
-      "url": "https://threadreaderapp.com/thread/2119842075298656316.html",
-      "title": "Freedom Within Structure",
-      "date": "2026-11-10"
-    },
-    {
-      "url": "https://huntersoftwareconsulting.com/posts/2026-11-08-product-works-did-you-ship",
-      "title": "The Product Works, Did You Ship?",
-      "date": "2026-11-10"
-    },
-    {
-      "url": "https://alexwang.ai/posts/reasoning-as-pathfinding",
-      "title": "What Objective is Reasoning Solving?",
-      "date": "2026-11-10"
-    },
-    {
-      "url": "https://anthropic.com/research/claude-electronics-design",
-      "title": "Testing Claude on Real-world Electronics Design",
-      "date": "2026-11-10"
-    },
-    {
-      "url": "https://forethought.org/research/two-kinds-of-test-time-scaling",
-      "title": "Two Kinds of Test-time Scaling",
-      "date": "2026-11-10"
-    },
-    {
-      "url": "https://towardsdatascience.com/how-to-prioritize-product-feedback-by-revenue-at-risk",
-      "title": "Prioritize Product Feedback by Revenue at Risk",
-      "date": "2026-11-10"
-    },
-    {
-      "url": "https://github.com/lochie/skullet",
-      "title": "Skullet",
-      "date": "2026-11-10"
-    },
-    {
-      "url": "https://research.meta.ai/blog/muse-ember",
-      "title": "Introducing Meta Ember",
-      "date": "2026-11-10"
-    },
-    {
-      "url": "https://github.com/expo/exact",
-      "title": "Exact",
-      "date": "2026-11-10"
-    },
-    {
-      "url": "https://ryanhoover.me/post/how-product-hunt-almost-died",
-      "title": "How Product Hunt Almost Died",
-      "date": "2026-11-10"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/zm8i7b",
-      "title": "Will Anthropic Grow Into Its Compute Bill?",
-      "date": "2026-11-10"
-    },
-    {
-      "url": "https://mbi-deepdives.com/ant-vs-meta",
-      "title": "Anthropic vs Meta: Room to Be Wrong",
-      "date": "2026-11-10"
-    },
-    {
       "url": "https://blog.aifutures.org/p/q35-timelines-update-looks-like-the",
       "title": "Q3.5 Timelines Update: Looks Like the Intelligence Explosion Will Happen in 2027 After All",
       "date": "2026-11-11"
@@ -1614,6 +1444,161 @@
       "url": "https://toddhenry.com/leading/herding-tigers-how-to-lead-creative-people",
       "title": "Herding Tigers: How to Lead Creative People Without Losing Their Brilliance",
       "date": "2026-11-24"
+    },
+    {
+      "url": "https://blog.frankrousseau.fr/agentic-coding-on-an-open-source-project",
+      "title": "Agentic Coding on an Open-source Project",
+      "date": "2026-11-25"
+    },
+    {
+      "url": "https://veszelovszki.com/a/tpe",
+      "title": "I'm a 100x Engineer Now \ud83c\udf44",
+      "date": "2026-11-25"
+    },
+    {
+      "url": "https://colossus.com/article/bret-taylor-founder-guy",
+      "title": "Tinker Taylor Founder Guy",
+      "date": "2026-11-25"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/poydec",
+      "title": "I Reverse-engineered Grok Bot, Muse, and Instinct",
+      "date": "2026-11-25"
+    },
+    {
+      "url": "https://builder.io/blog/reverse-engineer-website",
+      "title": "How to Reverse Engineer a Website With Ai",
+      "date": "2026-11-25"
+    },
+    {
+      "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you",
+      "title": "Llm Agents Work for Their Parent Companies, Not for You",
+      "date": "2026-11-25"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/wb4jtr",
+      "title": "Ai Questions",
+      "date": "2026-11-25"
+    },
+    {
+      "url": "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more",
+      "title": "Mcp Servers Can Now Ship Skills, Run Tasks, and More With Claude",
+      "date": "2026-11-25"
+    },
+    {
+      "url": "https://paradigm3.org/research/swarms",
+      "title": "Swarms Do Not Yet Raise the Roof",
+      "date": "2026-11-25"
+    },
+    {
+      "url": "https://sigh.dev/posts/vibecoding-faster-react-tests",
+      "title": "React Testing Library is Faster When It's Part of the Dom",
+      "date": "2026-11-25"
+    },
+    {
+      "url": "https://bencodezen.io/blog/why-i-switched-to-vite-plus",
+      "title": "Why I Switched to Vite+",
+      "date": "2026-11-25"
+    },
+    {
+      "url": "https://fzakaria.com/2026/11/23/2035-came-early",
+      "title": "2035 Came Early",
+      "date": "2026-11-25"
+    },
+    {
+      "url": "https://claude.com/resources/articles/install-as-app",
+      "title": "Claude Artifacts Become Mac and Windows Apps",
+      "date": "2026-11-25"
+    },
+    {
+      "url": "https://polypane.app/blog/getting-started-with-webmcp-building-and-testing-tools",
+      "title": "Getting Started With Webmcp",
+      "date": "2026-11-25"
+    },
+    {
+      "url": "https://paddo.dev/blog/three-streams",
+      "title": "Make it Work, Make it Right, Make it Land",
+      "date": "2026-11-25"
+    },
+    {
+      "url": "https://wsj.com/tech/ai/riemann-hypothesis-anthropic-math-levent-alpoge-75351bcb?st=o1qgtt&reflink=desktopwebshare_permalink",
+      "title": "The Most Famous Problem in Math Was Just Solved by Ai\u2014and This Human",
+      "date": "2026-11-25"
+    },
+    {
+      "url": "https://zhenyi.gibber.blog/building-software-for-modern-users",
+      "title": "Building Software for Modern Users",
+      "date": "2026-11-25"
+    },
+    {
+      "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input",
+      "title": "Amazon Says Hackers' Ai Agents Found and Exploited 0-day With Little Human Input",
+      "date": "2026-11-25"
+    },
+    {
+      "url": "https://github.com/ocavue/astrobook",
+      "title": "Astrobook",
+      "date": "2026-11-25"
+    },
+    {
+      "url": "https://scottaaronson.blog?p=10362",
+      "title": "I've Been Drinking Wine in My Kitchen",
+      "date": "2026-11-25"
+    },
+    {
+      "url": "https://three.dev/blog/how-the-memory-for-a-million-tokens-shrank",
+      "title": "How the Memory for a Million Tokens Shrank 150,000 Times",
+      "date": "2026-11-25"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/2djtly",
+      "title": "Management Consulting is Not a Thin Wrapper on Intelligence",
+      "date": "2026-11-25"
+    },
+    {
+      "url": "https://cognition.com/blog/swe-2-1",
+      "title": "Cognition's Swe-2.1",
+      "date": "2026-11-25"
+    },
+    {
+      "url": "https://testingcatalog.com/google-adds-task-checklists-to-antigravity-and-carbon-for-pro",
+      "title": "Google Adds Task Checklists to Antigravity",
+      "date": "2026-11-25"
+    },
+    {
+      "url": "https://ladybird.org/posts/alpha",
+      "title": "Ladybird is Now in Alpha",
+      "date": "2026-11-25"
+    },
+    {
+      "url": "https://blog.kizu.dev/lh-is-not-the-actual-line-height",
+      "title": "The Css Lh Unit and Actual Line Height",
+      "date": "2026-11-25"
+    },
+    {
+      "url": "https://allthingsdistributed.com/2026/11/tech-predictions-for-2027-and-beyond.html",
+      "title": "Tech Predictions for 2027 and Beyond",
+      "date": "2026-11-25"
+    },
+    {
+      "url": "https://prismml.com/news/bonsai-2-5-27b",
+      "title": "Introducing Ternary Bonsai 2.5 27b: Powering Agentic Coding and Private Knowledge Work",
+      "date": "2026-11-25"
+    },
+    {
+      "url": "https://testingcatalog.com/openai-prepares-dedicated-email-inboxes-for-chatgpt-dots",
+      "title": "Openai Prepares Dedicated Email Inboxes for Chatgpt Dots",
+      "date": "2026-11-25"
+    },
+    {
+      "url": "https://bloomberg.com/news/articles/2026-11-24/xai-founders-unveil-new-ai-startup-to-predict-future-events?accesstoken=eyjhbgcioijiuzi1niisinr5cci6ikpxvcj9.eyjzb3vyy2uioijtdwjzy3jpymvyr2lmdgvkqxj0awnszsisimlhdci6mtc5ntu5mtyymcwizxhwijoxnzk2mtk2ndiwlcjhcnrpy2xlswqioijut1jxruflsznowuqwmcisimjjb25uzwn0swqioijboeexrdhfqti5otc0otrgqtq1que2rejbmjawntm3msj9.-sqwf6c1bvamk1za2lkjm-srlgailnvetgctvrn6oce",
+      "title": "Xai Founders Unveil New Ai Startup to Predict Future Events",
+      "date": "2026-11-25"
+    },
+    {
+      "url": "https://simonwillison.net/2026/nov/24/astra-historical-mystery",
+      "title": "Gpt 6.2 Astra Solves a Historical Mystery",
+      "date": "2026-11-25"
     }
   ],
   "feedback": [
@@ -2953,6 +2938,34 @@
       "vote": "up",
       "source": "TLDR",
       "date": "2026-11-19"
+    },
+    {
+      "url": "https://revyl.com/blog/pattern-engineering",
+      "title": "Pattern Engineering",
+      "vote": "up",
+      "source": "TLDR Dev",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://wsj.com/tech/ai/anthropic-dario-daniela-amodei-siblings-ipo-be84ad11?st=7jdmay&reflink=desktopwebshare_permalink",
+      "title": "The Brother-sister Duo Who Want to Keep Anthropic Weird",
+      "vote": "up",
+      "source": "TLDR AI",
+      "date": "2026-11-24"
+    },
+    {
+      "url": "https://newsletter.chainofthought.show/p/the-state-of-agent-memory-how-it",
+      "title": "Your Ai Agent Remembers Everything. That's the Problem",
+      "vote": "up",
+      "source": "TLDR Dev",
+      "date": "2026-11-24"
+    },
+    {
+      "url": "https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post",
+      "title": "Assume People Are Not Interested in Your Blog Post",
+      "vote": "up",
+      "source": "TLDR Dev",
+      "date": "2026-11-24"
     }
   ]
 }
