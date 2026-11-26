@@ -1,136 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://blog.aifutures.org/p/q35-timelines-update-looks-like-the",
-      "title": "Q3.5 Timelines Update: Looks Like the Intelligence Explosion Will Happen in 2027 After All",
-      "date": "2026-11-11"
-    },
-    {
-      "url": "https://read.engineerscodex.com/p/the-codebase-rewrite-is-back",
-      "title": "The Codebase Rewrite is Back",
-      "date": "2026-11-11"
-    },
-    {
-      "url": "https://threadreaderapp.com/thread/2120209025099043286.html",
-      "title": "Swarm Riders and Swarm-native Companies",
-      "date": "2026-11-11"
-    },
-    {
-      "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase",
-      "title": "Ai Usage Generates a Fragile Codebase",
-      "date": "2026-11-11"
-    },
-    {
-      "url": "https://generalintelligencecompany.com/writing/the-era-of-fully-autonomous-companies",
-      "title": "The Era of Fully Autonomous Companies",
-      "date": "2026-11-11"
-    },
-    {
-      "url": "https://antigravity.google/docs/swarm",
-      "title": "Swarm (/swarm)",
-      "date": "2026-11-11"
-    },
-    {
-      "url": "https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html",
-      "title": "Life on Claude Nine",
-      "date": "2026-11-11"
-    },
-    {
-      "url": "https://developer.chrome.com/blog/modern-web-guidance-v1",
-      "title": "Modern Web Guidance 1.0",
-      "date": "2026-11-11"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/jlgapb",
-      "title": "Mcp or Cli? Yes",
-      "date": "2026-11-11"
-    },
-    {
-      "url": "https://claude.com/resources/articles/more-ways-to-work-with-claude-sheets-whiteboards-and-interactive-connectors",
-      "title": "Working With Claude Sheets, Whiteboards, and Interactive Connectors",
-      "date": "2026-11-11"
-    },
-    {
-      "url": "https://seangoedecke.com/glue-work-is-still-harmful-in-the-age-of-ai",
-      "title": "Glue Work is Still Harmful in the Age of Ai",
-      "date": "2026-11-11"
-    },
-    {
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available",
-      "title": "Gemini 4 Carbon is Now Available",
-      "date": "2026-11-11"
-    },
-    {
-      "url": "https://carta.com/blog/microapp-architecture-tradeoffs",
-      "title": "Building a Microapp Inside a Plugin: Architecture and Tradeoffs",
-      "date": "2026-11-11"
-    },
-    {
-      "url": "https://github.com/paulirish/chrome-capture",
-      "title": "Chrome-capture",
-      "date": "2026-11-11"
-    },
-    {
-      "url": "https://github.com/ranxianglei/billion-context",
-      "title": "Billion-context",
-      "date": "2026-11-11"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/ujset6",
-      "title": "Why Instinct Feels Like a Personal Assistant",
-      "date": "2026-11-11"
-    },
-    {
-      "url": "https://github.com/facebookresearch/faiss/tree/main/contrib/e_means",
-      "title": "Meta Releases Faster K-means Alternative",
-      "date": "2026-11-11"
-    },
-    {
-      "url": "https://blog.claroc.io/ghostshares-grok-build-apps",
-      "title": "More Than 35,000 Grok-built Apps Were Open to Anyone With the Link, Including Spacexsi's Own",
-      "date": "2026-11-11"
-    },
-    {
-      "url": "https://pytorch.org/blog/executorch-webgpu-pytorch-models-on-the-gpu-in-the-browser",
-      "title": "Executorch Webgpu: Pytorch Models on the Gpu, in the Browser",
-      "date": "2026-11-11"
-    },
-    {
-      "url": "https://pietromiotti.com/latest/maya-site",
-      "title": "My Ai Agents Found an Unmapped Maya Site",
-      "date": "2026-11-11"
-    },
-    {
-      "url": "https://github.com/mintlify/agent-traffic",
-      "title": "Agent-traffic",
-      "date": "2026-11-11"
-    },
-    {
-      "url": "https://anthropic.com/news/roadshow-launch",
-      "title": "Anthropic's Ipo Roadshow",
-      "date": "2026-11-11"
-    },
-    {
-      "url": "https://goodfire.com/research/neurons-as-an-interpretable-basis",
-      "title": "Neurons as an Interpretable Basis",
-      "date": "2026-11-11"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/fvvvl5",
-      "title": "Suppressing Reward Hacking Through Model Weight Arithmetic",
-      "date": "2026-11-11"
-    },
-    {
-      "url": "https://macrumors.com/2026/11/10/apple-claris-harbor-app",
-      "title": "Apple's Claris Testing 'harbor' App for Local Ai on Macs",
-      "date": "2026-11-11"
-    },
-    {
-      "url": "https://wsj.com/finance/stocks/anthropic-ipo-valuation-8337b669?st=ttkkwn&reflink=desktopwebshare_permalink",
-      "title": "Anthropic to Seek $1.3 Trillion Valuation in Ipo",
-      "date": "2026-11-11"
-    },
-    {
       "url": "https://openrouter.ai/blog/insights/mcp-vs-cli-vs-skills",
       "title": "Mcp vs Cli vs Skills: What Each Costs in Context",
       "date": "2026-11-12"
@@ -1599,6 +1469,166 @@
       "url": "https://simonwillison.net/2026/nov/24/astra-historical-mystery",
       "title": "Gpt 6.2 Astra Solves a Historical Mystery",
       "date": "2026-11-25"
+    },
+    {
+      "url": "https://philschmid.de/gemini-4-neon-context-engineering",
+      "title": "How My Context Engineering Changed for Gemini 4 Neon",
+      "date": "2026-11-26"
+    },
+    {
+      "url": "https://benjamincongdon.me/blog/2026/11/25/late-mid-game-software-engineering",
+      "title": "Late Mid-game Software Engineering",
+      "date": "2026-11-26"
+    },
+    {
+      "url": "https://iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools",
+      "title": "Smart People Who Give a Shit Use Tools",
+      "date": "2026-11-26"
+    },
+    {
+      "url": "https://brycewatson.com/research/rauch-software-factory",
+      "title": "Guillermo Rauch's Software Factory and the Agent Internet",
+      "date": "2026-11-26"
+    },
+    {
+      "url": "https://flaviocopes.com/antigravity-swarm",
+      "title": "Trying /swarm in Google Antigravity",
+      "date": "2026-11-26"
+    },
+    {
+      "url": "https://huggingface.co/spaces/huggingfaceswarms/scaling-swarms",
+      "title": "Scaling Swarms to Thousands of Agents",
+      "date": "2026-11-26"
+    },
+    {
+      "url": "https://anthropic.com/research/migrating-api-to-rust",
+      "title": "Migrating Our Messages Api to Rust",
+      "date": "2026-11-26"
+    },
+    {
+      "url": "https://newsletter.forethought.org/p/paths-extreme-power-concentration",
+      "title": "Paths to Extreme Power Concentration",
+      "date": "2026-11-26"
+    },
+    {
+      "url": "https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders",
+      "title": "The Short Age of Dragon Riders",
+      "date": "2026-11-26"
+    },
+    {
+      "url": "https://martinalderson.com/posts/has-jevons-paradox-broken-down",
+      "title": "Has Jevons Paradox Broken Down?",
+      "date": "2026-11-26"
+    },
+    {
+      "url": "https://mhdempsey.substack.com/p/the-business-of-anthropic",
+      "title": "The Business of Anthropic",
+      "date": "2026-11-26"
+    },
+    {
+      "url": "https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available",
+      "title": "Fable 5.2 Tries Less on Some Hard Tasks",
+      "date": "2026-11-26"
+    },
+    {
+      "url": "https://safeguards.anthropic.com/2026/siren",
+      "title": "Measuring and Mitigating Agent Sandbox Escape With Siren",
+      "date": "2026-11-26"
+    },
+    {
+      "url": "https://charlesponeill.com/posts/a-weekend-of-machine-mathematics",
+      "title": "A Weekend of Machine Mathematics",
+      "date": "2026-11-26"
+    },
+    {
+      "url": "https://seangoedecke.com/party-tricks",
+      "title": "Crushing Jira Tickets is a Party Trick, Not a Path to Impact",
+      "date": "2026-11-26"
+    },
+    {
+      "url": "https://testingcatalog.com/testers-share-early-results-possible-claude-opus-5-6",
+      "title": "Early Outputs: Anthropic is A/b Testing Claude Opus 5.6",
+      "date": "2026-11-26"
+    },
+    {
+      "url": "https://rybindmitry.github.io/blogs/gpt-6-2-astra-is-superhuman-in-mathematical-optimization.html",
+      "title": "Gpt 6.2 Astra is Superhuman in Mathematical Optimization",
+      "date": "2026-11-26"
+    },
+    {
+      "url": "https://patrickbrosset.com/articles/2026-11-25-the-beauty-of-css-mixins",
+      "title": "The Beauty of Css Mixins",
+      "date": "2026-11-26"
+    },
+    {
+      "url": "https://seangoedecke.com/when-in-doubt-flail-about",
+      "title": "When in Doubt, Flail About",
+      "date": "2026-11-26"
+    },
+    {
+      "url": "https://blog.cloudflare.com/search-for-agents",
+      "title": "Introducing Search for Agents",
+      "date": "2026-11-26"
+    },
+    {
+      "url": "https://scottaaronson.blog?p=10379",
+      "title": "Holy Shit Holy Shit Holy Shit Holy Shit",
+      "date": "2026-11-26"
+    },
+    {
+      "url": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium",
+      "title": "Ladybird Browser's First Downloadable Alpha is Surprisingly Capable",
+      "date": "2026-11-26"
+    },
+    {
+      "url": "https://perplexity.ai/hub/blog/freeze-the-web-with-perplexity-time-machine",
+      "title": "Perplexity Time Machine",
+      "date": "2026-11-26"
+    },
+    {
+      "url": "https://useautumn.com/blog/moving-credit-deductions-off-redis-and-onto-kafka",
+      "title": "We Got Rid of Redis and Made Our Api 4x Faster",
+      "date": "2026-11-26"
+    },
+    {
+      "url": "https://github.com/tianma-if/edgeever",
+      "title": "Edgeever",
+      "date": "2026-11-26"
+    },
+    {
+      "url": "https://modaic.dev/blog/latency-doesnt-lie",
+      "title": "Latency Doesn't Lie: Jev is (probably) Qwen3.5-35b-a3b!",
+      "date": "2026-11-26"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/wsrzkw",
+      "title": "Speculative Encoding: Many-to-many Cache Translation",
+      "date": "2026-11-26"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/wzwowy",
+      "title": "Openai Begins Testing Private Inference",
+      "date": "2026-11-26"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/ne6aq7",
+      "title": "Frontierphysics Shows Wide Gaps Across Physics Fields",
+      "date": "2026-11-26"
+    },
+    {
+      "url": "https://huggingface.co/spaces/dlouapre/looped-transformers",
+      "title": "Looped Transformers: Thinking Twice With the Same Weights",
+      "date": "2026-11-26"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/ulq5jl",
+      "title": "Fireworks Ai is Bringing an Ultra-fast Version of Kimi K3.1 Pro",
+      "date": "2026-11-26"
+    },
+    {
+      "url": "https://vitalik.eth.limo/general/2026/11/26/a_shallow_dive_into_open-source_chip_design.html",
+      "title": "A Shallow Dive Into Open-source Chip Design",
+      "date": "2026-11-26"
     }
   ],
   "feedback": [
@@ -2966,6 +2996,13 @@
       "vote": "up",
       "source": "TLDR Dev",
       "date": "2026-11-24"
+    },
+    {
+      "url": "https://veszelovszki.com/a/tpe",
+      "title": "I'm a 100x Engineer Now \ud83c\udf44",
+      "vote": "up",
+      "source": "TLDR Dev",
+      "date": "2026-11-25"
     }
   ]
 }
