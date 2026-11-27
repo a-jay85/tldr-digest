@@ -1,151 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://openrouter.ai/blog/insights/mcp-vs-cli-vs-skills",
-      "title": "Mcp vs Cli vs Skills: What Each Costs in Context",
-      "date": "2026-11-12"
-    },
-    {
-      "url": "https://allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html",
-      "title": "Aws Emulator and the Engineer's Job When Agents Write the Code",
-      "date": "2026-11-12"
-    },
-    {
-      "url": "https://zachwills.net/levels-of-agentic-engineering",
-      "title": "The Levels of Agentic Engineering",
-      "date": "2026-11-12"
-    },
-    {
-      "url": "https://jasonwei.net/blog/the-fall-of-what-you-can-do-and-the-rise-of-who-you-know",
-      "title": "Why Connections Matter More in Ai",
-      "date": "2026-11-12"
-    },
-    {
-      "url": "https://nikvdp.com/notes/subagents-considered-harmful",
-      "title": "Subagents Considered Harmful?",
-      "date": "2026-11-12"
-    },
-    {
-      "url": "https://commandlinesystems.com/magic.txt",
-      "title": "Emacs in the Age of Magic",
-      "date": "2026-11-12"
-    },
-    {
-      "url": "https://writingruxandrabio.com/p/handing-over-humanity",
-      "title": "Handing Over Humanity",
-      "date": "2026-11-12"
-    },
-    {
-      "url": "https://wsj.com/tech/ai/companies-dole-out-mega-paydays-and-luxury-trips-to-compete-for-ai-talent-3b3a7792?st=s1fldz&reflink=desktopwebshare_permalink",
-      "title": "Companies Dole Out Mega Paydays and Luxury Trips to Compete for Ai Talent",
-      "date": "2026-11-12"
-    },
-    {
-      "url": "https://notboring.co/p/of-miracles-and-moats",
-      "title": "Of Miracles and Moats",
-      "date": "2026-11-12"
-    },
-    {
-      "url": "https://links.tldrnewsletter.com/sbdtuz",
-      "title": "How We Cut Next.js Memory From ~5gb to ~1gb: the React-query Timer Holding Every Ssr Request",
-      "date": "2026-11-12"
-    },
-    {
-      "url": "https://langchain.com/blog/what-is-eval-driven-development",
-      "title": "What is Eval-driven Development? How to Improve Ai Agents",
-      "date": "2026-11-12"
-    },
-    {
-      "url": "https://github.com/shadcn/improve",
-      "title": "Improve",
-      "date": "2026-11-12"
-    },
-    {
-      "url": "https://ghuntley.com/answer",
-      "title": "The Answer to Ai is Engineering",
-      "date": "2026-11-12"
-    },
-    {
-      "url": "https://github.com/aws/aws-emulator",
-      "title": "Aws Emulator",
-      "date": "2026-11-12"
-    },
-    {
-      "url": "https://a16z.news/p/welcome-to-the-b2a-economy",
-      "title": "Welcome to the B2a Economy",
-      "date": "2026-11-12"
-    },
-    {
-      "url": "https://rutgerbregman.substack.com/p/yes-you-should-panic-about-ai",
-      "title": "Yes, You Should Panic About Ai",
-      "date": "2026-11-12"
-    },
-    {
-      "url": "https://dropbox.tech/machine-learning/how-two-engineer-side-projects-became-the-agent-taking-action-inside-dropbox",
-      "title": "How Two Engineer Side Projects Became the Agent Taking Action Inside Dropbox",
-      "date": "2026-11-12"
-    },
-    {
-      "url": "https://hugovk.dev/blog/2026/lock-github-actions",
-      "title": "Lock Your Github Actions",
-      "date": "2026-11-12"
-    },
-    {
-      "url": "https://blog.gaborkoos.com/posts/2026-11-12-your-js-error-is-lying-to-you",
-      "title": "Your Js Error is Lying to You",
-      "date": "2026-11-12"
-    },
-    {
-      "url": "https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences",
-      "title": "A2ui 1.0: Build Delightful, Fast, Reliable, Agentic Experiences",
-      "date": "2026-11-12"
-    },
-    {
-      "url": "https://blog.kizu.dev/partial-html-includes",
-      "title": "My Html Wishlist: Partial Html Includes",
-      "date": "2026-11-12"
-    },
-    {
-      "url": "https://github.com/openai/mcp-extensions",
-      "title": "Openai Open-sources Mcp Extensions for Chatgpt-native Plugins",
-      "date": "2026-11-12"
-    },
-    {
-      "url": "https://tomtunguz.com/who-captures-the-most-margin-in-ai",
-      "title": "Who Captures the Most Margin in Ai?",
-      "date": "2026-11-12"
-    },
-    {
-      "url": "https://flaviocopes.com/grok-bot-1-0",
-      "title": "What's New in Grok Bot 1.0",
-      "date": "2026-11-12"
-    },
-    {
-      "url": "https://perplexity.ai/hub/blog/escaping-space-part-ii",
-      "title": "Escaping Space: Part Ii",
-      "date": "2026-11-12"
-    },
-    {
-      "url": "https://threadreaderapp.com/thread/2120556423474028576.html",
-      "title": "Browser Use Has Been Rolling Out in Antigravity",
-      "date": "2026-11-12"
-    },
-    {
-      "url": "https://lesswrong.com/posts/ehkwcdamhwpawezim/llms-can-learn-some-multi-step-reasoning-on-filler-tokens-2",
-      "title": "Llms Can Learn Some Multi-step Reasoning on Filler Tokens Instead of Visible Cot",
-      "date": "2026-11-12"
-    },
-    {
-      "url": "https://joost.blog/agents-sharing-user-signals",
-      "title": "Openai Wants Agents to Tell Websites Where You Are",
-      "date": "2026-11-12"
-    },
-    {
-      "url": "https://customerexperiencedive.com/news/airbnb-reduces-customer-support-cost-per-booking-17/874307",
-      "title": "Airbnb's Ai Assistant Cut Support Cost Per Booking 17%",
-      "date": "2026-11-12"
-    },
-    {
       "url": "https://gabeorlanski.github.io/posts/slop-moves-up",
       "title": "Slop is Moving up the Stack",
       "date": "2026-11-13"
@@ -1629,6 +1484,191 @@
       "url": "https://vitalik.eth.limo/general/2026/11/26/a_shallow_dive_into_open-source_chip_design.html",
       "title": "A Shallow Dive Into Open-source Chip Design",
       "date": "2026-11-26"
+    },
+    {
+      "url": "https://jurajb.dev/main-session-manager",
+      "title": "My Main Claude Code Session Writes Almost No Code",
+      "date": "2026-11-27"
+    },
+    {
+      "url": "https://kalzumeus.com/2026/11/25/multiagent-coding-is-the-future",
+      "title": "Multiagent Coding is the Future",
+      "date": "2026-11-27"
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2125913331915784509.html",
+      "title": "There Are Six Layers to a Working Agentic System",
+      "date": "2026-11-27"
+    },
+    {
+      "url": "https://falkster.com/blog/evals-for-product-managers",
+      "title": "Evals for Product Managers: Write the Bar, Then the Product",
+      "date": "2026-11-27"
+    },
+    {
+      "url": "https://mikefisher.substack.com/p/jammed-typewriters",
+      "title": "Jammed Typewriters",
+      "date": "2026-11-27"
+    },
+    {
+      "url": "https://kevinak.se/blog/3602153a-3f9c-4ce0-8a4b-fc8e0abceb4f",
+      "title": "Why is Every Agent Orchestrator the Exact Same App?",
+      "date": "2026-11-27"
+    },
+    {
+      "url": "https://jiaxin-wen.github.io/blog/bullish-on-human-intelligence.html",
+      "title": "Bullish on Human Intelligence",
+      "date": "2026-11-27"
+    },
+    {
+      "url": "https://cesarsotovalero.net/blog/your-model-is-a-dependency.html",
+      "title": "Your Model is a Dependency",
+      "date": "2026-11-27"
+    },
+    {
+      "url": "https://voiceinthemachine.com/2026/11/26/the-ai-illusion",
+      "title": "The Ai Illusion",
+      "date": "2026-11-27"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/iyjge6",
+      "title": "Using Peers' Work to Gain Unauthorized Access to Openai Research Infrastructure",
+      "date": "2026-11-27"
+    },
+    {
+      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "title": "Ai Made Self-hosting Fun Again",
+      "date": "2026-11-27"
+    },
+    {
+      "url": "https://asya.ai/blog/the-state-of-llm-costs-and-capabilities",
+      "title": "The State of Llm: Costs and Capabilities",
+      "date": "2026-11-27"
+    },
+    {
+      "url": "https://hfsresearch.com/research/blast-open-the-bottleneck-ai-production",
+      "title": "Blast Open the Bottleneck Between Your Ai Ideas and Production",
+      "date": "2026-11-27"
+    },
+    {
+      "url": "https://andrewtrask.substack.com/p/measuring-rsi",
+      "title": "Measuring Rsi",
+      "date": "2026-11-27"
+    },
+    {
+      "url": "https://philschmid.de/mcp-2027",
+      "title": "Why I'm Bullish on Mcp for 2027",
+      "date": "2026-11-27"
+    },
+    {
+      "url": "https://github.com/awslabs/cli-agent-orchestrator",
+      "title": "Cli Agent Orchestrator",
+      "date": "2026-11-27"
+    },
+    {
+      "url": "https://openrouter.ai/blog/insights/is-jevons-paradox-holding",
+      "title": "Is Jevons Paradox Holding?",
+      "date": "2026-11-27"
+    },
+    {
+      "url": "https://blog.alexmiller.net/posts/who-owns-your-account",
+      "title": "Who Owns Your Account",
+      "date": "2026-11-27"
+    },
+    {
+      "url": "https://micjm.com/blog/openai-is-in-cost-control-mode",
+      "title": "Openai May Be in Cost Control Mode",
+      "date": "2026-11-27"
+    },
+    {
+      "url": "https://vite.dev/blog/announcing-vite8-4",
+      "title": "Vite 8.4 is Out!",
+      "date": "2026-11-27"
+    },
+    {
+      "url": "https://ilyabirman.net/meanwhile/all/interfaces-in-the-age-of-ai",
+      "title": "Interfaces in the Age of Ai",
+      "date": "2026-11-27"
+    },
+    {
+      "url": "https://newsletter.posthog.com/p/user-interviews",
+      "title": "Stop Asking Users What They Want",
+      "date": "2026-11-27"
+    },
+    {
+      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp",
+      "title": "Google Will Make Ai Agents Use Its Workspace Mcp Servers. the Gmail One Can't Send Email",
+      "date": "2026-11-27"
+    },
+    {
+      "url": "https://marcrandolph.substack.com/p/love-is-not-a-business-model",
+      "title": "Love is Not a Business Model",
+      "date": "2026-11-27"
+    },
+    {
+      "url": "https://amit.prasad.me/blog/ambiguous-errors",
+      "title": "Ambiguous Errors Are the Mind Killer",
+      "date": "2026-11-27"
+    },
+    {
+      "url": "https://evalcode.com/handbook/scoping",
+      "title": "From Problem to Feature: Scoping Work",
+      "date": "2026-11-27"
+    },
+    {
+      "url": "https://amycmitchell.substack.com/p/writing-about-product-management",
+      "title": "What Changed This Year",
+      "date": "2026-11-27"
+    },
+    {
+      "url": "https://newsletter.forethought.org/p/do-scale-dependent-algorithms-cut-against-a-software-intelligence-explosion",
+      "title": "Do Scale-dependent Algorithms Cut Against a Software Intelligence Explosion?",
+      "date": "2026-11-27"
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2125945305958904126.html",
+      "title": "The Best Products Start With Awkward Customer Behavior",
+      "date": "2026-11-27"
+    },
+    {
+      "url": "https://testingcatalog.com/anthropic-prepares-google-drive-file-browser-for-claude",
+      "title": "Anthropic Prepares Google Drive File Browser for Claude",
+      "date": "2026-11-27"
+    },
+    {
+      "url": "https://scrum.org/resources/blog/customer-representative-difference-between-hobby-product-and-something-others-might-use",
+      "title": "The Difference Between a Hobby Product and Something Others Might Use?",
+      "date": "2026-11-27"
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/q1bhgf",
+      "title": "Thariq Shihipar Has Joined Openai",
+      "date": "2026-11-27"
+    },
+    {
+      "url": "https://shiweiliuiiiiiii.github.io/blog/2026/from-model-compression-to-looped-transformers",
+      "title": "From Model Compression to Looped Transformers",
+      "date": "2026-11-27"
+    },
+    {
+      "url": "https://nirmalyakajuri.substack.com/p/its-so-over-for-quantum-gravity",
+      "title": "It's So Over for Quantum Gravity?",
+      "date": "2026-11-27"
+    },
+    {
+      "url": "https://hazyresearch.stanford.edu/blog/2026-11-25-platos-key",
+      "title": "Plato's Key",
+      "date": "2026-11-27"
+    },
+    {
+      "url": "https://nebius.com/blog/posts/layerstream-moe-fine-tuning",
+      "title": "Layerstream: Faster Moe Fine-tuning on Fewer or Cheaper Gpus",
+      "date": "2026-11-27"
+    },
+    {
+      "url": "https://testingcatalog.com/nous-research-readies-hermes-desktop-redesign-for-next-week",
+      "title": "Nous Research Readies Hermes Desktop Redesign for Next Week",
+      "date": "2026-11-27"
     }
   ],
   "feedback": [
